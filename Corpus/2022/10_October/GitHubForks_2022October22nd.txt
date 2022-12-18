@@ -1,0 +1,42 @@
+@seanpm2001
+https://github.com/seanpm2001/kotlin-relocation-test -> https://github.com/seanpm2001/Gradle_Kotlin-Relocation-Test
+https://github.com/seanpm2001/android-relocation-test -> https://github.com/seanpm2001/Gradle_Android-Relocation-Test
+https://github.com/seanpm2001/native-samples -> https://github.com/seanpm2001/Gradle_Native-Samples
+https://github.com/seanpm2001/gcc2speedscope -> https://github.com/seanpm2001/Gradle_GCC2SpeedScope
+https://github.com/seanpm2001/plugin-portal-requests -> https://github.com/seanpm2001/Gradle_Plugin-Portal-Requests
+https://github.com/seanpm2001/gradle-groovy-all -> https://github.com/seanpm2001/Gradle_Gradle-Groovy-All
+https://github.com/seanpm2001/perf-native-large -> https://github.com/seanpm2001/Gradle_Perf-Native-Large
+https://github.com/seanpm2001/troubleshooting-with-scans -> https://github.com/seanpm2001/Gradle_Troubleshooting-With-Scans
+https://github.com/seanpm2001/kotlin-dsl-samples -> https://github.com/seanpm2001/Gradle_Kotlin-DSL-Samples
+https://github.com/seanpm2001/bazel-comparison -> https://github.com/seanpm2001/Gradle_Bazel-Comparison
+https://github.com/seanpm2001/gradle-performance -> https://github.com/seanpm2001/Gradle_Gradle-Performance
+https://github.com/seanpm2001/gradle-profiler-plugin -> https://github.com/seanpm2001/Gradle_Gradle-Profiler-Plugin
+https://github.com/seanpm2001/gradle2kts -> https://github.com/seanpm2001/Gradle_Gradle2KTS
+https://github.com/seanpm2001/greeting-plugin-example -> https://github.com/seanpm2001/Gradle_Greeting-Plugin-Example
+https://github.com/seanpm2001/gradle-java-modules -> https://github.com/seanpm2001/Gradle_Gradle-Java-Modules
+@seanwallawalla
+https://github.com/seanwallawalla/Learn-Cython
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Cython
+https://github.com/seanwallawalla/Degoogled_Android_Phone_VM_Research
+https://github.com/seanwallawalla/Learn-Go2003
+https://github.com/seanwallawalla/SNU_2D_Algorithm
+https://github.com/seanwallawalla/Go-ogle
+https://github.com/seanwallawalla/SNU_Government
+https://github.com/seanwallawalla/SNU_SiteLogo
+https://github.com/seanwallawalla/Goodbye-World
+https://github.com/seanwallawalla/OpenGov
+https://github.com/seanwallawalla/VoiceGod
+https://github.com/seanwallawalla/Google-performance-issues
+https://github.com/seanwallawalla/Google-security-issues
+https://github.com/seanwallawalla/Meadows_Emergency-Alert-System
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Go-_-Francis_McCabe_2003-
+https://github.com/seanwallawalla/Bad-Code-Collection
+https://github.com/seanwallawalla/.redirect
+https://github.com/seanwallawalla/RecursionBot
+https://github.com/seanwallawalla/Learn-Lua
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Lua
+https://github.com/seanwallawalla/Setup-Go2004-GitHubAction
+https://github.com/seanwallawalla/Learn-ActionScript-3
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_ActionScript
+https://github.com/seanwallawalla/AdBool
+https://github.com/seanwallawalla/Halloween-Assistant

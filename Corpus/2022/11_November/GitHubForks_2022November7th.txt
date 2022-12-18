@@ -1,0 +1,40 @@
+@seanpm2001
+https://github.com/seanpm2001/node-nslog -> https://github.com/seanpm2001/Atom_Node-NSLog
+https://github.com/seanpm2001/keyboard-layout -> https://github.com/seanpm2001/Atom_Keyboard-Layout
+https://github.com/seanpm2001/node-oniguruma -> https://github.com/seanpm2001/Atom_Node-Oniguruma
+https://github.com/seanpm2001/active-editor-info -> https://github.com/seanpm2001/Atom_Active-Editor-Info
+https://github.com/seanpm2001/ide-java -> https://github.com/seanpm2001/Atom_IDE-Java
+https://github.com/seanpm2001/squeegpg-native -> https://github.com/seanpm2001/Atom_SqueeGPG-Native
+https://github.com/seanpm2001/mistaken-pull-closer -> https://github.com/seanpm2001/Atom_Mistaken-Pull-Closer
+https://github.com/seanpm2001/watcher -> https://github.com/seanpm2001/Atom_Watcher
+https://github.com/seanpm2001/town-crier -> https://github.com/seanpm2001/Atom_Town-Crier
+https://github.com/seanpm2001/ide-typescript -> https://github.com/seanpm2001/Atom_IDE-TypeScript
+https://github.com/seanpm2001/teletype-client -> https://github.com/seanpm2001/Atom_TeleType-Client
+@seanwallawalla
+https://github.com/seanwallawalla/Learn-Boo
+https://github.com/seanwallawalla/Learn-Objective-CPP
+https://github.com/seanwallawalla/Learn-Isabelle
+https://github.com/seanwallawalla/Learn-Io
+https://github.com/seanwallawalla/Learn-ImageJ
+https://github.com/seanwallawalla/Learn-Objective-C
+https://github.com/seanwallawalla/Learn-Swift
+https://github.com/seanwallawalla/Learn-Eiffel
+https://github.com/seanwallawalla/Learn-Inno-Setup
+https://github.com/seanwallawalla/Learn-Idris
+https://github.com/seanwallawalla/Learn-Vala
+https://github.com/seanwallawalla/Learn-VBScript
+[ALREADY FORKED] https://github.com/seanwallawalla/Learn-Python
+https://github.com/seanwallawalla/Learn-Awk
+https://github.com/seanwallawalla/Learn-TypeScript
+https://github.com/seanwallawalla/Learn-VHDL
+https://github.com/seanwallawalla/Learn-CSharp
+https://github.com/seanwallawalla/Learn-AppleScript
+https://github.com/seanwallawalla/Learn-QML
+https://github.com/seanwallawalla/Learn-Rust
+https://github.com/seanwallawalla/Learn-API-Blueprint
+https://github.com/seanwallawalla/Learn-CSS
+[ALREADY FORKED] https://github.com/seanwallawalla/Learn-ActionScript-3
+https://github.com/seanwallawalla/Learn-Dart
+https://github.com/seanwallawalla/Learn-C-Plus-Plus
+https://github.com/seanwallawalla/Learn-Pascal
+https://github.com/seanwallawalla/Learn-Assembly

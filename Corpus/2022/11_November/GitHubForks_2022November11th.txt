@@ -1,0 +1,43 @@
+@seanpm2001
+https://github.com/seanpm2001/ui -> https://github.com/seanpm2001/Atom_UI
+https://github.com/seanpm2001/design-decisions -> https://github.com/seanpm2001/Atom_Design-Decisions
+https://github.com/seanpm2001/atom-theme -> https://github.com/seanpm2001/Atom_Atom-Theme
+https://github.com/seanpm2001/spawn-as-admin -> https://github.com/seanpm2001/Atom_Spawn-As-Admin
+https://github.com/seanpm2001/nuclide-debugger-test -> https://github.com/seanpm2001/Atom_Nuclide-Debugger-Test
+https://github.com/seanpm2001/telemetry -> https://github.com/seanpm2001/Atom_Telemetry
+https://github.com/seanpm2001/ide-json -> https://github.com/seanpm2001/Atom_IDE-JSON
+https://github.com/seanpm2001/atom-babel6-transpiler -> https://github.com/seanpm2001/Atom_Atom-Babel6-Transpiler
+https://github.com/seanpm2001/dowsing-rod -> https://github.com/seanpm2001/Atom_Dowsing-Rod
+https://github.com/seanpm2001/metrics -> https://github.com/seanpm2001/Atom_Metrics
+https://github.com/seanpm2001/span-skip-list -> https://github.com/seanpm2001/Atom_Span-Skip-List
+https://github.com/seanpm2001/key-path-helpers -> https://github.com/seanpm2001/Atom_Key-Path-Helpers
+https://github.com/seanpm2001/atom-package-downloader -> https://github.com/seanpm2001/Atom_Atom-Package-Downloader
+https://github.com/seanpm2001/notebook -> https://github.com/seanpm2001/Atom_Notebook
+https://github.com/seanpm2001/underscore-plus -> https://github.com/seanpm2001/Atom_Underscore-Plus
+@seanwallawalla
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Pug
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_AssemblyScript
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_LOLCODE
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Docker
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_WebVTT
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Objective-C-Plus-Plus
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Self
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Joy
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Factor
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Octave
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Nunjucks
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Boo
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Scheme
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Ada
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_AppleScript
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_ActionScript
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Scala
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_ALGOL
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_ASP_Dot_NET
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_ActionServerPages-ASP-
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_ABC
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Assembly
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_B
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_BASIC
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Eiffel
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Vala

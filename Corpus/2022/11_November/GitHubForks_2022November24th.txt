@@ -1,0 +1,50 @@
+@seanpm2001
+https://github.com/seanpm2001/vbaDeveloper -> https://github.com/seanpm2001/Hilkoc_VBADeveloper
+https://github.com/seanpm2001/WindowsRegistryRootkit -> https://github.com/seanpm2001/Cr4sh_WindowsRegistryRootkit
+https://github.com/seanpm2001/fuckin-angry-intercal -> https://github.com/seanpm2001/Yuvipanda_Fuckin-Angry-Intercal
+https://github.com/seanpm2001/AutoHotkey-1 -> https://github.com/seanpm2001/MasterFocus_AutoHotkey
+https://github.com/seanpm2001/rdoc -> https://github.com/seanpm2001/Ruby_RDoc
+https://github.com/seanpm2001/hy -> https://github.com/seanpm2001/HyLang_Hy
+https://github.com/seanpm2001/MMDSceneKit -> https://github.com/seanpm2001/Magicien_MMDSceneKit
+https://github.com/seanpm2001/Zombie-Direct3D-Samples -> https://github.com/seanpm2001/Marselas_Zombie-Direct3D-Samples
+https://github.com/seanpm2001/Mycology -> https://github.com/seanpm2001/Deewiant_Mycology
+https://github.com/seanpm2001/alexandria-plsql-utils -> https://github.com/seanpm2001/Mortenbra_Alexandria-PLSQL-Utils
+https://github.com/seanpm2001/abap-cds -> https://github.com/seanpm2001/Herolianping_ABAP-CDS
+https://github.com/seanpm2001/smt -> https://github.com/seanpm2001/SMTorg_SMT
+https://github.com/seanpm2001/Eustathios-Spider-V2 -> https://github.com/seanpm2001/Eclsnowman_Eustathios-Spider-V2
+[ALREADY FORKED] https://github.com/seanpm2001/livecode -> https://github.com/seanpm2001/LiveCode_LiveCode
+https://github.com/seanpm2001/arch -> https://github.com/seanpm2001/Arch-JS_Arch
+https://github.com/seanpm2001/haskell-tree-sitter -> https://github.com/seanpm2001/Tree-Sitter_Haskell-Tree-Sitter
+https://github.com/seanpm2001/tree-sitter-haskell -> https://github.com/seanpm2001/Tree-Sitter_Tree-Sitter-Haskell
+https://github.com/seanpm2001/tree-sitter-regex -> https://github.com/seanpm2001/Tree-Sitter_Tree-Sitter-Regex
+https://github.com/seanpm2001/tree-sitter-ruby -> https://github.com/seanpm2001/Tree-Sitter_Tree-Sitter-Ruby
+https://github.com/seanpm2001/tree-sitter-php -> https://github.com/seanpm2001/Tree-Sitter_Tree-Sitter-PHP
+https://github.com/seanpm2001/tree-sitter-fluent -> https://github.com/seanpm2001/Tree-Sitter_Tree-Sitter-Fluent
+@seanwallawalla
+https://github.com/seanwallawalla/Learn-OpenEdge-ABL
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_OpenEdge-ABL
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_ApacheConf
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Nix
+https://github.com/seanwallawalla/Learn-Nix
+https://github.com/seanwallawalla/Learn-Cool
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Cool
+https://github.com/seanwallawalla/Learn-Bikeshed
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Bikeshed
+https://github.com/seanwallawalla/Learn-Eagle
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Eagle
+https://github.com/seanwallawalla/Learn-Logcat
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Logcat
+https://github.com/seanwallawalla/Learn-Astro
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Astro
+https://github.com/seanwallawalla/Learn-HaProxy
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_HaProxy
+https://github.com/seanwallawalla/Learn-HyPhy
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_HyPhy
+https://github.com/seanwallawalla/Learn-Blade
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Blade
+https://github.com/seanwallawalla/Learn-Boogie
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Boogie
+https://github.com/seanwallawalla/Learn-SVG
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_SVG
+https://github.com/seanwallawalla/Learn-Fish
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Fish

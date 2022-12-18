@@ -1,0 +1,52 @@
+@seanpm2001
+https://github.com/seanpm2001/pointfrip -> https://github.com/seanpm2001/Metazip_PointFrip
+https://github.com/seanpm2001/history-backup -> https://github.com/seanpm2001/Fpstfean_History-Backup
+https://github.com/seanpm2001/system-config-printer -> https://github.com/seanpm2001/OpenPrinting_System-Config-Printer
+https://github.com/seanpm2001/snapd-desktop-integration -> https://github.com/seanpm2001/Snapcore_SnapD-Desktop-Integration
+https://github.com/seanpm2001/serenity -> https://github.com/seanpm2001/SerenityOS_Serenity
+https://github.com/seanpm2001/esofiles -> https://github.com/seanpm2001/Graue_EsoFiles
+https://github.com/seanpm2001/LiveScript -> https://github.com/seanpm2001/Gkz_LiveScript
+https://github.com/seanpm2001/rick_and_morty_tidy_text -> https://github.com/seanpm2001/Pachadotdev_Rick_and_Morty_Tidy_Text
+https://github.com/seanpm2001/mooc-os-srt -> https://github.com/seanpm2001/Xyongcn_Mooc-OS-Art
+https://github.com/seanpm2001/augeas -> https://github.com/seanpm2001/Hercules-Team_Augeas
+https://github.com/seanpm2001/ladybird -> https://github.com/seanpm2001/SerenityOS_LadyBird
+https://github.com/seanpm2001/jakt -> https://github.com/seanpm2001/SerenityOS_Jakt
+https://github.com/seanpm2001/manpages-website -> https://github.com/seanpm2001/SerenityOS_ManPages-Website
+https://github.com/seanpm2001/discord-bot -> https://github.com/seanpm2001/SerenityOS_Discord-Bot
+https://github.com/seanpm2001/theming -> https://github.com/seanpm2001/SerenityOS_Theming
+https://github.com/seanpm2001/tree-sitter-c-sharp -> https://github.com/seanpm2001/Tree-Sitter_Tree-Sitter-C-Sharp
+https://github.com/seanpm2001/tree-sitter-javascript -> https://github.com/seanpm2001/Tree-Sitter_Tree-Sitter-JavaScript
+https://github.com/seanpm2001/node-tree-sitter -> https://github.com/seanpm2001/Tree-Sitter_Node-Tree-Sitter
+https://github.com/seanpm2001/ruby-tree-sitter.old -> https://github.com/seanpm2001/Tree-Sitter_Ruby-Tree-Sitter.Old
+https://github.com/seanpm2001/tree-sitter-embedded-template -> https://github.com/seanpm2001/Tree-Sitter_Tree-Sitter-Embedded-Template
+@seanwallawalla
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_API-Blueprint
+https://github.com/seanwallawalla/Learn-Fluent
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Fluent
+https://github.com/seanwallawalla/Learn-Factor
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Factor
+https://github.com/seanwallawalla/Learn-Handlebars
+https://github.com/seanwallawalla/Learn-Fantom
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Fantom
+https://github.com/seanwallawalla/Learn-Forth
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Forth
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_HandleBars
+https://github.com/seanwallawalla/Learn-PicoLisp
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_AppleScript
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_PicoLisp
+https://github.com/seanwallawalla/Learn-REXX
+https://github.com/seanwallawalla/Learn-NetREXX
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_NetREXX
+https://github.com/seanwallawalla/Learn-FCL
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_FCL
+https://github.com/seanwallawalla/Learn-Lean
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Lean
+https://github.com/seanwallawalla/Learn-NewLisp
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_NewLisp
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Dylan
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_INI
+https://github.com/seanwallawalla/Learn-UnrealScript
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_UnrealScript
+https://github.com/seanwallawalla/Learn-Stylus
+https://github.com/seanwallawalla/Learn-Nu
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Nu

@@ -1,0 +1,59 @@
+@seanpm2001
+https://github.com/seanpm2001/pi-gadget -> https://github.com/seanpm2001/SnapCore_Pi-Gadget
+https://github.com/seanpm2001/snapcraft-desktop-integration -> https://github.com/seanpm2001/SnapCore_Snapcraft-Desktop-Integration
+https://github.com/seanpm2001/Latte-lang -> https://github.com/seanpm2001/Wkgcass_Latte-Lang
+https://github.com/seanpm2001/comp-syntax-gu-mlt -> https://github.com/seanpm2001/GrammaticalFramework_Comp-Syntax-Gu-MLT
+https://github.com/seanpm2001/gf-ud -> https://github.com/seanpm2001/GrammaticalFramework_GF-UD
+https://github.com/seanpm2001/gf-contrib -> https://github.com/seanpm2001/GrammaticalFramework-GF-Contrib
+https://github.com/seanpm2001/biglinux-multi-kde -> https://github.com/seanpm2001/BigLinux_BigLinux-Multi-KDE
+https://github.com/seanpm2001/gf-rgl -> https://github.com/seanpm2001/GrammaticalFramework_GF-RGL
+https://github.com/seanpm2001/gf-wordnet -> https://github.com/seanpm2001/GrammaticalFramework_GF-WordNet
+https://github.com/seanpm2001/gf-core -> https://github.com/seanpm2001/GrammaticalFramework_GF-Core
+https://github.com/seanpm2001/gftest -> https://github.com/seanpm2001/GrammaticalFramework_GFTest
+https://github.com/seanpm2001/gf-typescript -> https://github.com/seanpm2001/GrammaticalFramework_GF-TypeScript
+https://github.com/seanpm2001/NotepadqqApi_Nodejs -> https://github.com/seanpm2001/NotepadQQ_NotepadQQAI_NodeJS -> https://github.com/seanpm2001/NotepadQQ_NotepadQQAPI_NodeJS
+https://github.com/seanpm2001/NotepadqqApi_Python -> https://github.com/seanpm2001/NotepadQQ_NotepadQQAPIi_Python -> https://github.com/seanpm2001/NotepadQQ_NotepadQQAPI_Python
+https://github.com/seanpm2001/NotepadqqApi_Ruby -> https://github.com/seanpm2001/NotepadQQ_NotepadQQAPI_Ruby
+https://github.com/seanpm2001/missing-semester -> https://github.com/seanpm2001/Missing-Semester_Missing-Semester
+https://github.com/seanpm2001/videos -> https://github.com/seanpm2001/Missing-Semester_Videos
+https://github.com/seanpm2001/gfss-2021 -> https://github.com/seanpm2001/GrammaticalFramework_GFSS-2021
+https://github.com/seanpm2001/comp-syntax-2020 -> https://github.com/seanpm2001/GrammaticalFramework_Comp-Syntax-2020
+https://github.com/seanpm2001/rgl-source-browser -> https://github.com/seanpm2001/GrammaticalFramework_RGL-Source-Browser
+https://github.com/seanpm2001/gf-tagger -> https://github.com/seanpm2001/GrammaticalFramework_GF-Tagger
+https://github.com/seanpm2001/gf-summerschool-2018 -> https://github.com/seanpm2001/GrammatlicalFramework_GF-SummerSchool-2018
+https://github.com/seanpm2001/gf-offline-translator -> https://github.com/seanpm2001/GrammaticalFramework_GF-Offline-Translator
+@seanwallawalla
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Inno_Setup
+https://github.com/seanwallawalla/Learn-Sage
+https://github.com/seanwallawalla/Learn-DIGITAL-Command-Language
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_DIGITAL-Command-Language
+https://github.com/seanwallawalla/Learn-Lex
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Lex
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Sage
+https://github.com/seanwallawalla/Learn-Puppet
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Puppet
+https://github.com/seanwallawalla/Learn-POV-Ray-SDL
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_POV-Ray-SDL
+https://github.com/seanwallawalla/Learn-ShaderLab
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_ShaderLab
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_IsabelleProofAssistant
+https://github.com/seanwallawalla/Learn-AssemblyScript
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Julia
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_AssemblyScript
+https://github.com/seanwallawalla/Learn-Fancy
+https://github.com/seanwallawalla/Learn-OpenSCAD
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_OpenSCAD
+https://github.com/seanwallawalla/Learn-E
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_E
+https://github.com/seanwallawalla/Learn-NASL
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_NASL
+https://github.com/seanwallawalla/Learn-NSIS
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_NSIS
+https://github.com/seanwallawalla/Learn-AMPL
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_AMPL
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Fancy
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Java
+https://github.com/seanwallawalla/Learn-Smarty
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_JavaScript
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Smarty
+

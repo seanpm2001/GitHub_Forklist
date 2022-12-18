@@ -1,0 +1,40 @@
+@seanpm2001
+https://github.com/seanpm2001/eon -> https://github.com/seanpm2001/Atom_Eon
+https://github.com/seanpm2001/atom-nightly-releases -> https://github.com/seanpm2001/Atom_Atom-Nightly-Releases
+https://github.com/seanpm2001/scrollbar-style -> https://github.com/seanpm2001/Atom_Scrollbar-Style
+https://github.com/seanpm2001/template-syntax -> https://github.com/seanpm2001/Atom_Template-Syntax
+https://github.com/seanpm2001/whats-my-line -> https://github.com/seanpm2001/Atom_Whats-My-Line
+https://github.com/seanpm2001/biohazard-alert -> https://github.com/seanpm2001/Atom_BioHazard-Alert
+https://github.com/seanpm2001/command-palette -> https://github.com/seanpm2001/Atom_Command-Palette
+https://github.com/seanpm2001/autocomplete-plus -> https://github.com/seanpm2001/Atom_AutoComplete-Plus
+https://github.com/seanpm2001/bookmarks -> https://github.com/seanpm2001/Atom_Bookmarks
+https://github.com/seanpm2001/atom-babel7-transpiler -> https://github.com/seanpm2001/Atom_Atom-Babel7-Transpiler
+https://github.com/seanpm2001/tabs -> https://github.com/seanpm2001/Atom_Tabs
+https://github.com/seanpm2001/editor-stats -> https://github.com/seanpm2001/Atom_Editor-Stats
+https://github.com/seanpm2001/apm -> https://github.com/seanpm2001/Atom_APM
+@seanwallawalla
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_JSON
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_MATLAB
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Zig
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Gerber-Image
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Jade
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_HAML
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_OpenEdge-ABL
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_PureBASIC
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Mercury
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Gosu
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_GAP
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Coq
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_AMPL
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_EJS
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_ImageJ
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_UnrealScript
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Starlark
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Twig
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_LogTalk
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Prolog
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_LLVM
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Cyclone
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Groovy
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Rexx
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Batchfile

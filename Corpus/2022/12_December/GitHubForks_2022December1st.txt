@@ -1,0 +1,69 @@
+@seanpm2001
+https://github.com/seanpm2001/comp-syntax-gu -> https://github.com/seanpm2001/GramaticalFramework_Comp-Syntax-GU
+https://github.com/seanpm2001/wide-coverage -> https://github.com/seanpm2001/GrammaticalFramework_Wide-Coverage
+https://github.com/seanpm2001/PhraseDroid -> https://github.com/seanpm2001/GrammaticalFramework_PhraseDroid
+https://github.com/seanpm2001/JPGF -> https://github.com/seanpm2001/GrammaticalFramework_JPGF
+https://github.com/seanpm2001/gf-abstract-wikipedia -> https://github.com/seanpm2001/GrammaticalFramework_GF-Abstract-Wikipedia
+https://github.com/seanpm2001/pgf-binary -> https://github.com/seanpm2001/GrammaticalFramework_PGF-Binary
+https://github.com/seanpm2001/gf-emacs-mode -> https://github.com/seanpm2001/GrammaticalFramework_GF-Emacs-Mode
+https://github.com/seanpm2001/GF -> https://github.com/seanpm2001/GrammaticalFramework_GF
+https://github.com/seanpm2001/gf-eclipse-plugin -> https://github.com/seanpm2001/GrammaticalFramework_GF-Eclipse-Plugin
+https://github.com/seanpm2001/atom-language-gf -> https://github.com/seanpm2001/GrammaticalFramework_Atom-Language-GF
+https://github.com/seanpm2001/terra -> https://github.com/seanpm2001/TerraLang_Terra
+https://github.com/seanpm2001/llvm-build -> https://github.com/seanpm2001/TerraLang_LLVM-Build
+https://github.com/seanpm2001/replit -> https://github.com/seanpm2001/TerraLang_Replit
+https://github.com/seanpm2001/terra-mode -> https://github.com/seanpm2001/TerraLang_Terra-Mode
+https://github.com/seanpm2001/std -> https://github.com/seanpm2001/TerraLang_STD
+https://github.com/seanpm2001/terrac -> https://github.com/seanpm2001/TerraLang_TerraC
+https://github.com/seanpm2001/module-ballerina-websocket -> https://github.com/seanpm2001/Ballerina-Platform_Module-Ballerina-WebSocket
+https://github.com/seanpm2001/notepadqq -> https://github.com/seanpm2001/NotepadQQ_NotepadQQ
+https://github.com/seanpm2001/smali2java -> https://github.com/seanpm2001/AlexaySoshin_Smali2Java
+@seanwallawalla
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_VCL
+https://github.com/seanwallawalla/Learn-IronPython
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_IronPython
+https://github.com/seanwallawalla/Learn-KiXTart
+https://github.com/seanwallawalla/Learn-RichTextFormat
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_RichTextFormat
+https://github.com/seanwallawalla/Learn-FreeMarker
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_FreeMarker
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_KiXtart
+https://github.com/seanwallawalla/Learn-CoffeeScript
+https://github.com/seanwallawalla/Learn-Liquid
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Liquid
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_CoffeeScript
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Kotlin
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Lua
+https://github.com/seanwallawalla/Learn-CAML
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Mathematica
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Caml_-Categorized_Abstract_Machine_Language-
+https://github.com/seanwallawalla/Learn-JScript
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Modelica
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_JScript
+https://github.com/seanwallawalla/Learn-SmallTalk
+https://github.com/seanwallawalla/Learn-Dhall
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Dhall
+https://github.com/seanwallawalla/Learn-Apex
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Apex
+https://github.com/seanwallawalla/Learn-Slim
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Slim
+https://github.com/seanwallawalla/Learn-CUDA
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_NVidia_Cuda
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Smalltalk
+https://github.com/seanwallawalla/Learn-JupyterNotebook
+https://github.com/seanwallawalla/Learn-XSLT
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_XSLT
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_JupyterNotebook
+https://github.com/seanwallawalla/Learn-GAP
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Makefile
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_GAP
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_LOLCODE
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Markdown
+https://github.com/seanwallawalla/Learn-VCL
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Objective-C
+https://github.com/seanwallawalla/Learn-Octave
+https://github.com/seanwallawalla/Learn-EJS
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_EJS
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Octave
+https://github.com/seanwallawalla/Learn-Verona
+

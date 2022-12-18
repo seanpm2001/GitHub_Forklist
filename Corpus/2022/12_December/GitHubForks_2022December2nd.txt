@@ -1,0 +1,56 @@
+@seanpm2001
+https://github.com/seanpm2001/dots -> https://github.com/seanpm2001/Cosmojg_Dots
+https://github.com/seanpm2001/mlir-hlo -> https://github.com/seanpm2001/TensorFlow_MLIR-HLO
+https://github.com/seanpm2001/nowinandroid -> https://github.com/seanpm2001/Android_NowInAndroid
+https://github.com/seanpm2001/connectivity-samples -> https://github.com/seanpm2001/Android_Connectivity-Samples
+https://github.com/seanpm2001/testing-samples -> https://github.com/seanpm2001/Android_Testing-Samples
+https://github.com/seanpm2001/architecture-components-samples -> https://github.com/seanpm2001/Android_Architecture-Components-Samples
+https://github.com/seanpm2001/project-replicator -> https://github.com/seanpm2001/Android_Project-Replicator
+https://github.com/seanpm2001/sunflower -> https://github.com/seanpm2001/Android_Sunflower
+https://github.com/seanpm2001/android-test -> https://github.com/seanpm2001/Android_Android-Test
+https://github.com/seanpm2001/android-dev-challenge-compose -> https://github.com/seanpm2001/Android_Android-Dev-Challenge-Compose
+https://github.com/seanpm2001/wear-os-samples -> https://github.com/seanpm2001/Android_Wear-OS-Samples
+https://github.com/seanpm2001/health-samples -> https://github.com/seanpm2001/Android_Health-Samples
+https://github.com/seanpm2001/compose-samples -> https://github.com/seanpm2001/Android_Compose-Samples
+@seanwallawalla
+https://github.com/seanwallawalla/Learn-Nunjucks
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Nunjucks
+https://github.com/seanwallawalla/Learn-SuperCollider
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_SuperCollider
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Verona
+https://github.com/seanwallawalla/Learn-TOML
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_TOML
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Python
+https://github.com/seanwallawalla/Learn-Cyclone
+[ALREADY FORKED] https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_QML
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Cyclone
+https://github.com/seanwallawalla/Learn-Diff
+https://github.com/seanwallawalla/Learn-VisualBasicScript
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Visual_Basic_Script
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Diff
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Objective-C-Plus-Plus
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Pascal
+https://github.com/seanwallawalla/Learn-Arduino
+https://github.com/seanwallawalla/Learn-CommonLisp
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_CommonLisp
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Arduino
+https://github.com/seanwallawalla/Learn-CSV
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_CSV
+https://github.com/seanwallawalla/Learn-Gradle
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Gradle
+https://github.com/seanwallawalla/Learn-LabVIEW
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_LabVIEW
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Rust
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Raku
+https://github.com/seanwallawalla/Learn-Jython
+https://github.com/seanwallawalla/Learn-Jasmin
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Jasmin
+https://github.com/seanwallawalla/Learn-SAS
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_SAS
+https://github.com/seanwallawalla/Learn-PythonTraceback
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_PythonTraceback
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Jython
+https://github.com/seanwallawalla/Learn-SXML
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_SXML
+https://github.com/seanwallawalla/Learn-JSSS
+

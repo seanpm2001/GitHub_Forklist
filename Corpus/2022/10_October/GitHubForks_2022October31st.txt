@@ -1,0 +1,40 @@
+@seanpm2001
+https://github.com/seanpm2001/please-turn-off-the-autowatch-feature -> https://github.com/seanpm2001/Raku_Please-Turn-Off-The-Autowatch-Feature
+https://github.com/seanpm2001/6.d-prep -> https://github.com/seanpm2001/Raku_6.d-Prep
+https://github.com/seanpm2001/marketing -> https://github.com/seanpm2001/Raku_Marketing
+https://github.com/seanpm2001/synopsebot -> https://github.com/seanpm2001/Raku_SynopseBot
+https://github.com/seanpm2001/ecosystem-unbitrot -> https://github.com/seanpm2001/Raku_Ecosystem-Unbitrot -> https://github.com/seanpm2001/Raku_Ecosystem-UnBitRot
+https://github.com/seanpm2001/atom-language-perl6 -> https://github.com/seanpm2001/Raku_Atom-Language-Perl6
+https://github.com/seanpm2001/Blin -> https://github.com/seanpm2001/Raku_Blin
+https://github.com/seanpm2001/geth -> https://github.com/seanpm2001/Raku_Geth
+https://github.com/seanpm2001/nqp-configure -> https://github.com/seanpm2001/Raku_NQP-Configure
+https://github.com/seanpm2001/setup-raku -> https://github.com/seanpm2001/Raku_Setup-Raku
+https://github.com/seanpm2001/rakubrew.org -> https://github.com/seanpm2001/Raku_Rakubrew.org
+https://github.com/seanpm2001/homebrew-sass -> https://github.com/seanpm2001/SASS_Homebrew-SASS
+@seanwallawalla
+https://github.com/seanwallawalla/MemeMachine-2019
+https://github.com/seanwallawalla/AGRAN-Programming-language
+https://github.com/seanwallawalla/Seanwallawalla-operating-systems
+https://github.com/seanwallawalla/Seanwallawallagaming
+https://github.com/seanwallawalla/seanwallawalla-elibrary
+https://github.com/seanwallawalla/seanwallawalla-live
+https://github.com/seanwallawalla/seanwallawalla-secondchannel
+https://github.com/seanwallawalla/seanwallawalla-animation
+https://github.com/seanwallawalla/seanwallawalla-stats
+https://github.com/seanwallawalla/seanwallawalla-music
+https://github.com/seanwallawalla/seanwallawalla-business
+https://github.com/seanwallawalla/seanwallawalla-spm
+https://github.com/seanwallawalla/seanwallawalla-school
+https://github.com/seanwallawalla/GitHub_Statistics
+https://github.com/seanwallawalla/SNU_2D_HTTPStatusCodeList
+[ALREADY FORKED] https://github.com/seanwallawalla/bitchecker
+https://github.com/seanwallawalla/SWave_Starter
+https://github.com/seanwallawalla/Password_Generator_Ultimate
+https://github.com/seanwallawalla/SNU_DeepSwap
+https://github.com/seanwallawalla/uDonate
+https://github.com/seanwallawalla/The-Dystopian-Dictionary
+https://github.com/seanwallawalla/The-Existential-Index
+https://github.com/seanwallawalla/Git-image
+https://github.com/seanwallawalla/Snapshot-version-control-system
+https://github.com/seanwallawalla/WacOS_10.14
+https://github.com/seanwallawalla/Snapshots-Version-Control-System

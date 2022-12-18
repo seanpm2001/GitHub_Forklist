@@ -1,0 +1,42 @@
+@seanpm2001
+https://github.com/seanpm2001/asciidoctor-gradle-plugin -> https://github.com/seanpm2001/ASCIIDoctor_ASCIIDoctor-Gradle-Plugin
+https://github.com/seanpm2001/androidx-ci-action -> https://github.com/seanpm2001/AndroidX_AndroidX-CI-Action
+https://github.com/seanpm2001/.github-1 -> https://github.com/seanpm2001/AndroidX.github
+https://github.com/seanpm2001/changed-files-action -> https://github.com/seanpm2001/AndroidX_Changed-Files-Action
+https://github.com/seanpm2001/github-workflow-webhook-action -> https://github.com/seanpm2001/AndroidX_GitHub-Workflow-WebHook-Action
+https://github.com/seanpm2001/androidx -> https://github.com/seanpm2001/AndroidX_AndroidX
+https://github.com/seanpm2001/constraintlayout -> https://github.com/seanpm2001/AndroidX_ConstraintLayout
+https://github.com/seanpm2001/media -> https://github.com/seanpm2001/AndroidX_Media
+https://github.com/seanpm2001/check-pr-format-action -> https://github.com/seanpm2001/AndroidX_Check-PR-Format-Action
+https://github.com/seanpm2001/gcp-gradle-build-cache -> https://github.com/seanpm2001/AndroidX_GCP-Gradle-Build-Cache
+https://github.com/seanpm2001/intellij-community -> https://github.com/seanpm2001/JetBrains_IntelliJ-Community
+https://github.com/seanpm2001/JetBrainsMono -> https://github.com/seanpm2001/JetBrains_JetBrainsMono
+https://github.com/seanpm2001/JetBrainsRuntime -> https://github.com/seanpm2001/JetBrains_JetBrainsRuntime
+https://github.com/seanpm2001/MPS -> https://github.com/seanpm2001/JetBrains_MPS
+https://github.com/seanpm2001/MPS-extensions -> https://github.com/seanpm2001/JetBrains_MPS-Extensions
+@seanwallawalla
+https://github.com/seanwallawalla/Mammal_Town
+https://github.com/seanwallawalla/the-walla-walla-anime
+https://github.com/seanwallawalla/Anime
+https://github.com/seanwallawalla/SeansLifeArchive_Images_Reddit
+https://github.com/seanwallawalla/r-seanpm2001
+https://github.com/seanwallawalla/Candroid
+https://github.com/seanwallawalla/AUTOMATE-2001
+https://github.com/seanwallawalla/Seanpm2001-Car
+https://github.com/seanwallawalla/SeansAudioDB_Images_2022
+https://github.com/seanwallawalla/AudiBass_Manager
+https://github.com/seanwallawalla/UnitedAutismRights_Org
+https://github.com/seanwallawalla/SNU_2D_Health
+https://github.com/seanwallawalla/HealthMeterMaximum
+https://github.com/seanwallawalla/MadLibby
+https://github.com/seanwallawalla/Profa_Or_Antifa
+https://github.com/seanwallawalla/Linux.Templates
+https://github.com/seanwallawalla/Template_Meadows_V2
+https://github.com/seanwallawalla/Template_DeGoogle_V2
+https://github.com/seanwallawalla/Template_LifeArchive_Map_V2
+https://github.com/seanwallawalla/Template_Journaling_V6
+https://github.com/seanwallawalla/Template_DeGoogle-your-Life_V2
+https://github.com/seanwallawalla/Template_GitHubPages_Default_V4
+https://github.com/seanwallawalla/Template_Other_V6
+https://github.com/seanwallawalla/Template_SNU_Default_V6
+https://github.com/seanwallawalla/Template_SNU_2D_ProgrammingTools_V6

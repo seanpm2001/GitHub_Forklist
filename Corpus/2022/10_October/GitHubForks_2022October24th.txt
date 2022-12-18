@@ -1,0 +1,43 @@
+@seanpm2001
+[CANNOT BE FORKED, EMPTY REPOSITORY] https://github.com/gradle/perf-native-headers-large
+https://github.com/seanpm2001/gradle-hazelcast-plugin -> https://github.com/seanpm2001/Sinwe_Gradle-HazelCast-Plugin
+https://github.com/seanpm2001/model-app -> https://github.com/seanpm2001/Gradle_Model-App
+https://github.com/seanpm2001/perf-android-multi-large -> https://github.com/seanpm2001/Gradle_Perf-Android-Multi-Large
+https://github.com/seanpm2001/perf-android-mono-large -> https://github.com/seanpm2001/Gradle_Perf-Android-Mono-Large
+https://github.com/seanpm2001/gradle-model-vis -> https://github.com/seanpm2001/Gradle_Gradle-Model-Vis
+https://github.com/seanpm2001/multi-project-composite-gradle-plugins-builds -> https://github.com/seanpm2001/Gradle_Multi-Project-Composite-Gradle-Plugins-Builds
+https://github.com/seanpm2001/ge-export -> https://github.com/seanpm2001/Gradle_GE-Export
+https://github.com/seanpm2001/stable-plugins-dsl -> https://github.com/seanpm2001/Gradle_Stable-Plugins-DSL
+https://github.com/seanpm2001/gradle-hello-world-plugin -> https://github.com/seanpm2001/Gradle_Gradle-Hello-World-Plugin
+https://github.com/seanpm2001/gradle-smart-snapshotting -> https://github.com/seanpm2001/Gradle_Gradle-Smart-Snapshotting
+https://github.com/seanpm2001/gradle-modularity -> https://github.com/seanpm2001/Gradle_Gradle-Modularity
+https://github.com/seanpm2001/gradle-rules-configuration-workshop -> https://github.com/seanpm2001/Gradle_Gradle-Rules-Configuration-Workshop
+https://github.com/seanpm2001/continuous-delivery-jump-start -> https://github.com/seanpm2001/Gradle_Continuous-Delivery-Jump-Start
+https://github.com/seanpm2001/oreilly-gradle-book-examples -> https://github.com/seanpm2001/Gradle_OReilly-Gradle-Book-Examples
+https://github.com/seanpm2001/gradle-talks -> https://github.com/seanpm2001/Gradle_Gradle-Talks
+@seanwallawalla
+https://github.com/seanwallawalla/Walla-Walla-WA-Cottonwood-Annexation-Protest
+https://github.com/seanwallawalla/LapLight
+https://github.com/seanwallawalla/LightSpeedRelay_DatabaseTools
+https://github.com/seanwallawalla/LightSpeedRelay_Database
+https://github.com/seanwallawalla/LightSpeedRelay_WaitingRoom
+https://github.com/seanwallawalla/LightSpeedRelayChat
+https://github.com/seanwallawalla/Gaslight-Galactica
+https://github.com/seanwallawalla/FBI_RoleplaySimulator
+https://github.com/seanwallawalla/HXTemplate
+https://github.com/seanwallawalla/Boilerplate-cabinet
+https://github.com/seanwallawalla/Hyper-realistic-farm-simulator
+https://github.com/seanwallawalla/Cyborg-System-Monitor
+https://github.com/seanwallawalla/Team8_Collection
+https://github.com/seanwallawalla/ARCHIVE_My-Robot-Friend
+https://github.com/seanwallawalla/RubbleRobot
+https://github.com/seanwallawalla/SNU_BotCoach
+https://github.com/seanwallawalla/Discord-bots
+https://github.com/seanwallawalla/Reddit-Bots
+https://github.com/seanwallawalla/SNU_WLinkWBotW
+https://github.com/seanwallawalla/TuxBot-OperatingSystem
+https://github.com/seanwallawalla/ScreenTeX
+https://github.com/seanwallawalla/Perl_Harbor
+https://github.com/seanwallawalla/Medicinal-ethics
+https://github.com/seanwallawalla/Military-ethics
+https://github.com/seanwallawalla/SimZonns

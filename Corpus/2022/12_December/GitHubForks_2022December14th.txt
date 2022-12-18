@@ -1,0 +1,48 @@
+@seanpm2001
+https://github.com/seanpm2001/community -> https://github.com/seanpm2001/TensorFlow_Community
+https://github.com/seanpm2001/runtime -> https://github.com/seanpm2001/TensorFlow_Runtime
+https://github.com/seanpm2001/federated -> https://github.com/seanpm2001/TensorFlow_Federated
+https://github.com/seanpm2001/docs-1 -> https://github.com/seanpm2001/TensorFlow_Docs
+https://github.com/seanpm2001/probability -> https://github.com/seanpm2001/TensorFlow_Probability
+https://github.com/seanpm2001/lingvo -> https://github.com/seanpm2001/TensorFlow_LingVo
+https://github.com/seanpm2001/tfx -> https://github.com/seanpm2001/TensorFlow_TFX
+https://github.com/seanpm2001/models -> https://github.com/seanpm2001/TensorFlow_Models
+https://github.com/seanpm2001/datasets -> https://github.com/seanpm2001/TensorFlow_Datasets
+https://github.com/seanpm2001/serving -> https://github.com/seanpm2001/TensorFlow_Serving
+https://github.com/seanpm2001/gnn -> https://github.com/seanpm2001/TensorFlow_GNN
+https://github.com/seanpm2001/tflite-micro -> https://github.com/seanpm2001/TensorFlow_TFLite-Micro
+https://github.com/seanpm2001/tfx-addons -> https://github.com/seanpm2001/TensorFlow_TFX-Addons
+https://github.com/seanpm2001/tfjs-examples -> https://github.com/seanpm2001/TensorFlow_TFJS-Examples
+https://github.com/seanpm2001/codelabs -> https://github.com/seanpm2001/TensorFlow_CodeLabs
+https://github.com/seanpm2001/sig-tfjs -> https://github.com/seanpm2001/TensorFlow_SIG-TFJS
+https://github.com/seanpm2001/ngraph-bridge -> https://github.com/seanpm2001/TensorFLow_nGraph-Bridge
+https://github.com/seanpm2001/tfjs-tsne -> https://github.com/seanpm2001/TensorFlow_TFJS-TSNE
+https://github.com/seanpm2001/embedding-projector-standalone -> https://github.com/seanpm2001/TensorFlow_Embedding-Projector-Standalone
+https://github.com/seanpm2001/NineLives -> https://github.com/seanpm2001/Dashuka228_NineLives
+@seanwallawalla
+https://github.com/seanwallawalla/seanpm2001.github.io
+https://github.com/seanwallawalla/Project1k1.github.io
+https://github.com/seanwallawalla/9x-Internet.github.io
+https://github.com/seanwallawalla/SafeT-dev.github.io
+https://github.com/seanwallawalla/9x-Internet
+https://github.com/seanwallawalla/SNU-Erotica.github.io
+https://github.com/seanwallawalla/SNU-Porn.github.io
+https://github.com/seanwallawalla/Seanpm2001-KhanAcademy.github.io
+https://github.com/seanwallawalla/NUNIX-dev.github.io
+https://github.com/seanwallawalla/NUNIX
+https://github.com/seanwallawalla/CompuSmell.github.io
+https://github.com/seanwallawalla/Reactop-computers.github.io
+https://github.com/seanwallawalla/Egg-org.github.io
+https://github.com/seanwallawalla/URLL-Specification.github.io
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Egg_Org
+https://github.com/seanwallawalla/Seanpm2001-Robotics.github.io
+https://github.com/seanwallawalla/SuperPower-laptops.github.io
+https://github.com/seanwallawalla/NimbleBit-Games.github.io
+https://github.com/seanwallawalla/404-Day.github.io
+https://github.com/seanwallawalla/WacOS-Dev.github.io
+https://github.com/seanwallawalla/Seanpm2001-Biology.github.io
+https://github.com/seanwallawalla/SVG-video.github.io
+https://github.com/seanwallawalla/Doorcrete.github.io
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Doorcrete
+[ALREADY FORKED] https://github.com/seanwallawalla/Computer-cursor-tech-support
+https://github.com/seanwallawalla/Docs

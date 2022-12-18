@@ -1,0 +1,41 @@
+@seanpm2001
+https://github.com/seanpm2001/Documentable -> https://github.com/seanpm2001/Raku_Documentable
+https://github.com/seanpm2001/problem-solving -> https://github.com/seanpm2001/Raku_Problem-Solving
+https://github.com/seanpm2001/ake -> https://github.com/seanpm2001/Raku_Ake
+https://github.com/seanpm2001/flymake-rakudo -> https://github.com/seanpm2001/Raku_Flymake-Rakudo
+https://github.com/seanpm2001/flycheck-raku -> https://github.com/seanpm2001/Raku_Flycheck-Raku
+https://github.com/seanpm2001/whateverable -> https://github.com/seanpm2001/Raku_Whateverable
+https://github.com/seanpm2001/rakudo-star -> https://github.com/seanpm2001/Raku_Rakudo-Star
+https://github.com/seanpm2001/raku-mode -> https://github.com/seanpm2001/Raku_Raku-Mode
+https://github.com/seanpm2001/CCR -> https://github.com/seanpm2001/Raku_CCR
+[ALREADY FORKED] https://github.com/seanpm2001/Raku-examples
+https://github.com/seanpm2001/gradle -> https://github.com/seanpm2001/Gradle_Gradle
+https://github.com/seanpm2001/REA -> https://github.com/seanpm2001/Raku_REA
+https://github.com/seanpm2001/sympy_wiki -> https://github.com/seanpm2001/SymPy_SymPy_Wiki
+@seanwallawalla
+https://github.com/seanwallawalla/Virtual-VHS
+https://github.com/seanwallawalla/SNU_HolidayThemes
+https://github.com/seanwallawalla/SNU_Themes
+https://github.com/seanwallawalla/Ucuntu
+https://github.com/seanwallawalla/SVG_Forkbombs
+https://github.com/seanwallawalla/Economica
+https://github.com/seanwallawalla/RailRAM-Train-Collection
+https://github.com/seanwallawalla/SociaShame
+https://github.com/seanwallawalla/SNU_2D_Questionarium
+https://github.com/seanwallawalla/Learn-PHP
+https://github.com/seanwallawalla/PhD_In_PHP
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_PHP_-PHP_Hypertext_Preprocessor-
+https://github.com/seanwallawalla/UI_Tour_Guide
+https://github.com/seanwallawalla/SNU_2D_ProfileBuilder
+https://github.com/seanwallawalla/SNU_2D_BigBuckBunnyFullSuite
+https://github.com/seanwallawalla/Meadows_UI_Mode
+https://github.com/seanwallawalla/ChromaTags_ForGit
+https://github.com/seanwallawalla/Why-you-should-stop-using-Chrome
+https://github.com/seanwallawalla/Stop-using-Chromebooks
+https://github.com/seanwallawalla/AirBnB
+[ALREADY FORKED] https://github.com/seanwallawalla/DroppedText-GitHub-Syntax-Highlighting
+https://github.com/seanwallawalla/Dropped-Text-lang
+https://github.com/seanwallawalla/MEDOS_AndroidApp
+https://github.com/seanwallawalla/DroneMap
+https://github.com/seanwallawalla/Why-you-should-stop-using-Android
+https://github.com/seanwallawalla/Alternating-from-YouTube

@@ -1,0 +1,51 @@
+@seanpm2001
+https://github.com/seanpm2001/guard-bundler -> https://github.com/seanpm2001/Guard_Guard-Bundler
+https://github.com/seanpm2001/guard-jasmine -> https://github.com/seanpm2001/Guard_Guard-Jasmine
+https://github.com/seanpm2001/guard-minitest -> https://github.com/seanpm2001/Guard_Guard-MiniTest
+https://github.com/seanpm2001/guard-compat -> https://github.com/seanpm2001/Guard_Guard-Compat
+[EMPTY, CAN'T FORK] https://github.com/guard/listen-kqueue
+[EMPTY, CAN'T FORK] https://github.com/guard/listen-fsevents
+[EMPTY, CAN'T FORK] https://github.com/guard/listen-inotify
+https://github.com/seanpm2001/guard-process -> https://github.com/seanpm2001/Guard_Guard-Process
+https://github.com/seanpm2001/guard-haml -> https://github.com/seanpm2001/Guard_Guard-HAML
+https://github.com/seanpm2001/guard-ronn -> https://github.com/seanpm2001/Guard_Guard-Ronn
+https://github.com/seanpm2001/guard-less -> https://github.com/seanpm2001/Guard_Guard-Less
+https://github.com/seanpm2001/guard-spork -> https://github.com/seanpm2001/Guard_Guard-Spork
+https://github.com/seanpm2001/guard-yield -> https://github.com/seanpm2001/Guard_Guard-Yield
+https://github.com/seanpm2001/Workshop-2019-Minneapolis -> https://github.com/seanpm2001/Macaulay2_Workshop-2019-Minneapolis
+https://github.com/seanpm2001/Workshop-2020-Warwick -> https://github.com/seanpm2001/Macaulay2_Workshop-2020-Warwick
+https://github.com/seanpm2001/M2-emacs -> https://github.com/seanpm2001/Macaulay2_M2-Emacs
+https://github.com/seanpm2001/Workshop-2016-Utah -> https://github.com/seanpm2001/Macaulay2_Workshop-2016-Utah
+https://github.com/seanpm2001/Workshop-2020-Cleveland -> https://github.com/seanpm2001/Macaulay2_Workshop-2020-Cleveland
+https://github.com/seanpm2001/Macaulay2.github.io
+https://github.com/seanpm2001/Workshop-2018-Leipzig -> https://github.com/seanpm2001/Macaulay2_Workshop-2018-Leipzig
+https://github.com/seanpm2001/Workshop-2019-Saarbruecken -> https://github.com/seanpm2001/Macaulay2_Workshop-2019-Saarbruecken
+https://github.com/seanpm2001/Workshop-2018-Madison -> https://github.com/seanpm2001/Macaulay2_Workshop-2018-Madison
+https://github.com/seanpm2001/nash -> https://github.com/seanpm2001/Macaulay2_Nash
+https://github.com/seanpm2001/Workshop-2016-Warwick -> https://github.com/seanpm2001/Macaulay2_Workshop-2016-Warwick
+@seanwallawalla
+https://github.com/seanwallawalla/Team8Collection.github.io
+https://github.com/seanwallawalla/Boom-Bay.github.io
+https://github.com/seanwallawalla/Frog-mania.github.io
+https://github.com/seanwallawalla/GitHubby-development.github.io
+https://github.com/seanwallawalla/SimZonns.github.io
+https://github.com/seanwallawalla/Bosky-dev.github.io
+https://github.com/seanwallawalla/FINF-dev.github.io
+https://github.com/seanwallawalla/ZooTree.github.io
+https://github.com/seanwallawalla/QMeadows-development.github.io
+https://github.com/seanwallawalla/Documentation
+https://github.com/seanwallawalla/Learn-FreeBasic
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_FreeBasic
+https://github.com/seanwallawalla/Learn-DroppedText
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_DroppedText
+https://github.com/seanwallawalla/Learn-Seanpm2001-Matrix
+https://github.com/seanwallawalla/SeansLifeArchive_Images_TinyDeathStar_Y2023
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Roff
+https://github.com/seanwallawalla/SNU_3D_Universe_MilkyWay_Venus
+https://github.com/seanwallawalla/SNU_3D_Universe_MilkyWay_Neptune
+https://github.com/seanwallawalla/SNU_3D_Universe_MilkyWay_Dwarf_Pluto
+https://github.com/seanwallawalla/Learn-EBNF
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_EBNF
+https://github.com/seanwallawalla/Learn-PlPGSQL
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_PlPGSQL
+https://github.com/seanwallawalla/Learn-PureScript

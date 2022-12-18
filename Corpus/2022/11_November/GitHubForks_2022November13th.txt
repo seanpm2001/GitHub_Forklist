@@ -1,0 +1,48 @@
+@seanpm2001
+https://github.com/seanpm2001/typeahead.js -> https://github.com/seanpm2001/Twitter_TypeAhead.js
+https://github.com/seanpm2001/SentenTree -> https://github.com/seanpm2001/Twitter_SentenTree
+https://github.com/seanpm2001/labella.js -> https://github.com/seanpm2001/Twitter_Labella.js
+https://github.com/seanpm2001/sqrl -> https://github.com/seanpm2001/Twitter_Sqrl
+https://github.com/seanpm2001/ios-twitter-apache-thrift -> https://github.com/seanpm2001/Twitter_iOS-Twitter-Apache-Thrift
+https://github.com/seanpm2001/.github-1 -> https://github.com/seanpm2001/Twitter.github
+https://github.com/seanpm2001/summingbird -> https://github.com/seanpm2001/Twitter_SummingBird
+https://github.com/seanpm2001/go-bindata -> https://github.com/seanpm2001/Twitter_Go-BinData
+https://github.com/seanpm2001/hraven -> https://github.com/seanpm2001/Twitter_HRaven
+https://github.com/seanpm2001/finagle -> https://github.com/seanpm2001/Twitter_Finagle
+https://github.com/seanpm2001/pelikan -> https://github.com/seanpm2001/Twitter_Pelikan
+https://github.com/seanpm2001/opensource-website -> https://github.com/seanpm2001/Twitter_OpenSource-Website
+https://github.com/seanpm2001/metrics -> https://github.com/seanpm2001/Twitter_Metrics
+https://github.com/seanpm2001/scala_school -> https://github.com/seanpm2001/Twitter_Scala_School
+https://github.com/seanpm2001/chill -> https://github.com/seanpm2001/Twitter_Chill
+https://github.com/seanpm2001/algebird -> https://github.com/seanpm2001/Twitter_AlgeBird
+https://github.com/seanpm2001/scrooge -> https://github.com/seanpm2001/Twitter_Scrooge
+https://github.com/seanpm2001/rustcommon -> https://github.com/seanpm2001/Twitter_RustCommon
+https://github.com/seanpm2001/compose-rules -> https://github.com/seanpm2001/Twitter_Compose-Rules
+https://github.com/seanpm2001/twitter-text -> https://github.com/seanpm2001/Twitter_Twitter-Text
+https://github.com/seanpm2001/twitter-server -> https://github.com/seanpm2001/Twitter_Twitter-Server
+@seanwallawalla
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Swift-Apple-
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Diff
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Genie
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Haskell
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_HTML
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Pascal
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Julia
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_JavaScript
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Java
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_CSound
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Jython
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_JScript
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_IntelHexBinary
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_M4
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Markdown
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_MediaWiki
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_MSDOS-Style
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Objective-C
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Objective-J
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_PostScript
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_PowerShell
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Blockly
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_ReStructuredText
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Ruby
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Rust

@@ -1,0 +1,53 @@
+@seanpm2001
+https://github.com/seanpm2001/language-property-list -> https://github.com/seanpm2001/Atom_Language-Property-List
+https://github.com/seanpm2001/generator-atom-npm -> https://github.com/seanpm2001/Atom_Generator-Atom-NPM
+https://github.com/seanpm2001/background-tips -> https://github.com/seanpm2001/Atom_Background-Tips
+https://github.com/seanpm2001/text-buffer -> https://github.com/seanpm2001/Atom_Text-Buffer
+https://github.com/seanpm2001/autosave -> https://github.com/seanpm2001/Atom_AutoSave
+https://github.com/seanpm2001/ascii-art -> https://github.com/seanpm2001/Atom_ASCII-Art
+https://github.com/seanpm2001/sort-lines -> https://github.com/seanpm2001/Atom_Sort-Lines
+https://github.com/seanpm2001/encoding-selector -> https://github.com/seanpm2001/Atom_Encoding-Selector
+https://github.com/seanpm2001/loophole -> https://github.com/seanpm2001/Atom_LoopHole
+https://github.com/seanpm2001/legal-eagle -> https://github.com/seanpm2001/Atom_Legal-Eagle
+https://github.com/seanpm2001/require-snapshot -> https://github.com/seanpm2001/Atom_Require-Snapshot
+https://github.com/seanpm2001/atom-selector-linter -> https://github.com/seanpm2001/Atom_Atom-Selector-Linter
+https://github.com/seanpm2001/atom-space-pen-views -> https://github.com/seanpm2001/Atom_Atom-Space-Pen-Views
+https://github.com/seanpm2001/elmer -> https://github.com/seanpm2001/Atom_Elmer
+https://github.com/seanpm2001/text-transforms -> https://github.com/seanpm2001/Atom_Text-Transforms
+https://github.com/seanpm2001/theorist -> https://github.com/seanpm2001/Atom_Theorist
+https://github.com/seanpm2001/revert-buffer -> https://github.com/seanpm2001/Atom_Revert-Buffer
+https://github.com/seanpm2001/language-python -> https://github.com/seanpm2001/Atom_Language-Python
+https://github.com/seanpm2001/language-perl -> https://github.com/seanpm2001/Atom_Language-Perl
+https://github.com/seanpm2001/language-objective-c -> https://github.com/seanpm2001/Atom_Language-Objective-C
+https://github.com/seanpm2001/language-mustache -> https://github.com/seanpm2001/Atom_Language-Mustache
+https://github.com/seanpm2001/language-yaml -> https://github.com/seanpm2001/Atom_Language-YAML
+https://github.com/seanpm2001/language-todo -> https://github.com/seanpm2001/Atom_Language-ToDo
+@seanwallawalla
+[ALREADY FORKED] https://github.com/seanwallawalla/BlazeOS_Userland
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Earthly
+[ALREADY FORKED] https://github.com/seanwallawalla/Google-security-issues
+https://github.com/seanwallawalla/Learn-Earthly
+[ALREADY FORKED] https://github.com/seanwallawalla/Degoogled_Android_Phone_VM_Research
+https://github.com/seanwallawalla/SeansLifeArchive_Images_GNOME_GIMP
+https://github.com/seanwallawalla/Learn-Squirrel
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Squirrel
+https://github.com/seanwallawalla/BlazeOS_Peak
+https://github.com/seanwallawalla/BlazeOS_Peak_Video
+https://github.com/seanwallawalla/WYII-TrendTool
+https://github.com/seanwallawalla/Learn-Singularity
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Singularity
+https://github.com/seanwallawalla/Learn-GSC
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_GSC
+https://github.com/seanwallawalla/Learn-Alloy
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Alloy
+https://github.com/seanwallawalla/Learn-QT-Script
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_QT-Script
+https://github.com/seanwallawalla/Learn-GDB
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_GDB
+https://github.com/seanwallawalla/Learn-Procfile
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Procfile
+https://github.com/seanwallawalla/VirtualBox_PlusPlus
+https://github.com/seanwallawalla/SeansLifeArchive_Images_KDE_Kapman
+https://github.com/seanwallawalla/SeansLifeArchive_Images_KDE_Granatier
+https://github.com/seanwallawalla/SeansLifeArchive_Images_KDE_KBreakout
+https://github.com/seanwallawalla/SeansLifeArchive_Images_KDE_KFourInLine

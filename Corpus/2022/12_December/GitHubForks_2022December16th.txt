@@ -1,0 +1,48 @@
+@seanpm2001
+https://github.com/seanpm2001/star -> https://github.com/seanpm2001/Rakudo_Star
+https://github.com/seanpm2001/idea-jflex -> https://github.com/seanpm2001/JFlex-DE_Idea-JFlex
+https://github.com/seanpm2001/jflex.tmbundle -> https://github.com/seanpm2001/JFlex-DE_JFlex.TMBundle
+https://github.com/seanpm2001/jflex-web -> https://github.com/seanpm2001/JFlex-DE_JFlex-Web
+https://github.com/seanpm2001/jflex -> https://github.com/seanpm2001/JFlex-DE_JFlex
+https://github.com/seanpm2001/bazel_rules -> https://github.com/seanpm2001/JFlex-DE_Bazel_Rules
+https://github.com/seanpm2001/fbforum -> https://github.com/seanpm2001/FreeBasic_FBForum -> https://github.com/seanpm2001/FreeBASIC_FBForum
+https://github.com/seanpm2001/fbfrog -> https://github.com/seanpm2001/FreeBasic_FBFrog -> https://github.com/seanpm2001/FreeBASIC_FBFrog
+https://github.com/seanpm2001/fbc -> https://github.com/seanpm2001/FreeBASIC_FBC
+https://github.com/seanpm2001/fbbindings -> https://github.com/seanpm2001/FreeBASIC_FBBindings
+https://github.com/seanpm2001/homebrew-tap -> https://github.com/seanpm2001/Macaulay2_HomeBrew-Tap
+https://github.com/seanpm2001/proguard -> https://github.com/seanpm2001/GuardSquare_ProGuard
+https://github.com/seanpm2001/listen -> https://github.com/seanpm2001/Guard_Listen
+https://github.com/seanpm2001/notiffany -> https://github.com/seanpm2001/GUard_Notiffany -> https://github.com/seanpm2001/Guard_Notiffany
+https://github.com/seanpm2001/shellany -> https://github.com/seanpm2001/Guard_Shellany
+https://github.com/seanpm2001/rb-fsevent -> https://github.com/seanpm2001/Guard_RB-FSevent
+https://github.com/seanpm2001/guard-rspec -> https://github.com/seanpm2001/Guard_Guard-RSpec
+https://github.com/seanpm2001/guard-livereload -> https://github.com/seanpm2001/Guard_Guard-LiveReload
+https://github.com/seanpm2001/rb-inotify -> https://github.com/seanpm2001/Guard_RB-iNotify
+https://github.com/seanpm2001/guard-test -> https://github.com/seanpm2001/Guard_Guard-Test
+https://github.com/seanpm2001/guard-nanoc -> https://github.com/seanpm2001/Guard_Guard-Nanoc
+@seanwallawalla
+https://github.com/seanwallawalla/SNU-TimeMachine.github.io
+https://github.com/seanwallawalla/TouchPetsDogs2Rewritten.github.io
+https://github.com/seanwallawalla/Engineer-Superdesk.github.io
+https://github.com/seanwallawalla/SNU-Programming-Tools.github.io
+https://github.com/seanwallawalla/Seanpm2001-Testing.github.io
+https://github.com/seanwallawalla/seanwallawalla-testing.github.io
+https://github.com/seanwallawalla/Degoogle-your-life.github.io
+https://github.com/seanwallawalla/Seanpm2001-Health.github.io
+https://github.com/seanwallawalla/Seanwallawalla-health.github.io
+https://github.com/seanwallawalla/Computing-longevity.github.io
+https://github.com/seanwallawalla/Medical-ethics.github.io
+https://github.com/seanwallawalla/Snail-bob-maker.github.io
+https://github.com/seanwallawalla/UltimateCalculator.github.io
+https://github.com/seanwallawalla/Cyborg-System-Monitor.github.io
+https://github.com/seanwallawalla/Virg-io-dev.github.io
+https://github.com/seanwallawalla/Self-Care-Bot.github.io
+https://github.com/seanwallawalla/GratyBot.github.io
+https://github.com/seanwallawalla/BluPhone.github.io
+https://github.com/seanwallawalla/The-Pirates-Copy.github.io
+https://github.com/seanwallawalla/NimbleBit-Glossary.github.io
+https://github.com/seanwallawalla/SNU-Beliefs.github.io
+https://github.com/seanwallawalla/Seanpm2001-Blocklist.github.io
+https://github.com/seanwallawalla/Portal-Voice-Assistant.github.io
+https://github.com/seanwallawalla/Underune-maker.github.io
+https://github.com/seanwallawalla/Numeric-Liberation-Front.github.io

@@ -1,0 +1,47 @@
+@seanpm2001
+https://github.com/seanpm2001/input-samples -> https://github.com/seanpm2001/Android_Input-Samples
+https://github.com/seanpm2001/fit-samples -> https://github.com/seanpm2001/Android_Fit-Samples
+https://github.com/seanpm2001/topeka -> https://github.com/seanpm2001/Android_Topeka
+https://github.com/seanpm2001/sensors-samples -> https://github.com/seanpm2001/Android_Sensors-Samples
+https://github.com/seanpm2001/.github-1 -> https://github.com/seanpm2001/Android.github
+https://github.com/seanpm2001/xAnd11 -> https://github.com/seanpm2001/Android_xAnd11
+https://github.com/seanpm2001/android-ktx -> https://github.com/seanpm2001/Android_Android-KTX
+https://github.com/seanpm2001/kotlin-guides -> https://github.com/seanpm2001/Android_Kotlin-Guides
+https://github.com/seanpm2001/kotlin-multiplatform-samples -> https://github.com/seanpm2001/Android_Kotlin-MultiPlatform-Samples
+https://github.com/seanpm2001/car-samples -> https://github.com/seanpm2001/Android_Car-Samples
+https://github.com/seanpm2001/neural-networks-samples -> https://github.com/seanpm2001/Android_Neural-Networks-Samples
+https://github.com/seanpm2001/renderscript-samples -> https://github.com/seanpm2001/Android_RenderScript-Samples
+https://github.com/seanpm2001/packager-manager-samples -> https://github.com/seanpm2001/Android_Packager-Manager-Samples
+https://github.com/seanpm2001/android-studio-poet -> https://github.com/seanpm2001/Android_Android-Studio-Poet
+https://github.com/seanpm2001/remote-provisioning-cbor -> https://github.com/seanpm2001/Android_Remote-Provisioning-CBOR
+https://github.com/seanpm2001/user-interface-samples -> https://github.com/seanpm2001/Android_User-Interface-Samples
+https://github.com/seanpm2001/security-samples -> https://github.com/seanpm2001/Android_Security-Samples
+@seanwallawalla
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Gherkin
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Befunge
+https://github.com/seanwallawalla/Learn-S-RECODE-Template
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_S-RECODE-Template
+https://github.com/seanwallawalla/Learn-TXL
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_TXL
+https://github.com/seanwallawalla/Learn-Module-Management-System
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Module-Management-System
+https://github.com/seanwallawalla/Learn-LiveScript
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_LiveScript
+https://github.com/seanwallawalla/Learn-Wierd
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Wierd
+https://github.com/seanwallawalla/Learn-Augeas
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Augeas
+https://github.com/seanwallawalla/Learn-OpenCL
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_OpenCL
+https://github.com/seanwallawalla/Learn-X-Pixmap
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_X-Pixmap
+https://github.com/seanwallawalla/Learn-FP
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_FP
+https://github.com/seanwallawalla/Learn-CH
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_CH
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_MoonScript
+https://github.com/seanwallawalla/Learn-PLSQL
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_IDL
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_PLSQL
+https://github.com/seanwallawalla/Learn-TSX
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_TSX

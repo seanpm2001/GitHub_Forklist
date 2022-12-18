@@ -1,0 +1,43 @@
+@seanwallawalla
+https://github.com/seanwallawalla/Template_SNU_V4
+https://github.com/seanwallawalla/Template_Other_V1
+https://github.com/seanwallawalla/Template_Other_V2
+https://github.com/seanwallawalla/Template_Other_V3
+https://github.com/seanwallawalla/Template_LifeArchive_Map_V1
+https://github.com/seanwallawalla/Template_Other_V4
+https://github.com/seanwallawalla/Template_SNU_2D_ProgrammingTools_V4
+https://github.com/seanwallawalla/Template_GitHubPages_V1
+https://github.com/seanwallawalla/Template_GitHubPages_V2
+https://github.com/seanwallawalla/Template_GitHubPages_V3
+https://github.com/seanwallawalla/Snapcraft-template
+https://github.com/seanwallawalla/Snapcraft-template_V2
+https://github.com/seanwallawalla/My-Linux-setup
+https://github.com/seanwallawalla/SeansLifeArchive_Images_Linux
+https://github.com/seanwallawalla/Linux.Home
+https://github.com/seanwallawalla/Linux.Ubuntu.SnapPackages
+https://github.com/seanwallawalla/Linux-computer-compatibility
+https://github.com/seanwallawalla/Linux.home.Documents
+https://github.com/seanwallawalla/Linux.home.Videos
+https://github.com/seanwallawalla/Linux.linux
+https://github.com/seanwallawalla/Linux.Trash
+https://github.com/seanwallawalla/Linux.Desktop
+https://github.com/seanwallawalla/Linux.Pictures
+https://github.com/seanwallawalla/Linux.Music
+https://github.com/seanwallawalla/Linux.Public
+@seanpm2001
+[ALREADY FORKED] https://github.com/seanpm2001/docs -> https://github.com/seanpm2001/GitHub_Docs
+https://github.com/seanpm2001/roast -> https://github.com/seanpm2001/Raku_Roast
+https://github.com/seanpm2001/ecosystem -> https://github.com/seanpm2001/Raku_Ecosystem
+[ALREADY FORKED] https://github.com/Raku/doc
+https://github.com/seanpm2001/nqp -> https://github.com/seanpm2001/Raku_NQP
+https://github.com/seanpm2001/Raku-Steering-Council -> https://github.com/seanpm2001/Raku_Raku-Steering-Council
+https://github.com/seanpm2001/mu -> https://github.com/seanpm2001/Raku_Mu
+https://github.com/seanpm2001/RakudoCIBot -> https://github.com/seanpm2001/Raku_RakudoCIBot
+https://github.com/seanpm2001/advent -> https://github.com/seanpm2001/Raku_Advent
+https://github.com/seanpm2001/raku.org -> https://github.com/seanpm2001/Raku_Raku.org
+https://github.com/seanpm2001/App-Rakubrew -> https://github.com/seanpm2001/Raku_App-Rakubrew
+https://github.com/seanpm2001/scipy-2016-tutorial -> https://github.com/seanpm2001/SymPy_SciPy-2016-Tutorial
+https://github.com/seanpm2001/planet.sympy.org -> https://github.com/seanpm2001/SymPy_Planet.SymPy.org
+https://github.com/seanpm2001/svn_materials -> https://github.com/seanpm2001/SymPy_SVN_Materials
+https://github.com/seanpm2001/svn_branches -> https://github.com/seanpm2001/SymPy_SVN_Branches
+https://github.com/seanpm2001/sympy-bot-old -> https://github.com/seanpm2001/SymPy_SymPy-Bot-Old

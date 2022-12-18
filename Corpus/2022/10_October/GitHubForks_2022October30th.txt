@@ -1,0 +1,40 @@
+@seanpm2001
+https://github.com/seanpm2001/museum-items -> https://github.com/seanpm2001/Raku_Museum-Items
+https://github.com/seanpm2001/toolchain-bikeshed -> https://github.com/seanpm2001/Raku_Toolchain-Bikeshed
+https://github.com/seanpm2001/pugs-perl-modules -> https://github.com/seanpm2001/Raku_Pugs-Perl-Modules
+https://github.com/seanpm2001/cson -> https://github.com/seanpm2001/Sunchb_CSON
+https://github.com/seanpm2001/cson -> https://github.com/seanpm2001/Bevry_CSON
+https://github.com/seanpm2001/speak.js -> https://github.com/seanpm2001/Kripken_Speak.js
+https://github.com/seanpm2001/espeak-ng -> https://github.com/seanpm2001/ESpeak-NG_eSpeak-NG
+https://github.com/seanpm2001/pcaudiolib -> https://github.com/seanpm2001/ESpeak-NG_PCAudioLIB
+https://github.com/seanpm2001/klatt -> https://github.com/seanpm2001/ESpeak-NG_Klatt
+https://github.com/seanpm2001/jasmine -> https://github.com/seanpm2001/Jasmine_Jasmine
+https://github.com/seanpm2001/z -> https://github.com/seanpm2001/Raku_Z
+https://github.com/seanpm2001/evalbot -> https://github.com/seanpm2001/Raku_EvalBot
+https://github.com/seanpm2001/docker -> https://github.com/seanpm2001/Raku_Docker
+@seanwallawalla
+https://github.com/seanwallawalla/SNU_2D_News
+https://github.com/seanwallawalla/SNU_2D_NewYearsSNUPage
+https://github.com/seanwallawalla/SNU_2D_SNUNews
+https://github.com/seanwallawalla/SNU_--New
+https://github.com/seanwallawalla/OuterVM-Mouse
+https://github.com/seanwallawalla/PYVM
+https://github.com/seanwallawalla/Meadows_DevMod_pre-development_files
+https://github.com/seanwallawalla/Meadows_Mod_Mode_VM_center_mode
+https://github.com/seanwallawalla/SNU_2D_VMCenter
+https://github.com/seanwallawalla/SeansLifeArchive_Images_Virtual-City-Playground
+https://github.com/seanwallawalla/SeansLifeArchive_Images_VirtualBox
+https://github.com/seanwallawalla/VirtualHome-app
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_VirtualHardDiskLanguage
+https://github.com/seanwallawalla/PVZ_Custom
+https://github.com/seanwallawalla/SeansLifeArchive_Images_PVZ2
+https://github.com/seanwallawalla/SeansLifeArchive_Extras_MarineBiology
+https://github.com/seanwallawalla/SeansLifeArchive_Extras_Ornithology
+https://github.com/seanwallawalla/SeansLifeArchive_Extras_BotanyProject
+https://github.com/seanwallawalla/SeansLifeArchive_Images_edhesive
+https://github.com/seanwallawalla/UShortcut_Pro
+https://github.com/seanwallawalla/ScriptKidd_ToolKit
+https://github.com/seanwallawalla/SourceBase
+https://github.com/seanwallawalla/SNU_2D_ValveLegendsResources
+https://github.com/seanwallawalla/SeansLifeArchive_Images_Google-Sites-resources
+https://github.com/seanwallawalla/SNU_2D_Meme_Gen

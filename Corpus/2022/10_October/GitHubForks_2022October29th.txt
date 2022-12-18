@@ -1,0 +1,41 @@
+@seanpm2001
+https://github.com/seanpm2001/sympygamma.com -> https://github.com/seanpm2001/SymPy_Sympygamma.com
+https://github.com/seanpm2001/sympy-old -> https://github.com/seanpm2001/SymPy_SymPy-Old
+https://github.com/seanpm2001/features -> https://github.com/seanpm2001/Raku_Features
+https://github.com/seanpm2001/user-experience -> https://github.com/seanpm2001/Raku_User-Experience
+https://github.com/seanpm2001/old-design-docs -> https://github.com/seanpm2001/Raku_Old-Design-Docs
+https://github.com/seanpm2001/hacktoberfest -> https://github.com/seanpm2001/Raku_Hacktoberfest
+https://github.com/seanpm2001/survey -> https://github.com/seanpm2001/Raku_Survey
+https://github.com/seanpm2001/infrastructure-doc -> https://github.com/seanpm2001/Raku_Infrastructure-Doc
+https://github.com/seanpm2001/old-issue-tracker -> https://github.com/seanpm2001/Raku_Old-Issue-Tracker
+https://github.com/seanpm2001/Documentable-backup -> https://github.com/seanpm2001/Raky_Documentable-Backup -> https://github.com/seanpm2001/Raku_Documentable-Backup
+https://github.com/seanpm2001/github-workflow-examples -> https://github.com/seanpm2001/Raku_GitHub-Workflow-Examples
+https://github.com/seanpm2001/tap-harness6 -> https://github.com/seanpm2001/Raku_Tap-Harness6
+https://github.com/seanpm2001/IRC-logs -> https://github.com/seanpm2001/Raku_IRC-Logs
+@seanwallawalla
+https://github.com/seanwallawalla/Why-you-should-avoid-Google-AMP
+https://github.com/seanwallawalla/SNU_2D_YourSpace
+https://github.com/seanwallawalla/SNU_2D_YouTubeMode
+https://github.com/seanwallawalla/-microMiniwave
+https://github.com/seanwallawalla/Branch-Ranch
+https://github.com/seanwallawalla/Ratiyo
+https://github.com/seanwallawalla/Coloress
+https://github.com/seanwallawalla/SNU_ServerEssentials
+https://github.com/seanwallawalla/Character_Image_Research
+https://github.com/seanwallawalla/ReStructuredText_Sandbox
+https://github.com/seanwallawalla/SNU_LegalResourceCenter
+https://github.com/seanwallawalla/SeansLifeArchive_Images_Team-Fortress-2
+https://github.com/seanwallawalla/Personal-research-tank
+https://github.com/seanwallawalla/PrestigePreview
+[ALREADY FORKED] https://github.com/seanwallawalla/Fortran-fortress
+https://github.com/seanwallawalla/SNU_2D_SnapchatMode
+https://github.com/seanwallawalla/What-SNU-will-never-do
+https://github.com/seanwallawalla/Hatium
+https://github.com/seanwallawalla/SeansLifeArchive_Images_Hate-comments
+https://github.com/seanwallawalla/SNU_HateSpeechFilters
+https://github.com/seanwallawalla/OVPVMO-site
+https://github.com/seanwallawalla/Project-Quantum-OverDrive
+https://github.com/seanwallawalla/New-Years-Tag
+https://github.com/seanwallawalla/SirIsaacNewtonOS
+https://github.com/seanwallawalla/SirIsaacNewtonScript
+https://github.com/seanwallawalla/SNU_2D_Memes

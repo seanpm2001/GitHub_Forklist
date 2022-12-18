@@ -1,0 +1,47 @@
+@seanpm2001
+https://github.com/seanpm2001/fs-admin -> https://github.com/seanpm2001/Atom_FS-Admin
+https://github.com/seanpm2001/node-keytar -> https://github.com/seanpm2001/Atom_Node-Keytar
+https://github.com/seanpm2001/github -> https://github.com/seanpm2001/Atom_GitHub
+https://github.com/seanpm2001/flight-manual.atom.io -> https://github.com/seanpm2001/Atom_Flight-Manual.atom.io
+https://github.com/seanpm2001/teletype -> https://github.com/seanpm2001/Atom_Teletype
+https://github.com/seanpm2001/image-view -> https://github.com/seanpm2001/Atom_Image-View
+https://github.com/seanpm2001/spell-check -> https://github.com/seanpm2001/Atom_Spell-Check
+https://github.com/seanpm2001/language-typescript -> https://github.com/seanpm2001/Atom_Language-TypeScript
+https://github.com/seanpm2001/atom-select-list -> https://github.com/seanpm2001/Atom_Atom-Select-List
+https://github.com/seanpm2001/electron-link -> https://github.com/seanpm2001/Atom_Electron-Link
+https://github.com/seanpm2001/atom -> https://github.com/seanpm2001/Atom_Atom
+https://github.com/seanpm2001/node-ls-archive -> https://github.com/seanpm2001/Atom_Node-LS-Archive
+https://github.com/seanpm2001/node-ctags -> https://github.com/seanpm2001/Atom_Node-CTags
+https://github.com/seanpm2001/git-utils -> https://github.com/seanpm2001/Atom_Git-Utils
+https://github.com/seanpm2001/scandal -> https://github.com/seanpm2001/Atom_Scandal
+https://github.com/seanpm2001/first-mate -> https://github.com/seanpm2001/Atom_First-Mate
+https://github.com/seanpm2001/fs-plus -> https://github.com/seanpm2001/Atom_FS-Plus
+@seanwallawalla
+https://github.com/seanwallawalla/Learn-Prolog
+[ALREADY FORKED] https://github.com/seanwallawalla/Learn-Cython
+https://github.com/seanwallawalla/Learn-Agda
+https://github.com/seanwallawalla/Learn-Mathematica
+https://github.com/seanwallawalla/Learn-nesC
+https://github.com/seanwallawalla/Learn-QSharp
+https://github.com/seanwallawalla/Learn-Raku
+https://github.com/seanwallawalla/Learn-SciLab
+https://github.com/seanwallawalla/Learn-Haskell
+https://github.com/seanwallawalla/Learn-BrightScript
+[ALREADY FORKED] https://github.com/seanwallawalla/Learn-Lua
+https://github.com/seanwallawalla/Learn-XML
+https://github.com/seanwallawalla/Learn-Dylan
+https://github.com/seanwallawalla/Learn-Java
+https://github.com/seanwallawalla/Learn-GDScript
+https://github.com/seanwallawalla/Learn-Perl
+https://github.com/seanwallawalla/Learn-INI
+https://github.com/seanwallawalla/Learn-IDL
+https://github.com/seanwallawalla/Learn-Ballerina
+https://github.com/seanwallawalla/Learn-Julia
+https://github.com/seanwallawalla/Learn_V
+https://github.com/seanwallawalla/Learn-JavaScript
+https://github.com/seanwallawalla/Learn-FORTRAN
+[ALREADY FORKED] https://github.com/seanwallawalla/Learn-PHP
+https://github.com/seanwallawalla/Learn-RMarkdown
+https://github.com/seanwallawalla/Learn-Shell
+https://github.com/seanwallawalla/Learn-Inform
+https://github.com/seanwallawalla/Learn-Mercury

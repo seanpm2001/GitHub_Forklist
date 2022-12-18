@@ -1,0 +1,52 @@
+@seanpm2001
+https://github.com/seanpm2001/performance-comparisons -> https://github.com/seanpm2001/Gradle_Performance-Comparisons
+https://github.com/seanpm2001/gradle-enterprise-oss-projects -> https://github.com/seanpm2001/Gradle_Gradle-Enterprise-OSS-Projects
+https://github.com/seanpm2001/gradle-project-templates -> https://github.com/seanpm2001/Gradle_Gradle-Project-Templates
+https://github.com/seanpm2001/bt-dev-prod-data-collector -> https://github.com/seanpm2001/Gradle_BT-Dev-Prod-Data-Collector
+https://github.com/seanpm2001/test-retry-gradle-plugin -> https://github.com/seanpm2001/Gradle_Test-Retry-Gradle-Plugin
+https://github.com/seanpm2001/ge-customer-support-zendesk-theme -> https://github.com/seanpm2001/Gradle_GE-Customer-Support-ZenDesk-Theme
+https://github.com/seanpm2001/.github-1 -> https://github.com/seanpm2001/Gradle.github
+https://github.com/seanpm2001/wrapper-upgrade-gradle-plugin -> https://github.com/seanpm2001/Gradle_Wrapper-Upgrade-Gradle-Plugin
+https://github.com/seanpm2001/gradle-enterprise-testing-annotations -> https://github.com/seanpm2001/Gradle_Gradle-Enterprise-Testing-Annotations
+https://github.com/seanpm2001/perf-android-large-2 -> https://github.com/seanpm2001/Gradle_Perf-Android-Large-2
+https://github.com/seanpm2001/wrapper-validation-action -> https://github.com/seanpm2001/Gradle_Wrapper-Validation-ction -> https://github.com/seanpm2001/Gradle_Wrapper-Validation-Action
+https://github.com/seanpm2001/santa-tracker-performance -> https://github.com/seanpm2001/Gradle_Santa-Tracker-Performance
+https://github.com/seanpm2001/gradle-benchmark-base -> https://github.com/seanpm2001/Gradle_Gradle-Benchmark-Base
+https://github.com/seanpm2001/cc-hackathon-2022 -> https://github.com/seanpm2001/Gradle_CC-Hackathon-2022
+https://github.com/seanpm2001/configuration-cache-report -> https://github.com/seanpm2001/Gradle_Configuration-Cache-Report
+https://github.com/seanpm2001/source-resolution-demo -> https://github.com/seanpm2001/Gradle_Source-Resolution-Demo
+https://github.com/seanpm2001/native-platform -> https://github.com/seanpm2001/Gradle_Native-Platform
+https://github.com/seanpm2001/build-tool-training-exercises -> https://github.com/seanpm2001/Gradle_Build-Tool-Training-Exercises
+https://github.com/seanpm2001/provider-api-migration-testbed -> https://github.com/seanpm2001/Gradle_Provider-API-Migration-TestBed
+https://github.com/seanpm2001/gradle-completion -> https://github.com/seanpm2001/Gradle_Gradle-Completion
+https://github.com/seanpm2001/KEEP -> https://github.com/seanpm2001/Kotlin_KEEP
+https://github.com/seanpm2001/gradle-site-plugin -> https://github.com/seanpm2001/Gradle_Gradle-Site-Plugin
+https://github.com/seanpm2001/kotlin-dsl-conventions -> https://github.com/seanpm2001/Gradle_Kotlin-DSL-Conventions
+https://github.com/seanpm2001/exemplar -> https://github.com/seanpm2001/Gradle_Exemplar
+https://github.com/seanpm2001/build-tool-roadmap -> https://github.com/seanpm2001/Gradle_Build-Tool-Roadmap
+@seanwallawalla
+https://github.com/seanwallawalla/GK-Keyboard
+https://github.com/seanwallawalla/Kommunism
+https://github.com/seanwallawalla/Underune_Maker
+https://github.com/seanwallawalla/Polyworks-SquareOff
+https://github.com/seanwallawalla/Slick-LM
+https://github.com/seanwallawalla/DeskLocker
+https://github.com/seanwallawalla/README-Desktop-LIBrary
+https://github.com/seanwallawalla/Snail-bob-maker
+https://github.com/seanwallawalla/TalkScript
+https://github.com/seanwallawalla/WakeNote
+https://github.com/seanwallawalla/Python-Traceback-Examples
+https://github.com/seanwallawalla/Scratch_Master
+https://github.com/seanwallawalla/CompuBunker
+https://github.com/seanwallawalla/SNU_CardStack
+https://github.com/seanwallawalla/SNU_2D_Books
+https://github.com/seanwallawalla/Linux-Marketshare-Ping-Tool
+https://github.com/seanwallawalla/Stock-Elevator-LIBrary
+https://github.com/seanwallawalla/LinkLax
+https://github.com/seanwallawalla/CH3-c-K
+https://github.com/seanwallawalla/bitchecker
+https://github.com/seanwallawalla/Pynuke128
+https://github.com/seanwallawalla/TimeoutToolkit
+https://github.com/seanwallawalla/Backup-Automation-Build-Bot-Y
+https://github.com/seanwallawalla/Zoom-sucks
+https://github.com/seanwallawalla/Year-of-the-Linux-desktop

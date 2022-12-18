@@ -1,0 +1,59 @@
+@seanpm2001
+https://github.com/seanpm2001/addons -> https://github.com/seanpm2001/TensorFlow_Addons
+https://github.com/seanpm2001/hub -> https://github.com/seanpm2001/TensorFlow_Hub
+https://github.com/seanpm2001/benchmarks -> https://github.com/seanpm2001/TensorFlow_Benchmarks
+https://github.com/seanpm2001/model-optimization -> https://github.com/seanpm2001/TensorFlow_Model-Optimization
+https://github.com/seanpm2001/cloud -> https://github.com/seanpm2001/TensorFlow_Cloud
+https://github.com/seanpm2001/rust-2 -> https://github.com/seanpm2001/TensorFlow_Rust
+https://github.com/seanpm2001/nmt -> https://github.com/seanpm2001/TensorFlow_NMT
+https://github.com/seanpm2001/profiler -> https://github.com/seanpm2001/TensorFlow_Profiler
+https://github.com/seanpm2001/quantum -> https://github.com/seanpm2001/TensorFlow_Quantum
+https://github.com/seanpm2001/tcav -> https://github.com/seanpm2001/TensorFlow_TCAV
+https://github.com/seanpm2001/compression -> https://github.com/seanpm2001/TensorFlow_Compression
+https://github.com/seanpm2001/model-card-toolkit -> https://github.com/seanpm2001/TensorFlow_Model-Card-ToolKit
+https://github.com/seanpm2001/tpu -> https://github.com/seanpm2001/TensorFlow_TPU
+https://github.com/seanpm2001/fairness-indicators -> https://github.com/seanpm2001/TensorFlow_Fairness-Indicators
+https://github.com/seanpm2001/graphics -> https://github.com/seanpm2001/TensorFlow_Graphics
+https://github.com/seanpm2001/ecosystem -> https://github.com/seanpm2001/TensorFlow_EcoSystem
+https://github.com/seanpm2001/mesh -> https://github.com/seanpm2001/TensorFlow_Mesh
+https://github.com/seanpm2001/dtensor-gcp-examples -> https://github.com/seanpm2001/TensorFlow_DTensor-GCP-Examples
+https://github.com/seanpm2001/build -> https://github.com/seanpm2001/TensorFlow_Build
+@seanwallawalla
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Lisp_-LISt_Processor-
+[ALREADY FORKED] https://github.com/seanwallawalla/Objective-JSharp
+[ALREADY FORKED] https://github.com/seanwallawalla/Military-ethics
+[ALREADY FORKED] https://github.com/seanwallawalla/uOffice_LIBrary_DVCS
+[ALREADY FORKED] https://github.com/seanwallawalla/ReStructuredText_Sandbox
+https://github.com/seanwallawalla/Makefile_Testing
+https://github.com/seanwallawalla/SSS_FlightTracker
+https://github.com/seanwallawalla/SSS_Elf
+https://github.com/seanwallawalla/SSS_ProgrammerTidbits
+https://github.com/seanwallawalla/Learn-Miranda
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Miranda
+https://github.com/seanwallawalla/Learn-ML
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_ML
+[ALREADY FORKED] https://github.com/seanwallawalla/Linux-computer-compatibility
+https://github.com/seanwallawalla/SeansLifeArchive_Images_LegoTower_Y2023
+https://github.com/seanwallawalla/Learn-Piglatin
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_ApachePig
+https://github.com/seanwallawalla/Learn-J
+https://github.com/seanwallawalla/Learn-REBOL
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_REBOL
+https://github.com/seanwallawalla/Learn-Macaulay2
+https://github.com/seanwallawalla/Learn-PureBasic
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_PureBASIC
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Macaulay2
+https://github.com/seanwallawalla/SSS_ChristmasArcade
+https://github.com/seanwallawalla/SSS_Client
+https://github.com/seanwallawalla/Learn-Ragel
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Ragel
+https://github.com/seanwallawalla/Learn-Motoko
+https://github.com/seanwallawalla/Learn-Verilog
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Verilog
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Motoko
+https://github.com/seanwallawalla/Learn-Refal
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Refal
+https://github.com/seanwallawalla/Learn-SCSS
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_SCSS
+https://github.com/seanwallawalla/Learn-Nemerle
+https://github.com/seanwallawalla/Learn-Sed

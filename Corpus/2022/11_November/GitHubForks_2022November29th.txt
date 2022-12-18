@@ -1,0 +1,60 @@
+@seanpm2001
+https://github.com/seanpm2001/pc-amd64-gadget -> https://github.com/seanpm2001/SnapCore_PC-AMD64-Gadget
+https://github.com/seanpm2001/pi2-gadget -> https://github.com/seanpm2001/SnapCore_Pi2-Gadget
+https://github.com/seanpm2001/snap-confine -> https://github.com/seanpm2001/SnapCore_Snap-Confine
+https://github.com/seanpm2001/cm3-gadget -> https://github.com/seanpm2001/SnapCore_CM3-Gadget
+https://github.com/seanpm2001/snapd-plus-vendor -> https://github.com/seanpm2001/SnapCore_SnapD-Plus-Vendor
+https://github.com/seanpm2001/spread -> https://github.com/seanpm2001/SnapCore_Spread
+https://github.com/seanpm2001/snapdocs -> https://github.com/seanpm2001/SnapCore_SnapDocs
+https://github.com/seanpm2001/classic-snap -> https://github.com/seanpm2001/SnapCore_Classic-Snap
+https://github.com/seanpm2001/snapd-testing-tools -> https://github.com/seanpm2001/SnapCore_SnapD-Testing-Tools
+https://github.com/seanpm2001/core-initrd -> https://github.com/seanpm2001/SnapCore_Core-InitRD
+https://github.com/seanpm2001/base-18 -> https://github.com/seanpm2001/SnapCore_Base-18
+https://github.com/seanpm2001/snapd-xdg-open -> https://github.com/seanpm2001/SnapCore_SnapD-XDG-Open
+https://github.com/seanpm2001/sample-kernels -> https://github.com/seanpm2001/SnapCore_Sample-Kernels
+[ALREADY FORKED] https://github.com/seanpm2001/Snapcore_SnapD-Desktop-Integration
+https://github.com/seanpm2001/secboot -> https://github.com/seanpm2001/SnapCore_SecBoot
+https://github.com/seanpm2001/pc-i386-gadget -> https://github.com/seanpm2001/SnapCore_PC-i386-Gadget
+https://github.com/seanpm2001/action-build -> https://github.com/seanpm2001/SnapCore_Action-Build
+https://github.com/seanpm2001/meta-snapd -> https://github.com/seanpm2001/SnapCore_Meta-SnapD
+@seanwallawalla
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Haskell
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Joy
+https://github.com/seanwallawalla/Learn-Jade
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Hack
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Jade
+https://github.com/seanwallawalla/Learn-Mallard
+https://github.com/seanwallawalla/Learn-TLA
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_TLA
+https://github.com/seanwallawalla/Learn-AIDL
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_AIDL
+https://github.com/seanwallawalla/Learn-CodeQL
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_CodeQL
+https://github.com/seanwallawalla/Learn-ReScript
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_ReScript
+https://github.com/seanwallawalla/Learn-GN
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_GN
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Idris
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Mallard
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_ImageJ
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_FORTRAN_-FORmula_TRANslation-
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_GDScript
+https://github.com/seanwallawalla/Learn-ANTLR
+https://github.com/seanwallawalla/Learn-SASS
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_SASS
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_ANTLR
+https://github.com/seanwallawalla/Learn-CLIPS
+https://github.com/seanwallawalla/Learn-B
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_B
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_CLIPS
+https://github.com/seanwallawalla/Learn-SGML
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_SGML_-Standard_Generalized_Markup_Language-
+https://github.com/seanwallawalla/Learn-ALS
+https://github.com/seanwallawalla/Learn-S-RECORD
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_SREC-MotorolaS-RecordBinaryData-
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_ALS
+https://github.com/seanwallawalla/Learn-Starlark
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Starlark
+https://github.com/seanwallawalla/Learn-CommonWorkflowLanguage
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Inform
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_CommonWorkflowLanguage

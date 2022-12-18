@@ -1,0 +1,57 @@
+@seanpm2001
+https://github.com/seanpm2001/snap-store-badges -> https://github.com/seanpm2001/SnapCore_Snap-Store-Badges
+https://github.com/seanpm2001/pi3-gadget -> https://github.com/seanpm2001/SnapCore_Pi3-Gadget
+https://github.com/seanpm2001/core16 -> https://github.com/seanpm2001/SnapCore_Core16
+https://github.com/seanpm2001/core-splash -> https://github.com/seanpm2001/SnapCore_Core-Splash
+https://github.com/seanpm2001/snapweb -> https://github.com/seanpm2001/SnapCore_SnapWeb
+https://github.com/seanpm2001/snapcraft-preloads -> https://github.com/seanpm2001/SnapCore_SnapCraft-PreLoads
+https://github.com/seanpm2001/fc-cache-static-builder -> https://github.com/seanpm2001/SnapCore_FC-Cache-Static-Builder
+https://github.com/seanpm2001/core-build -> https://github.com/seanpm2001/SnapCore_Core-Build
+https://github.com/seanpm2001/bare-base -> https://github.com/seanpm2001/SnapCore_Bare-Base
+https://github.com/seanpm2001/dragonboard-gadget -> https://github.com/seanpm2001/SnapCore_DragonBoard-Gadget
+https://github.com/seanpm2001/action-publish -> https://github.com/seanpm2001/SnapCore_Action-Publish
+https://github.com/seanpm2001/maze.io-x-crypto -> https://github.com/seanpm2001/SnapCore_Maze.io-X-Crypto
+https://github.com/seanpm2001/core -> https://github.com/seanpm2001/SnapCore_Core
+https://github.com/seanpm2001/core18 -> https://github.com/seanpm2001/SnapCore_Core18
+https://github.com/seanpm2001/test-snapd-cups-consumer -> https://github.com/seanpm2001/SnapCore_Test-SnapD-Cups-Consumer
+@seanwallawalla
+https://github.com/seanwallawalla/Learn-ABAP
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_ABAP
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_CMake
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_QMake
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_D
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_HiveQL
+https://github.com/seanwallawalla/Learn-PureData
+https://github.com/seanwallawalla/Learn-Hope
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Hope
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_PureData
+https://github.com/seanwallawalla/Learn-NGINX
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_NGINX
+https://github.com/seanwallawalla/Learn-AL
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_AL
+https://github.com/seanwallawalla/Learn-BASIC
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_BASIC
+https://github.com/seanwallawalla/Learn-ALGOL
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_ALGOL
+https://github.com/seanwallawalla/Learn-XQuery
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Docker
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_XQuery
+https://github.com/seanwallawalla/Learn-GCC-Machine-Description
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Eiffel
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Elixir
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Erlang
+https://github.com/seanwallawalla/Learn-Epigram
+https://github.com/seanwallawalla/Learn-Orwell
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Orwell
+https://github.com/seanwallawalla/Learn-Thrift
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Thrift
+https://github.com/seanwallawalla/Learn-NextFlow
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_NextFlow
+[ALREADY FORKED] https://github.com/seanwallawalla/Learn-GCC-Machine-Description
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Epigram
+https://github.com/seanwallawalla/Learn-Self
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_GCC-Machine-Description
+https://github.com/seanwallawalla/Learn-HolyC
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Self
+https://github.com/seanwallawalla/Learn-Joy
+

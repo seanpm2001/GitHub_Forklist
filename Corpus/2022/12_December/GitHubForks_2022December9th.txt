@@ -1,0 +1,46 @@
+@seanpm2001
+https://github.com/seanpm2001/deque -> https://github.com/seanpm2001/Discord_Deque
+https://github.com/seanpm2001/discord-oauth2-example -> https://github.com/seanpm2001/Discord_Discord-OAuth2-Example
+https://github.com/seanpm2001/libnice -> https://github.com/seanpm2001/Discord_LIBNice
+https://github.com/seanpm2001/sqlite3 -> https://github.com/seanpm2001/Discord_SQLite3
+https://github.com/seanpm2001/libvpx -> https://github.com/seanpm2001/Discord_LIBVPX
+https://github.com/seanpm2001/chromium-build -> https://github.com/seanpm2001/Discord_Chromium-Build
+https://github.com/seanpm2001/discord_vigilante -> https://github.com/seanpm2001/Discord_Discord_Vigilante
+https://github.com/seanpm2001/punt -> https://github.com/seanpm2001/Discord_Punt
+https://github.com/seanpm2001/lilliput-bench -> https://github.com/seanpm2001/Discord_Lilliput-Bench
+https://github.com/seanpm2001/postcss-theme-shorthand -> https://github.com/seanpm2001/Discord_PostCSS-Theme-Shorthand
+https://github.com/seanpm2001/rapidxml -> https://github.com/seanpm2001/Discord_RapidXML
+https://github.com/seanpm2001/slate-package-fork -> https://github.com/seanpm2001/Discord_Slate-Package-Fork
+https://github.com/seanpm2001/discord-react-forms -> https://github.com/seanpm2001/Discord_Discord-React-Forms
+https://github.com/seanpm2001/openh264 -> https://github.com/seanpm2001/Discord_OpenH264
+https://github.com/seanpm2001/lua-mode -> https://github.com/seanpm2001/Immerrr_Lua-Mode
+https://github.com/seanpm2001/tfjs -> https://github.com/seanpm2001/TensorFlow_TFJS
+https://github.com/seanpm2001/text -> https://github.com/seanpm2001/TensorFlow_Text
+https://github.com/seanpm2001/recommenders-addons -> https://github.com/seanpm2001/TensorFlow_Recommenders-Addons
+@seanwallawalla
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_CAP-CDS
+https://github.com/seanwallawalla/Learn-Jetbrains-MPS
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Jetbrains-MPS
+https://github.com/seanwallawalla/Scope
+https://github.com/seanwallawalla/uOffice_JokePrograms_PieMan
+https://github.com/seanwallawalla/SeansLifeArchive_Images_GitHub_Y2023
+https://github.com/seanwallawalla/Seanpm2001-Hacktoberfest
+https://github.com/seanwallawalla/Learn-ASP
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_ASP
+https://github.com/seanwallawalla/Learn-ASP.NET
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_ASP.NET
+https://github.com/seanwallawalla/Learn-BSDL
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_BSDL
+https://github.com/seanwallawalla/Learn-FLUX
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_FLUX
+https://github.com/seanwallawalla/Learn-BibTeX
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_BibTeX
+https://github.com/seanwallawalla/Learn-CAP-CDS
+https://github.com/seanwallawalla/Seanpm2001-Specifications
+https://github.com/seanwallawalla/SourceCode_StyleGuide
+https://github.com/seanwallawalla/SeansLifeArchive_Images_Bit_City_-NimbleBit_Game-_Y2023
+https://github.com/seanwallawalla/Learn-Genie
+https://github.com/seanwallawalla/Learn-Cap-n-Proto
+https://github.com/seanwallawalla/Learn-Coq
+https://github.com/seanwallawalla/Learn-CSound
+https://github.com/seanwallawalla/Learn-CSound-Document

@@ -1,0 +1,55 @@
+@seanpm2001
+https://github.com/seanpm2001/camera-samples -> https://github.com/seanpm2001/Android_Camera-Samples
+https://github.com/seanpm2001/games-samples -> https://github.com/seanpm2001/Android_Games-Samples
+https://github.com/seanpm2001/midi-samples -> https://github.com/seanpm2001/Android_MIDI-Samples
+https://github.com/seanpm2001/configDotfiles -> https://github.com/seanpm2001/Ypraw_configDotfiles
+https://github.com/seanpm2001/Datapack-Utilities -> https://github.com/seanpm2001/ICY105_Datapack-Utilities
+https://github.com/seanpm2001/BlitzBasicDemos -> https://github.com/seanpm2001/Earok_BlitzBasicDemos
+[BUT NOT FORKED UNTIL NOW] https://github.com/seanpm2001/discord-api-docs -> https://github.com/seanpm2001/Discord_Discord-API-Docs
+[BUT NOT FORKED UNTIL NOW] https://github.com/seanpm2001/airhornbot -> https://github.com/seanpm2001/Discord_AirHornBot
+https://github.com/seanpm2001/example-extensions -> https://github.com/seanpm2001/NotepadQQ_Example-Extensions
+https://github.com/seanpm2001/notepadqq-packaging -> https://github.com/seanpm2001/NotepadQQ_NotepadQQ-Packaging
+https://github.com/seanpm2001/candleLight -> https://github.com/seanpm2001/HubertD_CandleLight
+https://github.com/seanpm2001/perl6-lwp-simple -> https://github.com/seanpm2001/Cosimo_Perl6-LWP-Simple
+https://github.com/seanpm2001/ex_hash_ring -> https://github.com/seanpm2001/Discord_Ex_Hash_Ring
+[BUT NOT FORKED UNTIL NOW] https://github.com/seanpm2001/discord-open-source -> https://github.com/seanpm2001/Discord_Discord-Open-Source
+https://github.com/seanpm2001/erlpack -> https://github.com/seanpm2001/Discord_ERLPack
+[BUT NOT FORKED UNTIL NOW] https://github.com/seanpm2001/discord-interactions-js -> https://github.com/seanpm2001/Discord_Discord-Interactions-JS
+https://github.com/seanpm2001/lilliput -> https://github.com/seanpm2001/Discord_Lilliput
+https://github.com/seanpm2001/gen_registry -> https://github.com/seanpm2001/Discord_Gen_Registry
+https://github.com/seanpm2001/discord-example-app -> https://github.com/seanpm2001/Discord_Discord-Example-App
+https://github.com/seanpm2001/dynamic-pool -> https://github.com/seanpm2001/Discord_Dynamic-Pool
+https://github.com/seanpm2001/lilliput-dep-source -> https://github.com/seanpm2001/Discord_Lilliput-Dep-Source
+@seanwallawalla
+https://github.com/seanwallawalla/Learn-Textile
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Textile
+https://github.com/seanwallawalla/Learn-JSON5
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_JSON5
+https://github.com/seanwallawalla/Learn-QueryByExample
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_QueryByExample
+https://github.com/seanwallawalla/Learn-Latte
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Latte
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_nesC
+https://github.com/seanwallawalla/Learn-AGS-Script
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Yacc
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_AGS-Script
+https://github.com/seanwallawalla/Learn-BlitzBasic
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_BlitzBasic
+https://github.com/seanwallawalla/Learn-McFunction
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_McFunction
+https://github.com/seanwallawalla/Learn-SASL
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_SASL
+https://github.com/seanwallawalla/Learn-VisualLogic
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_VisualLogic
+https://github.com/seanwallawalla/Learn-Amulet
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Amulet
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_JSON
+https://github.com/seanwallawalla/Learn-Chapel
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Mallard
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Chapel
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_C_-EDK2-
+https://github.com/seanwallawalla/Learn-PlantUML
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Verilog-AMS
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_PlantUML
+https://github.com/seanwallawalla/Learn-RPGLE
+

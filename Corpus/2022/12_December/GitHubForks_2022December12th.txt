@@ -1,0 +1,51 @@
+@seanpm2001
+https://github.com/seanpm2001/custom-op -> https://github.com/seanpm2001/TensorFlow_Custom-OP
+https://github.com/seanpm2001/gan -> https://github.com/seanpm2001/TensorFlow_GAN
+https://github.com/seanpm2001/lucid -> https://github.com/seanpm2001/TensorFlow_Lucid
+https://github.com/seanpm2001/java-ndarray -> https://github.com/seanpm2001/TensorFlow_Java-NDArray
+https://github.com/seanpm2001/toolchains -> https://github.com/seanpm2001/TensorFlow_Toolchains
+https://github.com/seanpm2001/kfac -> https://github.com/seanpm2001/TensorFlow_KFAC
+https://github.com/seanpm2001/swift-2 -> https://github.com/seanpm2001/TensorFlow_Swift
+https://github.com/seanpm2001/java-models -> https://github.com/seanpm2001/TensorFlow_Java-Models
+https://github.com/seanpm2001/networking -> https://github.com/seanpm2001/TensorFlow_Networking
+https://github.com/seanpm2001/tfrc -> https://github.com/seanpm2001/TensorFlow_TFRC
+https://github.com/seanpm2001/tensorstore -> https://github.com/seanpm2001/TensorFlow_TensorStore
+https://github.com/seanpm2001/skflow -> https://github.com/seanpm2001/TensorFlow_SKFlow
+https://github.com/seanpm2001/adanet -> https://github.com/seanpm2001/TensorFlow_AdaNet
+https://github.com/seanpm2001/fold -> https://github.com/seanpm2001/TensorFlow_Fold
+https://github.com/seanpm2001/workshops -> https://github.com/seanpm2001/TensorFlow_Workshops
+https://github.com/seanpm2001/mlir -> https://github.com/seanpm2001/TensorFlow_MLIR
+https://github.com/seanpm2001/minigo -> https://github.com/seanpm2001/TensorFlow_MiniGo
+https://github.com/seanpm2001/swift-models -> https://github.com/seanpm2001/TensorFlow_Swift-Models
+@seanwallawalla
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Sed
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Nemerle
+https://github.com/seanwallawalla/SNU_3D_Universe_MilkyWay_Uranus
+https://github.com/seanwallawalla/iBlast_Docs
+https://github.com/seanwallawalla/Learn-SQL
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_SQL_-Structured_Query_Language-
+https://github.com/seanwallawalla/Learn-Vim-Snippet
+https://github.com/seanwallawalla/Learn-StandardML
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_StandardML
+https://github.com/seanwallawalla/Learn-TeX
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_TeX
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Vim-Snippet
+https://github.com/seanwallawalla/Learn-TSQL
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_TSQL
+https://github.com/seanwallawalla/ChargeFX
+https://github.com/seanwallawalla/Learn-Verilog-AMS
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Verilog-AMS
+[ALREADY FORKED] https://github.com/seanwallawalla/AirBnB
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/SMS-Messaging-with-Sean
+https://github.com/seanwallawalla/Seanpm2001-Templates
+https://github.com/seanwallawalla/Seanwallawalla-Docs
+https://github.com/seanwallawalla/Rasple
+https://github.com/seanwallawalla/Meadows_WebMode
+https://github.com/seanwallawalla/Learn-Linker-Script
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Linker-Script
+https://github.com/seanwallawalla/Learn-Monkey-C
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Monkey-C
+https://github.com/seanwallawalla/Learn-Pod6
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Pod6
+https://github.com/seanwallawalla/Learn-Perl6
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Perl6

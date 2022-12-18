@@ -1,0 +1,69 @@
+@seanpm2001
+https://github.com/seanpm2001/snapd -> https://github.com/seanpm2001/SnapCore_SnapD
+https://github.com/seanpm2001/models -> https://github.com/seanpm2001/SnapCore_Models
+https://github.com/seanpm2001/core-base -> https://github.com/seanpm2001/SnapCore_Core-Base
+https://github.com/seanpm2001/ipp-usb -> https://github.com/seanpm2001/OpenPrinting_IPP-USB
+https://github.com/seanpm2001/pyppd -> https://github.com/seanpm2001/OpenPrinting_PyPPD
+https://github.com/seanpm2001/goipp -> https://github.com/seanpm2001/OpenPrinting_GoIPP
+https://github.com/seanpm2001/printer-application-framework -> https://github.com/seanpm2001/OpenPrinting_Printer-Application-Framework
+https://github.com/seanpm2001/foomatic-db-engine-4 -> https://github.com/seanpm2001/OpenPrinting_Foomatic-DB-Engine-4
+https://github.com/seanpm2001/foomatic-db-nonfree -> https://github.com/seanpm2001/OpenPrinting_Foomatic-DB-NonFree
+https://github.com/seanpm2001/snapcraft -> https://github.com/seanpm2001/SnapCore_SnapCraft
+https://github.com/seanpm2001/spread-cron -> https://github.com/seanpm2001/SnapCore_Spread-Cron
+https://github.com/seanpm2001/snapd-testing -> https://github.com/seanpm2001/SnapCore_SnapD-Testing
+https://github.com/seanpm2001/spread-images -> https://github.com/seanpm2001/SnapCore_Spread-Images
+https://github.com/seanpm2001/snapd-glib -> https://github.com/seanpm2001/SnapCore_SnapD-GLIB
+https://github.com/seanpm2001/core20 -> https://github.com/seanpm2001/SnapCore_Core20
+https://github.com/seanpm2001/plymouth-theme-ubuntu-core -> https://github.com/seanpm2001/SnapCore_Plymouth-Theme-Ubuntu-Core
+@seanwallawalla
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Ballerina
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_BrightScript
+https://github.com/seanwallawalla/Learn-Seed7
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Seed7
+https://github.com/seanwallawalla/Learn-Oberon
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Oberon
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_HAML
+https://github.com/seanwallawalla/Learn-Modula-2
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Modula-2
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_AWK
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Boo
+https://github.com/seanwallawalla/Learn-Modula-3
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Modula-3
+https://github.com/seanwallawalla/Learn-SystemVerilog
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_SystemVerilog
+https://github.com/seanwallawalla/Learn-Creole
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Creole
+https://github.com/seanwallawalla/Learn-HCL
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_HCL
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_C
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_C_Sharp
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_CSS_-Cascade_Styling_Sheets-
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_COBOL
+https://github.com/seanwallawalla/Learn-GLSL
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_GLSL
+https://github.com/seanwallawalla/Learn-HLSL
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_HLSL
+https://github.com/seanwallawalla/Learn-DTrace
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_DTrace
+https://github.com/seanwallawalla/Learn-LispFlavoredErlang
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Lisp-Flavored-Erlang_LFE
+https://github.com/seanwallawalla/Learn-HAML
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_C_Plus_Plus
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Cython
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Clean
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Crystal
+https://github.com/seanwallawalla/Learn-XProc
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_XProc
+https://github.com/seanwallawalla/Learn-OpenPolicyAgent
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_OpenPolicyAgent
+https://github.com/seanwallawalla/Learn-Euphoria
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Euphoria
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Clojure
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Dart
+https://github.com/seanwallawalla/Learn-QMake
+https://github.com/seanwallawalla/Learn-SaltStack
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_SaltStack
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Gosu
+https://github.com/seanwallawalla/Learn-HiveQL
+https://github.com/seanwallawalla/Learn-Gosu
+

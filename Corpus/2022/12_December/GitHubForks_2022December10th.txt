@@ -1,0 +1,63 @@
+@seanpm2001
+https://github.com/seanpm2001/docs-l10n -> https://github.com/seanpm2001/TensorFlow_Docs-l10n
+https://github.com/seanpm2001/similarity -> https://github.com/seanpm2001/TensorFlow_Similarity
+https://github.com/seanpm2001/tfjs-website -> https://github.com/seanpm2001/TensorFlow_TFJS-Website
+https://github.com/seanpm2001/metadata -> https://github.com/seanpm2001/TensorFlow_MetaData
+https://github.com/seanpm2001/data-validation -> https://github.com/seanpm2001/TensorFlow_Data-Validation
+https://github.com/seanpm2001/agents -> https://github.com/seanpm2001/TensorFlow_Agents
+https://github.com/seanpm2001/tensor2tensor -> https://github.com/seanpm2001/TensorFlow_Tensor2Tensor
+https://github.com/seanpm2001/tfhub.dev -> https://github.com/seanpm2001/TensorFlow_TFHub.Dev
+https://github.com/seanpm2001/model-analysis -> https://github.com/seanpm2001/TensorFlow_Model-Analysis
+https://github.com/seanpm2001/tfjs-models -> https://github.com/seanpm2001/TensorFlow_TFJS-Models
+https://github.com/seanpm2001/io-1 -> https://github.com/seanpm2001/TensorFlow_IO
+https://github.com/seanpm2001/tflite-support -> https://github.com/seanpm2001/TensorFlow_TFLite-Support
+https://github.com/seanpm2001/privacy-1 -> https://github.com/seanpm2001/TensorFlow_Privacy
+https://github.com/seanpm2001/tensorrt -> https://github.com/seanpm2001/TensorFlow_TensorRT
+https://github.com/seanpm2001/recommenders -> https://github.com/seanpm2001/TensorFlow_Recommenders
+https://github.com/seanpm2001/decision-forests -> https://github.com/seanpm2001/TensorFlow_Decision-Forests
+https://github.com/seanpm2001/lattice -> https://github.com/seanpm2001/TensorFlow_Lattice
+https://github.com/seanpm2001/transform -> https://github.com/seanpm2001/TensorFlow_Transform
+https://github.com/seanpm2001/examples -> https://github.com/seanpm2001/TensorFlow_Examples
+https://github.com/seanpm2001/tflite-micro-arduino-examples -> https://github.com/seanpm2001/TensorFlow_TFLite-Micro-Arduino-Examples
+https://github.com/seanpm2001/tensorboard -> https://github.com/seanpm2001/TensorFlow_TensorBoard
+@seanwallawalla
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_CSound-Document
+https://github.com/seanwallawalla/Linux_Defender_YARA_CVE_Database
+https://github.com/seanwallawalla/Seanpm2001-InteractiveFiction
+https://github.com/seanwallawalla/Learn-CSound-Score
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_CSound-Score
+https://github.com/seanwallawalla/Learn-JSON
+https://github.com/seanwallawalla/Learn-Gerber-Image
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Gerber-Image
+https://github.com/seanwallawalla/OS_Census
+https://github.com/seanwallawalla/Learn-GetText
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_GetText
+https://github.com/seanwallawalla/Learn-Graphviz-DOT
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_GraphViz-DOT
+[ALREADY FORKED] https://github.com/seanwallawalla/Snowcraft
+[ALREADY FORKED] https://github.com/seanwallawalla/Halloween-Assistant
+[ALREADY FORKED] https://github.com/seanwallawalla/RailRAM-Train-Collection
+[ALREADY FORKED] https://github.com/seanwallawalla/Team8_Collection
+https://github.com/seanwallawalla/NexxFetch
+https://github.com/seanwallawalla/SeansLifeArchive_Images_DiscoZoo_Y2023
+https://github.com/seanwallawalla/SearchKX
+https://github.com/seanwallawalla/SNU_2D_Lodger
+https://github.com/seanwallawalla/Santa_Software_Suite_Core
+https://github.com/seanwallawalla/Learn-IntelHexBinary
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_IntelHexBinary
+[ALREADY FORKED] https://github.com/seanwallawalla/seanpm2001_gistrepository
+https://github.com/seanwallawalla/Gist_Seanpm2001-GitHubProfileNavigation
+https://github.com/seanwallawalla/Learn-PostScript
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_PostScript
+https://github.com/seanwallawalla/Gist_Seanpm_OnGitHub
+https://github.com/seanwallawalla/Learn-Less
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_LESS
+[ALREADY FORKED] https://github.com/seanwallawalla/-microMiniwave
+[ALREADY FORKED] https://github.com/seanwallawalla/ARCHIVE_My-Robot-Friend
+[ALREADY FORKED] https://github.com/seanwallawalla/Zoom-sucks
+[ALREADY FORKED] https://github.com/seanwallawalla/Linux-computer-compatibility
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Computer-cursor-tech-support
+https://github.com/seanwallawalla/Learn-Limbo
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Limbo
+https://github.com/seanwallawalla/Objective-JPP
+https://github.com/seanwallawalla/Learn-LISP

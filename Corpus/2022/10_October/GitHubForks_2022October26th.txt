@@ -1,0 +1,52 @@
+@seanpm2001
+https://github.com/seanpm2001/sympy_benchmarks -> https://github.com/seanpm2001/SymPy_SymPy_Benchmarks
+https://github.com/seanpm2001/sympy_doc -> https://github.com/seanpm2001/SymPy_SymPy_Doc
+https://github.com/seanpm2001/live -> https://github.com/seanpm2001/SymPy_Live
+https://github.com/seanpm2001/sympy.github.com
+https://github.com/seanpm2001/sympy_gamma -> https://github.com/seanpm2001/SymPy_SymPy_Gamma
+https://github.com/seanpm2001/planet-sympy -> https://github.com/seanpm2001/SymPy_Planet-SymPy
+https://github.com/seanpm2001/sympy-search-analytics -> https://github.com/seanpm2001/SymPy_SymPy-Search-analytics -> https://github.com/seanpm2001/SymPy_SymPy-Search-Analytics
+https://github.com/seanpm2001/sphinx-math-dollar -> https://github.com/seanpm2001/SymPy_Sphinx-Math-Dollar
+https://github.com/seanpm2001/sympy-web-static -> https://github.com/seanpm2001/SymPy_SymPy-Web-Static
+https://github.com/seanpm2001/sympy-docs-survey -> https://github.com/seanpm2001/SymPy_SymPy-Docs-Survey
+https://github.com/seanpm2001/fbme -> https://github.com/seanpm2001/JetBrains_FBME
+https://github.com/seanpm2001/mps-coderules -> https://github.com/seanpm2001/JetBrains_MPS-CodeRules
+https://github.com/seanpm2001/rakudo -> https://github.com/seanpm2001/Rakudo_Rakudo
+https://github.com/seanpm2001/book -> https://github.com/seanpm2001/Raku_Book
+https://github.com/seanpm2001/sympy -> https://github.com/seanpm2001/SymPy_SymPy
+https://github.com/seanpm2001/sympy-live -> https://github.com/seanpm2001/SymPy_SymPy-Live
+https://github.com/seanpm2001/sympy-bot -> https://github.com/seanpm2001/SymPy_SymPy-Bot
+https://github.com/seanpm2001/sympy_rubi -> https://github.com/seanpm2001/SymPy_SymPy_RUBI
+https://github.com/seanpm2001/SymPEPs -> https://github.com/seanpm2001/SymPy_SymPEPs
+https://github.com/seanpm2001/kamke-test-suite -> https://github.com/seanpm2001/SymPy_Kamke-Test-Suite
+https://github.com/seanpm2001/sympy-notebooks -> https://github.com/seanpm2001/SymPy_SymPy-Notebooks
+https://github.com/seanpm2001/sympy-paper -> https://github.com/seanpm2001/SymPy_SymPy-Paper
+https://github.com/seanpm2001/.github-1 -> https://github.com/seanpm2001/SymPy.github
+https://github.com/seanpm2001/scipy-2020-tutorial -> https://github.com/seanpm2001/SymPy_SciPy-2020-Tutorial
+https://github.com/seanpm2001/scipy-2017-codegen-tutorial -> https://github.com/seanpm2001/SymPy_SciPy-2017-Codegen-Tutorial
+@seanwallawalla
+https://github.com/seanwallawalla/Template_GitHubPages_Default_V6
+https://github.com/seanwallawalla/Snapcraft-template_V4
+https://github.com/seanwallawalla/Snapcraft-template_V3
+https://github.com/seanwallawalla/Template_SNU_V5
+https://github.com/seanwallawalla/Template_SNU_2D_ProgrammingTools_V5
+https://github.com/seanwallawalla/Template_Other_V5
+https://github.com/seanwallawalla/Template_Journaling_V5
+https://github.com/seanwallawalla/Template_GitHubPages_Default_V5
+https://github.com/seanwallawalla/Template_DeGoogle-your-Life_V1
+https://github.com/seanwallawalla/Template_DeGoogle_V1
+https://github.com/seanwallawalla/Template_Meadows_V1
+https://github.com/seanwallawalla/Template_SNU_Default_V7
+https://github.com/seanwallawalla/Template_Journaling_V7
+https://github.com/seanwallawalla/Template_Other_V7
+https://github.com/seanwallawalla/Snapcraft-template_V5
+https://github.com/seanwallawalla/Template_SNU_2D_ProgrammingTools_V7
+https://github.com/seanwallawalla/Template_GitHubPages_LanguagePage_V4
+https://github.com/seanwallawalla/SNU_2D_Users_Template_Acc
+https://github.com/seanwallawalla/Template_SNU_V1
+https://github.com/seanwallawalla/Template_SNU_V2
+https://github.com/seanwallawalla/Template_SNU_V3
+https://github.com/seanwallawalla/Template_Journaling_V1
+https://github.com/seanwallawalla/Template_Journaling_V2
+https://github.com/seanwallawalla/Template_Journaling_V3
+https://github.com/seanwallawalla/Template_Journaling_V4

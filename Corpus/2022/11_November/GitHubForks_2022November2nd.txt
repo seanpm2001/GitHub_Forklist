@@ -1,0 +1,42 @@
+@seanpm2001
+https://github.com/seanpm2001/powerfx-samples -> https://github.com/seanpm2001/PnP_PowerFX-Samples
+https://github.com/seanpm2001/powerplatform-samples -> https://github.com/seanpm2001/PnP_PowerPlatform-Samples
+https://github.com/seanpm2001/power-fx-host-samples -> https://github.com/seanpm2001/Microsoft_Power-FX-Host-Samples
+https://github.com/seanpm2001/embedded-protocol -> https://github.com/seanpm2001/SASS_Embedded-Protocol
+https://github.com/seanpm2001/AndroidAspectJExample -> https://github.com/seanpm2001/Archinamon_AndroidAspectJExample
+https://github.com/seanpm2001/Documentation-1 -> https://github.com/seanpm2001/Meshnet_Documentation
+https://github.com/seanpm2001/clone-linked-repo -> https://github.com/seanpm2001/SASS_Clone-Linked-Repo
+https://github.com/seanpm2001/perl-libsass -> https://github.com/seanpm2001/SASS_Perl-LIBSASS
+https://github.com/seanpm2001/sassc -> https://github.com/seanpm2001/SASSC_SASSC -> https://github.com/seanpm2001/SASS_SASSC
+https://github.com/seanpm2001/writeups -> https://github.com/seanpm2001/Made-in-MIM_Writeups
+https://github.com/seanpm2001/abnfc -> https://github.com/seanpm2001/Nygge_ABNFC
+https://github.com/seanpm2001/migrator -> https://github.com/seanpm2001/SASS_Migrator
+https://github.com/seanpm2001/libsass -> https://github.com/seanpm2001/SASS_LIBSASS
+https://github.com/seanpm2001/sassc-ruby -> https://github.com/seanpm2001/SASS_SASSC-Ruby
+https://github.com/seanpm2001/node-sass-middleware -> https://github.com/seanpm2001/SASS_Node-SASS-MiddleWare
+@seanwallawalla
+https://github.com/seanwallawalla/WacOS_X_10.2
+https://github.com/seanwallawalla/WacOS_X_10.1
+https://github.com/seanwallawalla/WacOS_X_10.4
+https://github.com/seanwallawalla/WacOS_X_10.5
+https://github.com/seanwallawalla/WacOS_X_10.6
+https://github.com/seanwallawalla/WacOS_API
+https://github.com/seanwallawalla/WacOS_BaSYS
+https://github.com/seanwallawalla/WacOS_BaSYS_Software_Calculator
+https://github.com/seanwallawalla/WacOS_Classic_WacOS_Software
+https://github.com/seanwallawalla/WacOS_In_Ease
+https://github.com/seanwallawalla/WacOS_X_Public_-Beta-
+https://github.com/seanwallawalla/WacOS_OnESTEP
+https://github.com/seanwallawalla/WacOS_13
+https://github.com/seanwallawalla/WacOS_whyPhoneOS_Software_Calculator
+https://github.com/seanwallawalla/WacOS_WacOS_Calculator
+https://github.com/seanwallawalla/WacOS_OpenGS
+https://github.com/seanwallawalla/WacOS_wOS_Software_Calculator
+https://github.com/seanwallawalla/WacOS_Classic_Calculator
+https://github.com/seanwallawalla/WacOS_X_Software_Calculator
+https://github.com/seanwallawalla/WacOS_DOSMode
+https://github.com/seanwallawalla/WacOS_Cloud
+https://github.com/seanwallawalla/WacOS_OpenCyberdog_Browser
+https://github.com/seanwallawalla/WacOS_Sherman
+https://github.com/seanwallawalla/WacOS_whyPhoneOS_Software
+https://github.com/seanwallawalla/WacOS_wOS_Software

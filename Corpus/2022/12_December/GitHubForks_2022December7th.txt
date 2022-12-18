@@ -1,0 +1,65 @@
+@seanpm2001
+https://github.com/seanpm2001/focus-rings -> https://github.com/seanpm2001/Discord_Focus-Rings
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanpm2001/semaphore -> https://github.com/seanpm2001/Discord_Semaphore
+https://github.com/seanpm2001/manifold -> https://github.com/seanpm2001/Discord_Manifold
+https://github.com/seanpm2001/react-dnd-accessible-backend -> https://github.com/seanpm2001/Discord_React-DND-Accessible-Backend
+https://github.com/seanpm2001/heroku-sample-app -> https://github.com/seanpm2001/Discord_Heroku-Sample-App
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanpm2001/instruments -> https://github.com/seanpm2001/Discord_Instruments
+https://github.com/seanpm2001/jemalloc_info -> https://github.com/seanpm2001/Discord_Jemalloc_Info
+https://github.com/seanpm2001/dispenser -> https://github.com/seanpm2001/Discord_Dispenser
+https://github.com/seanpm2001/focus-layers -> https://github.com/seanpm2001/Discord_Focus-Layers
+https://github.com/seanpm2001/discord-interactions-python -> https://github.com/seanpm2001/Discord_Discord-Interactions-Python
+https://github.com/seanpm2001/SimpleAST -> https://github.com/seanpm2001/Discord_SimpleAST
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanpm2001/discord-rpc -> https://github.com/seanpm2001/Discord_Discord-RPC
+https://github.com/seanpm2001/loqui -> https://github.com/seanpm2001/Discord_Loqui
+https://github.com/seanpm2001/endanger -> https://github.com/seanpm2001/Discord_Endanger
+https://github.com/seanpm2001/cloudflare-sample-app -> https://github.com/seanpm2001/Discord_CloudFlare-Sample-App
+https://github.com/seanpm2001/libsrtp -> https://github.com/seanpm2001/Discord_LIBSRTP
+https://github.com/seanpm2001/sorted_set_nif -> https://github.com/seanpm2001/Discord_Sorted_Set_Nif
+https://github.com/seanpm2001/use-memo-value -> https://github.com/seanpm2001/Discord_Use-Memo-Value
+https://github.com/seanpm2001/babel-plugin-define-patterns -> https://github.com/seanpm2001/Discord_Babel-Plugin-Define-Patterns
+@seanwallawalla
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_RPGLE
+https://github.com/seanwallawalla/Learn-Grammatical-Framework
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Grammatical-Framework
+https://github.com/seanwallawalla/Learn-DCPU-16-ASM
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_DCPU-16-ASM
+https://github.com/seanwallawalla/Learn-Lucid
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Lucid
+https://github.com/seanwallawalla/Learn-ISWIM
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_ISWIM
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_JSON
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_XML
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Zig
+[ALREADY FORKED] https://github.com/seanwallawalla/Learn-S-RECODE-Template
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_S-RECODE-Template
+[ALREADY FORKED] https://github.com/seanwallawalla/Learn-TXL
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_TXL
+[ALREADY FORKED] https://github.com/seanwallawalla/Learn-Module-Management-System
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Module-Management-System
+[ALREADY FORKED] https://github.com/seanwallawalla/Learn-LiveScript
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_LiveScript
+[ALREADY FORKED] https://github.com/seanwallawalla/Learn-Wierd
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Wierd
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Elm
+[ALREADY FORKED] https://github.com/seanwallawalla/Personal-research-tank
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Seanpm2001-idea-vault
+[ALREADY FORKED] https://github.com/seanpm2001/Learn-Mallard
+[ALREADY FORKED] https://github.com/seanwallawalla/Boilerplate-cabinet
+https://github.com/seanwallawalla/Maintainers-info
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_C_-EDK2-
+https://github.com/seanwallawalla/Silkworm_web_browser
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Verilog-AMS
+https://github.com/seanwallawalla/SeansLifeArchive_Extras_Animation
+https://github.com/seanwallawalla/Learn-Smali
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Smali
+https://github.com/seanwallawalla/Learn-Terra
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Terra
+https://github.com/seanwallawalla/Learn-KiCad-Layout
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_KiCad-Layout
+https://github.com/seanwallawalla/Learn-KiCad-Schematic
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_KiCad-Schematic
+https://github.com/seanwallawalla/Learn_MLIR
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_MLIR
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Self-replicating-machine-research
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/horsin-around-in-the-barn

@@ -1,0 +1,50 @@
+@seanpm2001
+https://github.com/seanpm2001/cassovary -> https://github.com/seanpm2001/Twitter_Cassovary
+https://github.com/seanpm2001/effectivescala -> https://github.com/seanpm2001/Twitter_EffectiveScala
+https://github.com/seanpm2001/scala_school2 -> https://github.com/seanpm2001/Twitter_Scala_School2
+https://github.com/seanpm2001/sslconfig -> https://github.com/seanpm2001/Twitter_SSLConfig
+https://github.com/seanpm2001/dict_minimize -> https://github.com/seanpm2001/Twitter_Dict_Minimize
+https://github.com/seanpm2001/twitter-korean-text -> https://github.com/seanpm2001/Twitter_Twitter-Korean-Text
+https://github.com/seanpm2001/joauth -> https://github.com/seanpm2001/Twitter_JoAuth
+https://github.com/seanpm2001/repo-scaffolding -> https://github.com/seanpm2001/Twitter_Repo-Scaffolding
+https://github.com/seanpm2001/gpl-commitment -> https://github.com/seanpm2001/Twitter_GPL-Commitment
+https://github.com/seanpm2001/second-control-probability-distributions -> https://github.com/seanpm2001/Twitter_Second-Control-Probability-Distributions
+https://github.com/seanpm2001/twitter-cldr-js -> https://github.com/seanpm2001/Twitter_Twitter-CLDR-JS
+https://github.com/seanpm2001/sbf -> https://github.com/seanpm2001/Twitter_SBF
+https://github.com/seanpm2001/whiskey -> https://github.com/seanpm2001/Twitter_Whiskey
+https://github.com/seanpm2001/zktraffic -> https://github.com/seanpm2001/Twitter_ZKTraffic
+https://github.com/seanpm2001/storehaus -> https://github.com/seanpm2001/Twitter_StoreHaus
+https://github.com/seanpm2001/iago2 -> https://github.com/seanpm2001/Twitter_iago2
+https://github.com/seanpm2001/AnomalyDetection -> https://github.com/seanpm2001/Twitter_AnomalyDetection
+https://github.com/seanpm2001/twitter-cldr-npm -> https://github.com/seanpm2001/Twitter_Twitter-CLDR-NPM
+https://github.com/seanpm2001/curation-style-guide -> https://github.com/seanpm2001/Twitter_Curation-Style-Guide
+https://github.com/seanpm2001/libwatchman -> https://github.com/seanpm2001/Twitter_LIBWatchMan
+https://github.com/seanpm2001/thrift_client -> https://github.com/seanpm2001/Twitter_Thrift_Client
+https://github.com/seanpm2001/ossdecks -> https://github.com/seanpm2001/Twitter_OSSDecks
+https://github.com/seanpm2001/analytics-infra-governance -> https://github.com/seanpm2001/Twitter_Analytics-Infra-Governance
+@seanwallawalla
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_SASS
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_SCSS
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_LESS
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_QML
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_XSLT
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_JSSS
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_EmacsLisp
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_BrightScript
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_CommonLisp
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Seed7
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Oberon
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Modula-2
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Modula-3
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_NVidia_Cuda
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Crystal
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_IsabelleProofAssistant
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_PureScript
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_ApachePig
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Modelica
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Inform
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_GLSL
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Liquid
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_GDScript
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Forth
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_CoffeeScript
