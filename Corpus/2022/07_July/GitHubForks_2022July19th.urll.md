@@ -1,0 +1,24 @@
+https://github.com/seanpm2001/tools-charsets -> https://github.com/seanpm2001/GNUStep_Tools-Charsets
+https://github.com/seanpm2001/NSLayoutConstraint_test -> https://github.com/seanpm2001/GNUStep_NSLayoutConstraint_test
+https://github.com/seanpm2001/libs-steptalk -> https://github.com/seanpm2001/GNUStep_Libs-StepTalk
+https://github.com/seanpm2001/libs-simplewebkit -> https://github.com/seanpm2001/GNUStep_Libs-SimpleWebkit
+https://github.com/seanpm2001/libs-corebase -> https://github.com/seanpm2001/GNUStep_Libs-CoreBase
+https://github.com/seanpm2001/apps-systempreferences -> https://github.com/seanpm2001/GNUStep_Apps-SystemPreferences
+https://github.com/seanpm2001/gitsvn-scripts -> https://github.com/seanpm2001/GNUStep_GitSVN-Scripts
+https://github.com/seanpm2001/apps-thematic -> https://github.com/seanpm2001/GNUStep_Apps-Thematic
+https://github.com/seanpm2001/libs-dbuskit -> https://github.com/seanpm2001/GNUStep_Libs-DBusKit
+https://github.com/seanpm2001/plugins-session -> https://github.com/seanpm2001/GNUStep_Plugins-Session
+https://github.com/seanpm2001/apps-easydiff -> https://github.com/seanpm2001/GNUStep_Apps-EasyDiff
+https://github.com/seanpm2001/tests-examples -> https://github.com/seanpm2001/GNUStep_Tests-Examples
+https://github.com/seanpm2001/gnustep.github.io
+https://github.com/seanpm2001/plugins-themes-nesedahrik -> https://github.com/seanpm2001/GNUStep_Plugins-Themes-Nesedahrik
+https://github.com/seanpm2001/plugins-themes-narcissusrik -> https://github.com/seanpm2001/GNUStep_Plugins-Themes-Narcissusrik
+https://github.com/seanpm2001/plugins-themes-sombre -> https://github.com/seanpm2001/GNUStep_Plugins-Themes-Sombre
+https://github.com/seanpm2001/icons-rik -> https://github.com/seanpm2001/GNUStep_Icons-Rik
+https://github.com/seanpm2001/apps-themepreview -> https://github.com/seanpm2001/GNUStep_Apps-Themepreview
+https://github.com/seanpm2001/plugins-sessions-windowmaker -> https://github.com/seanpm2001/GNUStep_Plugins-Sessions-WindowMaker
+https://github.com/seanpm2001/tools-xibanalyzer -> https://github.com/seanpm2001/GNUStep_Tools-XIBAnalyzer
+https://github.com/seanpm2001/libs-mobile -> https://github.com/seanpm2001/GNUStep_Libs-Mobile
+https://github.com/seanpm2001/gap-1 -> https://github.com/seanpm2001/GNUStep_GAP
+https://github.com/seanpm2001/tools-xctest -> https://github.com/seanpm2001/GNUStep_Tools-XCTest
+https://github.com/seanpm2001/plugins-themes -> https://github.com/seanpm2001/GNUStep_Plugins-Themes
