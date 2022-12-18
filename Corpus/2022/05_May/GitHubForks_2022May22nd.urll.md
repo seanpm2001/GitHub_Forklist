@@ -1,0 +1,9 @@
+https://github.com/seanpm2001/PeaZip
+https://github.com/seanpm2001/peazip.github.io
+https://github.com/seanpm2001/PeaZip-Translations
+https://github.com/seanpm2001/steamlug.org
+https://github.com/seanpm2001/steamlug-bot
+https://github.com/seanpm2001/ValvePak
+https://github.com/seanpm2001/ValveKeyValue
+https://github.com/seanpm2001/ValveResourceFormat
+https://github.com/seanpm2001/SteamworksDocumentation

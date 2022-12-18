@@ -1,0 +1,9 @@
+https://github.com/seanpm2001/heroku-buildpack-pelican
+https://github.com/seanpm2001/pelican-tools
+https://github.com/seanpm2001/pelican-blog
+https://github.com/seanpm2001/pelican-plugins
+https://github.com/seanpm2001/pelican-themes
+https://github.com/seanpm2001/pelican
+https://github.com/seanpm2001/ethicalads.io
+https://github.com/seanpm2001/ethical-ad-server
+https://github.com/seanpm2001/seanpm2001.org
