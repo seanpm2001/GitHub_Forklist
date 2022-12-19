@@ -1,0 +1,50 @@
+@seanpm2001
+https://github.com/seanpm2001/Workshop-2017-Berkeley -> https://github.com/seanpm2001/Macaulay2_Workshop-2017-Berkeley
+https://github.com/seanpm2001/Workshop-2015-Boise -> https://github.com/seanpm2001/Macaulay2_Workshop-2015-Boise
+https://github.com/seanpm2001/Workshop-2011-IMA -> https://github.com/seanpm2001/Macaulay2_Workshop-2011-IMA
+https://github.com/seanpm2001/Workshop-2014-Berkeley -> https://github.com/seanpm2001/Macaulay2_Workshop-2014-Berkeley
+https://github.com/seanpm2001/Macaulay2-Projects -> https://github.com/seanpm2001/Macaulay2_Macaulay2-Projects
+https://github.com/seanpm2001/Workshop-2012-WakeForest -> https://github.com/seanpm2001/Macaulay2_Workshop-2012-WakeForest
+https://github.com/seanpm2001/Workshop-2011-Goettingen -> https://github.com/seanpm2001/Macaulay2_Workshop-2011-Goettingen
+https://github.com/seanpm2001/Workshop-2008-Snowbird -> https://github.com/seanpm2001/Macaulay2_Workshop-2008-Snowbird
+https://github.com/seanpm2001/M2 -> https://github.com/seanpm2001/Macaulay2_M2
+https://github.com/seanpm2001/Macaulay2-web-site -> https://github.com/seanpm2001/Macaulay2_Macaulay2-web-site
+https://github.com/seanpm2001/Workshop-2010-Colorado -> https://github.com/seanpm2001/Macaulay2_Workshop-2010-Colorado
+https://github.com/seanpm2001/jasmine-ajax -> https://github.com/seanpm2001/Jasmine_Jasmine-AJAX
+https://github.com/seanpm2001/gulp-jasmine-browser -> https://github.com/seanpm2001/Jasmine_Gulp-Jasmine-Browser
+https://github.com/seanpm2001/jasmine_selenium_runner -> https://github.com/seanpm2001/Jasmine_Jasmine_Selenium_Runner
+https://github.com/seanpm2001/jasmine_junitxml_formatter -> https://github.com/seanpm2001/Jasmine_Jasmine_JUnitXML_Formatter
+https://github.com/seanpm2001/jasmine-gem -> https://github.com/seanpm2001/Jasmine_Jasmine-Gem
+https://github.com/seanpm2001/jasmine-py -> https://github.com/seanpm2001/Jasmine_Jasmine-Py
+https://github.com/seanpm2001/jasmine-browser-runner -> https://github.com/seanpm2001/Jasmine_Jasmine-Browser-Runner
+https://github.com/seanpm2001/IdeaJasmine -> https://github.com/seanpm2001/Jasmine_IdeaJasmine
+https://github.com/seanpm2001/jasmine-npm -> https://github.com/seanpm2001/Jasmine_Jasmine-NPM
+https://github.com/seanpm2001/jasmine.github.io
+@seanwallawalla
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_PureScript
+https://github.com/seanwallawalla/Learn-VBHTML
+https://github.com/seanwallawalla/Learn-SQLPL
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_SQLPL
+https://github.com/seanwallawalla/Learn-RenderScript
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_RenderScript
+https://github.com/seanwallawalla/Learn-Monkey
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Monkey
+https://github.com/seanwallawalla/Learn-Stata
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Stata
+https://github.com/seanwallawalla/Learn-BlitzMax
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_BlitzMax
+https://github.com/seanwallawalla/SNU_3D_Universe_MilkyWay_Sun
+https://github.com/seanwallawalla/SNU_3D_Universe_MilkyWay_SolarSystem_Sun
+https://github.com/seanwallawalla/SNU_3D_Universe_MilkyWay_SolarSystem_Earth
+https://github.com/seanwallawalla/SNU_3D_Universe_MilkyWay_SolarSystem_Mercury
+[ALREADY FORKED] https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Scheme
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_VBHTML
+https://github.com/seanwallawalla/Android-x32
+https://github.com/seanwallawalla/Android-x64
+https://github.com/seanwallawalla/Learn-ABC
+https://github.com/seanwallawalla/Learn-HTTP
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_HTTP
+https://github.com/seanwallawalla/Learn-Scheme
+https://github.com/seanwallawalla/Android-x128
+https://github.com/seanwallawalla/Learn-CSHTML
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_CSHTML
