@@ -1,0 +1,46 @@
+@seanpm2001
+https://github.com/seanpm2001/guard-jammit -> https://github.com/seanpm2001/Pelle_Guard-Jammit
+https://github.com/seanpm2001/guard-rails-assets -> https://github.com/seanpm2001/Dnagir_Guard-Rails-Assets
+https://github.com/seanpm2001/guard-jekyll -> https://github.com/seanpm2001/TherabidBanana_Guard-Jekyll
+https://github.com/seanpm2001/guard-haml-coffee -> https://github.com/seanpm2001/Ouvrages_Guard-HAML-Coffee
+https://github.com/seanpm2001/spring -> https://github.com/seanpm2001/Rails_Spring
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanpm2001/rails -> https://github.com/seanpm2001/Rails_Rails
+https://github.com/seanpm2001/tailwindcss-rails -> https://github.com/seanpm2001/Rails_TailWindCSS-Rails
+https://github.com/seanpm2001/dartsass-rails -> https://github.com/seanpm2001/Rails_DartSASS-Rails
+https://github.com/seanpm2001/webpacker -> https://github.com/seanpm2001/Rails_WebPacker
+https://github.com/seanpm2001/website -> https://github.com/seanpm2001/Rails_Website
+https://github.com/seanpm2001/thor -> https://github.com/seanpm2001/Rails_Thor
+https://github.com/seanpm2001/rails-contributors -> https://github.com/seanpm2001/Rails_Rails-Contributors
+https://github.com/seanpm2001/globalid -> https://github.com/seanpm2001/Rails_GlobalID
+https://github.com/seanpm2001/jbuilder -> https://github.com/seanpm2001/Rails_JBuilder
+https://github.com/seanpm2001/rails-dev-box -> https://github.com/seanpm2001/Rails_Rails-Dev-Box
+https://github.com/seanpm2001/sprockets -> https://github.com/seanpm2001/Rails_SPRrockets -> https://github.com/seanpm2001/Rails_SPRockets
+https://github.com/seanpm2001/record_tag_helper -> https://github.com/seanpm2001/Rails_Record_Tag_Helper
+https://github.com/seanpm2001/request.js -> https://github.com/seanpm2001/Rails_Request.JS
+https://github.com/seanpm2001/kredis -> https://github.com/seanpm2001/Raila_Kredis -> https://github.com/seanpm2001/Rails_Kredis
+@seanwallawalla
+https://github.com/seanwallawalla/BASH.sh
+https://github.com/seanwallawalla/BASH.sh_Docs
+https://github.com/seanwallawalla/Copyright
+https://github.com/seanwallawalla/Copyleft
+https://github.com/seanwallawalla/Candroid-Docs
+https://github.com/seanwallawalla/Android-x64_Android9_Heavy_Edition
+https://github.com/seanwallawalla/Android-x64_Android9_Vanilla_Edition
+https://github.com/seanwallawalla/Android-x64_Android9_DeGoogled_Edition
+https://github.com/seanwallawalla/Android-x64_Android9_LiveCD_Edition
+https://github.com/seanwallawalla/UHS_DataSets_RussoUkrainianWar_UkraineFrontlinesMap
+https://github.com/seanwallawalla/UHS_DataSets_RussoUkrainianWar_RussiaFrontlinesMap
+https://github.com/seanwallawalla/UHS_DataSets_RussoUkrainianWar_UkrainianSpeeches
+https://github.com/seanwallawalla/UHS_DataSets_RussoUkrainianWar_RussianSpeeches
+https://github.com/seanwallawalla/Candroid-Calendar
+https://github.com/seanwallawalla/Candroid-Contacts
+https://github.com/seanwallawalla/Project-Designators
+https://github.com/seanwallawalla/DISK-O_Jockey
+https://github.com/seanwallawalla/Android-x64_Android8.1_Heavy_Edition
+https://github.com/seanwallawalla/Android-x64_Android8.1_Vanilla_Edition
+https://github.com/seanwallawalla/Android-x64_Android8.1_DeGoogled_Edition
+https://github.com/seanwallawalla/Android-x64_Android8.1_LiveCD_Edition
+https://github.com/seanwallawalla/Candroid-Settings
+https://github.com/seanwallawalla/Candroid-Wallpaper
+https://github.com/seanwallawalla/Candroid-TV
+https://github.com/seanwallawalla/Candroid-Video
