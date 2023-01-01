@@ -1,0 +1,49 @@
+@seanpm2001
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanpm2001/killedbygoogle ->https://github.com/seanpm2001/CodyOgden_KilledByGoogle
+https://github.com/seanpm2001/berry-lang.github.io
+https://github.com/seanpm2001/berry_web -> https://github.com/seanpm2001/Berry-lang_Berry_Web
+https://github.com/seanpm2001/berry_mapping -> https://github.com/seanpm2001/Berry-lang_Berry_Mapping
+https://github.com/seanpm2001/berry-grammar -> https://github.com/seanpm2001/Berry-lang_Berry-Grammar
+https://github.com/seanpm2001/berry_regex -> https://github.com/seanpm2001/Berry-lang_Berry_Regex
+https://github.com/seanpm2001/berry_mcu -> https://github.com/seanpm2001/Berry-lang_Berry_MCU
+https://github.com/seanpm2001/ld-linker-script -> https://github.com/seanpm2001/iDalink_LD-Linker-Script
+https://github.com/seanpm2001/watchSeven -> https://github.com/seanpm2001/Bartoszp1992_WatchSeven
+https://github.com/seanpm2001/Programming-Language-Concepts-Coursework -> https://github.com/seanpm2001/Michiel-Olieslagers_Programming-Language-Concepts-Coursework
+https://github.com/seanpm2001/IQDroid-garmin -> https://github.com/seanpm2001/Shhatrat_IQDroid-Garmin
+https://github.com/seanpm2001/pod6-coverage -> https://github.com/seanpm2001/Teodozjan_Pod6-Coverage
+https://github.com/seanpm2001/Perl6-One-Liners -> https://github.com/seanpm2001/DnmFarrell_Perl6-One-Liners
+https://github.com/seanpm2001/Experiments-of-Disintegration -> https://github.com/seanpm2001/Valleballe_Experiments-of-Disintegration
+https://github.com/seanpm2001/acknext -> https://github.com/seanpm2001/MasterQ32_AckNext
+https://github.com/seanpm2001/website -> https://github.com/seanpm2001/Erlef_Website
+[ALREADY FORKED, BUT NEEDS RENAME] https://github.com/seanpm2001/setup-beam -> https://github.com/seanpm2001/Erlef_Setup-Beam
+https://github.com/seanpm2001/build-and-packaging-wg -> https://github.com/seanpm2001/Erlef_Build-And-Packaging-WG
+https://github.com/seanpm2001/machine-learning-wg -> https://github.com/seanpm2001/Erlef_Machine-Learning-WG
+https://github.com/seanpm2001/security-wg -> https://github.com/seanpm2001/Erlef_Security-WG
+https://github.com/seanpm2001/rebar3_hex -> https://github.com/seanpm2001/Erlef_Rebar3_Hex
+https://github.com/seanpm2001/rosie -> https://github.com/seanpm2001/Erlef_Rosie
+@seanwallawalla
+https://github.com/seanwallawalla/Android-x32x64_LiveCD_7A_Edition
+https://github.com/seanwallawalla/Android-x32x64_LiveCD_7B_Edition
+https://github.com/seanwallawalla/Android-x32x64_LiveCD_8A_Edition
+https://github.com/seanwallawalla/Android-x32x64_LiveCD_8B_Edition
+https://github.com/seanwallawalla/SNU_2D_WatchParty
+https://github.com/seanwallawalla/WhyWatchOS_9
+https://github.com/seanwallawalla/WacTVOS_13
+https://github.com/seanwallawalla/WacTVOS_12
+https://github.com/seanwallawalla/GitHub_Watchlist
+https://github.com/seanwallawalla/WacTVOS_11
+https://github.com/seanwallawalla/WacTVOS_10
+https://github.com/seanwallawalla/WacTVOS_9
+https://github.com/seanwallawalla/WacTVOS_8
+https://github.com/seanwallawalla/WacWrite
+https://github.com/seanwallawalla/WacPaint
+https://github.com/seanwallawalla/Kiri
+https://github.com/seanwallawalla/Android-x64_LiveCD_5A
+https://github.com/seanwallawalla/Android-x64_LiveCD_12C
+https://github.com/seanwallawalla/Android-x32_LiveCD_0.9A
+https://github.com/seanwallawalla/Android-x32x64
+https://github.com/seanwallawalla/Android-x32x64_Docs
+https://github.com/seanwallawalla/Android-x32x64_LiveCD_5A_Edition
+https://github.com/seanwallawalla/Android-x32x64_LiveCD_5B_Edition
+https://github.com/seanwallawalla/Android-x32x64_LiveCD_6A_Edition
+https://github.com/seanwallawalla/Android-x32x64_LiveCD_6B_Edition

@@ -1,0 +1,48 @@
+@seanpm2001
+https://github.com/seanpm2001/stan-discourse-theme-component -> https://github.com/seanpm2001/Stan-Dev_Stan-Discourse-Theme-Component
+https://github.com/seanpm2001/logos -> https://github.com/seanpm2001/Stan-Dev_Logos
+https://github.com/seanpm2001/.github-1 -> https://github.com/seanpm2001/Stan-Dev.github
+https://github.com/seanpm2001/stan-mode -> https://github.com/seanpm2001/Stan-Dev_Stan-Mode
+https://github.com/seanpm2001/sgb -> https://github.com/seanpm2001/Stan-Dev_SGB
+https://github.com/seanpm2001/stan2tfp -> https://github.com/seanpm2001/Stan-Dev_Stan2TFP
+https://github.com/seanpm2001/stat_comp_benchmarks -> https://github.com/seanpm2001/Stan-Dev_Stat_Comp_Benchmarks
+https://github.com/seanpm2001/posteriordb-python -> https://github.com/seanpm2001/Stan-Dev_PosteriorDB-Python
+https://github.com/seanpm2001/perf-math -> https://github.com/seanpm2001/Stan-Dev_Perf-Math
+https://github.com/seanpm2001/MathematicaStan -> https://github.com/seanpm2001/Stan-Dev_MathematicaStan
+https://github.com/seanpm2001/pystan-wheels -> https://github.com/seanpm2001/Stan-Dev_PyStan-Wheels
+https://github.com/seanpm2001/statastan -> https://github.com/seanpm2001/Stan-Dev_StataStan
+https://github.com/seanpm2001/pystan2 -> https://github.com/seanpm2001/Stan-Dev_PyStan2
+https://github.com/seanpm2001/stancon_talks -> https://github.com/seanpm2001/Stan-Dev_StanCon_Talks
+https://github.com/seanpm2001/gmo -> https://github.com/seanpm2001/Stan-Dev_GMO
+https://github.com/seanpm2001/propaganda -> https://github.com/seanpm2001/Stan-Dev_Propaganda
+https://github.com/seanpm2001/visual-diagnostics -> https://github.com/seanpm2001/Stan-Dev_Visual-Diagnostics
+https://github.com/seanpm2001/nomad -> https://github.com/seanpm2001/Stan-Dev_Nomad
+https://github.com/seanpm2001/texstudio -> https://github.com/seanpm2001/TeXStudio-Org_TeXStudio
+https://github.com/seanpm2001/texstudio-meta -> https://github.com/seanpm2001/TeXStudio-Org_TeXStudio-Meta
+https://github.com/seanpm2001/texstudio-org.github.io
+@seanwallawalla
+https://github.com/seanwallawalla/Android-x32_LiveCD_4.2B
+https://github.com/seanwallawalla/Android-x32_LiveCD_4.1A
+https://github.com/seanwallawalla/Android-x32_LiveCD_4.1B
+https://github.com/seanwallawalla/Android-x32_LiveCD_4.0A
+https://github.com/seanwallawalla/Android-x32_LiveCD_4.0B
+https://github.com/seanwallawalla/Android-x32_LiveCD_3.2A
+https://github.com/seanwallawalla/Android-x32_LiveCD_3.2B
+https://github.com/seanwallawalla/Android-x32_LiveCD_3.1A
+https://github.com/seanwallawalla/Android-x32_LiveCD_3.1B
+https://github.com/seanwallawalla/Android-x32_LiveCD_3.0A
+https://github.com/seanwallawalla/Android-x32_LiveCD_3.0B
+https://github.com/seanwallawalla/MCPYE-Snap
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/SeansLifeArchive_Images_MinecraftPE
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/SeansLifeArchive_Images_Minecraft
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backups
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_Windows95MC
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_Farmtopia
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/SeansLifeArchive_Extras_MinecraftPE
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_Minecity2003
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_Gooigis-Mansion-3
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_HeavenAndHell
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_MojangOverMS
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_Craftplormer256
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_Ancient-namCraft
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_Lumen__Power_Challenge
