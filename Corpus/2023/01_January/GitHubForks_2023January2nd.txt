@@ -1,0 +1,47 @@
+@seanpm2001
+https://github.com/seanpm2001/purescript-tailrec -> https://github.com/seanpm2001/PureScript_PureScript-TailRec
+https://github.com/seanpm2001/purescript-metadata -> https://github.com/seanpm2001/PureScript_PureScript-MetaData
+https://github.com/seanpm2001/purescript-transformers -> https://github.com/seanpm2001/PureScript_PureScript-Transformers
+https://github.com/seanpm2001/purescript-st -> https://github.com/seanpm2001/PureScript_PureScript-ST
+https://github.com/seanpm2001/purescript-minibench -> https://github.com/seanpm2001/PureScript_PureScript-MiniBench
+https://github.com/seanpm2001/purescript-lists -> https://github.com/seanpm2001/PureScript_PureScript-Lists
+https://github.com/seanpm2001/purescript-datetime -> https://github.com/seanpm2001/PureScript_PureScript-DateTime
+https://github.com/seanpm2001/purescript-effect -> https://github.com/seanpm2001/PureScript_PureScript-Effect
+https://github.com/seanpm2001/purescript-tuples -> https://github.com/seanpm2001/PureScript_PureScript-Tuples
+https://github.com/seanpm2001/purescript-maybe -> https://github.com/seanpm2001/PureScript_PureScript-Maybe
+https://github.com/seanpm2001/purescript-either -> https://github.com/seanpm2001/PureScript_PureScript-Either
+https://github.com/seanpm2001/purescript-newtype -> https://github.com/seanpm2001/PureScript_PureScript-NewType
+https://github.com/seanpm2001/purescript-docs-search -> https://github.com/seanpm2001/PureScript_PureScript-Docs-Search
+https://github.com/seanpm2001/purescript-enums -> https://github.com/seanpm2001/PureScript_Purescript-Enums
+https://github.com/seanpm2001/purescript-graphs -> https://github.com/seanpm2001/PureScript_PureScript-Graphs
+https://github.com/seanpm2001/purescript-lazy -> https://github.com/seanpm2001/PureScript_PureScript-Lazy
+https://github.com/seanpm2001/purescript-integers -> https://github.com/seanpm2001/PureScript_PureScript-Integers
+https://github.com/seanpm2001/purescript-numbers -> https://github.com/seanpm2001/PureScript_PureScript-Numbers
+https://github.com/seanpm2001/psc-package -> https://github.com/seanpm2001/PureScript_PSC-Package
+https://github.com/seanpm2001/governance -> https://github.com/seanpm2001/PureScript_Governance
+@seanwallawalla
+https://github.com/seanwallawalla/Android-x32_LiveCD_2.1A
+https://github.com/seanwallawalla/Android-x32_LiveCD_2.1B
+https://github.com/seanwallawalla/Android-x32_LiveCD_2.0A
+https://github.com/seanwallawalla/Android-x32_LiveCD_2.0B
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_FoodVille
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_Logic0
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_Jig_s_Guide__Redstone_Basics
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_1stAndroidPEWorld
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_SbeveBoat64
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_MitchVille
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_MyFirstMinecraftPEWorld
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_Minelantis2_Lost_City
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_wildwestofwallawalla
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_Neolithic_Revolution
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_WorldWarMinecraft
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_Marine_Biologist_Roleplay
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_Inspiration_Island
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_Spring-a-majig_Spawn
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_PETA
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_FrostfootMegabase
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_minacoaster-3000
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_cavesystem64
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_skyblock-pro
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_PillagerParadise2019
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_minecraft_myphobias

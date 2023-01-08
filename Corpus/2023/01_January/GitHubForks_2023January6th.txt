@@ -1,0 +1,48 @@
+@seanpm2001
+https://github.com/seanpm2001/typora-default-themes -> https://github.com/seanpm2001/Typora_Typora-Default-Themes
+https://github.com/seanpm2001/dictionaries -> https://github.com/seanpm2001/Typora_Dictionaries
+https://github.com/seanpm2001/typora-issues -> https://github.com/seanpm2001/Typora_Typora-Issues
+https://github.com/seanpm2001/grunt-strings2json -> https://github.com/seanpm2001/Typora_Grunt-Strings2JSON
+https://github.com/seanpm2001/typora-theme-toolkit -> https://github.com/seanpm2001/Typora_Typora-Theme-ToolKit
+https://github.com/seanpm2001/typora-monospace-theme -> https://github.com/seanpm2001/Typora_Typora-Monospace-Theme
+https://github.com/seanpm2001/PicGo-cli -> https://github.com/seanpm2001/Typora_PicGo-CLI
+https://github.com/seanpm2001/fswin-aio -> https://github.com/seanpm2001/Typora_FSWin-AIO
+https://github.com/seanpm2001/winsparkle-node -> https://github.com/seanpm2001/Typora_WinSparkle-Node
+https://github.com/seanpm2001/typora-ash-theme -> https://github.com/seanpm2001/Typora_Typora-Ash-Theme
+https://github.com/seanpm2001/exoframe-node2-template -> https://github.com/seanpm2001/Typora_ExoFrame-Node2-Template
+https://github.com/seanpm2001/MuseScore -> https://github.com/seanpm2001/MuseScore_MuseScore
+https://github.com/seanpm2001/mdl -> https://github.com/seanpm2001/MuseScore_MDL
+https://github.com/seanpm2001/harmonica_tablature -> https://github.com/seanpm2001/MuseScore_Harmonica_Tablature
+https://github.com/seanpm2001/harp_pedal_diagram -> https://github.com/seanpm2001/MuseScore_Harp_Pedal_Diagram
+https://github.com/seanpm2001/musescore_devtools -> https://github.com/seanpm2001/MuseScore_MuseScore_Devtools -> https://github.com/seanpm2001/MuseScore_MuseScore_DevTools
+https://github.com/seanpm2001/crashpad_fork -> https://github.com/seanpm2001/MuseScore_CrashPad_Fork
+https://github.com/seanpm2001/sftools -> https://github.com/seanpm2001/MuseScore_SFTools
+https://github.com/seanpm2001/MuseScore_PluginAPI_Docs -> https://github.com/seanpm2001/MuseScore_MuseScore_PluginAPI_Docs
+https://github.com/seanpm2001/omr-local -> https://github.com/seanpm2001/MuseScore_OMR-Local
+https://github.com/seanpm2001/MuseBot -> https://github.com/seanpm2001/MuseScore_MuseBot
+@seanwallawalla
+https://github.com/seanwallawalla/Android-x32_Android4.3_DeGoogled_Edition
+https://github.com/seanwallawalla/Android-x32_Android4.3_LiveCD_Edition
+https://github.com/seanwallawalla/Android-x32_Android4.3_Heavy_Edition
+https://github.com/seanwallawalla/Android-x32_Android4.3_Vanilla_Edition
+https://github.com/seanwallawalla/Over-1-trillion-devices-run-C
+https://github.com/seanwallawalla/Bliss_Browser_Settings
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-AdSense
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Accounts
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Translate
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Stop-reading-from-Google-Books
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-maps-and-Google-Earth
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Drive
+[ALREADY FORKED] https://github.com/seanwallawalla/Why-you-should-stop-using-Android
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-ReCaptcha
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-GMail
+[ALREADY FORKED] https://github.com/seanwallawalla/Why-you-should-avoid-Google-AMP
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Hey-Google-Stop
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Stop-using-Google-Classroom
+[ALREADY FORKED] https://github.com/seanwallawalla/Problems-with-the-Google-Knowledge-Graph
+[ALREADY FORKED] https://github.com/seanwallawalla/Why-you-should-avoid-Google-News
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Sites_New
+https://github.com/seanwallawalla/Android-x32_Android4.2_Heavy_Edition
+https://github.com/seanwallawalla/Android-x32_Android4.2_Vanilla_Edition
+https://github.com/seanwallawalla/Android-x32_Android4.2_DeGoogled_Edition
+https://github.com/seanwallawalla/Android-x32_Android4.2_LiveCD_Edition

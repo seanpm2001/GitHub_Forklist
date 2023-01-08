@@ -1,0 +1,46 @@
+@seanpm2001
+https://github.com/seanpm2001/purescript-random -> https://github.com/seanpm2001/PureScript_PureScript-Random
+https://github.com/seanpm2001/purescript-exceptions -> https://github.com/seanpm2001/PureScript_PureScript-Exceptions
+https://github.com/seanpm2001/purescript-bifunctors -> https://github.com/seanpm2001/PureScript_PureScript-BiFunctors
+https://github.com/seanpm2001/purescript-profunctor -> https://github.com/seanpm2001/PureScript_PureScript-ProFunctor
+https://github.com/seanpm2001/purescript-distributive -> https://github.com/seanpm2001/PureScript_PureScript-Distributive
+https://github.com/seanpm2001/purescript-identity -> https://github.com/seanpm2001/PureScript_PureScript-Identity
+https://github.com/seanpm2001/purescript-const -> https://github.com/seanpm2001/PureScript_PureScript-Const
+https://github.com/seanpm2001/purescript-invariant -> https://github.com/seanpm2001/PureScript_PureScript-Invariant
+https://github.com/seanpm2001/purescript-control -> https://github.com/seanpm2001/PureScript_PureScript-Control
+https://github.com/seanpm2001/purescript-type-equality -> https://github.com/seanpm2001/PureScript_PureScript-Type-Equality
+https://github.com/seanpm2001/purescript-orders -> https://github.com/seanpm2001/PureScript_PureScript-Orders
+https://github.com/seanpm2001/purescript-exists -> https://github.com/seanpm2001/PureScript_PureScript-Exists
+https://github.com/seanpm2001/purescript-refs -> https://github.com/seanpm2001/PureScript_PureScript-Refs
+https://github.com/seanpm2001/purescript-unsafe-coerce -> https://github.com/seanpm2001/PureScript_PureScript-Unsafe-Coerce
+https://github.com/seanpm2001/purescript-assert -> https://github.com/seanpm2001/PureScript_PureScript-Assert
+https://github.com/seanpm2001/purescript-psci-support -> https://github.com/seanpm2001/PureScript_PureScript-PSCI-Support
+https://github.com/seanpm2001/purescript-console -> https://github.com/seanpm2001/PureScript_PureScript-Console
+https://github.com/seanpm2001/purescript-functions -> https://github.com/seanpm2001/PureScript_PureScript-Functions
+https://github.com/seanpm2001/purescript-partial -> https://github.com/seanpm2001/PureScript_PureScript-Partial
+@seanwallawalla
+https://github.com/seanwallawalla/Android-x32_LiveCD_1.1A
+https://github.com/seanwallawalla/Android-x32_LiveCD_1.1B
+https://github.com/seanwallawalla/Android-x32_LiveCD_1.0A
+https://github.com/seanwallawalla/Android-x32_LiveCD_1.0B
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Sites_Classic
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Photos
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-VPN
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Android-Pay
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Pay
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-One
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Plus
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Blockly
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Tensorflow
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Duo
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Hangouts
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Nest
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Flutter
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Calculator
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Camera
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Summer-of-code
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Base
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Keep
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Stadia
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Fi
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-VirusTotal

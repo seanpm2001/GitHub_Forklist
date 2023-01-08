@@ -1,0 +1,48 @@
+@seanpm2001
+https://github.com/seanpm2001/pursuit-backups -> https://github.com/seanpm2001/PureScript_Pursuit-Backups
+https://github.com/seanpm2001/survey -> https://github.com/seanpm2001/PureScript_Survey
+https://github.com/seanpm2001/roadmap -> https://github.com/seanpm2001/PureScript_Roadmap
+https://github.com/seanpm2001/gsoc -> https://github.com/seanpm2001/PureScript_GSoC
+https://github.com/seanpm2001/docs.blender.org -> https://github.com/seanpm2001/Blender_docs.blender.org
+https://github.com/seanpm2001/saleor-vatrc -> https://github.com/seanpm2001/Blender_Saleor-VATRC
+https://github.com/seanpm2001/cycles -> https://github.com/seanpm2001/Blender_Cycles
+https://github.com/seanpm2001/blender-addons-contrib -> https://github.com/seanpm2001/Blender_Blender-Addons-Contrib
+https://github.com/seanpm2001/blender-dev-tools -> https://github.com/seanpm2001/Blender_Blender-Dev-Tools
+https://github.com/seanpm2001/mediawiki-bootstrap -> https://github.com/seanpm2001/Blender_MediaWiki-Bootstrap
+https://github.com/seanpm2001/blender-translations -> https://github.com/seanpm2001/Blender_Blender-Translations
+https://github.com/seanpm2001/blender -> https://github.com/seanpm2001/Blender_Blender
+https://github.com/seanpm2001/blender-addons -> https://github.com/seanpm2001/Blender_Blender-Addons
+https://github.com/seanpm2001/winshell -> https://github.com/seanpm2001/Typora_WinShell
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanpm2001/Typora-i18n -> https://github.com/seanpm2001/Typora_Typora-i18n
+https://github.com/seanpm2001/support.typora.io -> https://github.com/seanpm2001/Typora_support.typora.io
+https://github.com/seanpm2001/theme.typora.io -> https://github.com/seanpm2001/Typora_theme.typora.io
+https://github.com/seanpm2001/module-ballerinax-netsuite -> https://github.com/seanpm2001/Ballerina-Platform_Module-BallerinaX-NetSuite
+https://github.com/seanpm2001/flixel-monkey -> https://github.com/seanpm2001/Devolonter_Flixel-Monkey
+https://github.com/seanpm2001/github-training -> https://github.com/seanpm2001/PovertyAction_GitHub-Training
+https://github.com/seanpm2001/Dig -> https://github.com/seanpm2001/GWRon_Dig
+@seanwallawalla
+https://github.com/seanwallawalla/DeGoogle-Ranking-Scale
+https://github.com/seanwallawalla/Bliss_Browser
+https://github.com/seanwallawalla/Bliss_Browser_Core
+https://github.com/seanwallawalla/Android-x32_Android4.4_Heavy_Edition
+https://github.com/seanwallawalla/Android-x32_Android4.4_Vanilla_Edition
+https://github.com/seanwallawalla/Android-x32_Android4.4_DeGoogled_Edition
+https://github.com/seanwallawalla/Android-x32_Android4.4_LiveCD_Edition
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Calendar
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Slides
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Docs
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Video
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-WebM
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-WebP
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Dart
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Go
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Home
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-GBoard
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Fuchsia
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Glass
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Material-Design
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Messages
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Cardboard
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Forms
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Sheets
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Why-you-should-stop-using-the-Google-Play-Store

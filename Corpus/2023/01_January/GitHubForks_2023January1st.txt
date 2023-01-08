@@ -1,0 +1,48 @@
+@seanpm2001
+https://github.com/seanpm2001/texstudio-macro -> https://github.com/seanpm2001/TeXStudio-Org_TeXStudio-Macro
+[ALREADY FORKED] https://github.com/seanpm2001/Ggrothendieck_Batchfiles
+https://github.com/seanpm2001/onenet -> https://github.com/seanpm2001/ItsZero_OneNet
+[ALREADY FORKED] https://github.com/seanpm2001/Mortenbra_Alexandria-PLSQL-Utils
+https://github.com/seanpm2001/postgis -> https://github.com/seanpm2001/PostGis_PostGis -> https://github.com/seanpm2001/PostGIS_PostGIS
+https://github.com/seanpm2001/norx-rust -> https://github.com/seanpm2001/Sneves_Norx-Rust
+https://github.com/seanpm2001/registry-dev -> https://github.com/seanpm2001/PureScript_Registry-Dev
+https://github.com/seanpm2001/registry -> https://github.com/seanpm2001/PureScript_Registry
+https://github.com/seanpm2001/registry-index -> https://github.com/seanpm2001/PureScript_Registry-Index
+https://github.com/seanpm2001/spago -> https://github.com/seanpm2001/PureScript_Spago
+https://github.com/seanpm2001/package-sets -> https://github.com/seanpm2001/PureScript_Package-Sets
+https://github.com/seanpm2001/purescript-strings -> https://github.com/seanpm2001/PureScript_PureScript-Strings
+https://github.com/seanpm2001/documentation-1 -> https://github.com/seanpm2001/PureScript_Documentation
+https://github.com/seanpm2001/purescript-typelevel-prelude -> https://github.com/seanpm2001/PureScript_PureScript-TypeLevel-Prelude
+https://github.com/seanpm2001/purescript-ordered-collections -> https://github.com/seanpm2001/PureScript_PureScript-Ordered-Collections
+https://github.com/seanpm2001/purescript-arrays -> https://github.com/seanpm2001/PureScript_PureScript-Arrays
+https://github.com/seanpm2001/purescript-prelude -> https://github.com/seanpm2001/PureScript_PureScript-Prelude
+https://github.com/seanpm2001/purescript-foreign-object -> https://github.com/seanpm2001/PureScript_PureScript-foreign-object -> https://github.com/seanpm2001/PureScript_PureScript-Foreign-Object
+https://github.com/seanpm2001/purescript-contravariant -> https://github.com/seanpm2001/PureScript_PureScript-ContraVariant
+https://github.com/seanpm2001/pursuit -> https://github.com/seanpm2001/PureScript_Pursuit
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanpm2001/trypurescript -> https://github.com/seanpm2001/PureScript_TryPureScript
+@seanwallawalla
+https://github.com/seanwallawalla/DeGoogle-your-life-Current-Catalogue
+https://github.com/seanwallawalla/DeGoogle-your-life-Graveyard-catalogue
+https://github.com/seanwallawalla/Android-x32_LiveCD_2.3A
+https://github.com/seanwallawalla/Android-x32_LiveCD_2.3B
+https://github.com/seanwallawalla/Android-x32_LiveCD_2.2A
+https://github.com/seanwallawalla/Android-x32_LiveCD_2.2B
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_Bees-
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_The_Human_Body
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_2D-Craft
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_SpokaneTaigaSurvival
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_JungleFever2019
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_Lumen__City_Challenge
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_Enderhell
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_Fun_with_Fractals
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_International_Space_Station
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_MCPYE_BEDROCK_TEST1
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_Washington_D.C.
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_YT2019MC
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_Eyeball
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_ForestOfDelusion
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_Math_Robot
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_Sub0
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_minelantis
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_nuclearWinterParadise
+https://github.com/seanwallawalla/SeansLifeArchive_MinecraftPE_Backup_Worlds_ghast_house

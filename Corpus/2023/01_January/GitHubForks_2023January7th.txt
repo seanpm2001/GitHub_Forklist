@@ -1,0 +1,25 @@
+@seanpm2001
+https://github.com/seanpm2001/randomsheetmusic -> https://github.com/seanpm2001/MuseScore_RandomSheetMusic
+https://github.com/seanpm2001/blacknotes -> https://github.com/seanpm2001/MuseScore_BlackNotes
+https://github.com/seanpm2001/handbook2PDF -> https://github.com/seanpm2001/MuseScore_HandBook2PDF
+https://github.com/seanpm2001/musescore_comments -> https://github.com/seanpm2001/MuseScore_MuseScore_Comments
+https://github.com/seanpm2001/nwc2musicxml -> https://github.com/seanpm2001/MuseScore_NWC2MusicXML
+https://github.com/seanpm2001/MuseScore_design -> https://github.com/seanpm2001/MuseScore_MuseScore_Design
+https://github.com/seanpm2001/extended_HE -> https://github.com/seanpm2001/MuseScore_Extended_HE
+https://github.com/seanpm2001/shape_notes -> https://github.com/seanpm2001/MuseScore_Shape_Notes
+https://github.com/seanpm2001/musescore-captions -> https://github.com/seanpm2001/MuseScore_MuseScore-Captions
+https://github.com/seanpm2001/musescore-old -> https://github.com/seanpm2001/MuseScore_MuseScore-Old
+https://github.com/seanpm2001/programming-languages-logos -> https://github.com/seanpm2001/AbrahamCalf_Programming-Languages-Logos
+https://github.com/seanpm2001/github-colors -> https://github.com/seanpm2001/Ozh_GiHhub-Colors
+https://github.com/seanpm2001/closure-templates -> https://github.com/seanpm2001/Google_Closure-Templates
+https://github.com/seanpm2001/roku-debug -> https://github.com/seanpm2001/RokuCommunity_Roku-Debug
+https://github.com/seanpm2001/roku-requests -> https://github.com/seanpm2001/RokuCommunity_Roku-Requests
+https://github.com/seanpm2001/brighterscript -> https://github.com/seanpm2001/RokuCommunity_BrighterScript
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanpm2001/vscode-brightscript-language -> https://github.com/seanpm2001/RokuCommunity_VSCode-BrightScript-Language
+https://github.com/seanpm2001/TheRokuCommunityChannel -> https://github.com/seanpm2001/RokuCommunity_TheRokuCommunityChannel
+https://github.com/seanpm2001/rokucommunity.github.io
+@seanwallawalla
+https://github.com/seanwallawalla/Android-x32_Android4.1_Heavy_Edition
+https://github.com/seanwallawalla/Android-x32_Android4.1_Vanilla_Edition
+https://github.com/seanwallawalla/Android-x32_Android4.1_DeGoogled_Edition
+https://github.com/seanwallawalla/Android-x32_Android4.1_LiveCD_Edition
