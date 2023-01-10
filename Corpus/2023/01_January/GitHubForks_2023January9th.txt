@@ -1,0 +1,34 @@
+@seanpm2001
+https://github.com/seanpm2001/brightscript-parser -> https://github.com/seanpm2001/RokuCommunity_BrightScript-Parser
+https://github.com/seanpm2001/brightscript-formatter -> https://github.com/seanpm2001/RokuCommunity_BrightScript-Formatter
+https://github.com/seanpm2001/brightscript-language -> https://github.com/seanpm2001/RokuCommunity_BrightScript-Language
+https://github.com/seanpm2001/meetup -> https://github.com/seanpm2001/RokuCommunity_Meetup
+https://github.com/seanpm2001/vim-mcfunction -> https://github.com/seanpm2001/RubixNinja314_Vim-McFunction
+https://github.com/seanpm2001/mcfunction-langserver -> https://github.com/seanpm2001/Levertion_McFunction-LangServer
+https://github.com/seanpm2001/vscode-mcfunction -> https://github.com/seanpm2001/Levertion_VSCode-McFunction
+https://github.com/seanpm2001/mcfunction -> https://github.com/seanpm2001/Bassab03_McFunction
+https://github.com/seanpm2001/language-mcfunction -> https://github.com/seanpm2001/ArcenSoth_Language-McFunction
+https://github.com/seanpm2001/Spyglass -> https://github.com/seanpm2001/SpyGlassMC_SpyGlass
+https://github.com/seanpm2001/LoottableAutosmelt -> https://github.com/seanpm2001/ICY105_LoottableAutosmelt
+[ALREADY FORKED] https://github.com/seanpm2001/ICY105_Datapack-Utilities
+https://github.com/seanpm2001/DatapackEnergy -> https://github.com/seanpm2001/ICY105_DatapackEnergy
+https://github.com/seanpm2001/PlayerAction -> https://github.com/seanpm2001/ICY105_PlayerAction
+https://github.com/seanpm2001/ChunkScan.Ores -> https://github.com/seanpm2001/ICY105_ChunkScan.Ores
+[CAN'T FORK A FORK] https://github.com/ICY105/ChunkScan
+https://github.com/seanpm2001/BlockUtils -> https://github.com/seanpm2001/ICY105_BlockUtils
+https://github.com/seanpm2001/Mechanization -> https://github.com/seanpm2001/ICY105_Mechanization
+https://github.com/seanpm2001/Datapacks-1.16 -> https://github.com/seanpm2001/SteveKunG_Datapacks-1.16
+https://github.com/seanpm2001/vscode-datapack -> https://github.com/seanpm2001/SpyGlassMC_VSCode-Datapack
+https://github.com/seanpm2001/vanilla-mcdoc -> https://github.com/seanpm2001/SpyGlassMC_Vanilla-MCDoc
+@seanwallawalla
+https://github.com/seanwallawalla/DCal-Spec
+https://github.com/seanwallawalla/DCal-Specification
+https://github.com/seanwallawalla/DCal-Implementation
+https://github.com/seanwallawalla/DSuite
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_YAML
+https://github.com/seanwallawalla/Android-x32_Android3.2_Heavy_Edition
+https://github.com/seanwallawalla/Android-x32_Android3.2_Vanilla_Edition
+https://github.com/seanwallawalla/Android-x32_Android3.2_DeGoogled_Edition
+https://github.com/seanwallawalla/Android-x32_Android3.2_LiveCD_Edition
+https://github.com/seanwallawalla/SNU_2D_DMailClient
+https://github.com/seanwallawalla/DMail
