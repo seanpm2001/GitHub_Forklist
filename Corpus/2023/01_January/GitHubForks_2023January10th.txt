@@ -1,0 +1,27 @@
+@seanpm2001
+https://github.com/seanpm2001/LSP-Spyglass -> https://github.com/seanpm2001/SpyglassMC_LSP-Spyglass
+https://github.com/seanpm2001/logo -> https://github.com/seanpm2001/SpyglassMC_Logo
+https://github.com/seanpm2001/mlt_web -> https://github.com/seanpm2001/MLTFramework_MLT_Web
+https://github.com/seanpm2001/mlt -> https://github.com/seanpm2001/MLTFramework_MLT
+https://github.com/seanpm2001/shotcut -> https://github.com/seanpm2001/MLTFramework_ShotCut
+https://github.com/seanpm2001/mlt-scripts -> https://github.com/seanpm2001/MLTFramework_MLT-Scripts
+https://github.com/seanpm2001/s3cmd-action -> https://github.com/seanpm2001/MLTFramework_S3CMD-Action
+https://github.com/seanpm2001/melted -> https://github.com/seanpm2001/MLTFramework_Melted
+https://github.com/seanpm2001/BuildOnMe -> https://github.com/seanpm2001/MLTFramework_BuildOnMe
+https://github.com/seanpm2001/swfdec -> https://github.com/seanpm2001/MLTFramework_SWFDec
+https://github.com/seanpm2001/rugen -> https://github.com/seanpm2001/MLTFramework_Rugen
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanpm2001/notepad-plus-plus -> https://github.com/seanpm2001/Notepad-Plus-Plus_Notepad-Plus-Plus
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanpm2001/nppPluginList -> https://github.com/seanpm2001/Notepad-Plus-Plus_NPPPluginList
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanpm2001/userDefinedLanguages -> https://github.com/seanpm2001/Notepad-Plus-Plus_UserDefinedLanguages
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanpm2001/npp-usermanual -> https://github.com/seanpm2001/Notepad-Plus-Plus_NPP-UserManual
+https://github.com/seanpm2001/nppThemes -> https://github.com/seanpm2001/Notepad-Plus-Plus_nppThemes
+https://github.com/seanpm2001/pegjs -> https://github.com/seanpm2001/PegJS_PegJS
+https://github.com/seanpm2001/website -> https://github.com/seanpm2001/PegJS_Website
+https://github.com/seanpm2001/bower -> https://github.com/seanpm2001/PegJS_Bower
+@seanwallawalla
+https://github.com/seanwallawalla/Android-x32_Android3.1_Heavy_Edition
+https://github.com/seanwallawalla/Android-x32_Android3.1_Vanilla_Edition
+https://github.com/seanwallawalla/Android-x32_Android3.1_DeGoogled_Edition
+https://github.com/seanwallawalla/Android-x32_Android3.1_LiveCD_Edition
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Looker
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Safe-Browsing
