@@ -1,0 +1,3660 @@
+////URLL-version=3
+//// https://github.com/seanpm2001/URLL-Specification/
+//// Important projects to fork to @seanwallawalla once @seanpm2001 is unflagged
+
+//// 6 AT A TIME PLEASE (it will take longer, but it will look good, and fly under the radar)
+
+//// Why 6 at a time?
+
+//// 6 is the max number of new repositories created in a day that will show up in the calendar without being collapsed
+//// I want to fly under the radar, and 10 projects a day may seem suspicious
+
+//// Edit: 2022.09.05: This hasn't been going as well, due to the ramp up of a project, which is creating 4-8+ repositories per day. Once the project is done (likely at the end of 2022 November, or early 2022 December) it is going to take additional time to get caught back up.
+
+//// Problems:
+
+//// Keeping the forks up to date
+
+//// Daily motivation
+
+//// This should take between 2-5 minutes per day (login and profile launching time included)
+
+//// Batch 1 (1-6) ✅️
+
+https://github.com/seanpm2001/WacOS //// ☑️
+https://github.com/seanpm2001/SNU_2D_CloudDrive //// ☑️
+https://github.com/seanpm2001/GitHub_Stats_A //// ☑️
+https://github.com/seanpm2001/GitHub_Organization_Info //// ☑️
+https://github.com/seanpm2001/SeansAudioDB //// ☑️
+https://github.com/seanpm2001/Learn //// ☑️
+
+//// Batch 2 (7-12) ✅️
+
+https://github.com/seanpm2001/Git-Templates //// ☑️
+https://github.com/seanpm2001/DroppedText_Corpus //// ☑️
+https://github.com/seanpm2001/Raspberry-Pi-Network-Setup //// ☑️
+https://github.com/seanpm2001/MEDOS //// ☑️
+https://github.com/seanpm2001/Meadows_Begin //// ☑️
+https://github.com/seanpm2001/qMeadows //// ☑️
+
+//// Batch 3 (13-18) ✅️
+
+https://github.com/seanpm2001/Git-Template_V8 //// ☑️
+https://github.com/seanpm2001/DroppedText-GitHub-Syntax-Highlighting //// ☑️
+https://github.com/seanpm2001/GitHubby //// ☑️
+https://github.com/seanpm2001/GitMan //// ☑️
+https://github.com/seanpm2001/UCALC //// ☑️
+https://github.com/seanpm2001/AquariOS //// ☑️
+
+//// Batch 4 (19-24) ✅️
+
+https://github.com/seanpm2001/Project-Aquarius //// ☑️
+https://github.com/seanpm2001/WichCraft //// ☑️
+https://github.com/seanpm2001/URLL-Specification //// ☑️
+https://github.com/seanpm2001/Talla-Browser //// ☑️
+https://github.com/seanpm2001/SVG_Video //// ☑️
+https://github.com/seanpm2001/Tetris128 //// ☑️
+
+//// Batch 5 (25-30) ✅️
+
+https://github.com/seanpm2001/MCPYE //// ☑️
+https://github.com/seanpm2001/MCPYE_Wiki_2021 //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Extras_Wikipedia //// ☑️
+https://github.com/seanpm2001/WacOS_Wiki_2021 //// ☑️
+https://github.com/seanpm2001/DeGoogle-your-Life_Wiki_2021 //// ☑️
+https://github.com/seanpm2001/SeansAudioDB_Wiki_2021 //// ☑️
+
+//// Batch 6 (31-36) ✅️
+
+https://github.com/seanpm2001/GitHub_Organization_Info_Wiki_2021 //// ☑️
+https://github.com/seanpm2001/Code-distancing //// ☑️
+https://github.com/seanpm2001/Degoogle-your-life //// ☑️
+https://github.com/seanpm2001/Camera-privacy-specification //// ☑️
+https://github.com/seanpm2001/CamCamPlus //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools //// ☑️
+
+//// Batch 7 (37-42) ✅️
+
+https://github.com/seanpm2001/SNU //// ☑️
+https://github.com/seanpm2001/SNU_0DMode //// ☑️
+https://github.com/seanpm2001/SNU_BrowserNose //// ☑️
+https://github.com/seanpm2001/SNU_3D_Universe //// ☑️
+https://github.com/seanpm2001/SNU_2D_Translation //// ☑️
+https://github.com/seanpm2001/SNU_2D //// ☑️
+
+//// Batch 8 (43-48) ✅️
+
+https://github.com/seanpm2001/SNU_Package_Manager //// ☑️
+https://github.com/seanpm2001/iBlast //// ☑️
+https://github.com/seanpm2001/Ukraine-History-Simulator //// ☑️
+https://github.com/seanpm2001/Awesome-Ukrainian-Software //// ☑️
+https://github.com/seanpm2001/Ukraine //// ☑️
+https://github.com/seanpm2001/Kotlint //// ☑️
+
+//// Batch 9 (49-54) ✅️
+
+https://github.com/seanpm2001/Scarlet-Oven //// ☑️
+https://github.com/seanpm2001/TapPetHotelOpen //// ☑️
+https://github.com/seanpm2001/PetLand-Software //// ☑️
+https://github.com/seanpm2001/TouchPetsDogs2Rewritten //// ☑️
+https://github.com/seanpm2001/Tap_Pet_Hotel_Open //// ☑️
+https://github.com/seanpm2001/BlazeOS //// ☑️
+
+//// Batch 10 (55-60) ✅️
+
+https://github.com/seanpm2001/Blazed_Cafe //// ☑️
+https://github.com/seanpm2001/BlazeOS_ePubStation //// ☑️
+https://github.com/seanpm2001/BlazeOS_bpage //// ☑️
+https://github.com/seanpm2001/BlazeOS_Userland //// ☑️
+https://github.com/seanpm2001/BlazeOS_App_Store //// ☑️
+https://github.com/seanpm2001/Skeuwie //// ☑️
+
+//// Batch 11 (61-66) ✅️
+
+https://github.com/seanpm2001/Its-time-to-cut-WideVine-DRM //// ☑️
+https://github.com/seanpm2001/Advanced_Eye_Chart //// ☑️
+https://github.com/seanpm2001/BGemJam //// ☑️
+https://github.com/seanpm2001/FINF-DB //// ☑️
+https://github.com/seanpm2001/Easy-E-IDE //// ☑️
+https://github.com/seanpm2001/DIFFicult //// ☑️
+
+//// Batch 12 (67-72) ✅️
+
+https://github.com/seanpm2001/BathHouseOS //// ☑️
+https://github.com/seanpm2001/BathOS //// ☑️
+https://github.com/seanpm2001/BathHouseOS_Core_ControlPanel //// ☑️
+https://github.com/seanpm2001/UriOS //// ☑️
+https://github.com/seanpm2001/ThroneOS //// ☑️
+https://github.com/seanpm2001/VLCSV //// ☑️
+
+//// Batch 13 (73-78) ✅️
+
+https://github.com/seanpm2001/YKDefenderVM //// ☑️
+https://github.com/seanpm2001/YKDefender //// ☑️
+https://github.com/seanpm2001/ZooTree //// ☑️
+https://github.com/seanpm2001/HerdSpeak //// ☑️
+https://github.com/seanpm2001/SeansOSData //// ☑️
+https://github.com/seanpm2001/MEDOS_SSD //// ☑️
+
+//// Batch 14 (79-84) ✅️
+
+https://github.com/seanpm2001/MEDOS_HDD //// ☑️
+https://github.com/seanpm2001/MEDOS_Floppy //// ☑️
+https://github.com/seanpm2001/BluPhoneOS //// ☑️
+https://github.com/seanpm2001/Vim-Autoscroller //// ☑️
+https://github.com/seanpm2001/SankOS //// ☑️
+https://github.com/seanpm2001/Hospital_Defender //// ☑️
+
+//// Batch 15 (85-90) ✅️
+
+https://github.com/seanpm2001/Bosky //// ☑️
+https://github.com/seanpm2001/AcroSlideXLIBrary //// ☑️
+https://github.com/seanpm2001/NimbleBit-Glossary //// ☑️
+https://github.com/seanpm2001/DOS-Buddy //// ☑️
+https://github.com/seanpm2001/CrossCompatXU //// ☑️
+https://github.com/seanpm2001/NostalgiaProject //// ☑️
+
+//// Batch 16 (91-96) ✅️
+
+https://github.com/seanpm2001/Nost_Gia_OS //// ☑️
+https://github.com/seanpm2001/SDE_Gyroscope //// ☑️
+https://github.com/seanpm2001/BluPhone //// ☑️
+https://github.com/seanpm2001/BlueCalm_Theme //// ☑️
+https://github.com/seanpm2001/Blue_Dentures //// ☑️
+https://github.com/seanpm2001/Linux_Defender //// ☑️
+
+//// Batch 17 (97-102) ✅️
+
+https://github.com/seanpm2001/Linux_Defender_For_Raspberry_Pi //// ☑️
+https://github.com/seanpm2001/Linux_Defender_For_Ubuntu //// ☑️
+https://github.com/seanpm2001/Linux_Defender_For_Trisquel //// ☑️
+https://github.com/seanpm2001/Linux_Defender_For_CentOS //// ☑️
+https://github.com/seanpm2001/Linux_Defender_For_Arch_Linux //// ☑️
+https://github.com/seanpm2001/Linux_Defender_For_Debian //// ☑️
+
+//// Batch 18 (103-108) ✅️
+
+https://github.com/seanpm2001/Linux_Defender_For_ReplicantOS //// ☑️
+https://github.com/seanpm2001/Linux_Defender_For_Fedora-Linux //// ☑️
+https://github.com/seanpm2001/Linux_Defender_For_Android //// ☑️
+https://github.com/seanpm2001/Linux_Defender_For_RemixOS //// ☑️
+https://github.com/seanpm2001/Zombie-Life-Re-animated //// ☑️
+https://github.com/seanpm2001/FloweredNotch //// ☑️
+
+//// Batch 19 (109-114) ✅️
+
+https://github.com/seanpm2001/StartFsck //// ☑️
+https://github.com/seanpm2001/Snowcraft //// ☑️
+https://github.com/seanpm2001/Myrick-Family //// ☑️
+https://github.com/seanpm2001/Software-longevity //// ☑️
+https://github.com/seanpm2001/StealthGeo_Font //// ☑️
+https://github.com/seanpm2001/SNU_2D_Beliefs //// ☑️
+
+//// Batch 20 (115-120) ✅️
+
+https://github.com/seanpm2001/SafeT //// ☑️
+https://github.com/seanpm2001/Nuclear-Ad-Bombs-Specification //// ☑️
+https://github.com/seanpm2001/FINF-DB-blog //// ☑️
+https://github.com/seanpm2001/Browsniffica //// ☑️
+https://github.com/seanpm2001/What-the-FLoC //// ☑️
+https://github.com/seanpm2001/LightSpeedRelayTechnology_Info //// ☑️
+
+//// Batch 21 (121-126) ✅️
+
+https://github.com/seanpm2001/Self-Care_Bot //// ☑️
+https://github.com/seanpm2001/The-Microsoft-Pact //// ☑️
+https://github.com/seanpm2001/GitHub_Forklist //// ☑️
+https://github.com/seanpm2001/FreeGenie //// ☑️
+https://github.com/seanpm2001/Frog-Mania //// ☑️
+https://github.com/seanpm2001/Keyoff //// ☑️
+
+//// Batch 22 (127-132) ✅️
+
+https://github.com/seanpm2001/WinFSCK //// ☑️
+https://github.com/seanpm2001/SNU_2D_FontMill //// ☑️
+https://github.com/seanpm2001/Boom-Bay //// ☑️
+https://github.com/seanpm2001/Engineer_Superdesk //// ☑️
+https://github.com/seanpm2001/SNU_2D_Engine-room //// ☑️
+https://github.com/seanpm2001/MalNotch //// ☑️
+
+//// Batch 23 (133-157) ✅️
+
+//// Now accelerating from 6/day to 25/day, as there are so many, and this is going so slow. Also, I just returned with my main laptop from repairs.
+
+https://github.com/seanpm2001/OpenGovernment_Voter //// ☑️
+https://github.com/seanpm2001/The-Pirates-Copy //// ☑️
+https://github.com/seanpm2001/BootDown //// ☑️
+https://github.com/seanpm2001/360Desktop //// ☑️
+https://github.com/seanpm2001/Turkey-Stories //// ☑️
+https://github.com/seanpm2001/SNU_Textures //// ☑️
+https://github.com/seanpm2001/Model_Project_Info //// ☑️
+https://github.com/seanpm2001/Project_1001 //// ☑️
+https://github.com/seanpm2001/Project-language-file //// ☑️
+https://github.com/seanpm2001/SNU_2D_ZalgoProject //// ☑️
+https://github.com/seanpm2001/GitHub-Health-Project-Article //// ☑️
+https://github.com/seanpm2001/NimbleBook //// ☑️
+https://github.com/seanpm2001/OpenTowers //// ☑️
+https://github.com/seanpm2001/Portal-Voice-Assistant //// ☑️
+https://github.com/seanpm2001/IsraeLinux //// ☑️
+https://github.com/seanpm2001/ProTraApp //// ☑️
+https://github.com/seanpm2001/Seanpm2001-Graphic-Design //// ☑️
+https://github.com/seanpm2001/API-2001 //// ☑️
+https://github.com/seanpm2001/MaprilOS //// ☑️
+https://github.com/seanpm2001/SuperPower-Laptops-Customize //// ☑️
+https://github.com/seanpm2001/SuperPowerLaptop-DeviceStandards //// ☑️
+https://github.com/seanpm2001/Reactop //// ☑️
+https://github.com/seanpm2001/GeniBlock //// ☑️
+https://github.com/seanpm2001/Blocklist //// ☑️
+https://github.com/seanpm2001/Virg.io //// ☑️
+
+//// Batch 24 (158-182) ✅️
+
+https://github.com/seanpm2001/VOI-Manor //// ☑️
+https://github.com/seanpm2001/Privacy //// ☑️
+https://github.com/seanpm2001/Pocket-village //// ☑️
+https://github.com/seanpm2001/SNU-Dimensional-Converter //// ☑️
+https://github.com/seanpm2001/Objective-JSharp //// ☑️
+https://github.com/seanpm2001/Objective-CSharp //// ☑️
+https://github.com/seanpm2001/SlaveWorks //// ☑️
+https://github.com/seanpm2001/ShareBoxLIBrary //// ☑️
+https://github.com/seanpm2001/LargeNumber_ULIB //// ☑️
+https://github.com/seanpm2001/CottonTree-LIBrary //// ☑️
+https://github.com/seanpm2001/Numeric-Liberation-Front //// ☑️
+https://github.com/seanpm2001/The-Graeyt-Macro //// ☑️
+https://github.com/seanpm2001/uOffice //// ☑️
+https://github.com/seanpm2001/uOffice_LIBrary_DVCS //// ☑️
+https://github.com/seanpm2001/SNU_2D_UpdateLog //// ☑️
+https://github.com/seanpm2001/SNU_2D_UpdatesPlanning //// ☑️
+https://github.com/seanpm2001/SNU_2D_DeveloperLog //// ☑️
+https://github.com/seanpm2001/SNU_DeveloperLounge //// ☑️
+https://github.com/seanpm2001/SNU_2D_Porn //// ☑️
+https://github.com/seanpm2001/SNU_2D_Erotica //// ☑️
+https://github.com/seanpm2001/Phoneticut //// ☑️
+https://github.com/seanpm2001/Green-Star-OS //// ☑️
+https://github.com/seanpm2001/Oh_Hi_MarkDown //// ☑️
+https://github.com/seanpm2001/KeyStroke //// ☑️
+https://github.com/seanpm2001/SNU_Keyboard //// ☑️
+
+Batch 25 (183-?) ✅️
+
+https://github.com/seanpm2001/GK-Keyboard //// ☑️
+https://github.com/seanpm2001/Kommunism //// ☑️
+https://github.com/seanpm2001/Underune_Maker //// ☑️
+https://github.com/seanpm2001/Polyworks-SquareOff //// ☑️
+https://github.com/seanpm2001/Slick-LM //// ☑️
+https://github.com/seanpm2001/DeskLocker //// ☑️
+https://github.com/seanpm2001/README-Desktop-LIBrary //// ☑️
+https://github.com/seanpm2001/Snail-bob-maker //// ☑️
+https://github.com/seanpm2001/TalkScript //// ☑️
+https://github.com/seanpm2001/WakeNote //// ☑️
+https://github.com/seanpm2001/Python-Traceback-Examples //// ☑️
+https://github.com/seanpm2001/Scratch_Master //// ☑️
+https://github.com/seanpm2001/CompuBunker //// ☑️
+https://github.com/seanpm2001/SNU_CardStack //// ☑️
+https://github.com/seanpm2001/SNU_2D_Books //// ☑️
+https://github.com/seanpm2001/Linux-Marketshare-Ping-Tool //// ☑️
+https://github.com/seanpm2001/Stock-Elevator-LIBrary //// ☑️
+https://github.com/seanpm2001/LinkLax //// ☑️
+https://github.com/seanpm2001/CH3-c-K //// ☑️
+https://github.com/seanpm2001/bitchecker //// ☑️
+https://github.com/seanpm2001/Pynuke128 //// ☑️
+https://github.com/seanpm2001/TimeoutToolkit //// ☑️
+https://github.com/seanpm2001/Backup-Automation-Build-Bot-Y //// ☑️
+https://github.com/seanpm2001/Zoom-sucks //// ☑️
+https://github.com/seanpm2001/Year-of-the-Linux-desktop //// ☑️
+
+//// Batch 26 ✅️
+
+https://github.com/seanpm2001/App-backpack //// ☑️
+https://github.com/seanpm2001/GuineaMyrickI_Mausoleum //// ☑️
+https://github.com/seanpm2001/CountMausoleum //// ☑️
+https://github.com/seanpm2001/SNU_1D //// ☑️
+https://github.com/seanpm2001/SNU_1D_Mode //// ☑️
+https://github.com/seanpm2001/3D-WebPage-Inspector //// ☑️
+https://github.com/seanpm2001/SNU_3D //// ☑️
+https://github.com/seanpm2001/SNU_3D_Demo //// ☑️
+https://github.com/seanpm2001/SNU_3D_Game_Viewer //// ☑️
+https://github.com/seanpm2001/SNU_3D_Root //// ☑️
+https://github.com/seanpm2001/SNU_3D_SNU_VR //// ☑️
+https://github.com/seanpm2001/SNU_True3DMode //// ☑️
+https://github.com/seanpm2001/3DE //// ☑️
+https://github.com/seanpm2001/404Day //// ☑️
+https://github.com/seanpm2001/SNU_4D //// ☑️
+https://github.com/seanpm2001/SNU-4D-Mode //// ☑️
+https://github.com/seanpm2001/Learn-Python //// ☑️
+https://github.com/seanpm2001/SNU_3D_Minecraft_Python_Edition_Alpha //// ☑️
+https://github.com/seanpm2001/Python_class_2017_archive //// ☑️
+https://github.com/seanpm2001/Python_class_2018_archive //// ☑️
+https://github.com/seanpm2001/Windows_10_Python_Edition //// ☑️
+https://github.com/seanpm2001/Windows_server_2016_Python_Edition //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Python //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_CPython //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_IronPython //// ☑️
+
+//// Batch 27 ✅️
+
+https://github.com/seanpm2001/Learn-Cython //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Cython //// ☑️
+https://github.com/seanpm2001/Degoogled_Android_Phone_VM_Research //// ☑️
+https://github.com/seanpm2001/Learn-Go2003 //// ☑️
+https://github.com/seanpm2001/SNU_2D_Algorithm //// ☑️
+https://github.com/seanpm2001/Go-ogle //// ☑️
+https://github.com/seanpm2001/SNU_Government //// ☑️
+https://github.com/seanpm2001/SNU_SiteLogo //// ☑️
+https://github.com/seanpm2001/Goodbye-World //// ☑️
+https://github.com/seanpm2001/OpenGov //// ☑️
+https://github.com/seanpm2001/VoiceGod //// ☑️
+https://github.com/seanpm2001/Google-performance-issues //// ☑️
+https://github.com/seanpm2001/Google-security-issues //// ☑️
+https://github.com/seanpm2001/Meadows_Emergency-Alert-System //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Go-_-Francis_McCabe_2003- //// ☑️
+https://github.com/seanpm2001/Bad-Code-Collection //// ☑️
+https://github.com/seanpm2001/.redirect //// ☑️
+https://github.com/seanpm2001/RecursionBot //// ☑️
+https://github.com/seanpm2001/Learn-Lua //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Lua //// ☑️
+https://github.com/seanpm2001/Setup-Go2004-GitHubAction //// ☑️
+https://github.com/seanpm2001/Learn-ActionScript-3 //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ActionScript //// ☑️
+https://github.com/seanpm2001/AdBool //// ☑️
+https://github.com/seanpm2001/Halloween-Assistant //// ☑️
+
+//// Batch 28 ✅️
+
+https://github.com/seanpm2001/Open-source-security-camera //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Extras_KindleFire //// ☑️
+https://github.com/seanpm2001/seanpm2001_gistrepository //// ☑️
+https://github.com/seanpm2001/TrueCalm //// ☑️
+https://github.com/seanpm2001/Metric-System //// ☑️
+https://github.com/seanpm2001/TrueEEG //// ☑️
+https://github.com/seanpm2001/TrueTorrent //// ☑️
+https://github.com/seanpm2001/Matrix-lang //// ☑️
+https://github.com/seanpm2001/SNU_Ancestry //// ☑️
+https://github.com/seanpm2001/SNU_FamilyTree //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Extras_Windows10StickyNotes //// ☑️
+https://github.com/seanpm2001/Ultra-Image-Studio //// ☑️
+https://github.com/seanpm2001/UltraCompass //// ☑️
+https://github.com/seanpm2001/UltraSwitch //// ☑️
+https://github.com/seanpm2001/Fortran-fortress //// ☑️
+https://github.com/seanpm2001/Team-TRM //// ☑️
+https://github.com/seanpm2001/Daily-desktop-screenshots //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Daily-articles //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_daily-desktop-screenshots //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_Journaling-development //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_TinyDeathStar //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_TinyTower //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_TinyTowerVegas //// ☑️
+https://github.com/seanpm2001/KhanAcademyData_u-Seanwallawallaofficial //// ☑️
+https://github.com/seanpm2001/Walla-Walla-Washington //// ☑️
+
+//// Batch 29 ✅️
+
+https://github.com/seanpm2001/Walla-Walla-WA-Cottonwood-Annexation-Protest //// ☑️
+https://github.com/seanpm2001/LapLight //// ☑️
+https://github.com/seanpm2001/LightSpeedRelay_DatabaseTools //// ☑️
+https://github.com/seanpm2001/LightSpeedRelay_Database //// ☑️
+https://github.com/seanpm2001/LightSpeedRelay_WaitingRoom //// ☑️
+https://github.com/seanpm2001/LightSpeedRelayChat //// ☑️
+https://github.com/seanpm2001/Gaslight-Galactica //// ☑️
+https://github.com/seanpm2001/FBI_RoleplaySimulator //// ☑️
+https://github.com/seanpm2001/HXTemplate //// ☑️
+https://github.com/seanpm2001/Boilerplate-cabinet //// ☑️
+https://github.com/seanpm2001/Hyper-realistic-farm-simulator //// ☑️
+https://github.com/seanpm2001/Cyborg-System-Monitor //// ☑️
+https://github.com/seanpm2001/Team8_Collection //// ☑️
+https://github.com/seanpm2001/ARCHIVE_My-Robot-Friend //// ☑️
+https://github.com/seanpm2001/RubbleRobot //// ☑️
+https://github.com/seanpm2001/SNU_BotCoach //// ☑️
+https://github.com/seanpm2001/Discord-bots //// ☑️
+https://github.com/seanpm2001/Reddit-Bots //// ☑️
+https://github.com/seanpm2001/SNU_WLinkWBotW //// ☑️
+https://github.com/seanpm2001/TuxBot-OperatingSystem //// ☑️
+https://github.com/seanpm2001/ScreenTeX //// ☑️
+https://github.com/seanpm2001/Perl_Harbor //// ☑️
+https://github.com/seanpm2001/Medicinal-ethics //// ☑️
+https://github.com/seanpm2001/Military-ethics //// ☑️
+https://github.com/seanpm2001/SimZonns //// ☑️
+
+//// Batch 30 ✅️
+
+//// DUPLICATE: https://github.com/seanpm2001/GitHub-Health-Project-Article
+
+https://github.com/seanpm2001/Mammal_Town //// ☑️
+https://github.com/seanpm2001/the-walla-walla-anime //// ☑️
+https://github.com/seanpm2001/Anime //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_Reddit //// ☑️
+https://github.com/seanpm2001/r-seanpm2001 //// ☑️
+https://github.com/seanpm2001/Candroid //// ☑️
+https://github.com/seanpm2001/AUTOMATE-2001 //// ☑️
+https://github.com/seanpm2001/Seanpm2001-Car //// ☑️
+https://github.com/seanpm2001/SeansAudioDB_Images_2022 //// ☑️
+https://github.com/seanpm2001/AudiBass_Manager //// ☑️
+https://github.com/seanpm2001/UnitedAutismRights_Org //// ☑️
+https://github.com/seanpm2001/SNU_2D_Health //// ☑️
+https://github.com/seanpm2001/HealthMeterMaximum //// ☑️
+https://github.com/seanpm2001/MadLibby //// ☑️
+https://github.com/seanpm2001/Profa_Or_Antifa //// ☑️
+https://github.com/seanpm2001/Linux.Templates //// ☑️
+https://github.com/seanpm2001/Template_Meadows_V2 //// ☑️
+https://github.com/seanpm2001/Template_DeGoogle_V2 //// ☑️
+https://github.com/seanpm2001/Template_LifeArchive_Map_V2 //// ☑️
+https://github.com/seanpm2001/Template_Journaling_V6 //// ☑️
+https://github.com/seanpm2001/Template_DeGoogle-your-Life_V2 //// ☑️
+https://github.com/seanpm2001/Template_GitHubPages_Default_V4 //// ☑️
+https://github.com/seanpm2001/Template_Other_V6 //// ☑️
+https://github.com/seanpm2001/Template_SNU_Default_V6 //// ☑️
+https://github.com/seanpm2001/Template_SNU_2D_ProgrammingTools_V6 //// ☑️
+
+//// Batch 31 ✅️
+
+//// DUPLICATE: https://github.com/seanpm2001/Template_GitHubPages_Default_V6
+
+https://github.com/seanpm2001/Snapcraft-template_V4 //// ☑️
+https://github.com/seanpm2001/Snapcraft-template_V3 //// ☑️
+https://github.com/seanpm2001/Template_SNU_V5 //// ☑️
+https://github.com/seanpm2001/Template_SNU_2D_ProgrammingTools_V5 //// ☑️
+https://github.com/seanpm2001/Template_Other_V5 //// ☑️
+https://github.com/seanpm2001/Template_Journaling_V5 //// ☑️
+https://github.com/seanpm2001/Template_GitHubPages_Default_V5 //// ☑️
+https://github.com/seanpm2001/Template_DeGoogle-your-Life_V1 //// ☑️
+https://github.com/seanpm2001/Template_DeGoogle_V1 //// ☑️
+https://github.com/seanpm2001/Template_Meadows_V1 //// ☑️
+https://github.com/seanpm2001/Template_SNU_Default_V7 //// ☑️
+https://github.com/seanpm2001/Template_Journaling_V7 //// ☑️
+https://github.com/seanpm2001/Template_Other_V7 //// ☑️
+https://github.com/seanpm2001/Snapcraft-template_V5 //// ☑️
+https://github.com/seanpm2001/Template_SNU_2D_ProgrammingTools_V7 //// ☑️
+https://github.com/seanpm2001/Template_GitHubPages_LanguagePage_V4 //// ☑️
+https://github.com/seanpm2001/SNU_2D_Users_Template_Acc //// ☑️
+https://github.com/seanpm2001/Template_SNU_V1 //// ☑️
+https://github.com/seanpm2001/Template_SNU_V2 //// ☑️
+https://github.com/seanpm2001/Template_SNU_V3 //// ☑️
+https://github.com/seanpm2001/Template_Journaling_V1 //// ☑️
+https://github.com/seanpm2001/Template_Journaling_V2 //// ☑️
+https://github.com/seanpm2001/Template_Journaling_V3 //// ☑️
+https://github.com/seanpm2001/Template_Journaling_V4 //// ☑️
+
+//// Batch 32 ✅️
+
+https://github.com/seanpm2001/Template_SNU_V4 //// ☑️
+https://github.com/seanpm2001/Template_Other_V1 //// ☑️
+https://github.com/seanpm2001/Template_Other_V2 //// ☑️
+https://github.com/seanpm2001/Template_Other_V3 //// ☑️
+https://github.com/seanpm2001/Template_LifeArchive_Map_V1 //// ☑️
+https://github.com/seanpm2001/Template_Other_V4 //// ☑️
+https://github.com/seanpm2001/Template_SNU_2D_ProgrammingTools_V4 //// ☑️
+https://github.com/seanpm2001/Template_GitHubPages_V1 //// ☑️
+https://github.com/seanpm2001/Template_GitHubPages_V2 //// ☑️
+https://github.com/seanpm2001/Template_GitHubPages_V3 //// ☑️
+https://github.com/seanpm2001/Snapcraft-template //// ☑️
+https://github.com/seanpm2001/Snapcraft-template_V2 //// ☑️
+https://github.com/seanpm2001/My-Linux-setup //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_Linux //// ☑️
+https://github.com/seanpm2001/Linux.Home //// ☑️
+https://github.com/seanpm2001/Linux.Ubuntu.SnapPackages //// ☑️
+https://github.com/seanpm2001/Linux-computer-compatibility //// ☑️
+https://github.com/seanpm2001/Linux.home.Documents //// ☑️
+https://github.com/seanpm2001/Linux.home.Videos //// ☑️
+https://github.com/seanpm2001/Linux.linux //// ☑️
+https://github.com/seanpm2001/Linux.Trash //// ☑️
+https://github.com/seanpm2001/Linux.Desktop //// ☑️
+https://github.com/seanpm2001/Linux.Pictures //// ☑️
+https://github.com/seanpm2001/Linux.Music //// ☑️
+https://github.com/seanpm2001/Linux.Public //// ☑️
+
+//// Batch 33 ✅️
+
+//// Duplicate: https://github.com/seanpm2001/DroppedText-GitHub-Syntax-Highlighting
+
+https://github.com/seanpm2001/Virtual-VHS //// ☑️
+https://github.com/seanpm2001/SNU_HolidayThemes //// ☑️
+https://github.com/seanpm2001/SNU_Themes //// ☑️
+https://github.com/seanpm2001/Ucuntu //// ☑️
+https://github.com/seanpm2001/SVG_Forkbombs //// ☑️
+https://github.com/seanpm2001/Economica //// ☑️
+https://github.com/seanpm2001/RailRAM-Train-Collection //// ☑️
+https://github.com/seanpm2001/SociaShame //// ☑️
+https://github.com/seanpm2001/SNU_2D_Questionarium //// ☑️
+https://github.com/seanpm2001/Learn-PHP //// ☑️
+https://github.com/seanpm2001/PhD_In_PHP //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_PHP_-PHP_Hypertext_Preprocessor- //// ☑️
+https://github.com/seanpm2001/UI_Tour_Guide //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProfileBuilder //// ☑️
+https://github.com/seanpm2001/SNU_2D_BigBuckBunnyFullSuite //// ☑️
+https://github.com/seanpm2001/Meadows_UI_Mode //// ☑️
+https://github.com/seanpm2001/ChromaTags_ForGit //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Chrome //// ☑️
+https://github.com/seanpm2001/Stop-using-Chromebooks //// ☑️
+https://github.com/seanpm2001/AirBnB //// ☑️
+https://github.com/seanpm2001/Dropped-Text-lang //// ☑️
+https://github.com/seanpm2001/MEDOS_AndroidApp //// ☑️
+https://github.com/seanpm2001/DroneMap //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Android //// ☑️
+https://github.com/seanpm2001/Alternating-from-YouTube //// ☑️
+
+//// Batch 34 ✅️
+
+//// Duplicate: https://github.com/seanpm2001/Fortran-fortress
+
+https://github.com/seanpm2001/Why-you-should-avoid-Google-AMP //// ☑️
+https://github.com/seanpm2001/SNU_2D_YourSpace //// ☑️
+https://github.com/seanpm2001/SNU_2D_YouTubeMode //// ☑️
+https://github.com/seanpm2001/-microMiniwave //// ☑️
+https://github.com/seanpm2001/Branch-Ranch //// ☑️
+https://github.com/seanpm2001/Ratiyo //// ☑️
+https://github.com/seanpm2001/Coloress //// ☑️
+https://github.com/seanpm2001/SNU_ServerEssentials //// ☑️
+https://github.com/seanpm2001/Character_Image_Research //// ☑️
+https://github.com/seanpm2001/ReStructuredText_Sandbox //// ☑️
+https://github.com/seanpm2001/SNU_LegalResourceCenter //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_Team-Fortress-2 //// ☑️
+https://github.com/seanpm2001/Personal-research-tank //// ☑️
+https://github.com/seanpm2001/PrestigePreview //// ☑️
+https://github.com/seanpm2001/SNU_2D_SnapchatMode //// ☑️
+https://github.com/seanpm2001/What-SNU-will-never-do //// ☑️
+https://github.com/seanpm2001/Hatium //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_Hate-comments //// ☑️
+https://github.com/seanpm2001/SNU_HateSpeechFilters //// ☑️
+https://github.com/seanpm2001/OVPVMO-site //// ☑️
+https://github.com/seanpm2001/Project-Quantum-OverDrive //// ☑️
+https://github.com/seanpm2001/New-Years-Tag //// ☑️
+https://github.com/seanpm2001/SirIsaacNewtonOS //// ☑️
+https://github.com/seanpm2001/SirIsaacNewtonScript //// ☑️
+https://github.com/seanpm2001/SNU_2D_Memes //// ☑️
+
+//// Batch 35 ✅️
+
+https://github.com/seanpm2001/SNU_2D_News //// ☑️
+https://github.com/seanpm2001/SNU_2D_NewYearsSNUPage //// ☑️
+https://github.com/seanpm2001/SNU_2D_SNUNews //// ☑️
+https://github.com/seanpm2001/SNU_////New //// ☑️
+https://github.com/seanpm2001/OuterVM-Mouse //// ☑️
+https://github.com/seanpm2001/PYVM //// ☑️
+https://github.com/seanpm2001/Meadows_DevMod_pre-development_files //// ☑️
+https://github.com/seanpm2001/Meadows_Mod_Mode_VM_center_mode //// ☑️
+https://github.com/seanpm2001/SNU_2D_VMCenter //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_Virtual-City-Playground //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_VirtualBox //// ☑️
+https://github.com/seanpm2001/VirtualHome-app //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_VirtualHardDiskLanguage //// ☑️
+https://github.com/seanpm2001/PVZ_Custom //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_PVZ2 //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Extras_MarineBiology //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Extras_Ornithology //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Extras_BotanyProject //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_edhesive //// ☑️
+https://github.com/seanpm2001/UShortcut_Pro //// ☑️
+https://github.com/seanpm2001/ScriptKidd_ToolKit //// ☑️
+https://github.com/seanpm2001/SourceBase //// ☑️
+https://github.com/seanpm2001/SNU_2D_ValveLegendsResources //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_Google-Sites-resources //// ☑️
+https://github.com/seanpm2001/SNU_2D_Meme_Gen //// ☑️
+
+//// Batch 36 ✅️
+
+//// Duplicate: https://github.com/seanpm2001/bitchecker
+
+https://github.com/seanpm2001/MemeMachine-2019 //// ☑️
+https://github.com/seanpm2001/AGRAN-Programming-language //// ☑️
+https://github.com/seanpm2001/Seanwallawalla-operating-systems //// ☑️
+https://github.com/seanpm2001/Seanwallawallagaming //// ☑️
+https://github.com/seanpm2001/seanwallawalla-elibrary //// ☑️
+https://github.com/seanpm2001/seanwallawalla-live //// ☑️
+https://github.com/seanpm2001/seanwallawalla-secondchannel //// ☑️
+https://github.com/seanpm2001/seanwallawalla-animation //// ☑️
+https://github.com/seanpm2001/seanwallawalla-stats //// ☑️
+https://github.com/seanpm2001/seanwallawalla-music //// ☑️
+https://github.com/seanpm2001/seanwallawalla-business //// ☑️
+https://github.com/seanpm2001/seanwallawalla-spm //// ☑️
+https://github.com/seanpm2001/seanwallawalla-school //// ☑️
+https://github.com/seanpm2001/GitHub_Statistics //// ☑️
+https://github.com/seanpm2001/SNU_2D_HTTPStatusCodeList //// ☑️
+https://github.com/seanpm2001/SWave_Starter //// ☑️
+https://github.com/seanpm2001/Password_Generator_Ultimate //// ☑️
+https://github.com/seanpm2001/SNU_DeepSwap //// ☑️
+https://github.com/seanpm2001/uDonate //// ☑️
+https://github.com/seanpm2001/The-Dystopian-Dictionary //// ☑️
+https://github.com/seanpm2001/The-Existential-Index //// ☑️
+https://github.com/seanpm2001/Git-image //// ☑️
+https://github.com/seanpm2001/Snapshot-version-control-system //// ☑️
+https://github.com/seanpm2001/WacOS_10.14 //// ☑️
+https://github.com/seanpm2001/Snapshots-Version-Control-System //// ☑️
+
+//// Batch 37 ✅️
+
+//// DUPLICATE: https://github.com/seanpm2001/Snapshots-Version-Control-System
+//// DUPLICATE: https://github.com/seanpm2001/Phoneticut
+//// DUPLICATE: https://github.com/seanpm2001/Polyworks-SquareOff
+
+https://github.com/seanpm2001/SNU_PublicSnapshots //// ☑️
+https://github.com/seanpm2001/SNU_SnapshotTool //// ☑️
+https://github.com/seanpm2001/Gitty-images //// ☑️
+https://github.com/seanpm2001/IGNORE_File //// ☑️
+https://github.com/seanpm2001/SNU_PFOSS_Exchange //// ☑️
+https://github.com/seanpm2001/UTPM //// ☑️
+https://github.com/seanpm2001/RNAssistant //// ☑️
+https://github.com/seanpm2001/Pen-People //// ☑️
+https://github.com/seanpm2001/PhoneHome //// ☑️
+https://github.com/seanpm2001/PolyGlot //// ☑️
+https://github.com/seanpm2001/AZWS_Encryption //// ☑️
+https://github.com/seanpm2001/SlideXMagic //// ☑️
+https://github.com/seanpm2001/DeciCube //// ☑️
+https://github.com/seanpm2001/The_Bandwidth_Band //// ☑️
+https://github.com/seanpm2001/SNU_2D_UrbanDictionary_Mode //// ☑️
+https://github.com/seanpm2001/JScribe //// ☑️
+https://github.com/seanpm2001/WacOS_X //// ☑️
+https://github.com/seanpm2001/WacOS_12 //// ☑️
+https://github.com/seanpm2001/WacOS_JRE //// ☑️
+https://github.com/seanpm2001/WacOS_11 //// ☑️
+https://github.com/seanpm2001/WacOS_10.15 //// ☑️
+https://github.com/seanpm2001/WacOS_BaSYS_Software //// ☑️
+https://github.com/seanpm2001/WacOS_10.13 //// ☑️
+https://github.com/seanpm2001/WacOS_10.12 //// ☑️
+https://github.com/seanpm2001/WacOS_X_10.3 //// ☑️
+
+//// Batch 38 ✅️
+
+//// DUPLICATE: https://github.com/seanpm2001/WacOS_BaSYS
+
+https://github.com/seanpm2001/WacOS_X_10.2 //// ☑️
+https://github.com/seanpm2001/WacOS_X_10.1 //// ☑️
+https://github.com/seanpm2001/WacOS_X_10.4 //// ☑️
+https://github.com/seanpm2001/WacOS_X_10.5 //// ☑️
+https://github.com/seanpm2001/WacOS_X_10.6 //// ☑️
+https://github.com/seanpm2001/WacOS_API //// ☑️
+https://github.com/seanpm2001/WacOS_BaSYS //// ☑️
+https://github.com/seanpm2001/WacOS_BaSYS_Software_Calculator //// ☑️
+https://github.com/seanpm2001/WacOS_Classic_WacOS_Software //// ☑️
+https://github.com/seanpm2001/WacOS_In_Ease //// ☑️
+https://github.com/seanpm2001/WacOS_X_Public_-Beta- //// ☑️
+https://github.com/seanpm2001/WacOS_OnESTEP //// ☑️
+https://github.com/seanpm2001/WacOS_13 //// ☑️
+https://github.com/seanpm2001/WacOS_whyPhoneOS_Software_Calculator //// ☑️
+https://github.com/seanpm2001/WacOS_WacOS_Calculator //// ☑️
+https://github.com/seanpm2001/WacOS_OpenGS //// ☑️
+https://github.com/seanpm2001/WacOS_wOS_Software_Calculator //// ☑️
+https://github.com/seanpm2001/WacOS_Classic_Calculator //// ☑️
+https://github.com/seanpm2001/WacOS_X_Software_Calculator //// ☑️
+https://github.com/seanpm2001/WacOS_DOSMode //// ☑️
+https://github.com/seanpm2001/WacOS_Cloud //// ☑️
+https://github.com/seanpm2001/WacOS_OpenCyberdog_Browser //// ☑️
+https://github.com/seanpm2001/WacOS_Sherman //// ☑️
+https://github.com/seanpm2001/WacOS_whyPhoneOS_Software //// ☑️
+https://github.com/seanpm2001/WacOS_wOS_Software //// ☑️
+
+//// Batch 39 ✅️
+
+//// Duplicate: https://github.com/seanpm2001/WacOS_Savannah_Browser
+
+https://github.com/seanpm2001/WacOS_WacOS_Software //// ☑️
+https://github.com/seanpm2001/WacOS_WacOS_X_Software //// ☑️
+https://github.com/seanpm2001/WacOS_WOAHS-X_Software //// ☑️
+https://github.com/seanpm2001/WacOS_WAMMY //// ☑️
+https://github.com/seanpm2001/WacOS_AMD-Drivers //// ☑️
+https://github.com/seanpm2001/WacOS_BaSYS_1 //// ☑️
+https://github.com/seanpm2001/WacOS_BaSYS_2 //// ☑️
+https://github.com/seanpm2001/WacOS_BaSYS_3 //// ☑️
+https://github.com/seanpm2001/WacOS_BaSYS_4 //// ☑️
+https://github.com/seanpm2001/WacOS_BaSYS_5 //// ☑️
+https://github.com/seanpm2001/WacOS_BaSYS_6 //// ☑️
+https://github.com/seanpm2001/WacOS_ManPages //// ☑️
+https://github.com/seanpm2001/WacOS_Hardware_Blueprints //// ☑️
+https://github.com/seanpm2001/WacOS_8-Bit_DOSMode //// ☑️
+https://github.com/seanpm2001/WacOS_4-Bit_DOSMode //// ☑️
+https://github.com/seanpm2001/WacOS_Savannah_Browser //// ☑️
+https://github.com/seanpm2001/WacOS_OpenAPFS //// ☑️
+https://github.com/seanpm2001/WacOS_WhyPadOS_Software_Calculator //// ☑️
+https://github.com/seanpm2001/WacOS_WacTVOS_Software_Calculator //// ☑️
+https://github.com/seanpm2001/WacOS_WhyWatchOS_Software_Calculator //// ☑️
+https://github.com/seanpm2001/WacOS_WacTVOS_Software //// ☑️
+https://github.com/seanpm2001/WacOS_WhyWatchOS_Software //// ☑️
+https://github.com/seanpm2001/WacOS_WhyPadOS_Software //// ☑️
+https://github.com/seanpm2001/SNU_2D_PodcastTriPod //// ☑️
+https://github.com/seanpm2001/SNU_2D_TableTopGameHouse //// ☑️
+
+//// Batch 40 ✅️
+
+//// DUPLICATE: https://github.com/seanpm2001/Meadows_DevMod_pre-development_files
+
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_VimScript //// ☑️
+https://github.com/seanpm2001/qMeadows_fileCabinet //// ☑️
+https://github.com/seanpm2001/Meadows_Programs_QuantumDefragmenter //// ☑️
+https://github.com/seanpm2001/Meadows_Mod_Drives //// ☑️
+https://github.com/seanpm2001/Meadows_Mod_Installation_and_Setup //// ☑️
+https://github.com/seanpm2001/Meadows_2010sDocumentation //// ☑️
+https://github.com/seanpm2001/Meadows_Scroll_Engine //// ☑️
+https://github.com/seanpm2001/Meadows_Mod_NotificationCenter //// ☑️
+https://github.com/seanpm2001/Meadows_Modules //// ☑️
+https://github.com/seanpm2001/Meadows_Programs //// ☑️
+https://github.com/seanpm2001/Meadows_2020sDocumentation //// ☑️
+https://github.com/seanpm2001/Meadows_Mod_ModeManager //// ☑️
+https://github.com/seanpm2001/Meadows_Mod_Settings //// ☑️
+https://github.com/seanpm2001/Meadows_Mod_Legacy_Video_Rate //// ☑️
+https://github.com/seanpm2001/Meadows_Mod_Legacy_Aspect_Ratio //// ☑️
+https://github.com/seanpm2001/Meadows_Mod_Legacy //// ☑️
+https://github.com/seanpm2001/Meadows_Mod_Legacy_Color-mode //// ☑️
+https://github.com/seanpm2001/Meadows_Mod_Legacy_Image_Quality //// ☑️
+https://github.com/seanpm2001/Meadows_Mod_Legacy_RAM //// ☑️
+https://github.com/seanpm2001/Meadows_Mod_Legacy_System_Graphics //// ☑️
+https://github.com/seanpm2001/Meadows_Mod_Legacy_Video_Quality //// ☑️
+https://github.com/seanpm2001/Meadows_Mod_Legacy_Video_Speed //// ☑️
+https://github.com/seanpm2001/Meadows_Mod_Profile_User_Stats //// ☑️
+https://github.com/seanpm2001/Meadows_Mod_Profile //// ☑️
+https://github.com/seanpm2001/Meadows_Mod_Battery_and_power //// ☑️
+
+//// Batch 41 ✅️
+
+//// DUPLICATE: https://github.com/seanpm2001/Learn-Go2003
+
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_V //// ☑️
+https://github.com/seanpm2001/Learn-Nim //// ☑️
+https://github.com/seanpm2001/Learn-Kotlin //// ☑️
+https://github.com/seanpm2001/Learn-GoogleGo //// ☑️
+https://github.com/seanpm2001/Learn-Zig //// ☑️
+https://github.com/seanpm2001/Learn-Solidity //// ☑️
+https://github.com/seanpm2001/Learn-R //// ☑️
+https://github.com/seanpm2001/Learn-Ada //// ☑️
+https://github.com/seanpm2001/Learn-D //// ☑️
+https://github.com/seanpm2001/Learn-MoonScript //// ☑️
+https://github.com/seanpm2001/Learn-Elm //// ☑️
+https://github.com/seanpm2001/Learn-Red //// ☑️
+https://github.com/seanpm2001/Learn-Yacc //// ☑️
+https://github.com/seanpm2001/Learn-COBOL //// ☑️
+https://github.com/seanpm2001/Learn-Ruby //// ☑️
+https://github.com/seanpm2001/Learn-Gherkin //// ☑️
+https://github.com/seanpm2001/Learn-Pony //// ☑️
+https://github.com/seanpm2001/Learn-Modelica //// ☑️
+https://github.com/seanpm2001/Learn-ReStructuredText //// ☑️
+https://github.com/seanpm2001/Learn-1C-Enterprise //// ☑️
+https://github.com/seanpm2001/Learn-C //// ☑️
+https://github.com/seanpm2001/Learn-MediaWiki //// ☑️
+https://github.com/seanpm2001/Learn-Svelte //// ☑️
+https://github.com/seanpm2001/Learn-Makefile //// ☑️
+https://github.com/seanpm2001/Learn-Markdown //// ☑️
+
+//// Batch 42 ✅️
+
+//// DUPLICATE: https://github.com/seanpm2001/Learn-Cython
+//// DUPLICATE: https://github.com/seanpm2001/Learn-Lua
+//// DUPLICATE: https://github.com/seanpm2001/Learn-PHP
+
+https://github.com/seanpm2001/Learn-Prolog //// ☑️
+https://github.com/seanpm2001/Learn-Agda //// ☑️
+https://github.com/seanpm2001/Learn-Mathematica //// ☑️
+https://github.com/seanpm2001/Learn-nesC //// ☑️
+https://github.com/seanpm2001/Learn-QSharp //// ☑️
+https://github.com/seanpm2001/Learn-Raku //// ☑️
+https://github.com/seanpm2001/Learn-SciLab //// ☑️
+https://github.com/seanpm2001/Learn-Haskell //// ☑️
+https://github.com/seanpm2001/Learn-BrightScript //// ☑️
+https://github.com/seanpm2001/Learn-XML //// ☑️
+https://github.com/seanpm2001/Learn-Dylan //// ☑️
+https://github.com/seanpm2001/Learn-Java //// ☑️
+https://github.com/seanpm2001/Learn-GDScript //// ☑️
+https://github.com/seanpm2001/Learn-Perl //// ☑️
+https://github.com/seanpm2001/Learn-INI //// ☑️
+https://github.com/seanpm2001/Learn-IDL //// ☑️
+https://github.com/seanpm2001/Learn-Ballerina //// ☑️
+https://github.com/seanpm2001/Learn-Julia //// ☑️
+https://github.com/seanpm2001/Learn_V //// ☑️
+https://github.com/seanpm2001/Learn-JavaScript //// ☑️
+https://github.com/seanpm2001/Learn-FORTRAN //// ☑️
+https://github.com/seanpm2001/Learn-RMarkdown //// ☑️
+https://github.com/seanpm2001/Learn-Shell //// ☑️
+https://github.com/seanpm2001/Learn-Inform //// ☑️
+https://github.com/seanpm2001/Learn-Mercury //// ☑️
+
+//// Batch 43 ✅️
+
+DUPLICATE: https://github.com/seanpm2001/Learn-Python
+DUPLICATE: https://github.com/seanpm2001/Learn-ActionScript-3
+
+https://github.com/seanpm2001/Learn-Boo //// ☑️
+https://github.com/seanpm2001/Learn-Objective-CPP //// ☑️
+https://github.com/seanpm2001/Learn-Isabelle //// ☑️
+https://github.com/seanpm2001/Learn-Io //// ☑️
+https://github.com/seanpm2001/Learn-ImageJ //// ☑️
+https://github.com/seanpm2001/Learn-Objective-C //// ☑️
+https://github.com/seanpm2001/Learn-Swift //// ☑️
+https://github.com/seanpm2001/Learn-Eiffel //// ☑️
+https://github.com/seanpm2001/Learn-Inno-Setup //// ☑️
+https://github.com/seanpm2001/Learn-Idris //// ☑️
+https://github.com/seanpm2001/Learn-Vala //// ☑️
+https://github.com/seanpm2001/Learn-VBScript //// ☑️
+https://github.com/seanpm2001/Learn-Awk //// ☑️
+https://github.com/seanpm2001/Learn-TypeScript //// ☑️
+https://github.com/seanpm2001/Learn-VHDL //// ☑️
+https://github.com/seanpm2001/Learn-CSharp //// ☑️
+https://github.com/seanpm2001/Learn-AppleScript //// ☑️
+https://github.com/seanpm2001/Learn-QML //// ☑️
+https://github.com/seanpm2001/Learn-Rust //// ☑️
+https://github.com/seanpm2001/Learn-API-Blueprint //// ☑️
+https://github.com/seanpm2001/Learn-CSS //// ☑️
+https://github.com/seanpm2001/Learn-Dart //// ☑️
+https://github.com/seanpm2001/Learn-C-Plus-Plus //// ☑️
+https://github.com/seanpm2001/Learn-Pascal //// ☑️
+https://github.com/seanpm2001/Learn-Assembly //// ☑️
+
+//// Batch 44 ✅️
+
+//// No duplicates today :)
+
+https://github.com/seanpm2001/Learn-DogeScript //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_DogeScript //// ☑️
+https://github.com/seanpm2001/Learn-LOLCODE //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Red //// ☑️
+https://github.com/seanpm2001/Learn-Clean //// ☑️
+https://github.com/seanpm2001/Learn-Crystal //// ☑️
+https://github.com/seanpm2001/Learn-WDL //// ☑️
+https://github.com/seanpm2001/Learn-PostGreSQL //// ☑️
+https://github.com/seanpm2001/Learn-Hack //// ☑️
+https://github.com/seanpm2001/Learn-Elixir //// ☑️
+https://github.com/seanpm2001/GitHub_Flag_History //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Nim-Nimrod- //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_TOML //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_MoonScript //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_COBOL //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Pony //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Yacc //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Gherkin //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_XQuery //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Cap-n-Proto //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Ceylon //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_OpenQASM //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ANTLR //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Brainfuck //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Elm //// ☑️
+
+//// Batch 45 ✅️
+
+//// No duplicates again today :)
+
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Mathematica //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_nesC //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Solidity //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Euphoria //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_1C-Enterprise //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_GraphViz-DOT //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Ballerina //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Ragel //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Svelte //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_TSQL //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_IDL //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_HCL //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_KiXtart //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Sed //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_JavaScriptPlusPlus //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ML //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Epigram //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Hope //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Clean //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_HiveQL //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Lex //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Agda //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_AutoIt //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Io //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Cobra //// ☑️
+
+//// Batch 46 ✅️
+
+//// No duplicates yet again today :)
+
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_JSON //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_MATLAB //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Zig //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Gerber-Image //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Jade //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_HAML //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_OpenEdge-ABL //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_PureBASIC //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Mercury //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Gosu //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_GAP //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Coq //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_AMPL //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_EJS //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ImageJ //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_UnrealScript //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Starlark //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Twig //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_LogTalk //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Prolog //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_LLVM //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Cyclone //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Groovy //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Rexx //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Batchfile //// ☑️
+
+//// Batch 47 ✅️
+
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ActionScript
+
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Pug //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_AssemblyScript //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_LOLCODE //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Docker //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_WebVTT //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Objective-C-Plus-Plus //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Self //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Joy //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Factor //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Octave //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Nunjucks //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Boo //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Scheme //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Ada //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_AppleScript //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Scala //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ALGOL //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ASP_Dot_NET //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ActionServerPages-ASP- //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ABC //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Assembly //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_B //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_BASIC //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Eiffel //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Vala //// ☑️
+
+//// Batch 48 ✅️
+
+DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Lua
+
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Elixir //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Erlang //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Perl //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_C //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Dart //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_C_Plus_Plus //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_C_Sharp //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_BourneAgainSHell_-BASH- //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Caml_-Categorized_Abstract_Machine_Language- //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_FORTRAN_-FORmula_TRANslation- //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_D //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_BATCH //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Clojure //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_C_-EDK2- //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Go_-Google_2009- //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_CSS_-Cascade_Styling_Sheets- //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SREC-MotorolaS-RecordBinaryData- //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SQL_-Structured_Query_Language- //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Lisp_-LISt_Processor- //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SGML_-Standard_Generalized_Markup_Language- //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_YAML_-YAML_Ain-t_Markup_Language- //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_F_-Sharp- //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_JScript_.NET //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_VisualBasic.NET //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Lisp-Flavored-Erlang_LFE //// ☑️
+
+//// Batch 49 ✅️
+
+//// No duplicates today :)
+
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Swift-Apple- //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Diff //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Genie //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Haskell //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_HTML //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Pascal //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Julia //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_JavaScript //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Java //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_CSound //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Jython //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_JScript //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_IntelHexBinary //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_M4 //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Markdown //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_MediaWiki //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_MSDOS-Style //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Objective-C //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Objective-J //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_PostScript //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_PowerShell //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Blockly //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ReStructuredText //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Ruby //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Rust //// ☑️
+
+//// Batch 50 ✅️
+
+//// No duplicates again today :)
+
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Scratch //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Smalltalk //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Squeak //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SXML //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SystemVerilog //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_TCL //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_TypeScript //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Verilog //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Verilog-AMS //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Visual_Basic_Script //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_WebAssembly //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_XML //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Limbo //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_AWK //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Raku //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Q_Sharp //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_R //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_REBOL //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_JupyterNotebook //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Kotlin //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Inno_Setup //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Hack //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Vue.js //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_HandleBars //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Stylus //// ☑️
+
+//// Batch 51 ✅️
+
+//// No duplicates yet again today :)
+
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SASS //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SCSS //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_LESS //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_QML //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_XSLT //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_JSSS //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_EmacsLisp //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_BrightScript //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_CommonLisp //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Seed7 //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Oberon //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Modula-2 //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Modula-3 //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_NVidia_Cuda //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Crystal //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_IsabelleProofAssistant //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_PureScript //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ApachePig //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Modelica //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Inform //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_GLSL //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Liquid //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_GDScript //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Forth //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_CoffeeScript //// ☑️
+
+//// Batch 52 ✅️
+
+//// No duplicates yet again today :)
+
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Makefile //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_CMake //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ZenScript //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Racket //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_FreeMarker //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Idris //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_TeX //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SuperCollider //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_BibTeX //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_J //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Nix //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_Mod_Home //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_Mod_GitHubMode //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_Mod_Facade //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_Mod_Root //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_Mod_-Repositories //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_Mod_UserModes //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_Mod_-TAG //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_Mod_Snowcraft //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_Mod_Samples //// ☑️
+https://github.com/seanpm2001/Meadows-Network-Troubleshooter //// ☑️
+https://github.com/seanpm2001/Learn-Erlang //// ☑️
+https://github.com/seanpm2001/Learn-Scala //// ☑️
+https://github.com/seanpm2001/Learn-Clojure //// ☑️
+https://github.com/seanpm2001/Learn-CMake //// ☑️
+
+//// Batch 53 ✅️
+
+DUPLICATE: https://github.com/seanpm2001/Learn-Elixir
+DUPLICATE: https://github.com/seanpm2001/BlazeOS_App_Store
+
+https://github.com/seanpm2001/Learn-Dockerfile //// ☑️
+https://github.com/seanpm2001/Firefox-version-number-fix //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_kvlang //// ☑️
+https://github.com/seanpm2001/Awesome-online-video-editors //// ☑️
+https://github.com/seanpm2001/DSergeant //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V9 //// ☑️
+https://github.com/seanpm2001/Sbubbway-generator //// ☑️
+https://github.com/seanpm2001/TouchPetsDogs2Rewritten-Snap //// ☑️
+https://github.com/seanpm2001/Widevine-l3-decryptor-wiki //// ☑️
+https://github.com/seanpm2001/Seanpm2001-Snapcraft //// ☑️
+https://github.com/seanpm2001/Seanpm2001-GitHub-Pages-Collection //// ☑️
+https://github.com/seanpm2001/PongMax //// ☑️
+https://github.com/seanpm2001/uOffice_SpellCheck //// ☑️
+https://github.com/seanpm2001/BWS_Hardware //// ☑️
+https://github.com/seanpm2001/BWS_Hardware_Ice //// ☑️
+https://github.com/seanpm2001/BWS_Icicle //// ☑️
+https://github.com/seanpm2001/BWS_IceCube //// ☑️
+https://github.com/seanpm2001/BWS_IceBlocks //// ☑️
+https://github.com/seanpm2001/BWS_IceBerg //// ☑️
+https://github.com/seanpm2001/BWS_Zamboni //// ☑️
+https://github.com/seanpm2001/Learn-kvlang //// ☑️
+https://github.com/seanpm2001/BlAPK //// ☑️
+https://github.com/seanpm2001/QMEFS //// ☑️
+https://github.com/seanpm2001/Seanpm2001-Hardware //// ☑️
+https://github.com/seanpm2001/Ransomware-Info //// ☑️
+
+//// Batch 54 ✅️
+
+//// DUPLICATE: https://github.com/seanpm2001/BlazeOS_Userland
+//// DUPLICATE: https://github.com/seanpm2001/Google-security-issues
+//// DUPLICATE: https://github.com/seanpm2001/Degoogled_Android_Phone_VM_Research
+
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Earthly //// ☑️
+https://github.com/seanpm2001/Learn-Earthly //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_GNOME_GIMP //// ☑️
+https://github.com/seanpm2001/Learn-Squirrel //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Squirrel //// ☑️
+https://github.com/seanpm2001/BlazeOS_Peak //// ☑️
+https://github.com/seanpm2001/BlazeOS_Peak_Video //// ☑️
+https://github.com/seanpm2001/WYII-TrendTool //// ☑️
+https://github.com/seanpm2001/Learn-Singularity //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Singularity //// ☑️
+https://github.com/seanpm2001/Learn-GSC //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_GSC //// ☑️
+https://github.com/seanpm2001/Learn-Alloy //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Alloy //// ☑️
+https://github.com/seanpm2001/Learn-QT-Script //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_QT-Script //// ☑️
+https://github.com/seanpm2001/Learn-GDB //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_GDB //// ☑️
+https://github.com/seanpm2001/Learn-Procfile //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Procfile //// ☑️
+https://github.com/seanpm2001/VirtualBox_PlusPlus //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_KDE_Kapman //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_KDE_Granatier //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_KDE_KBreakout //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_KDE_KFourInLine //// ☑️
+
+//// Batch 55 ✅️
+
+//// No duplicates today :)
+
+https://github.com/seanpm2001/SeansLifeArchive_Images_KDE //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_System76 //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_GNOME_Quadrapassel //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_GNOME_Chess //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_GNOME_Minesweeper //// ☑️
+https://github.com/seanpm2001/-ibibyte_Mathematical_Reference //// ☑️
+https://github.com/seanpm2001/Learn-BitBake //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_BitBake //// ☑️
+https://github.com/seanpm2001/Learn-Jinja //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Jinja //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_Inkscape //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_UltiMaker_Cura //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_Audacity //// ☑️
+https://github.com/seanpm2001/Learn-OpenQASM //// ☑️
+https://github.com/seanpm2001/Learn-Racket //// ☑️
+https://github.com/seanpm2001/Learn-Ceylon //// ☑️
+https://github.com/seanpm2001/Learn-LogTalk //// ☑️
+https://github.com/seanpm2001/Learn-q //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_q //// ☑️
+https://github.com/seanpm2001/Learn-Ren-Py //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Ren-Py //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_VLC_Media_Player //// ☑️
+https://github.com/seanpm2001/Learn-VueJS //// ☑️
+https://github.com/seanpm2001/Learn-Tcl //// ☑️
+https://github.com/seanpm2001/Learn-Brainfuck //// ☑️
+
+//// Batch 56 ✅️
+
+//// No duplicates again today :)
+
+https://github.com/seanpm2001/Learn-Meson //// ☑️
+https://github.com/seanpm2001/Learn-LLVM //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Meson //// ☑️
+https://github.com/seanpm2001/Learn-ZIL //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ZIL //// ☑️
+https://github.com/seanpm2001/Learn-ZAP //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ZAP //// ☑️
+https://github.com/seanpm2001/TclTorture //// ☑️
+https://github.com/seanpm2001/Pronounce //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_Konqueror //// ☑️
+https://github.com/seanpm2001/Java_The_Hutt //// ☑️
+https://github.com/seanpm2001/Seanpm2001-Ringtones //// ☑️
+https://github.com/seanpm2001/Learn-Pawn //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Pawn //// ☑️
+https://github.com/seanpm2001/Learn-SourcePawn //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SourcePawn //// ☑️
+https://github.com/seanpm2001/CMilk //// ☑️
+https://github.com/seanpm2001/ls.txt //// ☑️
+https://github.com/seanpm2001/SmartZIP //// ☑️
+https://github.com/seanpm2001/FireDiamondSuite //// ☑️
+https://github.com/seanpm2001/Seanwallawalla-Audio //// ☑️
+https://github.com/seanpm2001/Seanpm2001-Audio //// ☑️
+https://github.com/seanpm2001/Learn-WebVTT //// ☑️
+https://github.com/seanpm2001/Learn-Desktop //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Desktop //// ☑️
+
+//// Batch 57 ✅️
+
+//// No duplicates again today :)
+
+https://github.com/seanpm2001/Learn-M //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_M //// ☑️
+https://github.com/seanpm2001/Learn-ZenScript //// ☑️
+https://github.com/seanpm2001/Learn-KiCad //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_KiCad //// ☑️
+https://github.com/seanpm2001/Learn-Metal //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Metal //// ☑️
+https://github.com/seanpm2001/Learn-DM //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_DM //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_GNOME_Clocks //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_KDE_Dolphin //// ☑️
+https://github.com/seanpm2001/MEDOS_HDD_Beta4_Album //// ☑️
+https://github.com/seanpm2001/Seanpm2001-Albums //// ☑️
+https://github.com/seanpm2001/SNU_3D_Universe_MilkyWay_Mars //// ☑️
+https://github.com/seanpm2001/SNU_3D_Universe_MilkyWay_Mercury //// ☑️
+https://github.com/seanpm2001/Learn-EmacsLisp //// ☑️
+https://github.com/seanpm2001/Learn-M4 //// ☑️
+https://github.com/seanpm2001/Learn-JavaScriptPlusPlus //// ☑️
+https://github.com/seanpm2001/MetroTechno //// ☑️
+https://github.com/seanpm2001/MetroTechno_TrafficLight //// ☑️
+https://github.com/seanpm2001/SNU_2D_GardenTalk //// ☑️
+https://github.com/seanpm2001/SNU_3D_Universe_MilkyWay //// ☑️
+https://github.com/seanpm2001/SNU_3D_Universe_MilkyWay_Earth //// ☑️
+https://github.com/seanpm2001/Learn-Lingo //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Lingo //// ☑️
+
+//// Batch 58 ✅️
+
+DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Objective-J
+
+https://github.com/seanpm2001/Learn-OCaml //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_OCaml //// ☑️
+https://github.com/seanpm2001/Learn-Malbolge //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Malbolge //// ☑️
+https://github.com/seanpm2001/MetroTechno_ParkingMeter //// ☑️
+https://github.com/seanpm2001/MetroTechno_Crosswalk //// ☑️
+https://github.com/seanpm2001/MetroTechno_SpeedSign //// ☑️
+https://github.com/seanpm2001/MetroTechno_SpeedViolations //// ☑️
+https://github.com/seanpm2001/Learn-Haxe //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Haxe //// ☑️
+https://github.com/seanpm2001/Learn-Rascal //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Rascal //// ☑️
+https://github.com/seanpm2001/Learn-RouterOS-Script //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_RouterOS-Script //// ☑️
+https://github.com/seanpm2001/Learn-HXML //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_HXML //// ☑️
+https://github.com/seanpm2001/MetroTechno_Core //// ☑️
+https://github.com/seanpm2001/MetroTechno_IncidentReporter //// ☑️
+https://github.com/seanpm2001/Learn-Ooc //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Ooc //// ☑️
+https://github.com/seanpm2001/Learn-AngelScript //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_AngelScript //// ☑️
+https://github.com/seanpm2001/Learn-Objective-J //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_YARA //// ☑️
+https://github.com/seanpm2001/Learn-YARA //// ☑️
+
+//// Batch 59 ✅️
+
+DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_F_-Sharp-
+DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_YAML_-YAML_Ain-t_Markup_Language
+
+https://github.com/seanpm2001/Learn-Jsonnet //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Jsonnet //// ☑️
+https://github.com/seanpm2001/Learn-XS //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_XS //// ☑️
+https://github.com/seanpm2001/Learn-FSharp //// ☑️
+https://github.com/seanpm2001/Learn-XBase //// ☑️
+https://github.com/seanpm2001/Learn-YAML //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_XBase //// ☑️
+https://github.com/seanpm2001/Learn-Bicep //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Bicep //// ☑️
+https://github.com/seanpm2001/Learn-FStar //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_FStar //// ☑️
+https://github.com/seanpm2001/Learn-Logos //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Logos //// ☑️
+https://github.com/seanpm2001/Learn-LookML //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_LookML //// ☑️
+https://github.com/seanpm2001/Learn-Reason //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Reason //// ☑️
+https://github.com/seanpm2001/Learn-ReasonML //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ReasonML //// ☑️
+https://github.com/seanpm2001/Learn-GraphQL //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_GraphQL //// ☑️
+https://github.com/seanpm2001/Learn-Dafny //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Dafny //// ☑️
+https://github.com/seanpm2001/Learn-ApacheConf //// ☑️
+
+//// Batch 60 ✅️
+
+DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_OpenEdge-ABL
+DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Nix
+
+https://github.com/seanpm2001/Learn-OpenEdge-ABL //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ApacheConf //// ☑️
+https://github.com/seanpm2001/Learn-Nix //// ☑️
+https://github.com/seanpm2001/Learn-Cool //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Cool //// ☑️
+https://github.com/seanpm2001/Learn-Bikeshed //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Bikeshed //// ☑️
+https://github.com/seanpm2001/Learn-Eagle //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Eagle //// ☑️
+https://github.com/seanpm2001/Learn-Logcat //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Logcat //// ☑️
+https://github.com/seanpm2001/Learn-Astro //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Astro //// ☑️
+https://github.com/seanpm2001/Learn-HaProxy //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_HaProxy //// ☑️
+https://github.com/seanpm2001/Learn-HyPhy //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_HyPhy //// ☑️
+https://github.com/seanpm2001/Learn-Blade //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Blade //// ☑️
+https://github.com/seanpm2001/Learn-Boogie //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Boogie //// ☑️
+https://github.com/seanpm2001/Learn-SVG //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SVG //// ☑️
+https://github.com/seanpm2001/Learn-Fish //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Fish //// ☑️
+
+//// Batch 61 ✅️
+
+DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Factor
+DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Forth
+DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_HandleBars
+DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_AppleScript
+DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_UnrealScript
+
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_API-Blueprint //// ☑️
+https://github.com/seanpm2001/Learn-Fluent //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Fluent //// ☑️
+https://github.com/seanpm2001/Learn-Factor //// ☑️
+https://github.com/seanpm2001/Learn-Handlebars //// ☑️
+https://github.com/seanpm2001/Learn-Fantom //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Fantom //// ☑️
+https://github.com/seanpm2001/Learn-Forth //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_HandleBars //// ☑️
+https://github.com/seanpm2001/Learn-PicoLisp //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_PicoLisp //// ☑️
+https://github.com/seanpm2001/Learn-REXX //// ☑️
+https://github.com/seanpm2001/Learn-NetREXX //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_NetREXX //// ☑️
+https://github.com/seanpm2001/Learn-FCL //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_FCL //// ☑️
+https://github.com/seanpm2001/Learn-Lean //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Lean //// ☑️
+https://github.com/seanpm2001/Learn-NewLisp //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_NewLisp //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Dylan //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_INI //// ☑️
+https://github.com/seanpm2001/Learn-UnrealScript //// ☑️
+https://github.com/seanpm2001/Learn-Stylus //// ☑️
+https://github.com/seanpm2001/Learn-Nu //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Nu //// ☑️
+
+//// Batch 62 ✅️
+
+//// 5 duplicates straight off the bat
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Stylus
+//// DUPLICATE: https://github.com/seanpm2001/Learn-Dylan
+//// DUPLICATE: https://github.com/seanpm2001/Learn-INI
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Solidity
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_1C-Enterprise
+//// So many duplicates
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_AutoIt
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_VimScript
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ActionScript
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Agda
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Assembly
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Ada
+//// Wave 3
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Pug
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_MediaWiki
+//// Final wave
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Twig
+
+https://github.com/seanpm2001/Learn-AutoIt //// ☑️
+https://github.com/seanpm2001/Learn-VimScript //// ☑️
+https://github.com/seanpm2001/Learn-StringTemplate //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_StringTemplate //// ☑️
+https://github.com/seanpm2001/Learn-WikiText //// ☑️
+https://github.com/seanpm2001/Learn-CartoCSS //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_CartoCSS //// ☑️
+https://github.com/seanpm2001/Learn-G-CODE //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_G-CODE //// ☑️
+https://github.com/seanpm2001/Learn-GnuPlot //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_GnuPlot //// ☑️
+https://github.com/seanpm2001/Learn-Mako //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Mako //// ☑️
+https://github.com/seanpm2001/Learn-Pug //// ☑️
+https://github.com/seanpm2001/Learn-Pod //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SciLab //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_WDL //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_PostGreSQL //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_RMarkdown //// ☑️
+https://github.com/seanpm2001/Learn-Uno //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Uno //// ☑️
+https://github.com/seanpm2001/Learn-ASCIIDoc //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ASCIIDoc //// ☑️
+https://github.com/seanpm2001/Learn-Twig //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Pod //// ☑️
+
+//// Batch 63 ✅️
+
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Ballerina
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_BrightScript
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Seed7
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Oberon
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_HAML
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Modula-2
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_AWK
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Boo
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Modula-3
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SystemVerilog
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_HCL
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_C
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_C_Sharp
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_CSS_-Cascade_Styling_Sheets-
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_COBOL
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_GLSL
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Lisp-Flavored-Erlang_LFE
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_C_Plus_Plus
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Cython
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Clean
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Crystal
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Euphoria
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Clojure
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Dart
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Gosu
+
+https://github.com/seanpm2001/Learn-Seed7 //// ☑️
+https://github.com/seanpm2001/Learn-Oberon //// ☑️
+https://github.com/seanpm2001/Learn-Modula-2 //// ☑️
+https://github.com/seanpm2001/Learn-Modula-3 //// ☑️
+https://github.com/seanpm2001/Learn-SystemVerilog //// ☑️
+https://github.com/seanpm2001/Learn-Creole //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Creole //// ☑️
+https://github.com/seanpm2001/Learn-HCL //// ☑️
+https://github.com/seanpm2001/Learn-GLSL //// ☑️
+https://github.com/seanpm2001/Learn-HLSL //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_HLSL //// ☑️
+https://github.com/seanpm2001/Learn-DTrace //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_DTrace //// ☑️
+https://github.com/seanpm2001/Learn-LispFlavoredErlang //// ☑️
+https://github.com/seanpm2001/Learn-HAML //// ☑️
+https://github.com/seanpm2001/Learn-XProc //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_XProc //// ☑️
+https://github.com/seanpm2001/Learn-OpenPolicyAgent //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_OpenPolicyAgent //// ☑️
+https://github.com/seanpm2001/Learn-Euphoria //// ☑️
+https://github.com/seanpm2001/Learn-QMake //// ☑️
+https://github.com/seanpm2001/Learn-SaltStack //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SaltStack //// ☑️
+https://github.com/seanpm2001/Learn-HiveQL //// ☑️
+https://github.com/seanpm2001/Learn-Gosu //// ☑️
+
+//// Batch 64 ✅️
+
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_CMake
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_D
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_HiveQL
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Hope
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_BASIC
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ALGOL
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Docker
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_XQuery
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Eiffel
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Elixir
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Erlang
+//// DUPLICATE (2nd usage) https://github.com/seanpm2001/Learn-GCC-Machine-Description
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Epigram
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Self
+
+https://github.com/seanpm2001/Learn-ABAP //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ABAP //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_QMake //// ☑️
+https://github.com/seanpm2001/Learn-PureData //// ☑️
+https://github.com/seanpm2001/Learn-Hope //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_PureData //// ☑️
+https://github.com/seanpm2001/Learn-NGINX //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_NGINX //// ☑️
+https://github.com/seanpm2001/Learn-AL //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_AL //// ☑️
+https://github.com/seanpm2001/Learn-BASIC //// ☑️
+https://github.com/seanpm2001/Learn-ALGOL //// ☑️
+https://github.com/seanpm2001/Learn-XQuery //// ☑️
+https://github.com/seanpm2001/Learn-GCC-Machine-Description //// ☑️
+https://github.com/seanpm2001/Learn-Epigram //// ☑️
+https://github.com/seanpm2001/Learn-Orwell //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Orwell //// ☑️
+https://github.com/seanpm2001/Learn-Thrift //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Thrift //// ☑️
+https://github.com/seanpm2001/Learn-NextFlow //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_NextFlow //// ☑️
+https://github.com/seanpm2001/Learn-Self //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_GCC-Machine-Description //// ☑️
+https://github.com/seanpm2001/Learn-HolyC //// ☑️
+https://github.com/seanpm2001/Learn-Joy //// ☑️
+
+//// Batch 65 ✅️
+
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Haskell
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Joy
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Hack
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Jade
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Idris
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ImageJ
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_FORTRAN_-FORmula_TRANslation-
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_GDScript
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SASS
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ANTLR
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_B
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SGML_-Standard_Generalized_Markup_Language-
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SREC-MotorolaS-RecordBinaryData-
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Starlark
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Inform
+//// Running through the list, double checking, even if I am sure they are duplicates.
+
+https://github.com/seanpm2001/Learn-Jade //// ☑️
+https://github.com/seanpm2001/Learn-Mallard //// ☑️
+https://github.com/seanpm2001/Learn-TLA //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_TLA //// ☑️
+https://github.com/seanpm2001/Learn-AIDL //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_AIDL //// ☑️
+https://github.com/seanpm2001/Learn-CodeQL //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_CodeQL //// ☑️
+https://github.com/seanpm2001/Learn-ReScript //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ReScript //// ☑️
+https://github.com/seanpm2001/Learn-GN //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_GN //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Mallard //// ☑️
+https://github.com/seanpm2001/Learn-ANTLR //// ☑️
+https://github.com/seanpm2001/Learn-SASS //// ☑️
+https://github.com/seanpm2001/Learn-CLIPS //// ☑️
+https://github.com/seanpm2001/Learn-B //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_CLIPS //// ☑️
+https://github.com/seanpm2001/Learn-SGML //// ☑️
+https://github.com/seanpm2001/Learn-ALS //// ☑️
+https://github.com/seanpm2001/Learn-S-RECORD //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ALS //// ☑️
+https://github.com/seanpm2001/Learn-Starlark //// ☑️
+https://github.com/seanpm2001/Learn-CommonWorkflowLanguage //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_CommonWorkflowLanguage //// ☑️
+
+//// Batch 66 ✅️
+
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Inno_Setup
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Lex
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_IsabelleProofAssistant
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Julia
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_AssemblyScript
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_AMPL
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Java
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_JavaScript
+
+https://github.com/seanpm2001/Learn-Sage //// ☑️
+https://github.com/seanpm2001/Learn-DIGITAL-Command-Language //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_DIGITAL-Command-Language //// ☑️
+https://github.com/seanpm2001/Learn-Lex //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Sage //// ☑️
+https://github.com/seanpm2001/Learn-Puppet //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Puppet //// ☑️
+https://github.com/seanpm2001/Learn-POV-Ray-SDL //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_POV-Ray-SDL //// ☑️
+https://github.com/seanpm2001/Learn-ShaderLab //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ShaderLab //// ☑️
+https://github.com/seanpm2001/Learn-AssemblyScript //// ☑️
+https://github.com/seanpm2001/Learn-Fancy
+https://github.com/seanpm2001/Learn-OpenSCAD
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_OpenSCAD //// ☑️
+https://github.com/seanpm2001/Learn-E //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_E //// ☑️
+https://github.com/seanpm2001/Learn-NASL //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_NASL //// ☑️
+https://github.com/seanpm2001/Learn-NSIS //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_NSIS //// ☑️
+https://github.com/seanpm2001/Learn-AMPL //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Fancy //// ☑️
+https://github.com/seanpm2001/Learn-Smarty //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Smarty //// ☑️
+
+//// Batch 67 ✅️
+
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_IronPython
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_FreeMarker
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_KiXtart
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Liquid
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_CoffeeScript
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Kotlin
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Lua
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Mathematica
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Caml_-Categorized_Abstract_Machine_Language-
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Modelica
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_JScript
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_NVidia_Cuda
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Smalltalk
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_XSLT
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_JupyterNotebook
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Makefile
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_GAP
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_LOLCODE
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Markdown
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Objective-C
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_EJS
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Octave
+
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_VCL //// ☑️
+https://github.com/seanpm2001/Learn-IronPython //// ☑️
+https://github.com/seanpm2001/Learn-KiXTart //// ☑️
+https://github.com/seanpm2001/Learn-RichTextFormat //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_RichTextFormat //// ☑️
+https://github.com/seanpm2001/Learn-FreeMarker //// ☑️
+https://github.com/seanpm2001/Learn-CoffeeScript //// ☑️
+https://github.com/seanpm2001/Learn-Liquid //// ☑️
+https://github.com/seanpm2001/Learn-CAML //// ☑️
+https://github.com/seanpm2001/Learn-JScript //// ☑️
+https://github.com/seanpm2001/Learn-SmallTalk //// ☑️
+https://github.com/seanpm2001/Learn-Dhall //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Dhall //// ☑️
+https://github.com/seanpm2001/Learn-Apex //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Apex //// ☑️
+https://github.com/seanpm2001/Learn-Slim //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Slim //// ☑️
+https://github.com/seanpm2001/Learn-CUDA //// ☑️
+https://github.com/seanpm2001/Learn-JupyterNotebook //// ☑️
+https://github.com/seanpm2001/Learn-XSLT //// ☑️
+https://github.com/seanpm2001/Learn-GAP //// ☑️
+https://github.com/seanpm2001/Learn-VCL //// ☑️
+https://github.com/seanpm2001/Learn-Octave //// ☑️
+https://github.com/seanpm2001/Learn-EJS //// ☑️
+https://github.com/seanpm2001/Learn-Verona //// ☑️
+
+//// Batch 68 ✅️
+
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Nunjucks
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SuperCollider
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_TOML
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Python
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_QML
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Cyclone
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Visual_Basic_Script
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Diff
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Objective-C-Plus-Plus
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Pascal
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_CommonLisp
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Rust
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Raku
+//// DUPLICATE: https://github.com/seanpm2001/Learn-Jython
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SXML
+
+https://github.com/seanpm2001/Learn-Nunjucks //// ☑️
+https://github.com/seanpm2001/Learn-SuperCollider //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Verona //// ☑️
+https://github.com/seanpm2001/Learn-TOML //// ☑️
+https://github.com/seanpm2001/Learn-Cyclone //// ☑️
+https://github.com/seanpm2001/Learn-Diff //// ☑️
+https://github.com/seanpm2001/Learn-VisualBasicScript //// ☑️
+https://github.com/seanpm2001/Learn-Arduino //// ☑️
+https://github.com/seanpm2001/Learn-CommonLisp //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Arduino //// ☑️
+https://github.com/seanpm2001/Learn-CSV //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_CSV //// ☑️
+https://github.com/seanpm2001/Learn-Gradle //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Gradle //// ☑️
+https://github.com/seanpm2001/Learn-LabVIEW //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_LabVIEW //// ☑️
+https://github.com/seanpm2001/Learn-Jasmin //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Jasmin //// ☑️
+https://github.com/seanpm2001/Learn-SAS //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SAS //// ☑️
+https://github.com/seanpm2001/Learn-PythonTraceback //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_PythonTraceback //// ☑️
+https://github.com/seanpm2001/Learn-SXML //// ☑️
+https://github.com/seanpm2001/Learn-JSSS //// ☑️
+
+//// Batch 69 ✅️
+
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ReStructuredText
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_JSSS
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_R
+
+https://github.com/seanpm2001/Learn-CSON //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_CSON //// ☑️
+https://github.com/seanpm2001/Learn-Maxima //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Maxima //// ☑️
+https://github.com/seanpm2001/Learn-JScript.NET //// ☑️
+https://github.com/seanpm2001/Learn-Mustache //// ☑️
+https://github.com/seanpm2001/Learn-RobotFramework //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_RobotFramework //// ☑️
+https://github.com/seanpm2001/Learn-AspectJ //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_AspectJ //// ☑️
+https://github.com/seanpm2001/Learn-RUNOFF //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_RUNOFF //// ☑️
+https://github.com/seanpm2001/Learn-PowerFX //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_PowerFX //// ☑️
+https://github.com/seanpm2001/Learn-ABNF //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ABNF //// ☑️
+https://github.com/seanpm2001/Learn-PostCSS //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_PostCSS //// ☑️
+https://github.com/seanpm2001/Learn-Max //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Max //// ☑️
+https://github.com/seanpm2001/Learn-ABAP-CDS //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ABAP-CDS //// ☑️
+https://github.com/seanpm2001/Learn-OrgMode //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_OrgMode //// ☑️
+https://github.com/seanpm2001/Learn-SublimeText //// ☑️
+
+//// Batch 70 ✅️
+
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Scala
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_JScript_.NET
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Perl
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Prolog
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_TypeScript
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Vala
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_VirtualHardDiskLanguage
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Vue.js
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Swift-Apple-
+
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SublimeText //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Mustache //// ☑️
+https://github.com/seanpm2001/Learn-SMT //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SMT //// ☑️
+https://github.com/seanpm2001/Learn-LiveCode //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_LiveCode //// ☑️
+https://github.com/seanpm2001/Learn-VBA //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_VBA //// ☑️
+https://github.com/seanpm2001/Learn-WindowsRegistry //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_WindowsRegistry //// ☑️
+https://github.com/seanpm2001/Learn-INTERCAL //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_INTERCAL //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SWIG //// ☑️
+https://github.com/seanpm2001/Learn-Befunge //// ☑️
+https://github.com/seanpm2001/Learn-AutoHotKey //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_AutoHotKey //// ☑️
+https://github.com/seanpm2001/Learn-RDoc //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_RDoc //// ☑️
+https://github.com/seanpm2001/Learn-Hy //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Hy //// ☑️
+https://github.com/seanpm2001/Learn-RPC //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_RPC //// ☑️
+https://github.com/seanpm2001/Learn-KRC //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_KRC //// ☑️
+
+//// Batch 71 ✅️
+
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Gherkin
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_MoonScript
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_IDL
+
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Befunge //// ☑️
+https://github.com/seanpm2001/Learn-S-RECODE-Template //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_S-RECODE-Template //// ☑️
+https://github.com/seanpm2001/Learn-TXL //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_TXL //// ☑️
+https://github.com/seanpm2001/Learn-Module-Management-System //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Module-Management-System //// ☑️
+https://github.com/seanpm2001/Learn-LiveScript //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_LiveScript //// ☑️
+https://github.com/seanpm2001/Learn-Wierd //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Wierd //// ☑️
+https://github.com/seanpm2001/Learn-Augeas //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Augeas //// ☑️
+https://github.com/seanpm2001/Learn-OpenCL //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_OpenCL //// ☑️
+https://github.com/seanpm2001/Learn-X-Pixmap //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_X-Pixmap //// ☑️
+https://github.com/seanpm2001/Learn-FP //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_FP //// ☑️
+https://github.com/seanpm2001/Learn-CH //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_CH //// ☑️
+https://github.com/seanpm2001/Learn-PLSQL //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_PLSQL //// ☑️
+https://github.com/seanpm2001/Learn-TSX //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_TSX //// ☑️
+
+//// Batch 72 ✅️
+
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_nesC
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Yacc
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_JSON
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Mallard
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_C_-EDK2-
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Verilog-AMS
+
+https://github.com/seanpm2001/Learn-Textile //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Textile //// ☑️
+https://github.com/seanpm2001/Learn-JSON5 //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_JSON5 //// ☑️
+https://github.com/seanpm2001/Learn-QueryByExample //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_QueryByExample //// ☑️
+https://github.com/seanpm2001/Learn-Latte //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Latte //// ☑️
+https://github.com/seanpm2001/Learn-AGS-Script //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_AGS-Script //// ☑️
+https://github.com/seanpm2001/Learn-BlitzBasic //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_BlitzBasic //// ☑️
+https://github.com/seanpm2001/Learn-McFunction //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_McFunction //// ☑️
+https://github.com/seanpm2001/Learn-SASL //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SASL //// ☑️
+https://github.com/seanpm2001/Learn-VisualLogic //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_VisualLogic //// ☑️
+https://github.com/seanpm2001/Learn-Amulet //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Amulet //// ☑️
+https://github.com/seanpm2001/Learn-Chapel //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Chapel //// ☑️
+https://github.com/seanpm2001/Learn-PlantUML //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_PlantUML //// ☑️
+https://github.com/seanpm2001/Learn-RPGLE //// ☑️
+
+//// Batch 73 ✅️
+
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_JSON
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_XML
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Zig
+//// DUPLICATE: https://github.com/seanpm2001/Learn-S-RECODE-Template
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_S-RECODE-Template
+//// DUPLICATE: https://github.com/seanpm2001/Learn-TXL
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_TXL
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Module-Management-System
+//// DUPLICATE: https://github.com/seanpm2001/Learn-LiveScript
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_LiveScript
+//// DUPLICATE: https://github.com/seanpm2001/Learn-Wierd
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Wierd
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Elm
+//// DUPLICATE: https://github.com/seanpm2001/Personal-research-tank
+//// DUPLICATE: https://github.com/seanpm2001/Learn-Mallard
+//// DUPLICATE: https://github.com/seanpm2001/Boilerplate-cabinet
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_C_-EDK2-
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Verilog-AMS
+
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_RPGLE //// ☑️
+https://github.com/seanpm2001/Learn-Grammatical-Framework //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Grammatical-Framework //// ☑️
+https://github.com/seanpm2001/Learn-DCPU-16-ASM //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_DCPU-16-ASM //// ☑️
+https://github.com/seanpm2001/Learn-Lucid //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Lucid //// ☑️
+https://github.com/seanpm2001/Learn-ISWIM //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ISWIM //// ☑️
+https://github.com/seanpm2001/Seanpm2001-idea-vault //// ☑️
+https://github.com/Seanpm2001/Maintainers-info //// ☑️
+https://github.com/seanpm2001/Silkworm_web_browser //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Extras_Animation //// ☑️
+https://github.com/seanpm2001/Learn-Smali //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Smali //// ☑️
+https://github.com/seanpm2001/Learn-Terra //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Terra //// ☑️
+https://github.com/seanpm2001/Learn-KiCad-Layout //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_KiCad-Layout //// ☑️
+https://github.com/seanpm2001/Learn-KiCad-Schematic //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_KiCad-Schematic //// ☑️
+https://github.com/seanpm2001/Learn_MLIR //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_MLIR //// ☑️
+https://github.com/seanpm2001/Self-replicating-machine-research //// ☑️
+https://github.com/seanpm2001/horsin-around-in-the-barn //// ☑️
+
+//// Batch 74 ✅️
+
+//// No duplicates today :)
+
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Seanpm2001-Matrix //// ☑️
+https://github.com/seanpm2001/Learn-URLL //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_URLL //// ☑️
+https://github.com/seanpm2001/Learn-JFlex //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_JFlex //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_AdCap_Y2023 //// ☑️
+https://github.com/seanpm2001/SNU_3D_Universe_MilkyWay_Jupiter //// ☑️
+https://github.com/seanpm2001/Learn-Blockly //// ☑️
+https://github.com/seanpm2001/Learn-Cobra //// ☑️
+https://github.com/seanpm2001/Learn-CPython //// ☑️
+https://github.com/seanpm2001/Learn-MS-DOS-Style //// ☑️
+https://github.com/seanpm2001/Learn-Cadence //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Cadence //// ☑️
+https://github.com/seanpm2001/Learn-Unity3DAsset //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Unity3DAsset //// ☑️
+https://github.com/seanpm2001/Learn-ProGuard //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ProGuard //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_Clash-of-Clans_Y2023/ //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_Boom-Beach_Y2023/ //// ☑️
+https://github.com/seanpm2001/Learn-Batch/ //// ☑️
+https://github.com/seanpm2001/Learn-MATLAB/ //// ☑️
+https://github.com/seanpm2001/Learn-Scratch/ //// ☑️
+https://github.com/seanpm2001/Learn-Squeak/ //// ☑️
+https://github.com/seanpm2001/Learn-Wavefront-Material //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Wavefront-Material //// ☑️
+
+//// Batch 75 ✅️
+
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_BibTeX
+
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_CAP-CDS //// ☑️
+https://github.com/seanpm2001/Learn-Jetbrains-MPS //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Jetbrains-MPS //// ☑️
+https://github.com/seanpm2001/Scope //// ☑️
+https://github.com/seanpm2001/uOffice_JokePrograms_PieMan //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_GitHub_Y2023 //// ☑️
+https://github.com/seanpm2001/Seanpm2001-Hacktoberfest //// ☑️
+https://github.com/seanpm2001/Learn-ASP //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ASP //// ☑️
+https://github.com/seanpm2001/Learn-ASP.NET //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ASP.NET //// ☑️
+https://github.com/seanpm2001/Learn-BSDL //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_BSDL //// ☑️
+https://github.com/seanpm2001/Learn-FLUX //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_FLUX //// ☑️
+https://github.com/seanpm2001/Learn-BibTeX //// ☑️
+https://github.com/seanpm2001/Learn-CAP-CDS //// ☑️
+https://github.com/seanpm2001/Seanpm2001-Specifications //// ☑️
+https://github.com/seanpm2001/SourceCode_StyleGuide //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_Bit_City_-NimbleBit_Game-_Y2023 //// ☑️
+https://github.com/seanpm2001/Learn-Genie //// ☑️
+https://github.com/seanpm2001/Learn-Cap-n-Proto //// ☑️
+https://github.com/seanpm2001/Learn-Coq //// ☑️
+https://github.com/seanpm2001/Learn-CSound //// ☑️
+https://github.com/seanpm2001/Learn-CSound-Document //// ☑️
+
+//// Batch 76 ✅️
+
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Gerber-Image
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_GraphViz-DOT
+//// DUPLICATE: https://github.com/seanpm2001/Snowcraft
+//// DUPLICATE: https://github.com/seanpm2001/Halloween-Assistant
+//// DUPLICATE: https://github.com/seanpm2001/RailRAM-Train-Collection
+//// DUPLICATE: https://github.com/seanpm2001/Team8_Collection
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_IntelHexBinary
+//// DUPLICATE: https://github.com/seanpm2001/seanpm2001_gistrepository
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_PostScript
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_LESS
+//// DUPLICATE: https://github.com/seanpm2001/-microMiniwave
+//// DUPLICATE: https://github.com/seanpm2001/ARCHIVE_My-Robot-Friend
+//// DUPLICATE: https://github.com/seanpm2001/Zoom-sucks
+//// DUPLICATE: https://github.com/seanpm2001/Linux-computer-compatibility
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Limbo
+
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_CSound-Document //// ☑️
+https://github.com/seanpm2001/Linux_Defender_YARA_CVE_Database //// ☑️
+https://github.com/seanpm2001/Seanpm2001-InteractiveFiction //// ☑️
+https://github.com/seanpm2001/Learn-CSound-Score //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_CSound-Score //// ☑️
+https://github.com/seanpm2001/Learn-JSON //// ☑️
+https://github.com/seanpm2001/Learn-Gerber-Image //// ☑️
+https://github.com/seanpm2001/OS_Census //// ☑️
+https://github.com/seanpm2001/Learn-GetText //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_GetText //// ☑️
+https://github.com/seanpm2001/Learn-Graphviz-DOT //// ☑️
+https://github.com/seanpm2001/NexxFetch //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_DiscoZoo_Y2023 //// ☑️
+https://github.com/seanpm2001/SearchKX //// ☑️
+https://github.com/seanpm2001/SNU_2D_Lodger //// ☑️
+https://github.com/seanpm2001/Santa_Software_Suite_Core //// ☑️
+https://github.com/seanpm2001/Learn-IntelHexBinary //// ☑️
+https://github.com/seanpm2001/Gist_Seanpm2001-GitHubProfileNavigation //// ☑️
+https://github.com/seanpm2001/Learn-PostScript //// ☑️
+https://github.com/seanpm2001/Gist_Seanpm_OnGitHub //// ☑️
+https://github.com/seanpm2001/Learn-Less //// ☑️
+https://github.com/seanpm2001/Computer-cursor-tech-support //// ☑️
+https://github.com/seanpm2001/Learn-Limbo //// ☑️
+https://github.com/seanpm2001/Objective-JPP //// ☑️
+https://github.com/seanpm2001/Learn-LISP //// ☑️
+
+//// Batch 77 ✅️
+
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Lisp_-LISt_Processor-
+//// DUPLICATE: https://github.com/seanpm2001/Objective-JSharp
+//// DUPLICATE: https://github.com/seanpm2001/Military-ethics
+//// DUPLICATE: https://github.com/seanpm2001/uOffice_LIBrary_DVCS
+//// DUPLICATE: https://github.com/seanpm2001/ReStructuredText_Sandbox
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ML
+//// DUPLICATE: https://github.com/seanpm2001/Linux-computer-compatibility
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ApachePig
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_REBOL
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_PureBASIC
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Ragel
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Verilog
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SCSS
+
+https://github.com/seanpm2001/Makefile_Testing //// ☑️
+https://github.com/seanpm2001/SSS_FlightTracker //// ☑️
+https://github.com/seanpm2001/SSS_Elf //// ☑️
+https://github.com/seanpm2001/SSS_ProgrammerTidbits //// ☑️
+https://github.com/seanpm2001/Learn-Miranda //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Miranda //// ☑️
+https://github.com/seanpm2001/Learn-ML //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_LegoTower_Y2023 //// ☑️
+https://github.com/seanpm2001/Learn-Piglatin //// ☑️
+https://github.com/seanpm2001/Learn-J //// ☑️
+https://github.com/seanpm2001/Learn-REBOL //// ☑️
+https://github.com/seanpm2001/Learn-Macaulay2 //// ☑️
+https://github.com/seanpm2001/Learn-PureBasic //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Macaulay2 //// ☑️
+https://github.com/seanpm2001/SSS_ChristmasArcade //// ☑️
+https://github.com/seanpm2001/SSS_Client //// ☑️
+https://github.com/seanpm2001/Learn-Ragel //// ☑️
+https://github.com/seanpm2001/Learn-Motoko //// ☑️
+https://github.com/seanpm2001/Learn-Verilog //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Motoko //// ☑️
+https://github.com/seanpm2001/Learn-Refal //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Refal //// ☑️
+https://github.com/seanpm2001/Learn-SCSS //// ☑️
+https://github.com/seanpm2001/Learn-Nemerle //// ☑️
+https://github.com/seanpm2001/Learn-Sed //// ☑️
+
+//// Batch 78 ✅️
+
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Sed
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SQL_-Structured_Query_Language-
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_TeX
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_TSQL
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Verilog-AMS
+
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Nemerle //// ☑️
+https://github.com/seanpm2001/SNU_3D_Universe_MilkyWay_Uranus //// ☑️
+https://github.com/seanpm2001/iBlast_Docs //// ☑️
+https://github.com/seanpm2001/Learn-SQL //// ☑️
+https://github.com/seanpm2001/Learn-Vim-Snippet //// ☑️
+https://github.com/seanpm2001/Learn-StandardML //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_StandardML //// ☑️
+https://github.com/seanpm2001/Learn-TeX //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Vim-Snippet //// ☑️
+https://github.com/seanpm2001/Learn-TSQL //// ☑️
+https://github.com/seanpm2001/ChargeFX //// ☑️
+https://github.com/seanpm2001/Learn-Verilog-AMS //// ☑️
+https://github.com/seanpm2001/Seanpm2001-Templates //// ☑️
+https://github.com/seanpm2001/Seanwallawalla-Docs //// ☑️
+https://github.com/seanpm2001/Rasple //// ☑️
+https://github.com/seanpm2001/Meadows_WebMode //// ☑️
+https://github.com/seanpm2001/Learn-Linker-Script //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Linker-Script //// ☑️
+https://github.com/seanpm2001/Learn-Monkey-C //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Monkey-C //// ☑️
+https://github.com/seanpm2001/Learn-Pod6 //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Pod6 //// ☑️
+https://github.com/seanpm2001/Learn-Perl6 //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Perl6 //// ☑️
+
+//// Batch 79 ✅️
+
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_PowerShell
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_VisualBasic.NET
+
+https://github.com/seanpm2001/Learn-Wavefront-Object //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Wavefront-Object //// ☑️
+https://github.com/seanpm2001/Seanwallawalla-Documentation //// ☑️
+https://github.com/seanpm2001/SeanTRM-Docs //// ☑️
+https://github.com/seanpm2001/SeanTRM-Documentation //// ☑️
+https://github.com/seanpm2001/Learn-Berry //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Berry //// ☑️
+https://github.com/seanpm2001/Learn-Scratch-1.x //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Scratch-1.x //// ☑️
+https://github.com/seanpm2001/Learn-Scratch-2.x //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Scratch-2.x //// ☑️
+https://github.com/seanpm2001/Learn-Scratch-3.x //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Scratch-3.x //// ☑️
+https://github.com/seanpm2001/Learn-Stan //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Stan //// ☑️
+https://github.com/seanpm2001/SNU_3D_Universe_MilkyWay_Saturn //// ☑️
+https://github.com/seanpm2001/Seanspokane2015-Docs //// ☑️
+https://github.com/seanpm2001/Seanspokane2015-Documentation //// ☑️
+https://github.com/seanpm2001/Learn-Batchfile //// ☑️
+https://github.com/seanpm2001/Learn-PowerShell //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_OneNote-collection //// ☑️
+https://github.com/seanpm2001/Learn-Groovy //// ☑️
+https://github.com/seanpm2001/Learn-VisualBasicDOTNet //// ☑️
+https://github.com/seanpm2001/Programmers-Day //// ☑️
+https://github.com/seanpm2001/Learn-Roff //// ☑️
+
+//// Batch 80 ✅️
+
+//// DUPLICATE: https://github.com/seanpm2001/Computer-cursor-tech-support
+
+https://github.com/seanpm2001/seanpm2001.github.io //// ☑️
+https://github.com/seanpm2001/Project1k1.github.io //// ☑️
+https://github.com/seanpm2001/9x-Internet.github.io //// ☑️
+https://github.com/seanpm2001/SafeT-dev.github.io //// ☑️
+https://github.com/seanpm2001/9x-Internet //// ☑️
+https://github.com/seanpm2001/SNU-Erotica.github.io //// ☑️
+https://github.com/seanpm2001/SNU-Porn.github.io //// ☑️
+https://github.com/seanpm2001/Seanpm2001-KhanAcademy.github.io //// ☑️
+https://github.com/seanpm2001/NUNIX-dev.github.io //// ☑️
+https://github.com/seanpm2001/NUNIX //// ☑️
+https://github.com/seanpm2001/CompuSmell.github.io //// ☑️
+https://github.com/seanpm2001/Reactop-computers.github.io //// ☑️
+https://github.com/seanpm2001/Egg-org.github.io //// ☑️
+https://github.com/seanpm2001/URLL-Specification.github.io //// ☑️
+https://github.com/seanpm2001/Egg_Org //// ☑️
+https://github.com/seanpm2001/Seanpm2001-Robotics.github.io //// ☑️
+https://github.com/seanpm2001/SuperPower-laptops.github.io //// ☑️
+https://github.com/seanpm2001/NimbleBit-Games.github.io //// ☑️
+https://github.com/seanpm2001/404-Day.github.io //// ☑️
+https://github.com/seanpm2001/WacOS-Dev.github.io //// ☑️
+https://github.com/seanpm2001/Seanpm2001-Biology.github.io //// ☑️
+https://github.com/seanpm2001/SVG-video.github.io //// ☑️
+https://github.com/seanpm2001/Doorcrete.github.io //// ☑️
+https://github.com/seanpm2001/Doorcrete //// ☑️
+https://github.com/seanpm2001/Docs //// ☑️
+
+//// Batch 81 ✅️
+
+//// No duplicates today :)
+
+https://github.com/seanpm2001/Computing-longevity-blog //// ☑️
+https://github.com/seanpm2001/CamCamPlus.github.io //// ☑️
+https://github.com/seanpm2001/TalkScript.github.io //// ☑️
+https://github.com/seanpm2001/Slaveworks.github.io //// ☑️
+https://github.com/seanpm2001/Gaslight-Galactica.github.io //// ☑️
+https://github.com/seanpm2001/MCPYE.github.io //// ☑️
+https://github.com/seanpm2001/Tetris128.github.io //// ☑️
+https://github.com/seanpm2001/BGemJam-game.github.io //// ☑️
+https://github.com/seanpm2001/iBlast-Game.github.io //// ☑️
+https://github.com/seanpm2001/SNU-0D.github.io //// ☑️
+https://github.com/seanpm2001/Seanpm2001-COVID-19.github.io //// ☑️
+https://github.com/seanpm2001/Code-distancing.github.io //// ☑️
+https://github.com/seanpm2001/Seanpm2001-Food-Index.github.io //// ☑️
+https://github.com/seanpm2001/SPM_FoodIndex //// ☑️
+https://github.com/seanpm2001/TuxBot-operating-system.github.io //// ☑️
+https://github.com/seanpm2001/SNU-DennisRitchieMemorial.github.io //// ☑️
+https://github.com/seanpm2001/Hospital-defender.github.io //// ☑️
+https://github.com/seanpm2001/README-Desktop-LIBrary.github.io //// ☑️
+https://github.com/seanpm2001/DentalBar-Whitetooth-pro.github.io //// ☑️
+https://github.com/seanpm2001/DentalBar_WhiteTooth_Pro //// ☑️
+https://github.com/seanpm2001/Seanpm2001-KolibriGames.github.io //// ☑️
+https://github.com/seanpm2001/ScreenTeX.github.io //// ☑️
+https://github.com/seanpm2001/BootDown-dev.github.io //// ☑️
+https://github.com/seanpm2001/Its-time-to-cut-WideVine-DRM.github.io //// ☑️
+https://github.com/seanpm2001/Seanpm2001-Scratch.github.io //// ☑️
+
+//// Batch 82 ✅️
+
+//// No duplicates again today :)
+
+https://github.com/seanpm2001/SNU-TimeMachine.github.io //// ☑️
+https://github.com/seanpm2001/TouchPetsDogs2Rewritten.github.io //// ☑️
+https://github.com/seanpm2001/Engineer-Superdesk.github.io //// ☑️
+https://github.com/seanpm2001/SNU-Programming-Tools.github.io //// ☑️
+https://github.com/seanpm2001/Seanpm2001-Testing.github.io //// ☑️
+https://github.com/seanpm2001/seanwallawalla-testing.github.io //// ☑️
+https://github.com/seanpm2001/Degoogle-your-life.github.io //// ☑️
+https://github.com/seanpm2001/Seanpm2001-Health.github.io //// ☑️
+https://github.com/seanpm2001/Seanwallawalla-health.github.io //// ☑️
+https://github.com/seanpm2001/Computing-longevity.github.io //// ☑️
+https://github.com/seanpm2001/Medical-ethics.github.io //// ☑️
+https://github.com/seanpm2001/Snail-bob-maker.github.io //// ☑️
+https://github.com/seanpm2001/UltimateCalculator.github.io //// ☑️
+https://github.com/seanpm2001/Cyborg-System-Monitor.github.io //// ☑️
+https://github.com/seanpm2001/Virg-io-dev.github.io //// ☑️
+https://github.com/seanpm2001/Self-Care-Bot.github.io //// ☑️
+https://github.com/seanpm2001/GratyBot.github.io //// ☑️
+https://github.com/seanpm2001/BluPhone.github.io //// ☑️
+https://github.com/seanpm2001/The-Pirates-Copy.github.io //// ☑️
+https://github.com/seanpm2001/NimbleBit-Glossary.github.io //// ☑️
+https://github.com/seanpm2001/SNU-Beliefs.github.io //// ☑️
+https://github.com/seanpm2001/Seanpm2001-Blocklist.github.io //// ☑️
+https://github.com/seanpm2001/Portal-Voice-Assistant.github.io //// ☑️
+https://github.com/seanpm2001/Underune-maker.github.io //// ☑️
+https://github.com/seanpm2001/Numeric-Liberation-Front.github.io //// ☑️
+
+//// Batch 83 ✅️
+
+//// No duplicates yet again today :)
+
+https://github.com/seanpm2001/Team8Collection.github.io //// ☑️
+https://github.com/seanpm2001/Boom-Bay.github.io //// ☑️
+https://github.com/seanpm2001/Frog-mania.github.io //// ☑️
+https://github.com/seanpm2001/GitHubby-development.github.io //// ☑️
+https://github.com/seanpm2001/SimZonns.github.io //// ☑️
+https://github.com/seanpm2001/Bosky-dev.github.io //// ☑️
+https://github.com/seanpm2001/FINF-dev.github.io //// ☑️
+https://github.com/seanpm2001/ZooTree.github.io //// ☑️
+https://github.com/seanpm2001/QMeadows-development.github.io //// ☑️
+https://github.com/seanpm2001/Documentation //// ☑️
+https://github.com/seanpm2001/Learn-FreeBasic //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_FreeBasic //// ☑️
+https://github.com/seanpm2001/Learn-DroppedText //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_DroppedText //// ☑️
+https://github.com/seanpm2001/Learn-Seanpm2001-Matrix //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_TinyDeathStar_Y2023 //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Roff //// ☑️
+https://github.com/seanpm2001/SNU_3D_Universe_MilkyWay_Venus //// ☑️
+https://github.com/seanpm2001/SNU_3D_Universe_MilkyWay_Neptune //// ☑️
+https://github.com/seanpm2001/SNU_3D_Universe_MilkyWay_Dwarf_Pluto //// ☑️
+https://github.com/seanpm2001/Learn-EBNF //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_EBNF //// ☑️
+https://github.com/seanpm2001/Learn-PlPGSQL //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_PlPGSQL //// ☑️
+https://github.com/seanpm2001/Learn-PureScript //// ☑️
+
+//// Batch 84 ✅️
+
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_PureScript
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Scheme
+
+https://github.com/seanpm2001/Learn-VBHTML //// ☑️
+https://github.com/seanpm2001/Learn-SQLPL //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SQLPL //// ☑️
+https://github.com/seanpm2001/Learn-RenderScript //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_RenderScript //// ☑️
+https://github.com/seanpm2001/Learn-Monkey //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Monkey //// ☑️
+https://github.com/seanpm2001/Learn-Stata //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Stata //// ☑️
+https://github.com/seanpm2001/Learn-BlitzMax //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_BlitzMax //// ☑️
+https://github.com/seanpm2001/SNU_3D_Universe_MilkyWay_Sun //// ☑️
+https://github.com/seanpm2001/SNU_3D_Universe_MilkyWay_SolarSystem_Sun //// ☑️
+https://github.com/seanpm2001/SNU_3D_Universe_MilkyWay_SolarSystem_Earth //// ☑️
+https://github.com/seanpm2001/SNU_3D_Universe_MilkyWay_SolarSystem_Mercury //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_VBHTML //// ☑️
+https://github.com/seanpm2001/Android-x32 //// ☑️
+https://github.com/seanpm2001/Android-x64 //// ☑️
+https://github.com/seanpm2001/Learn-ABC //// ☑️
+https://github.com/seanpm2001/Learn-HTTP //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_HTTP //// ☑️
+https://github.com/seanpm2001/Learn-Scheme //// ☑️
+https://github.com/seanpm2001/Android-x128 //// ☑️
+https://github.com/seanpm2001/Learn-CSHTML //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_CSHTML //// ☑️
+
+//// Batch 85 ✅️
+
+//// No duplicates today :)
+
+https://github.com/seanpm2001/Learn-PEG.js //// ☑️
+https://github.com/seanpm2001/Candroid-Calculator //// ☑️
+https://github.com/seanpm2001/Candroid-Tube //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_M4Sugar //// ☑️
+https://github.com/seanpm2001/Learn-M4Sugar //// ☑️
+https://github.com/seanpm2001/Learn-ActionServerPages.NET //// ☑️
+https://github.com/seanpm2001/Learn-Classic-ASP //// ☑️
+https://github.com/seanpm2001/Learn-Unix-Assembly //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Unix-Assembly //// ☑️
+https://github.com/seanpm2001/Learn-Linux-Kernel-Module //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Linux-Kernel-Module //// ☑️
+https://github.com/seanpm2001/Candroid-Mail //// ☑️
+https://github.com/seanpm2001/Learn-STAR //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_STAR //// ☑️
+https://github.com/seanpm2001/Empty_Repository [Acknowledge, and skip, can't be forked] //// ☑️
+https://github.com/seanpm2001/Learn-BrighterScript //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_BrighterScript //// ☑️
+https://github.com/seanpm2001/Candroid-Notepad //// ☑️
+https://github.com/seanpm2001/Learn-Closure-Templates //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Closure-Templates //// ☑️
+https://github.com/seanpm2001/Learn-WebAssembly //// ☑️
+https://github.com/seanpm2001/Learn-HTML //// ☑️
+https://github.com/seanpm2001/Candroid-FileCabinet //// ☑️
+https://github.com/seanpm2001/Android-x64_Android13_Heavy_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android13_Vanilla_Edition //// ☑️
+https://github.com/seanpm2001/GitHub_Starlist //// ☑️
+
+//// Batch 86 ✅️
+
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ASP_Dot_NET
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ActionServerPages-ASP-
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ABC
+//// DUPLICATE: https://github.com/seanpm2001/Learn-PowerShell
+//// DUPLICATE: https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_PowerShell
+
+https://github.com/seanpm2001/Android-x64_Android13_DeGoogled_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android13_LiveCD_Edition //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_PEG.js //// ☑️
+https://github.com/seanpm2001/Learn-Jakarta-Server-Pages //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Jakarta-Server-Pages //// ☑️
+https://github.com/seanpm2001/Candroid-Phone //// ☑️
+https://github.com/seanpm2001/Candroid-Debug //// ☑️
+https://github.com/seanpm2001/Android-x64_Android12_Heavy_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android12_Vanilla_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android12_DeGoogled_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android12_LiveCD_Edition //// ☑️
+https://github.com/seanpm2001/Learn-Java-Server-Pages //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Java-Server-Pages //// ☑️
+https://github.com/seanpm2001/Candroid-Keyboard //// ☑️
+https://github.com/seanpm2001/Candroid-Catalogue //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_Software_Krita //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_Software_Steam //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_Software_Typora //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_Software_Blender //// ☑️
+https://github.com/seanpm2001/SNU_3D_Universe_MilkyWay_SolarSystem_Jupiter //// ☑️
+https://github.com/seanpm2001/SNU_3D_Universe_MilkyWay_SolarSystem_Mars //// ☑️
+https://github.com/seanpm2001/SNU_3D_Universe_MilkyWay_SolarSystem_Neptune //// ☑️
+https://github.com/seanpm2001/SNU_3D_Universe_MilkyWay_SolarSystem_Saturn //// ☑️
+https://github.com/seanpm2001/SNU_3D_Universe_MilkyWay_Solar-System_Kuiper-Belt_Dwarf_Pluto //// ☑️
+https://github.com/seanpm2001/SNU_3D_Universe_MilkyWay_Solar-System_Kuiper-Belt //// ☑️
+
+//// Batch 87 ✅️
+
+//// No duplicates today :)
+
+https://github.com/seanpm2001/UHS_DataSets_RussoUkrainianWar_UkraineTerritoryMap //// ☑️
+https://github.com/seanpm2001/UHS_DataSets_RussoUkrainianWar_RussiaTerritoryMap //// ☑️
+https://github.com/seanpm2001/MCPYE_CommandLanguage //// ☑️
+https://github.com/seanpm2001/SNU_3D_Universe_MilkyWay_SolarSystem //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_Software_MuseScore //// ☑️
+https://github.com/seanpm2001/Meadows_Settings_Screensaver //// ☑️
+https://github.com/seanpm2001/BASH.sh_European-Union //// ☑️
+https://github.com/seanpm2001/BASH.sh_United-Kingdom //// ☑️
+https://github.com/seanpm2001/GitHub_FollowList //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_Software_Notepad-Plus-Plus //// ☑️
+https://github.com/seanpm2001/Android-x64_Android12.1_Heavy_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android12.1_Vanilla_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android12.1_DeGoogled_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android12.1_LiveCD_Edition //// ☑️
+https://github.com/seanpm2001/Candroid-Easter-Egg //// ☑️
+https://github.com/seanpm2001/Candroid-Market //// ☑️
+https://github.com/seanpm2001/Candroid-App-Store //// ☑️
+https://github.com/seanpm2001/Candroid-Assistant //// ☑️
+https://github.com/seanpm2001/UHS_DataSets_Soundtracks_Ukraine //// ☑️
+https://github.com/seanpm2001/UHS_DataSets_Soundtracks_Russia //// ☑️
+https://github.com/seanpm2001/UHS_DataSets_Heraldry_Ukraine //// ☑️
+https://github.com/seanpm2001/UHS_DataSets_Oblasts_Ukraine //// ☑️
+https://github.com/seanpm2001/UHS_DataSets_Oblasts_Russia //// ☑️
+https://github.com/seanpm2001/Android-x64_Android11_Heavy_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android11_Vanilla_Edition //// ☑️
+
+//// Batch 88 ✅️
+
+//// No duplicates again today :)
+
+https://github.com/seanpm2001/UHS_DataSets_Heraldry_Russia //// ☑️
+https://github.com/seanpm2001/UHS_DataSets_RussoUkrainianWar_Armies_Ukraine //// ☑️
+https://github.com/seanpm2001/UHS_DataSets_RussoUkrainianWar_Armies_Russia //// ☑️
+https://github.com/seanpm2001/Android-x64_Android10_Heavy_Edition //// ☑️
+https://github.com/seanpm2001/Candroid-Camera //// ☑️
+https://github.com/seanpm2001/Android-x64_Android11_DeGoogled_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android11_LiveCD_Edition //// ☑️
+https://github.com/seanpm2001/Candroid-Battery-Monitor //// ☑️
+https://github.com/seanpm2001/Candroid-Photo-Viewer //// ☑️
+https://github.com/seanpm2001/UHS_DataSets_Raions_Ukraine //// ☑️
+https://github.com/seanpm2001/UHS_DataSets_Hromadas_Ukraine //// ☑️
+https://github.com/seanpm2001/UHS_DataSets_Vexillology_Ukraine //// ☑️
+https://github.com/seanpm2001/UHS_DataSets_Vexillology_Russia //// ☑️
+https://github.com/seanpm2001/Why-you-should-avoid-ChromeOS //// ☑️
+https://github.com/seanpm2001/Why-you-should-avoid-ChromiumOS //// ☑️
+https://github.com/seanpm2001/Android-x64_Android10_Vanilla_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android10_DeGoogled_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android10_LiveCD_Edition //// ☑️
+https://github.com/seanpm2001/Candroid-Clock //// ☑️
+https://github.com/seanpm2001/Candroid-Voicemail //// ☑️
+https://github.com/seanpm2001/UHS_DataSets_Leaders_Ukraine //// ☑️
+https://github.com/seanpm2001/UHS_DataSets_Leaders_Russia //// ☑️
+https://github.com/seanpm2001/UHS_DataSets_Generals_Ukraine //// ☑️
+https://github.com/seanpm2001/UHS_DataSets_Generals_Russia //// ☑️
+https://github.com/seanpm2001/Candroid-Browser //// ☑️
+
+//// Batch 89 ✅️
+
+//// No duplicates yet again today :)
+
+https://github.com/seanpm2001/BASH.sh //// ☑️
+https://github.com/seanpm2001/BASH.sh_Docs //// ☑️
+https://github.com/seanpm2001/Copyright //// ☑️
+https://github.com/seanpm2001/Copyleft //// ☑️
+https://github.com/seanpm2001/Candroid-Docs //// ☑️
+https://github.com/seanpm2001/Android-x64_Android9_Heavy_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android9_Vanilla_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android9_DeGoogled_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android9_LiveCD_Edition //// ☑️
+https://github.com/seanpm2001/UHS_DataSets_RussoUkrainianWar_UkraineFrontlinesMap //// ☑️
+https://github.com/seanpm2001/UHS_DataSets_RussoUkrainianWar_RussiaFrontlinesMap //// ☑️
+https://github.com/seanpm2001/UHS_DataSets_RussoUkrainianWar_UkrainianSpeeches //// ☑️
+https://github.com/seanpm2001/UHS_DataSets_RussoUkrainianWar_RussianSpeeches //// ☑️
+https://github.com/seanpm2001/Candroid-Calendar //// ☑️
+https://github.com/seanpm2001/Candroid-Contacts //// ☑️
+https://github.com/seanpm2001/Project-Designators //// ☑️
+https://github.com/seanpm2001/DISK-O_Jockey //// ☑️
+https://github.com/seanpm2001/Android-x64_Android8.1_Heavy_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android8.1_Vanilla_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android8.1_DeGoogled_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android8.1_LiveCD_Edition //// ☑️
+https://github.com/seanpm2001/Candroid-Settings //// ☑️
+https://github.com/seanpm2001/Candroid-Wallpaper //// ☑️
+https://github.com/seanpm2001/Candroid-TV //// ☑️
+https://github.com/seanpm2001/Candroid-Video //// ☑️
+
+//// Batch 90 ✅️
+
+//// No duplicates yet again today :)
+
+https://github.com/seanpm2001/Android-x64_Android7.1_LiveCD_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Workspace_Firefox //// ☑️
+https://github.com/seanpm2001/Ukraine-History-Simulator_Workspace_Firefox //// ☑️
+https://github.com/seanpm2001/Android-x64_Android7.0_Heavy_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android6.0_Heavy_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android8.0_Heavy_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android8.0_Vanilla_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android8.0_DeGoogled_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android8.0_LiveCD_Edition //// ☑️
+https://github.com/seanpm2001/Learn-XTend //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_XTend //// ☑️
+https://github.com/seanpm2001/GoDot_Launcher //// ☑️
+https://github.com/seanpm2001/Android-x64_Android7.1_Heavy_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android7.1_Vanilla_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android7.1_DeGoogled_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android7.0_Vanilla_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android7.0_DeGoogled_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android7.0_LiveCD_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android6.1_Heavy_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android6.1_Vanilla_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android6.1_DeGoogled_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android6.1_LiveCD_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Docs //// ☑️
+https://github.com/seanpm2001/Android-x64_Docs //// ☑️
+https://github.com/seanpm2001/Android-x128_Docs //// ☑️
+
+//// Batch 91 ✅️
+
+//// No duplicates yet again today :)
+
+https://github.com/seanpm2001/Android-x64_Android6.0_Vanilla_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android6.0_DeGoogled_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android6.0_LiveCD_Edition //// ☑️
+https://github.com/seanpm2001/Ubuntu_Bugs //// ☑️
+https://github.com/seanpm2001/Android-x64_Android5.1_Heavy_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android5.1_Vanilla_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android5.1_DeGoogled_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android5.1_LiveCD_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android5.0_Heavy_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_LiveCD_8A //// ☑️
+https://github.com/seanpm2001/Android-x64_Android5.0_Vanilla_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android5.0_DeGoogled_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android5.0_LiveCD_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_LiveCD_13A //// ☑️
+https://github.com/seanpm2001/Android-x64_LiveCD_12A //// ☑️
+https://github.com/seanpm2001/Android-x64_LiveCD_12B //// ☑️
+https://github.com/seanpm2001/Android-x64_LiveCD_11A //// ☑️
+https://github.com/seanpm2001/Android-x64_LiveCD_10A //// ☑️
+https://github.com/seanpm2001/Android-x64_LiveCD_9A //// ☑️
+https://github.com/seanpm2001/Android-x64_LiveCD_9B //// ☑️
+https://github.com/seanpm2001/Android-x64_LiveCD_8B //// ☑️
+https://github.com/seanpm2001/Android-x64_LiveCD_7A //// ☑️
+https://github.com/seanpm2001/Android-x64_LiveCD_7B //// ☑️
+https://github.com/seanpm2001/Android-x64_LiveCD_6A //// ☑️
+https://github.com/seanpm2001/Android-x64_LiveCD_6B //// ☑️
+
+//// Batch 92 ✅️
+
+//// No duplicates yet again today :)
+
+https://github.com/seanpm2001/SeansLifeArchive_Images_ModernSmurfsVillage //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_MotorWorld_CarFactory //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_Jewels_-Android_Game- //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_ClassicSmurfsVillage //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_GitHub_Y2022 //// ☑️
+https://github.com/seanpm2001/Stop-Googling--Why-you-should-stop-using-Google-Search //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_GitHub //// ☑️
+https://github.com/seanpm2001/WhyWatchOS //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_AdCap //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_Clash-of-Clans //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_Boom-Beach //// ☑️
+https://github.com/seanpm2001/WhyWatchOS_5 //// ☑️
+https://github.com/seanpm2001/WhyWatchOS_4 //// ☑️
+https://github.com/seanpm2001/WhyWatchOS_3 //// ☑️
+https://github.com/seanpm2001/WhyWatchOS_2 //// ☑️
+https://github.com/seanpm2001/WhyWatchOS_1 //// ☑️
+https://github.com/seanpm2001/wOS //// ☑️
+https://github.com/seanpm2001/wOS_16 //// ☑️
+https://github.com/seanpm2001/wOS_15 //// ☑️
+https://github.com/seanpm2001/wOS_14 //// ☑️
+https://github.com/seanpm2001/wOS_13 //// ☑️
+https://github.com/seanpm2001/wOS_12 //// ☑️
+https://github.com/seanpm2001/wOS_11 //// ☑️
+https://github.com/seanpm2001/wOS_10 //// ☑️
+https://github.com/seanpm2001/wOS_9 //// ☑️
+
+//// Batch 93 ✅️
+
+//// DUPLICATE: https://github.com/seanpm2001/WacOS_X_10.1
+//// DUPLICATE: https://github.com/seanpm2001/WacOS_X_10.2
+//// DUPLICATE: https://github.com/seanpm2001/WacOS_X_10.3
+//// DUPLICATE: https://github.com/seanpm2001/WacOS_X_10.4
+//// DUPLICATE: https://github.com/seanpm2001/WacOS_X_10.5
+//// DUPLICATE: https://github.com/seanpm2001/WacOS_X_10.6
+
+https://github.com/seanpm2001/wOS_8 //// ☑️
+https://github.com/seanpm2001/wOS_7 //// ☑️
+https://github.com/seanpm2001/wOS_6 //// ☑️
+https://github.com/seanpm2001/wOS_5 //// ☑️
+https://github.com/seanpm2001/wOS_4 //// ☑️
+https://github.com/seanpm2001/WhyPadOS //// ☑️
+https://github.com/seanpm2001/WhyPadOS_15 //// ☑️
+https://github.com/seanpm2001/WhyPadOS_14 //// ☑️
+https://github.com/seanpm2001/WhyPadOS_13 //// ☑️
+https://github.com/seanpm2001/WhyPhoneOS //// ☑️
+https://github.com/seanpm2001/WhyPhoneOS_3 //// ☑️
+https://github.com/seanpm2001/WhyPhoneOS_2 //// ☑️
+https://github.com/seanpm2001/WhyPhoneOS_1 //// ☑️
+https://github.com/seanpm2001/WOAHS-X //// ☑️
+https://github.com/seanpm2001/WOAHS-X_Software_Calculator //// ☑️
+https://github.com/seanpm2001/WOAHS-X_10.11 //// ☑️
+https://github.com/seanpm2001/WOAHS-X_10.10 //// ☑️
+https://github.com/seanpm2001/WOAHS-X_10.9 //// ☑️
+https://github.com/seanpm2001/WOAHS-X_10.8 //// ☑️
+https://github.com/seanpm2001/WOAHS-X_10.7 //// ☑️
+https://github.com/seanpm2001/WacOS_X_10.0 //// ☑️
+https://github.com/seanpm2001/WacTVOS //// ☑️
+https://github.com/seanpm2001/WacTVOS_16 //// ☑️
+https://github.com/seanpm2001/WacTVOS_15 //// ☑️
+https://github.com/seanpm2001/WacTVOS_14 //// ☑️
+
+//// Batch 94 ✅️
+
+//// No duplicates today :)
+
+https://github.com/seanpm2001/Android-x32x64_LiveCD_7A_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32x64_LiveCD_7B_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32x64_LiveCD_8A_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32x64_LiveCD_8B_Edition //// ☑️
+https://github.com/seanpm2001/SNU_2D_WatchParty //// ☑️
+https://github.com/seanpm2001/WhyWatchOS_9 //// ☑️
+https://github.com/seanpm2001/WacTVOS_13 //// ☑️
+https://github.com/seanpm2001/WacTVOS_12 //// ☑️
+https://github.com/seanpm2001/GitHub_Watchlist //// ☑️
+https://github.com/seanpm2001/WacTVOS_11 //// ☑️
+https://github.com/seanpm2001/WacTVOS_10 //// ☑️
+https://github.com/seanpm2001/WacTVOS_9 //// ☑️
+https://github.com/seanpm2001/WacTVOS_8 //// ☑️
+https://github.com/seanpm2001/WacWrite //// ☑️
+https://github.com/seanpm2001/WacPaint //// ☑️
+https://github.com/seanpm2001/Kiri //// ☑️
+https://github.com/seanpm2001/Android-x64_LiveCD_5A //// ☑️
+https://github.com/seanpm2001/Android-x64_LiveCD_12C //// ☑️
+https://github.com/seanpm2001/Android-x32_LiveCD_0.9A //// ☑️
+https://github.com/seanpm2001/Android-x32x64 //// ☑️
+https://github.com/seanpm2001/Android-x32x64_Docs //// ☑️
+https://github.com/seanpm2001/Android-x32x64_LiveCD_5A_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32x64_LiveCD_5B_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32x64_LiveCD_6A_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32x64_LiveCD_6B_Edition //// ☑️
+
+//// Batch 95 ✅️
+
+//// No duplicates again today :)
+
+https://github.com/seanpm2001/WhyWatchOS_8 //// ☑️
+https://github.com/seanpm2001/WhyWatchOS_7 //// ☑️
+https://github.com/seanpm2001/WhyWatchOS_6 //// ☑️
+https://github.com/seanpm2001/Android-x64_LiveCD_9C //// ☑️
+https://github.com/seanpm2001/Android-x64_LiveCD_5B //// ☑️
+https://github.com/seanpm2001/Android-x64_LiveCD_14A //// ☑️
+https://github.com/seanpm2001/Learn-SDLang //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SDLang //// ☑️
+https://github.com/seanpm2001/Android-x32x64_LiveCD_9A_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32x64_LiveCD_10A_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32x64_LiveCD_11A_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32x64_LiveCD_12A_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32x64_LiveCD_12B_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32x64_LiveCD_13A_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32x64_LiveCD_14A_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32x64_LiveCD_15A_Edition //// ☑️
+https://github.com/seanpm2001/Problems-with-the-Google-Knowledge-Graph //// ☑️
+https://github.com/seanpm2001/Why-you-should-avoid-Google-News //// ☑️
+https://github.com/seanpm2001/Learn-StrictYAML //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_StrictYAML //// ☑️
+https://github.com/seanpm2001/Android-x64_LiveCD_8C //// ☑️
+https://github.com/seanpm2001/Android-x64_LiveCD_7C //// ☑️
+https://github.com/seanpm2001/Android-x64_LiveCD_6C //// ☑️
+https://github.com/seanpm2001/Android-x64_LiveCD_5C //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_AdVenture_Communist_Part3 //// ☑️
+
+//// Batch 96 ✅️
+
+//// DUPLICATE: https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V9
+
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Movies //// ☑️
+https://github.com/seanpm2001/Seanpm2001-Citation //// ☑️
+https://github.com/seanpm2001/Android-x32_LiveCD_4.4A //// ☑️
+https://github.com/seanpm2001/Android-x32_LiveCD_4.4B //// ☑️
+https://github.com/seanpm2001/Android-x32_LiveCD_4.3A //// ☑️
+https://github.com/seanpm2001/Android-x32_LiveCD_4.3B //// ☑️
+https://github.com/seanpm2001/Android-x64_LiveCD_15A //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Images //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Shopping //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_Battery //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_GNOME_System_Monitor //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_Ecosia //// ☑️
+https://github.com/seanpm2001/Input-police //// ☑️
+https://github.com/seanpm2001/Unblur-tool //// ☑️
+https://github.com/seanpm2001/Pri-Fiy //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V1 //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V2 //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V3 //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V4 //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V5 //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V6 //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V7 //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_ThePlayForge_Tree-World_2022_V8 //// ☑️
+https://github.com/seanpm2001/Android-x32_LiveCD_4.2A //// ☑️
+
+//// Batch 97 ✅️
+
+//// No duplicates today :)
+
+https://github.com/seanpm2001/Android-x32_LiveCD_4.2B //// ☑️
+https://github.com/seanpm2001/Android-x32_LiveCD_4.1A //// ☑️
+https://github.com/seanpm2001/Android-x32_LiveCD_4.1B //// ☑️
+https://github.com/seanpm2001/Android-x32_LiveCD_4.0A //// ☑️
+https://github.com/seanpm2001/Android-x32_LiveCD_4.0B //// ☑️
+https://github.com/seanpm2001/Android-x32_LiveCD_3.2A //// ☑️
+https://github.com/seanpm2001/Android-x32_LiveCD_3.2B //// ☑️
+https://github.com/seanpm2001/Android-x32_LiveCD_3.1A //// ☑️
+https://github.com/seanpm2001/Android-x32_LiveCD_3.1B //// ☑️
+https://github.com/seanpm2001/Android-x32_LiveCD_3.0A //// ☑️
+https://github.com/seanpm2001/Android-x32_LiveCD_3.0B //// ☑️
+https://github.com/seanpm2001/MCPYE-Snap //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_MinecraftPE //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_Minecraft //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backups //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_Windows95MC //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_Farmtopia //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Extras_MinecraftPE //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_Minecity2003 //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_Gooigis-Mansion-3 //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_HeavenAndHell //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_MojangOverMS //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_Craftplormer256 //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_Ancient-namCraft //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_Lumen__Power_Challenge //// ☑️
+
+//// Batch 98 ✅️
+
+//// No duplicates again today :)
+
+https://github.com/seanpm2001/DeGoogle-your-life-Current-Catalogue //// ☑️
+https://github.com/seanpm2001/DeGoogle-your-life-Graveyard-catalogue //// ☑️
+https://github.com/seanpm2001/Android-x32_LiveCD_2.3A //// ☑️
+https://github.com/seanpm2001/Android-x32_LiveCD_2.3B //// ☑️
+https://github.com/seanpm2001/Android-x32_LiveCD_2.2A //// ☑️
+https://github.com/seanpm2001/Android-x32_LiveCD_2.2B //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_Bees- //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_The_Human_Body //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_2D-Craft //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_SpokaneTaigaSurvival //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_JungleFever2019 //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_Lumen__City_Challenge //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_Enderhell //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_Fun_with_Fractals //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_International_Space_Station //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_MCPYE_BEDROCK_TEST1 //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_Washington_D.C. //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_YT2019MC //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_Eyeball //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_ForestOfDelusion //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_Math_Robot //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_Sub0 //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_minelantis //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_nuclearWinterParadise //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_ghast_house //// ☑️
+
+//// Batch 99 ✅️
+
+//// No duplicates yet again today :)
+
+https://github.com/seanpm2001/Android-x32_LiveCD_2.1A //// ☑️
+https://github.com/seanpm2001/Android-x32_LiveCD_2.1B //// ☑️
+https://github.com/seanpm2001/Android-x32_LiveCD_2.0A //// ☑️
+https://github.com/seanpm2001/Android-x32_LiveCD_2.0B //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_FoodVille //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_Logic0 //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_Jig_s_Guide__Redstone_Basics //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_1stAndroidPEWorld //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_SbeveBoat64 //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_MitchVille //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_MyFirstMinecraftPEWorld //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_Minelantis2_Lost_City //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_wildwestofwallawalla //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_Neolithic_Revolution //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_WorldWarMinecraft //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_Marine_Biologist_Roleplay //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_Inspiration_Island //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_Spring-a-majig_Spawn //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_PETA //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_FrostfootMegabase //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_minacoaster-3000 //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_cavesystem64 //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_skyblock-pro //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_PillagerParadise2019 //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_minecraft_myphobias //// ☑️
+
+//// Batch 100 ✅️
+
+//// DUPLICATE: https://github.com/seanpm2001/Degoogled_Android_Phone_VM_Research
+//// DUPLICATE: https://github.com/seanpm2001/Google-security-issues
+//// DUPLICATE: https://github.com/seanpm2001/DeGoogle-your-Life_Wiki_2021
+//// DUPLICATE: https://github.com/seanpm2001/Widevine-l3-decryptor-wiki
+//// DUPLICATE: https://github.com/seanpm2001/Google-performance-issues
+//// DUPLICATE: https://github.com/seanpm2001/Stop-using-Chromebooks
+//// DUPLICATE: https://github.com/seanpm2001/Stop-Googling////Why-you-should-stop-using-Google-Search
+//// DUPLICATE: https://github.com/seanpm2001/Alternating-from-YouTube
+//// DUPLICATE: https://github.com/seanpm2001/Degoogle-your-life
+//// DUPLICATE: https://github.com/seanpm2001/What-the-FLoC
+//// DUPLICATE: https://github.com/seanpm2001/Why-you-should-stop-using-Chrome
+//// DUPLICATE: https://github.com/seanpm2001/Its-time-to-cut-WideVine-DRM
+
+https://github.com/seanpm2001/Android-x32_LiveCD_1.6A //// ☑️
+https://github.com/seanpm2001/Android-x32_LiveCD_1.6B //// ☑️
+https://github.com/seanpm2001/Android-x32_LiveCD_1.5A //// ☑️
+https://github.com/seanpm2001/Android-x32_LiveCD_1.5B //// ☑️
+https://github.com/seanpm2001/DCal //// ☑️
+https://github.com/seanpm2001/DCalendar //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_MinecraftMusical //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_hell64 //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_kastle //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_ResourcePacks //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Notes //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Gaming_Mari0Backups //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_Mari0 //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_Mount_Olympus //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_Spring-a-majig //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_Terracottacon //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_elemental_test //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_theWitchesLabyrinth //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_MinecraftPE_Backup_Worlds_JohnnysShine //// ☑️
+https://github.com/seanpm2001/DeGoogle-your-life-Full-catalogue //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Gerrit //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Analytics //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Tenor //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Drawings //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Survey-rewards //// ☑️
+
+//// Batch 101 ✅️
+
+//// No duplicates today :)
+
+https://github.com/seanpm2001/Android-x32_LiveCD_1.1A //// ☑️
+https://github.com/seanpm2001/Android-x32_LiveCD_1.1B //// ☑️
+https://github.com/seanpm2001/Android-x32_LiveCD_1.0A //// ☑️
+https://github.com/seanpm2001/Android-x32_LiveCD_1.0B //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Sites_Classic //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Photos //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-VPN //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Android-Pay //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Pay //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-One //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Plus //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Blockly //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Tensorflow //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Duo //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Hangouts //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Nest //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Flutter //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Calculator //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Camera //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Summer-of-code //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Base //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Keep //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Stadia //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Fi //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-VirusTotal //// ☑️
+
+//// Batch 102 ✅️
+
+//// No duplicates again today :)
+
+https://github.com/seanpm2001/DeGoogle-Ranking-Scale //// ☑️
+https://github.com/seanpm2001/Bliss_Browser //// ☑️
+https://github.com/seanpm2001/Bliss_Browser_Core //// ☑️
+https://github.com/seanpm2001/Android-x32_Android4.4_Heavy_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android4.4_Vanilla_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android4.4_DeGoogled_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android4.4_LiveCD_Edition //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Calendar //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Slides //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Docs //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Video //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-WebM //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-WebP //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Dart //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Go //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Home //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-GBoard //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Fuchsia //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Glass //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Material-Design //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Messages //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Cardboard //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Forms //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Sheets //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-the-Google-Play-Store //// ☑️
+
+//// Batch 103 ✅️
+
+//// DUPLICATE: https://github.com/seanpm2001/Why-you-should-stop-using-Android
+//// DUPLICATE: https://github.com/seanpm2001/Why-you-should-avoid-Google-AMP
+//// DUPLICATE: https://github.com/seanpm2001/Problems-with-the-Google-Knowledge-Graph
+//// DUPLICATE: https://github.com/seanpm2001/Why-you-should-avoid-Google-News
+
+https://github.com/seanpm2001/Android-x32_Android4.3_DeGoogled_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android4.3_LiveCD_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android4.3_Heavy_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android4.3_Vanilla_Edition //// ☑️
+https://github.com/seanpm2001/Over-1-trillion-devices-run-C //// ☑️
+https://github.com/seanpm2001/Bliss_Browser_Settings //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-AdSense //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Accounts //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Translate //// ☑️
+https://github.com/seanpm2001/Stop-reading-from-Google-Books //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-maps-and-Google-Earth //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Drive //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-ReCaptcha //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-GMail //// ☑️
+https://github.com/seanpm2001/Hey-Google-Stop //// ☑️
+https://github.com/seanpm2001/Stop-using-Google-Classroom //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Sites_New //// ☑️
+https://github.com/seanpm2001/Android-x32_Android4.2_Heavy_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android4.2_Vanilla_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android4.2_DeGoogled_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android4.2_LiveCD_Edition //// ☑️
+
+//// Batch 104 ✅️
+
+//// No duplicates today :)
+
+https://github.com/seanpm2001/Android-x32_Android4.1_Heavy_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android4.1_Vanilla_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android4.1_DeGoogled_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android4.1_LiveCD_Edition //// ☑️
+
+//// Batch 105 ✅️
+
+//// No duplicates again today :)
+
+https://github.com/seanpm2001/Bliss_Browser_OSMode //// ☑️
+https://github.com/seanpm2001/Bliss_Browser_OSMode_Ubuntu-Shell //// ☑️
+https://github.com/seanpm2001/Android-x32_Android4.0_Heavy_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android4.0_Vanilla_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android4.0_DeGoogled_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android4.0_LiveCD_Edition //// ☑️
+
+//// Batch 106 ✅️
+
+//// No duplicates yet again today :)
+
+https://github.com/seanpm2001/DCal-Spec //// ☑️
+https://github.com/seanpm2001/DCal-Specification //// ☑️
+https://github.com/seanpm2001/DCal-Implementation //// ☑️
+https://github.com/seanpm2001/DSuite //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_YAML //// ☑️
+https://github.com/seanpm2001/Android-x32_Android3.2_Heavy_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android3.2_Vanilla_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android3.2_DeGoogled_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android3.2_LiveCD_Edition //// ☑️
+https://github.com/seanpm2001/SNU_2D_DMailClient //// ☑️
+https://github.com/seanpm2001/DMail //// ☑️
+
+//// Batch 107 ✅️
+
+//// No duplicates yet again today :)
+
+https://github.com/seanpm2001/Android-x32_Android3.1_Heavy_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android3.1_Vanilla_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android3.1_DeGoogled_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android3.1_LiveCD_Edition //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Looker //// ☑️
+https://github.com/seanpm2001/Why-you-should-stop-using-Google-Safe-Browsing //// ☑️
+
+//// Batch 108 ✅️
+
+//// No duplicates yet again today :)
+
+https://github.com/seanpm2001/SeansLifeArchive_Images_Raspberry-Pi_Imager //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_ProtonCalendar //// ☑️
+https://github.com/seanpm2001/Android-x32_Android3.0_Heavy_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android3.0_Vanilla_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android3.0_DeGoogled_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android3.0_LiveCD_Edition //// ☑️
+https://github.com/seanpm2001/Myrick-Family-Archive //// ☑️
+
+//// Batch 109 ✅️
+
+//// No duplicates yet again today :)
+
+https://github.com/seanpm2001/URLL //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_ProtonVPN //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_Proton.me //// ☑️
+https://github.com/seanpm2001/Android-x32_Android2.3_Heavy_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android2.3_Vanilla_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android2.3_DeGoogled_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android2.3_LiveCD_Edition //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_ProtonMail //// ☑️
+https://github.com/Seanpm2001/SeansLifeArchive_Images_ProtonDrive //// ☑️
+https://github.com/seanpm2001/Politics //// ☑️
+
+//// Batch 110 ✅️
+
+//// No duplicates yet again today :)
+
+https://github.com/seanpm2001/SeansAudioDB_Images_Y2023 //// ☑️
+https://github.com/seanpm2001/My-web-development-story //// ☑️
+https://github.com/seanpm2001/Citation //// ☑️
+https://github.com/seanpm2001/Android-x32_Android2.2_Heavy_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android2.2_Vanilla_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android2.2_DeGoogled_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android2.2_LiveCD_Edition //// ☑️
+
+//// Batch 111 ✅️
+
+//// No duplicates yet again today :)
+
+https://github.com/seanpm2001/Android-x32_Android2.1_Heavy_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android2.1_Vanilla_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android2.1_DeGoogled_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android2.1_LiveCD_Edition //// ☑️
+https://github.com/seanpm2001/DMail_Tacklebox //// ☑️
+https://github.com/seanpm2001/URL-Specification //// ☑️
+https://github.com/seanpm2001/URLL-Spec //// ☑️
+https://github.com/seanpm2001/URL-Spec //// ☑️
+
+//// Batch 112 ✅️
+
+//// No duplicates yet again today :)
+
+https://github.com/seanpm2001/Bliss_Browser_OSMode_Debian-Shell //// ☑️
+https://github.com/seanpm2001/Bliss_Browser_OSMode_POSIX-Shell //// ☑️
+https://github.com/seanpm2001/TackleBox_Email_Component //// ☑️
+https://github.com/seanpm2001/SpamBox_Email_Component //// ☑️
+https://github.com/seanpm2001/Android-x32_Android2.0_Heavy_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android2.0_Vanilla_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android2.0_DeGoogled_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android2.0_LiveCD_Edition //// ☑️
+
+//// Batch 113 ✅️
+
+//// No duplicates yet again today :)
+
+1https://github.com/seanpm2001/DMail_SpamBox //// ☑️
+https://github.com/seanpm2001/DMail_Migrator //// ☑️
+https://github.com/seanpm2001/Email_Migration_Component //// ☑️
+https://github.com/seanpm2001/Android-x32_Android1.6_Heavy_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android1.6_Vanilla_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android1.6_DeGoogled_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android1.6_LiveCD_Edition //// ☑️
+
+//// Batch 114 ✅️
+
+//// No duplicates yet again today :)
+
+https://github.com/seanpm2001/Bliss_Browser_OSMode_Fedora-Shell //// ☑️
+https://github.com/seanpm2001/Bliss_Browser_OSMode_RedHat-Shell //// ☑️
+https://github.com/seanpm2001/DigitalSuite //// ☑️
+https://github.com/seanpm2001/D-Suite //// ☑️
+https://github.com/seanpm2001/Android-x32_Android1.5_Heavy_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android1.5_Vanilla_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android1.5_DeGoogled_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android1.5_LiveCD_Edition //// ☑️
+
+//// Batch 115 ✅️
+
+//// No duplicates yet again today :)
+
+https://github.com/seanpm2001/Android-x32_Android1.1_LiveCD_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android1.1_DeGoogled_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android1.1_Vanilla_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android1.1_Heavy_Edition //// ☑️
+https://github.com/seanpm2001/Digital_Suite //// ☑️
+https://github.com/seanpm2001/Digital-Suite //// ☑️
+https://github.com/seanpm2001/D_Suite //// ☑️
+https://github.com/seanpm2001/Fedorable //// ☑️
+
+//// Batch 116 ✅️
+
+//// No duplicates yet again today :)
+
+https://github.com/seanpm2001/Learn-Gleam //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Gleam //// ☑️
+https://github.com/seanpm2001/Learn-YASnippet //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_YASnippet //// ☑️
+https://github.com/seanpm2001/Android-x32_Android1.0_Heavy_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android1.0_Vanilla_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android1.0_DeGoogled_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android1.0_LiveCD_Edition //// ☑️
+
+//// Batch 117 ✅️
+
+//// No duplicates yet again today :)
+
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Wren //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Component-Pascal //// ☑️
+https://github.com/seanpm2001/Learn-Wren //// ☑️
+https://github.com/seanpm2001/Learn-Component-Pascal //// ☑️
+https://github.com/seanpm2001/Android-x32_Android0.9_Heavy_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android0.9_Vanilla_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android0.9_DeGoogled_Edition //// ☑️
+https://github.com/seanpm2001/Android-x32_Android0.9_LiveCD_Edition //// ☑️
+
+//// Batch 118 ✅️
+
+//// No duplicates yet again today :)
+
+https://github.com/seanpm2001/Rust-Belt //// ☑️
+https://github.com/seanpm2001/Climate-Activism //// ☑️
+https://github.com/seanpm2001/Candroid-Flashlight //// ☑️
+https://github.com/seanpm2001/Candroid-Rotate //// ☑️
+https://github.com/seanpm2001/Android-x64_Android14.0_Heavy_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android14.0_Vanilla_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android14.0_DeGoogled_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android14.0_LiveCD_Edition //// ☑️
+
+//// Batch 119 ✅️
+
+//// No duplicates yet again today :)
+
+https://github.com/seanpm2001/Learn-ColdFusion //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_ColdFusion //// ☑️
+https://github.com/seanpm2001/Learn-Oxygene //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_Oxygene //// ☑️
+https://github.com/seanpm2001/Android-x64_Android15.0_Heavy_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android15.0_Vanilla_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android15.0_DeGoogled_Edition //// ☑️
+https://github.com/seanpm2001/Android-x64_Android15.0_LiveCD_Edition //// ☑️
+
+//// Batch 120 ✅️
+
+//// No duplicates yet again today :)
+
+https://github.com/seanpm2001/Google-and-society //// ☑️
+https://github.com/seanpm2001/Google-and-diversity //// ☑️
+https://github.com/seanpm2001/Computing-Longevity //// ☑️
+https://github.com/seanpm2001/SeansLifeArchive_Images_FirefoxAddon_Redirector //// ☑️
+https://github.com/seanpm2001/Android-x32_LiveCD_4.4C //// ☑️
+https://github.com/seanpm2001/Android-x32_LiveCD_4.3C //// ☑️
+https://github.com/seanpm2001/Android-x32_LiveCD_4.2C //// ☑️
+https://github.com/seanpm2001/Android-x32_LiveCD_0.9B //// ☑️
+
+//// Batch 121 ✅️
+
+//// No duplicates yet again today :)
+
+https://github.com/seanpm2001/Learn-SugarSS //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_SugarSS //// ☑️
+https://github.com/seanpm2001/Learn-WebIDL //// ☑️
+https://github.com/seanpm2001/SNU_2D_ProgrammingTools_IDE_WebIDL //// ☑️
+https://github.com/seanpm2001/Android-x32_LiveCD_4.1C //// ☑️
+https://github.com/seanpm2001/Android-x32_LiveCD_4.0C //// ☑️
+https://github.com/seanpm2001/Android-x32_LiveCD_3.2C //// ☑️
+https://github.com/seanpm2001/Android-x32_LiveCD_3.1C //// ☑️
+
+//// Batch 122
+
+//// Note: WacOS projects are mostly unforked
+//// Note: The majority of Git-image projects are not yet listed
+//// Note: Data pack projects other than Minecraft and Mari0 are not yet listed
+//// Note: Add in most DeGoogle articles
+
+//// 01
+//// 02
+//// 03
+//// 04
+//// 05
+
+//// 06
+//// 07
+//// 08
+//// 09
+//// 10
+
+//// 11
+//// 12
+//// 13
+//// 14
+//// 15
+
+//// 16
+//// 17
+//// 18
+//// 19
+//// 20
+
+//// 21
+//// 22
+//// 23
+//// 24
+//// 25
+
+//// Batch 123
+
+//// Note: WacOS projects are mostly unforked
+//// Note: The majority of Git-image projects are not yet listed
+//// Note: Data pack projects other than Minecraft and Mari0 are not yet listed
+//// Note: Add in most DeGoogle articles
+
+//// 01
+//// 02
+//// 03
+//// 04
+//// 05
+
+//// 06
+//// 07
+//// 08
+//// 09
+//// 10
+
+//// 11
+//// 12
+//// 13
+//// 14
+//// 15
+
+//// 16
+//// 17
+//// 18
+//// 19
+//// 20
+
+//// 21
+//// 22
+//// 23
+//// 24
+//// 25
+
+//// Batch 124
+
+//// Note: WacOS projects are mostly unforked
+//// Note: The majority of Git-image projects are not yet listed
+//// Note: Data pack projects other than Minecraft and Mari0 are not yet listed
+//// Note: Add in most DeGoogle articles
+
+//// 01
+//// 02
+//// 03
+//// 04
+//// 05
+
+//// 06
+//// 07
+//// 08
+//// 09
+//// 10
+
+//// 11
+//// 12
+//// 13
+//// 14
+//// 15
+
+//// 16
+//// 17
+//// 18
+//// 19
+//// 20
+
+//// 21
+//// 22
+//// 23
+//// 24
+//// 25
+
+//// Batch 125
+
+//// Note: WacOS projects are mostly unforked
+//// Note: The majority of Git-image projects are not yet listed
+//// Note: Data pack projects other than Minecraft and Mari0 are not yet listed
+//// Note: Add in most DeGoogle articles
+
+//// 01
+//// 02
+//// 03
+//// 04
+//// 05
+
+//// 06
+//// 07
+//// 08
+//// 09
+//// 10
+
+//// 11
+//// 12
+//// 13
+//// 14
+//// 15
+
+//// 16
+//// 17
+//// 18
+//// 19
+//// 20
+
+//// 21
+//// 22
+//// 23
+//// 24
+//// 25
+
+//// Batch 126
+
+//// Note: WacOS projects are mostly unforked
+//// Note: The majority of Git-image projects are not yet listed
+//// Note: Data pack projects other than Minecraft and Mari0 are not yet listed
+//// Note: Add in most DeGoogle articles
+
+//// 01
+//// 02
+//// 03
+//// 04
+//// 05
+
+//// 06
+//// 07
+//// 08
+//// 09
+//// 10
+
+//// 11
+//// 12
+//// 13
+//// 14
+//// 15
+
+//// 16
+//// 17
+//// 18
+//// 19
+//// 20
+
+//// 21
+//// 22
+//// 23
+//// 24
+//// 25
+
+//// Batch 127
+
+//// Note: WacOS projects are mostly unforked
+//// Note: The majority of Git-image projects are not yet listed
+//// Note: Data pack projects other than Minecraft and Mari0 are not yet listed
+//// Note: Add in most DeGoogle articles
+
+//// 01
+//// 02
+//// 03
+//// 04
+//// 05
+
+//// 06
+//// 07
+//// 08
+//// 09
+//// 10
+
+//// 11
+//// 12
+//// 13
+//// 14
+//// 15
+
+//// 16
+//// 17
+//// 18
+//// 19
+//// 20
+
+//// 21
+//// 22
+//// 23
+//// 24
+//// 25
+
+//// Batch 128
+
+//// Note: WacOS projects are mostly unforked
+//// Note: The majority of Git-image projects are not yet listed
+//// Note: Data pack projects other than Minecraft and Mari0 are not yet listed
+//// Note: Add in most DeGoogle articles
+
+//// 01
+//// 02
+//// 03
+//// 04
+//// 05
+
+//// 06
+//// 07
+//// 08
+//// 09
+//// 10
+
+//// 11
+//// 12
+//// 13
+//// 14
+//// 15
+
+//// 16
+//// 17
+//// 18
+//// 19
+//// 20
+
+//// 21
+//// 22
+//// 23
+//// 24
+//// 25
+
+//// Batch 129
+
+//// Note: WacOS projects are mostly unforked
+//// Note: The majority of Git-image projects are not yet listed
+//// Note: Data pack projects other than Minecraft and Mari0 are not yet listed
+//// Note: Add in most DeGoogle articles
+
+//// 01
+//// 02
+//// 03
+//// 04
+//// 05
+
+//// 06
+//// 07
+//// 08
+//// 09
+//// 10
+
+//// 11
+//// 12
+//// 13
+//// 14
+//// 15
+
+//// 16
+//// 17
+//// 18
+//// 19
+//// 20
+
+//// 21
+//// 22
+//// 23
+//// 24
+//// 25
+
+//// Batch 130
+
+//// Note: WacOS projects are mostly unforked
+//// Note: The majority of Git-image projects are not yet listed
+//// Note: Data pack projects other than Minecraft and Mari0 are not yet listed
+//// Note: Add in most DeGoogle articles
+
+//// 01
+//// 02
+//// 03
+//// 04
+//// 05
+
+//// 06
+//// 07
+//// 08
+//// 09
+//// 10
+
+//// 11
+//// 12
+//// 13
+//// 14
+//// 15
+
+//// 16
+//// 17
+//// 18
+//// 19
+//// 20
+
+//// 21
+//// 22
+//// 23
+//// 24
+//// 25
+
+//// Batch 131
+
+//// Note: WacOS projects are mostly unforked
+//// Note: The majority of Git-image projects are not yet listed
+//// Note: Data pack projects other than Minecraft and Mari0 are not yet listed
+//// Note: Add in most DeGoogle articles
+
+//// 01
+//// 02
+//// 03
+//// 04
+//// 05
+
+//// 06
+//// 07
+//// 08
+//// 09
+//// 10
+
+//// 11
+//// 12
+//// 13
+//// 14
+//// 15
+
+//// 16
+//// 17
+//// 18
+//// 19
+//// 20
+
+//// 21
+//// 22
+//// 23
+//// 24
+//// 25
+
+//// Batch 132
+
+//// Note: WacOS projects are mostly unforked
+//// Note: The majority of Git-image projects are not yet listed
+//// Note: Data pack projects other than Minecraft and Mari0 are not yet listed
+//// Note: Add in most DeGoogle articles
+
+//// 01
+//// 02
+//// 03
+//// 04
+//// 05
+
+//// 06
+//// 07
+//// 08
+//// 09
+//// 10
+
+//// 11
+//// 12
+//// 13
+//// 14
+//// 15
+
+//// 16
+//// 17
+//// 18
+//// 19
+//// 20
+
+//// 21
+//// 22
+//// 23
+//// 24
+//// 25
+
+//// Batch 133
+
+//// Note: WacOS projects are mostly unforked
+//// Note: The majority of Git-image projects are not yet listed
+//// Note: Data pack projects other than Minecraft and Mari0 are not yet listed
+//// Note: Add in most DeGoogle articles
+
+//// 01
+//// 02
+//// 03
+//// 04
+//// 05
+
+//// 06
+//// 07
+//// 08
+//// 09
+//// 10
+
+//// 11
+//// 12
+//// 13
+//// 14
+//// 15
+
+//// 16
+//// 17
+//// 18
+//// 19
+//// 20
+
+//// 21
+//// 22
+//// 23
+//// 24
+//// 25
+
+//// Batch 134
+
+//// Note: WacOS projects are mostly unforked
+//// Note: The majority of Git-image projects are not yet listed
+//// Note: Data pack projects other than Minecraft and Mari0 are not yet listed
+//// Note: Add in most DeGoogle articles
+
+//// 01
+//// 02
+//// 03
+//// 04
+//// 05
+
+//// 06
+//// 07
+//// 08
+//// 09
+//// 10
+
+//// 11
+//// 12
+//// 13
+//// 14
+//// 15
+
+//// 16
+//// 17
+//// 18
+//// 19
+//// 20
+
+//// 21
+//// 22
+//// 23
+//// 24
+//// 25
+
+//// Adding in 1 day of blank entries for each new version of this file, no matter if the entries can be filled or not. A stop date for this is currently unset, but it will stop eventually.
+
+//// File info
+//// File version: 134 (2023, Tuesday, January 24th at 11:49 am PST)
+//// V92: Sorted GitHub pages data into the daily list, partial testing for link rot, no link rot found in partial test
+//// V123: Updated from URLL v2 to URLL v3
+//// File type: URLL v3 source file (*.urll)
+//// Line count (including blank lines and compiler line): 3,660
+//// Word count: 22,231
+//// Character count (including spaces): 182,230
+//// Character count (excluding spaces): 171,721
+//// Bytes (Emojis included as 4 bytes each): 191,862
+
+//// End of file
+
+//// Queued
+
+//// Nil
+
+////-
+
+//// Obsolete, dead, rotten, expired, gloom
+
+//// Old instructions: Make sure to fork the source repository, and NOT the seanpm2001 fork
+
+https://github.com/seanpm2001/seanpm2001.github.io
+https://github.com/seanpm2001/Project1k1.github.io
+https://github.com/seanpm2001/9x-Internet.github.io
+https://github.com/seanpm2001/SafeT-dev.github.io
+https://github.com/seanpm2001/9x-Internet
+https://github.com/seanpm2001/SNU-Erotica.github.io
+https://github.com/seanpm2001/SNU-Porn.github.io
+https://github.com/seanpm2001/Seanpm2001-KhanAcademy.github.io
+https://github.com/seanpm2001/NUNIX-dev.github.io
+https://github.com/seanpm2001/NUNIX
+https://github.com/seanpm2001/CompuSmell.github.io
+https://github.com/seanpm2001/Reactop-computers.github.io
+https://github.com/seanpm2001/Egg-org.github.io
+https://github.com/seanpm2001/URLL-Specification.github.io
+https://github.com/seanpm2001/Egg_Org
+https://github.com/seanpm2001/Seanpm2001-Robotics.github.io
+https://github.com/seanpm2001/SuperPower-laptops.github.io
+https://github.com/seanpm2001/NimbleBit-Games.github.io
+https://github.com/seanpm2001/404-Day.github.io
+https://github.com/seanpm2001/WacOS-Dev.github.io
+https://github.com/seanpm2001/Seanpm2001-Biology.github.io
+https://github.com/seanpm2001/SVG-video.github.io
+https://github.com/seanpm2001/Doorcrete.github.io
+https://github.com/seanpm2001/Doorcrete
+https://github.com/seanpm2001/Computer-cursor-tech-support
+https://github.com/seanpm2001/Computing-longevity-blog
+https://github.com/seanpm2001/CamCamPlus.github.io
+https://github.com/seanpm2001/TalkScript.github.io
+https://github.com/seanpm2001/Slaveworks.github.io
+https://github.com/seanpm2001/Gaslight-Galactica.github.io
+https://github.com/seanpm2001/MCPYE.github.io
+https://github.com/seanpm2001/Tetris128.github.io
+https://github.com/seanpm2001/BGemJam-game.github.io
+https://github.com/seanpm2001/iBlast-Game.github.io
+https://github.com/seanpm2001/SNU-0D.github.io
+https://github.com/seanpm2001/Seanpm2001-COVID-19.github.io
+https://github.com/seanpm2001/Code-distancing.github.io
+https://github.com/seanpm2001/Seanpm2001-Food-Index.github.io
+https://github.com/seanpm2001/SPM_FoodIndex
+https://github.com/seanpm2001/TuxBot-operating-system.github.io
+https://github.com/seanpm2001/SNU-DennisRitchieMemorial.github.io
+https://github.com/seanpm2001/Hospital-defender.github.io
+https://github.com/seanpm2001/README-Desktop-LIBrary.github.io
+https://github.com/seanpm2001/DentalBar-Whitetooth-pro.github.io
+https://github.com/seanpm2001/DentalBar_WhiteTooth_Pro
+https://github.com/seanpm2001/Seanpm2001-KolibriGames.github.io
+https://github.com/seanpm2001/ScreenTeX.github.io
+https://github.com/seanpm2001/BootDown-dev.github.io
+https://github.com/seanpm2001/Its-time-to-cut-WideVine-DRM.github.io
+https://github.com/seanpm2001/Seanpm2001-Scratch.github.io
+https://github.com/seanpm2001/SNU-TimeMachine.github.io
+https://github.com/seanpm2001/TouchPetsDogs2Rewritten.github.io
+https://github.com/seanpm2001/Engineer-Superdesk.github.io
+https://github.com/seanpm2001/SNU-Programming-Tools.github.io
+https://github.com/seanpm2001/Seanpm2001-Testing.github.io
+https://github.com/seanpm2001/seanwallawalla-testing.github.io
+https://github.com/seanpm2001/Degoogle-your-life.github.io
+https://github.com/seanpm2001/Seanpm2001-Health.github.io
+https://github.com/seanpm2001/Seanwallawalla-health.github.io
+https://github.com/seanpm2001/Computing-longevity.github.io
+https://github.com/seanpm2001/Medical-ethics.github.io
+https://github.com/seanpm2001/Snail-bob-maker.github.io
+https://github.com/seanpm2001/UltimateCalculator.github.io
+https://github.com/seanpm2001/Cyborg-System-Monitor.github.io
+https://github.com/seanpm2001/Virg-io-dev.github.io
+https://github.com/seanpm2001/Self-Care-Bot.github.io
+https://github.com/seanpm2001/GratyBot.github.io
+https://github.com/seanpm2001/BluPhone.github.io
+https://github.com/seanpm2001/The-Pirates-Copy.github.io
+https://github.com/seanpm2001/NimbleBit-Glossary.github.io
+https://github.com/seanpm2001/SNU-Beliefs.github.io
+https://github.com/seanpm2001/Seanpm2001-Blocklist.github.io
+https://github.com/seanpm2001/Portal-Voice-Assistant.github.io
+https://github.com/seanpm2001/Underune-maker.github.io
+https://github.com/seanpm2001/Numeric-Liberation-Front.github.io
+https://github.com/seanpm2001/Team8Collection.github.io
+https://github.com/seanpm2001/Boom-Bay.github.io
+https://github.com/seanpm2001/Frog-mania.github.io
+https://github.com/seanpm2001/GitHubby-development.github.io
+https://github.com/seanpm2001/SimZonns.github.io
+https://github.com/seanpm2001/Bosky-dev.github.io
+https://github.com/seanpm2001/FINF-dev.github.io
+https://github.com/seanpm2001/ZooTree.github.io
+https://github.com/seanpm2001/QMeadows-development.github.io
+
