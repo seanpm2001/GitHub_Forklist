@@ -1,0 +1,29 @@
+# GitHub forks 2023, Saturday, January 27th
+@seanpm2001
+https://github.com/seanpm2001/hygdrop -> https://github.com/seanpm2001/HyLang_HyGDrop
+https://github.com/seanpm2001/hdb -> https://github.com/seanpm2001/HyLang_HDB
+https://github.com/seanpm2001/shyte -> https://github.com/seanpm2001/HyLang_SHyte
+https://github.com/seanpm2001/comphyle -> https://github.com/seanpm2001/HyLang_CompHyLe
+https://github.com/seanpm2001/k8s-operator-demo -> https://github.com/seanpm2001/RobFrut135_K8s-Operator-Demo
+https://github.com/seanpm2001/fuchsiaqemu -> https://github.com/seanpm2001/IxySoft_FuchsiaQEMU
+[ALREADY FORKED] https://github.com/tamuratak/vscode-pegjs
+https://github.com/seanpm2001/Xtendroid -> https://github.com/seanpm2001/TobyKurien_Xtendroid
+https://github.com/seanpm2001/dub.snap -> https://github.com/seanpm2001/DLang-Snaps_Dub.Snap
+https://github.com/seanpm2001/dfmt.snap -> https://github.com/seanpm2001/DLang-Snaps_DFMT.Snap
+https://github.com/seanpm2001/dscanner.snap -> https://github.com/seanpm2001/DLang-Snaps_DScanner.Snap
+https://github.com/seanpm2001/dmd.snap -> https://github.com/seanpm2001/DLang-Snaps_DMD.Snap
+https://github.com/seanpm2001/dcd.snap -> https://github.com/seanpm2001/DLang-Snaps_DCD.Snap
+https://github.com/seanpm2001/drepl.snap -> https://github.com/seanpm2001/DLang-Snaps_DREPL.Snap
+https://github.com/seanpm2001/dfix.snap -> https://github.com/seanpm2001/DLang-Snaps_DFix.Snap
+https://github.com/seanpm2001/.github-1 -> https://github.com/seanpm2001/HandBrake.github
+https://github.com/seanpm2001/little-lang -> https://github.com/seanpm2001/BitKeeper-SCM_Little-Lang
+https://github.com/seanpm2001/tcl -> https://github.com/seanpm2001/BitKeeper-SCM_TCL
+@seanwallawalla
+https://github.com/seanwallawalla/Learn-Zeek
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Zeek
+https://github.com/seanwallawalla/Registry
+https://github.com/seanwallawalla/Seanpm2001-Registry
+https://github.com/seanwallawalla/Meadows_Docs
+https://github.com/seanwallawalla/Ukraine-History-Simulator_Docs
+https://github.com/seanwallawalla/MCPYE_Docs
+https://github.com/seanwallawalla/BlazeOS_Docs

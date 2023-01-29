@@ -1,0 +1,28 @@
+# GitHub forks 2023 Sarturday, January 21st
+@seanpm2001
+https://github.com/seanpm2001/gulp-global-exclude -> https://github.com/seanpm2001/Einaregilsson_Gulp-Global-Exclude
+https://github.com/seanpm2001/hradbankar -> https://github.com/seanpm2001/Einaregilsson_Hradbankar
+https://github.com/seanpm2001/Scroll-Search-Engines -> https://github.com/seanpm2001/Einaregilsson_Scroll-Search-Engines
+https://github.com/seanpm2001/chord.js -> https://github.com/seanpm2001/Einaregilsson_Chord.js
+https://github.com/seanpm2001/printmysongs -> https://github.com/seanpm2001/Einaregilsson_PrintMySongs
+https://github.com/seanpm2001/EventHandlerNaming -> https://github.com/seanpm2001/Einaregilsson_EventHandlerNaming
+https://github.com/seanpm2001/While-Language -> https://github.com/seanpm2001/Einaregilsson_While-Language
+https://github.com/seanpm2001/Process-Language-Runtime -> https://github.com/seanpm2001/Einaregilsson_Process-Language-Runtime
+https://github.com/seanpm2001/postcss-short-spacing -> https://github.com/seanpm2001/CSSTools_PostCSS-Short-Spacing
+https://github.com/seanpm2001/postcss-short-color -> https://github.com/seanpm2001/CSSTools_PostCSS-Short-Color
+https://github.com/seanpm2001/postcss-font-weights -> https://github.com/seanpm2001/CSSTools_PostCSS-Font-Weights
+https://github.com/seanpm2001/stylelint-logical-properties -> https://github.com/seanpm2001/CSSTools_StyleLint-Logical-Properties
+https://github.com/seanpm2001/mdcss -> https://github.com/seanpm2001/CSSTools_MDCSS
+https://github.com/seanpm2001/postcss-number-functions -> https://github.com/seanpm2001/CSSTools_PostCSS-Number-Functions
+https://github.com/seanpm2001/postcss-logical-gradients -> https://github.com/seanpm2001/CSSTools_PostCSS-Logical-Gradients
+https://github.com/seanpm2001/postcss-export-custom-variables -> https://github.com/seanpm2001/CSSTools_PostCSS-Export-Custom-Variables
+https://github.com/seanpm2001/postcss-identifiers -> https://github.com/seanpm2001/CSSTools_PostCSS-Identifiers
+@seanwallwalla
+https://github.com/seanwallawalla/Rust-Belt
+https://github.com/seanwallawalla/Climate-Activism
+https://github.com/seanwallawalla/Candroid-Flashlight
+https://github.com/seanwallawalla/Candroid-Rotate
+https://github.com/seanwallawalla/Android-x64_Android14.0_Heavy_Edition
+https://github.com/seanwallawalla/Android-x64_Android14.0_Vanilla_Edition
+https://github.com/seanwallawalla/Android-x64_Android14.0_DeGoogled_Edition
+https://github.com/seanwallawalla/Android-x64_Android14.0_LiveCD_Edition

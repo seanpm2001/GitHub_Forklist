@@ -1,0 +1,28 @@
+# GitHub forks 2023, Friday, January 20th
+@seanpm2001
+https://github.com/seanpm2001/Redirector -> https://github.com/seanpm2001/Einaregilsson_Redirector
+https://github.com/seanpm2001/build-number -> https://github.com/seanpm2001/Einaregilsson_Build-Number
+https://github.com/seanpm2001/beanstalk-deploy -> https://github.com/seanpm2001/Einaregilsson_BeanStalk-Deploy
+https://github.com/seanpm2001/cards.js -> https://github.com/seanpm2001/Einaregilsson_Cards.js
+https://github.com/seanpm2001/StopOnFirstBuildError -> https://github.com/seanpm2001/Einaregilsson_StopOnFirstBuildError
+https://github.com/seanpm2001/update-lambda-edge-function -> https://github.com/seanpm2001/Einaregilsson_Update-Lambda-Edge-Function
+https://github.com/seanpm2001/einaregilsson.com -> https://github.com/seanpm2001/Einaregilsson_einaregilsson.com
+https://github.com/seanpm2001/InsertIcons -> https://github.com/seanpm2001/Einaregilsson_InsertIcons
+https://github.com/seanpm2001/photo16x9 -> https://github.com/seanpm2001/Einaregilsson_Photo16x9
+https://github.com/seanpm2001/sudoku.js -> https://github.com/seanpm2001/Einaregilsson_Sudoku.js
+https://github.com/seanpm2001/ChordImageGenerator -> https://github.com/seanpm2001/Einaregilsson_ChordImageGenerator
+https://github.com/seanpm2001/print-environment -> https://github.com/seanpm2001/Einaregilsson_Print-Environment
+https://github.com/seanpm2001/ClipboardDiff -> https://github.com/seanpm2001/Einaregilsson_ClipboardDiff
+https://github.com/seanpm2001/s3-list-all-objects -> https://github.com/seanpm2001/Einaregilsson_S3-List-All-Objects
+https://github.com/seanpm2001/save-svg-as-png -> https://github.com/seanpm2001/Einaregilsson_Save-SVG-As-PNG
+https://github.com/seanpm2001/roundedcorners -> https://github.com/seanpm2001/Einaregilsson_RoundedCorners
+https://github.com/seanpm2001/MyLife -> https://github.com/seanpm2001/Einaregilsson_MyLife
+@seanwallawalla
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Wren
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Component-Pascal
+https://github.com/seanwallawalla/Learn-Wren
+https://github.com/seanwallawalla/Learn-Component-Pascal
+https://github.com/seanwallawalla/Android-x32_Android0.9_Heavy_Edition
+https://github.com/seanwallawalla/Android-x32_Android0.9_Vanilla_Edition
+https://github.com/seanwallawalla/Android-x32_Android0.9_DeGoogled_Edition
+https://github.com/seanwallawalla/Android-x32_Android0.9_LiveCD_Edition

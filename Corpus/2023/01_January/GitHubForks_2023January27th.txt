@@ -1,0 +1,29 @@
+# GitHub forks 2023, Friday, January 27th
+@seanpm2001
+https://github.com/seanpm2001/this-week-in-livecode -> https://github.com/seanpm2001/LiveCode_This-Week-In-LiveCode
+https://github.com/seanpm2001/livecode-thirdparty -> https://github.com/seanpm2001/LiveCode_LiveCode-ThirdParty
+https://github.com/seanpm2001/livecode-ide -> https://github.com/seanpm2001/LiveCode_LiveCode-IDE
+https://github.com/seanpm2001/livecode-prebuilt -> https://github.com/seanpm2001/LiveCode_LiveCode-PreBuilt
+https://github.com/seanpm2001/docker-hylang -> https://github.com/seanpm2001/HyLang_Docker-HyLang
+https://github.com/seanpm2001/hy-mode -> https://github.com/seanpm2001/HyLang_Hy-Mode
+https://github.com/seanpm2001/hyrule -> https://github.com/seanpm2001/HyLang_HyRule
+https://github.com/seanpm2001/vim-hy -> https://github.com/seanpm2001/HyLang_Vim-Hy
+https://github.com/seanpm2001/sphinxcontrib-hydomain -> https://github.com/seanpm2001/HyLang_SphinxContrib-HyDomain
+https://github.com/seanpm2001/hyhomepage -> https://github.com/seanpm2001/HyLang_HyHomePage
+https://github.com/seanpm2001/tryhy -> https://github.com/seanpm2001/HyLang_TryHy
+https://github.com/seanpm2001/hy-interpreter -> https://github.com/seanpm2001/HyLang_Hy-Interpreter
+https://github.com/seanpm2001/hydiomatic -> https://github.com/seanpm2001/HyLang_HyDiomatic
+https://github.com/seanpm2001/hyway -> https://github.com/seanpm2001/HyLang_HyWay
+https://github.com/seanpm2001/hyghlight -> https://github.com/seanpm2001/HyLang_HyGhLight
+https://github.com/seanpm2001/hy-style-guide -> https://github.com/seanpm2001/HyLang_Hy-Style-Guide
+https://github.com/seanpm2001/gethy.org -> https://github.com/seanpm2001/HyLang_gethy.org
+@seanwallawalla
+https://github.com/seanwallawalla/LibreFlock_Space
+https://github.com/seanwallawalla/LibreFlock_Brazil
+https://github.com/seanwallawalla/LibreFlock_Seasonal
+https://github.com/seanwallawalla/Software-Diversity
+https://github.com/seanwallawalla/Learn-While
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_While
+https://github.com/seanwallawalla/Android-x32_LiveCD_1.0C
+https://github.com/seanwallawalla/Android-x32_LiveCD_0.9C
+

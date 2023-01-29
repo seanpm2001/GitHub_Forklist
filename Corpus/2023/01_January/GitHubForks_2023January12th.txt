@@ -1,0 +1,30 @@
+@seanpm2001
+https://github.com/seanpm2001/GoogleServicesFramework -> https://github.com/seanpm2001/MicroG_GoogleServicesFramework
+https://github.com/seanpm2001/android_external_MicroGUiTools -> https://github.com/seanpm2001/MicroG_Android_External_MicroGUiTools
+https://github.com/seanpm2001/AppleWifiNlpBackend -> https://github.com/seanpm2001/MicroG_AppleWifiNlpBackend
+https://github.com/seanpm2001/android_external_address-formatter -> https://github.com/seanpm2001/MicroG_Android_External_Address-Formatter
+https://github.com/seanpm2001/android_frameworks_mapsv1 -> https://github.com/seanpm2001/MicroG_Android_Frameworks_MapsV1
+https://github.com/seanpm2001/OpenWlanMapNlpBackend -> https://github.com/seanpm2001/MicroG_OpenWlanMapNlpBackend
+https://github.com/seanpm2001/UnifiedNlp -> https://github.com/seanpm2001/MicroG_UnifiedNlp
+https://github.com/seanpm2001/cronet-build -> https://github.com/seanpm2001/MicroG_Cronet-Build
+https://github.com/seanpm2001/conscrypt-gmscore -> https://github.com/seanpm2001/MicroG_ConScrypt-GMSCore
+https://github.com/seanpm2001/Phonesky -> https://github.com/seanpm2001/MicroG_Phonesky
+https://github.com/seanpm2001/RemoteDroidGuard -> https://github.com/seanpm2001/MicroG_RemoteDroidGuard
+https://github.com/seanpm2001/.github-1 -> https://github.com/seanpm2001/MicroG.github
+https://github.com/seanpm2001/NominatimGeocoderBackend -> https://github.com/seanpm2001/MicroG_NominatimGeocoderBackend
+https://github.com/seanpm2001/Wearable -> https://github.com/seanpm2001/MicroG_Wearable
+https://github.com/seanpm2001/android_external_GmsLib -> https://github.com/seanpm2001/MicroG_Android_External_GMSLIB
+https://github.com/seanpm2001/android_external_GmsApi -> https://github.com/seanpm2001/MicroG_Android_External_GMSAPI
+https://github.com/seanpm2001/android_external_UnifiedNlpApi -> https://github.com/seanpm2001/MicroG_Android_External_UnifiedNlpAPI
+https://github.com/seanpm2001/android_packages_apps_GsfProxy -> https://github.com/seanpm2001/MicroG_Android_Packages_Apps_GsfProxy
+@seanwallawalla
+https://github.com/seanwallawalla/URLL
+https://github.com/seanwallawalla/SeansLifeArchive_Images_ProtonVPN
+https://github.com/seanwallawalla/SeansLifeArchive_Images_Proton.me
+https://github.com/seanwallawalla/Android-x32_Android2.3_Heavy_Edition
+https://github.com/seanwallawalla/Android-x32_Android2.3_Vanilla_Edition
+https://github.com/seanwallawalla/Android-x32_Android2.3_DeGoogled_Edition
+https://github.com/seanwallawalla/Android-x32_Android2.3_LiveCD_Edition
+https://github.com/seanwallawalla/SeansLifeArchive_Images_ProtonMail
+https://github.com/seanwallawalla/SeansLifeArchive_Images_ProtonDrive
+[BUT NOT FORKED UNTIL TODAY] https://github.com/seanwallawalla/Politics
