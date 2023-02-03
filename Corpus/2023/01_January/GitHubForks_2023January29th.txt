@@ -1,0 +1,30 @@
+# GitHub forks 2023, Sunday, January 29th
+@seanpm2001
+https://github.com/seanpm2001/tk -> https://github.com/seanpm2001/BitKeeper-SCM_TK
+https://github.com/seanpm2001/pcre -> https://github.com/seanpm2001/BitKeeper-SCM_PCRE
+https://github.com/seanpm2001/bitkeeper -> https://github.com/seanpm2001/BitKeeper-SCM_BitKeeper
+[ALREADY FORKED, RENAME] https://github.com/seanpm2001/luarocks -> https://github.com/seanpm2001/LuaRocks_LuaRocks
+[ALREADY FORKED, RENAME] https://github.com/seanpm2001/luarocks-site -> https://github.com/seanpm2001/LuaRocks_LuaRocks-Site
+https://github.com/seanpm2001/testrock -> https://github.com/seanpm2001/LuaRocks_TestRock
+https://github.com/seanpm2001/luarocks-build-rust -> https://github.com/seanpm2001/LuaRocks_LuaRocks-Build-Rust
+https://github.com/seanpm2001/lua-style-guide -> https://github.com/seanpm2001/LuaRocks_Lua-Style-Guide
+https://github.com/seanpm2001/luarocks-gui -> https://github.com/seanpm2001/LuaRocks_LuaRocks-GUI
+https://github.com/seanpm2001/luarocks-logos -> https://github.com/seanpm2001/LuaRocks_LuaRocks-Logos
+https://github.com/seanpm2001/docker-lineage-cicd -> https://github.com/seanpm2001/LineageOS4MicroG_Docker-Lineage-CICD
+https://github.com/seanpm2001/android_vendor_partner_gms -> https://github.com/seanpm2001/LineageOS4MicroG_Android_Vendor_Partner_GMS
+https://github.com/seanpm2001/lineageos4microg.github.io
+https://github.com/seanpm2001/mini_ota -> https://github.com/seanpm2001/LineageOS4MicroG_Mini_OTA
+https://github.com/seanpm2001/android_prebuilts_prebuiltapks -> https://github.com/seanpm2001/LineageOS4MicroG_Android_PreBuilts_PreBuiltAPKs
+https://github.com/seanpm2001/build_stats -> https://github.com/seanpm2001/LineageOS4MicroG_Build_Stats
+https://github.com/seanpm2001/xtendfx -> https://github.com/seanpm2001/Svenefftinge_XTendFX
+https://github.com/seanpm2001/godot-docs -> https://github.com/seanpm2001/GoDotEngine_GoDot-Docs
+https://github.com/seanpm2001/godot-team-reports -> https://github.com/seanpm2001/GoDotEngine_GoDot-Team-Reports
+@seanwallawalla
+https://github.com/seanwallawalla/Learn-Lobster
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Lobster
+https://github.com/seanwallawalla/DOM
+https://github.com/seanwallawalla/Team8Collection_Docs
+https://github.com/seanwallawalla/Linux-Defender_Docs
+https://github.com/seanwallawalla/BluPhone_Docs
+https://github.com/seanwallawalla/WacOS_Docs
+https://github.com/seanwallawalla/SVG-Video_Docs

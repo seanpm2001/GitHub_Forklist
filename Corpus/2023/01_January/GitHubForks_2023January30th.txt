@@ -1,0 +1,29 @@
+# GitHub forks 2023, Monday, January 30th
+@seanpm2001
+https://github.com/seanpm2001/doc-status -> https://github.com/seanpm2001/GoDotEngine_Doc-Status
+https://github.com/seanpm2001/godot-benchmarks -> https://github.com/seanpm2001/GoDotEngine_GoDot-Benchmarks
+https://github.com/seanpm2001/godot-demo-projects -> https://github.com/seanpm2001/GoDotEngine_GoDot-Demo-Projects # But not forked until today
+https://github.com/seanpm2001/godot-website -> https://github.com/seanpm2001/GoDotEngine_GoDot-Website
+https://github.com/seanpm2001/webrtc-native -> https://github.com/seanpm2001/GoDotEngine_WebRTC-Native
+https://github.com/seanpm2001/godot-cpp -> https://github.com/seanpm2001/GoDotEngine_GoDot-CPP
+https://github.com/seanpm2001/godot-headers -> https://github.com/seanpm2001/GoDotEngine_GoDot-Headers
+https://github.com/seanpm2001/godot-build-scripts -> https://github.com/seanpm2001/GoDotEngine_GoDot-Build-Scripts
+https://github.com/seanpm2001/emacs-gdscript-mode -> https://github.com/seanpm2001/GoDotEngine_Emacs-GDScript-Mode
+https://github.com/seanpm2001/godot-visual-script -> https://github.com/seanpm2001/GoDotEngine_GoDot-Visual-Script
+https://github.com/seanpm2001/regression-test-project -> https://github.com/seanpm2001/GoDotEngine_Regression-Test-Project
+https://github.com/seanpm2001/awesome-godot -> https://github.com/seanpm2001/GoDotEngine_Awesome-GoDot
+https://github.com/seanpm2001/FBX2glTF -> https://github.com/seanpm2001/GoDotEngine_FBX2glTF
+https://github.com/seanpm2001/godot-vscode-plugin -> https://github.com/seanpm2001/GoDotEngine_GoDot-VSCode-Plugin
+https://github.com/seanpm2001/build-containers -> https://github.com/seanpm2001/GoDotEngine_Build-Containers
+https://github.com/seanpm2001/godot-tests -> https://github.com/seanpm2001/GoDotEngine_GoDot-Tests
+https://github.com/seanpm2001/collada-exporter -> https://github.com/seanpm2001/GoDotEngine_Collada-Exporter
+@seanwallawalla
+https://github.com/seanwallawalla/Learn-MAXScript
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_MAXScript
+https://github.com/seanwallawalla/Stan-Marsh
+https://github.com/seanwallawalla/CamCamPlus_Docs
+https://github.com/seanwallawalla/Tetris128_Docs
+https://github.com/seanwallawalla/URLL_Docs
+https://github.com/seanwallawalla/Bliss_Browser_OSMode_Gentoo-Shell
+https://github.com/seanwallawalla/Bliss_Browser_OSMode_Raspberry-Pi-OS-Shell
+
