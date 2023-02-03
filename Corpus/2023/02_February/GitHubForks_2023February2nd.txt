@@ -1,0 +1,44 @@
+# GitHub forks 2023, Thursday, February 2nd
+@seanpm2001
+https://github.com/seanpm2001/peps -> https://github.com/seanpm2001/Python_PEPS # But not forked until today
+https://github.com/seanpm2001/docsbuild-scripts -> https://github.com/seanpm2001/Python_DocsBuild-Scripts # But not forked until today
+https://github.com/seanpm2001/importlib_resources -> https://github.com/seanpm2001/Python_ImportLIB_Resources # But not forked until today
+https://github.com/seanpm2001/python-docs-fr -> https://github.com/seanpm2001/Python_Python-Docs-FR # But not forked until today
+https://github.com/seanpm2001/miss-islington -> https://github.com/seanpm2001/Python_Miss-Islington # But not forked until today
+https://github.com/seanpm2001/typing_extensions -> https://github.com/seanpm2001/Python_Typing_Extensions
+https://github.com/seanpm2001/steering-council -> https://github.com/seanpm2001/Python_Steering-Council # But not forked until today
+https://github.com/seanpm2001/tzdata -> https://github.com/seanpm2001/Python_TZData # But not forked until today
+https://github.com/seanpm2001/cpython-bin-deps -> https://github.com/seanpm2001/Python_CPython-Bin-Deps # But not forked until today
+https://github.com/seanpm2001/cpython-source-deps -> https://github.com/seanpm2001/Python_CPython-Source-Deps # But not forked until today
+https://github.com/seanpm2001/pythoncapi-compat -> https://github.com/seanpm2001/Python_PythonCAPI-Compat
+https://github.com/seanpm2001/python-docs-uk -> https://github.com/seanpm2001/Python_Python-Docs-UK
+https://github.com/seanpm2001/importlib_metadata -> https://github.com/seanpm2001/Python_ImportLIB_Metadata # But not forked until today
+https://github.com/seanpm2001/core-workflow -> https://github.com/seanpm2001/Python_Core-Workflow # But not forked until today
+https://github.com/seanpm2001/bedevere -> https://github.com/seanpm2001/Python_Bedevere # But not forked until today
+https://github.com/seanpm2001/blurb_it -> https://github.com/seanpm2001/Python_Blurb_It # But not forked until today
+https://github.com/seanpm2001/python-docs-theme -> https://github.com/seanpm2001/Python_Python-Docs-Theme # But not forked until today
+@seanwallawalla
+https://github.com/seanwallawalla/Bliss_Browser_OSMode-DragonflyBSD-Shell
+https://github.com/seanwallawalla/Bliss_Browser_OSMode_Settings
+https://github.com/seanwallawalla/Bliss_Browser_OSMode_FileManager
+https://github.com/seanwallawalla/Bliss_Browser_OSMode_Desktop
+https://github.com/seanwallawalla/Seanwallawalla-Browsers
+https://github.com/seanwallawalla/Seanwallawalla-Health
+https://github.com/seanwallawalla/Seanpm2001-Testing
+https://github.com/seanwallawalla/Seanpm2001-Browsers
+https://github.com/seanwallawalla/SeansLifeArchive_Images_FirefoxColor
+https://github.com/seanwallawalla/SeansLifeArchive_Images_April-March-fools
+https://github.com/seanwallawalla/SNU_2D_Users_SeanPatrickMyrickFirefox
+https://github.com/seanwallawalla/SeansLifeArchive_Images_Mozilla-firefox
+https://github.com/seanwallawalla/SNU_2D_Health_Extra_Birdbumps
+https://github.com/seanwallawalla/SNU_2D_SQL-Tests
+https://github.com/seanwallawalla/SNU_2D_CSS_Test_References
+https://github.com/seanwallawalla/SNU_2D_HTML_Test_References
+https://github.com/seanwallawalla/SNU_2D_JavaScript_Test_References
+https://github.com/seanwallawalla/SNU_2D_XHTML-Test-references
+https://github.com/seanwallawalla/SNU_2D_XML-Testing
+https://github.com/seanwallawalla/Legendary_HTML_Test
+https://github.com/seanwallawalla/SeansLifeArchive_Images_Battery-tests
+https://github.com/seanwallawalla/SeansLifeArchive_Images_Defective-laptop-testing
+https://github.com/seanwallawalla/SeansLifeArchive_Images_Camera_Testing
+
