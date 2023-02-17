@@ -1,0 +1,29 @@
+# GitHub forks 2023, Friday, February 3rd
+@seanpm2001
+https://github.com/seanpm2001/psf-salt -> https://github.com/seanpm2001/Python_PSF-Salt # Already forked, although renaming was done today
+https://github.com/seanpm2001/python-docs-it -> https://github.com/seanpm2001/Python_Python-Docs-It # But not forked until today
+https://github.com/seanpm2001/release-tools -> https://github.com/seanpm2001/Python_Release-Tools # But not forked until today
+https://github.com/seanpm2001/docs-community -> https://github.com/seanpm2001/Python_Docs-Community
+https://github.com/seanpm2001/python-docs-ja -> https://github.com/seanpm2001/Python_Python-Docs-JA # But not forked until today
+https://github.com/seanpm2001/planet -> https://github.com/seanpm2001/Python_Planet # But not forked until today
+https://github.com/seanpm2001/python-docs-zh-cn -> https://github.com/seanpm2001/Python_Python-Docs-zh-cn # But not forked until today
+https://github.com/seanpm2001/python-docs-ko -> https://github.com/seanpm2001/Python_Python-Docs-Ko # But not forked until today
+https://github.com/seanpm2001/typed_ast -> https://github.com/seanpm2001/Python_Typed_Ast # But not forked until today
+https://github.com/seanpm2001/typing -> https://github.com/seanpm2001/Python_Typing # But not forked until today
+https://github.com/seanpm2001/cherry-picker -> https://github.com/seanpm2001/Python_Cherry-Picker # But not forked until today
+https://github.com/seanpm2001/pythontestdotnet -> https://github.com/seanpm2001/Python_PythonTestDotNet # But not forked until today
+https://github.com/seanpm2001/.github-1 -> https://github.com/seanpm2001/Python.github # But not forked until today
+https://github.com/seanpm2001/pythonineducation.org -> https://github.com/seanpm2001/Python_PythonInEducation.org # But not forked until today
+https://github.com/seanpm2001/psf-infra-meta -> https://github.com/seanpm2001/Python_PSF-Infra-Meta # But not forked until today
+https://github.com/seanpm2001/docker-bpo -> https://github.com/seanpm2001/Python_Docker-BPO # But not forked until today
+https://github.com/seanpm2001/mypy_extensions -> https://github.com/seanpm2001/Python_MyPy_Extensions # But not forked until today
+https://github.com/seanpm2001/python-docs-id -> https://github.com/seanpm2001/Python_Python-Docs-id # But not forked until today
+@seanwallawalla
+https://github.com/seanwallawalla/Bliss_Browser_OSMode-Arch-Shell
+https://github.com/seanwallawalla/Bliss_Browser_OSMode-LFS-Shell
+https://github.com/seanwallawalla/Bliss_Browser_OSMode-Meadows-Shell
+https://github.com/seanwallawalla/Bliss_Browser_OSMode-Windows-NT-Shell
+https://github.com/seanwallawalla/Bliss_Browser_OSMode_Bootloader
+https://github.com/seanwallawalla/Bliss_Browser_OSMode_AppMenu
+https://github.com/seanwallawalla/Bliss_Browser_ActionServerPages
+https://github.com/seanwallawalla/Bliss_Browser_ActionServerPagesDotNET

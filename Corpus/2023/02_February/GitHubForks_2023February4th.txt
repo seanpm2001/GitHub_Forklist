@@ -1,0 +1,28 @@
+# GitHub forks 2023, Saturday, February 4th
+@seanpm2001
+https://github.com/seanpm2001/psf-packages -> https://github.com/seanpm2001/Python_PSF-Packages
+https://github.com/seanpm2001/discord-bot -> https://github.com/seanpm2001/Python_Discord-Bot
+https://github.com/seanpm2001/overload-sig -> https://github.com/seanpm2001/Python_Overload-SIG
+https://github.com/seanpm2001/hugs.python.org -> https://github.com/seanpm2001/Python_Hugs.Python.org
+https://github.com/seanpm2001/language-summit -> https://github.com/seanpm2001/Python_Language-Summit
+https://github.com/seanpm2001/pootle-python-org-backup -> https://github.com/seanpm2001/Pythom_Pootle-Python-Org-Backup -> https://github.com/seanpm2001/Python_Pootle-Python-Org-Backup
+https://github.com/seanpm2001/core-sprint -> https://github.com/seanpm2001/Python_Core-Sprint
+https://github.com/seanpm2001/pycon-code-of-conduct -> https://github.com/seanpm2001/Python_PyCon-Code-Of-Conduct
+https://github.com/seanpm2001/bugs.python.org -> https://github.com/seanpm2001/Python_Bugs.Python.org
+https://github.com/seanpm2001/psf-election -> https://github.com/seanpm2001/Python_PSF-Election
+https://github.com/seanpm2001/getpython3.com -> https://github.com/seanpm2001/Python_GetPython3.com
+https://github.com/seanpm2001/python-dev-survey -> https://github.com/seanpm2001/Python_Python-Dev-Survey
+https://github.com/seanpm2001/python-docs-hu -> https://github.com/seanpm2001/Python_Python-Docs-hu
+https://github.com/seanpm2001/psf-community-resources -> https://github.com/seanpm2001/Python_PSF-Community-Resources
+https://github.com/seanpm2001/redistributor-guide -> https://github.com/seanpm2001/Python_Redistributor-Guide
+https://github.com/seanpm2001/devinabox -https://github.com/seanpm2001/Python_DevInABox
+https://github.com/seanpm2001/tlsproxy -> https://github.com/seanpm2001/Python_TLSProxy
+@seanwallawalla
+https://github.com/seanwallawalla/Bliss_Browser_ActionScript
+https://github.com/seanwallawalla/Bliss_Browser_Astro
+https://github.com/seanwallawalla/Bliss_Browser_Blade
+https://github.com/seanwallawalla/Bliss_Browser_BrightScript
+https://github.com/seanwallawalla/Google-Privacy-Issues
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Play
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-TV
+https://github.com/seanwallawalla/Why-you-should-stop-using-Android-TV

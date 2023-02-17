@@ -1,0 +1,29 @@
+# GitHub forks 2023, Sunday, February 12th
+@seanpm2001
+https://github.com/seanpm2001/dgVoodoo -> https://github.com/seanpm2001/Dege-Diosg_dgVoodoo
+https://github.com/seanpm2001/dgVoodoo2 -> https://github.com/seanpm2001/Dege-Diosg_dgVoodoo2
+https://github.com/seanpm2001/freelancer-hd-edition -> https://github.com/seanpm2001/BC46_FreeLancer-HD-Edition
+https://github.com/seanpm2001/AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAA -> https://github.com/seanpm2001/OXiDE-dev_AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAA
+https://github.com/seanpm2001/clojure-snippets -> https://github.com/seanpm2001/Swannodette_Clojure-Snippets
+https://github.com/seanpm2001/gpcp -> https://github.com/seanpm2001/DBremner_GPCP
+https://github.com/seanpm2001/CPfront -> https://github.com/seanpm2001/Romiras_CPfront
+https://github.com/seanpm2001/gpcp -> https://github.com/seanpm2001/K-John-Gough_GPCP
+https://github.com/seanpm2001/LockCursorInMonitor -> https://github.com/seanpm2001/EliasYoussef47_LockCursorInMonitor
+https://github.com/seanpm2001/sccache -> https://github.com/seanpm2001/Mozilla_SCCache
+https://github.com/seanpm2001/thingspace-autoscaling-tutorial -> https://github.com/seanpm2001/Verizon_ThingSpace-Autoscaling-Tutorial
+https://github.com/seanpm2001/redshell -> https://github.com/seanpm2001/Verizon_RedShell
+https://github.com/seanpm2001/5GEdgeTutorials -> https://github.com/seanpm2001/Verizon_5GEdgeTutorials
+https://github.com/seanpm2001/verizon.github.io
+https://github.com/seanpm2001/safecache -> https://github.com/seanpm2001/Verizon_SafeCache
+https://github.com/seanpm2001/YANG-transformer -> https://github.com/seanpm2001/Verizon_YANG-Transformer
+https://github.com/seanpm2001/YANG-validator -> https://github.com/seanpm2001/Verizon_YANG-Validator
+@seanwallawalla
+https://github.com/seanwallawalla/Bliss_Browser_Docs
+https://github.com/seanwallawalla/Bliss_Browser_OSMode_Puppy-Linux_Shell
+https://github.com/seanwallawalla/Bliss_Browser_OSMode_OpenSUSE_Shell
+https://github.com/seanwallawalla/Bliss_Browser_OSMode_FreeBSD_Shell
+https://github.com/seanwallawalla/Bliss_Browser_AudioPlayer
+https://github.com/seanwallawalla/Bliss_Browser_Tabs
+https://github.com/seanwallawalla/Bliss_Browser_Themes
+https://github.com/seanwallawalla/Bliss_Browser_SearchEngines
+
