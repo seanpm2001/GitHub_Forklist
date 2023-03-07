@@ -1,0 +1,28 @@
+# GitHub forks 2023, Monday, March 6th
+@seanpm2001
+https://github.com/seanpm2001/finagle-aws -> https://github.com/seanpm2001/Sclasen_Finagle-AWS
+https://github.com/seanpm2001/docker-private-registry -> https://github.com/seanpm2001/FakeChris_Docker-Private-Registry
+https://github.com/seanpm2001/cookie.ee2_addon -> https://github.com/seanpm2001/PhilipZaengle_Cookie.ee2_Addon
+https://github.com/seanpm2001/Snappy.Sharp -> https://github.com/seanpm2001/Jeffesp_Snappy.Sharp
+https://github.com/seanpm2001/tentacle-protocol-buffer -> https://github.com/seanpm2001/OctoBlu_Tentacle-Protocol-Buffer
+https://github.com/seanpm2001/prepare-coverage -> https://github.com/seanpm2001/AIO-Libs_Prepare-Coverage
+https://github.com/seanpm2001/get-releasenote -> https://github.com/seanpm2001/AIO-Libs_Get-ReleaseNote
+https://github.com/seanpm2001/frozenlist -> https://github.com/seanpm2001/AIO-Libs_FrozenList
+https://github.com/seanpm2001/async-timeout -> https://github.com/seanpm2001/AIO-Libs_ASync-Timeout
+https://github.com/seanpm2001/aioredis-py -> https://github.com/seanpm2001/AIO-Libs_AIORedis-Py
+https://github.com/seanpm2001/aiohttp-remotes -> https://github.com/seanpm2001/AIO-Libs_AIOHTTP-Remotes
+https://github.com/seanpm2001/.github-1 -> https://github.com/seanpm2001/AIO-Libs.github
+https://github.com/seanpm2001/async-lru -> https://github.com/seanpm2001/AIO-Libs_ASync-LRU
+https://github.com/seanpm2001/aioloop-proxy -> https://github.com/seanpm2001/AIO-Libs_AIOLoop-Proxy
+https://github.com/seanpm2001/aiomcache -> https://github.com/seanpm2001/AIO-Libs_AIOMCache
+https://github.com/seanpm2001/aiobotocore -> https://github.com/seanpm2001/AIO-Libs_AIOBotoCore
+https://github.com/seanpm2001/aiodocker -> https://github.com/seanpm2001/AIO-Libs_AIODocker
+@seanwallawalla
+https://github.com/seanwallawalla/Seanpm2001-Health
+https://github.com/seanwallawalla/SDE_Scarousel
+https://github.com/seanwallawalla/SDE_Merry
+https://github.com/seanwallawalla/SDE_Karousel
+https://github.com/seanwallawalla/Seanpm2001-Linguistics
+https://github.com/seanwallawalla/Post-Neo-Classical-English
+https://github.com/seanwallawalla/AI2001_Category-Images-SC-Graphic-Design-S-Icons
+https://github.com/seanwallawalla/AI2001_Category-Images-SC-Graphic-Design-S-Wallpapers
