@@ -1,0 +1,28 @@
+# GitHub forks 2023, Tuesday, February 21st
+@seanpm2001
+https://github.com/seanpm2001/go-ircevent -> https://github.com/seanpm2001/Thoj_Go-Ircevent
+https://github.com/seanpm2001/pyes -> https://github.com/seanpm2001/Aparo_Pyes
+https://github.com/seanpm2001/s3_fdw -> https://github.com/seanpm2001/Umitanuki_S3_FDW
+https://github.com/seanpm2001/django-compress -> https://github.com/seanpm2001/Pelme_DJango-Compress
+https://github.com/seanpm2001/loxun -> https://github.com/seanpm2001/Roskakori_Loxun
+https://github.com/seanpm2001/form-troubleshooter -> https://github.com/seanpm2001/GoogleChromeLabs_Form-TroubleShooter
+https://github.com/seanpm2001/dictation_support -> https://github.com/seanpm2001/GoogleChromeLabs_Dictation_Support
+https://github.com/seanpm2001/web-audio-samples -> https://github.com/seanpm2001/GoogleChromeLabs_Web-Audio-Samples
+https://github.com/seanpm2001/critters -> https://github.com/seanpm2001/GoogleChromeLabs_Critters
+https://github.com/seanpm2001/clooney -> https://github.com/seanpm2001/GoogleChromeLabs_Clooney
+https://github.com/seanpm2001/privacy-sandbox-dev-support -> https://github.com/seanpm2001/GoogleChromeLabs_Privacy-Sandbox-Dev-Support
+https://github.com/seanpm2001/pending-beacon-polyfil -> https://github.com/seanpm2001/GoogleChromeLabs_Pending-Beacon-PolyFill
+https://github.com/seanpm2001/serial-terminal -> https://github.com/seanpm2001/GoogleChromeLabs_Serial-Terminal
+https://github.com/seanpm2001/container-query-polyfill -> https://github.com/seanpm2001/GoogleChromeLabs_Container-Query-PolyFill
+https://github.com/seanpm2001/squoosh -> https://github.com/seanpm2001/GoogleChromeLabs_Squoosh
+https://github.com/seanpm2001/webpack-libs-optimizations -> https://github.com/seanpm2001/GoogleChromeLabs_WebPack-LIBs-Optimizations
+https://github.com/seanpm2001/mojom-language-support -> https://github.com/seanpm2001/GoogleChromeLabs_Mojom-Language-Support
+@seanwallawalla
+https://github.com/seanwallawalla/Bliss_Browser_CoffeeScript
+https://github.com/seanwallawalla/Bliss_Browser_FreeMarker
+https://github.com/seanwallawalla/Bliss_Browser_Jsonnet
+https://github.com/seanwallawalla/Bliss_Browser_Gherkin
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Fit
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Fonts
+https://github.com/seanwallawalla/Anime_Studio
+https://github.com/seanwallawalla/Anime_Studio_Docs
