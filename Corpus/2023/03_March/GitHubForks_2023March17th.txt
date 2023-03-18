@@ -1,0 +1,28 @@
+# GitHub forks 2023, Friday, March 17th
+@seanpm2001
+https://github.com/seanpm2001/prettier_action -> https://github.com/seanpm2001/CreyD_Prettier_Action
+https://github.com/seanpm2001/reclass -> https://github.com/seanpm2001/MadDuck_ReClass
+https://github.com/seanpm2001/rpi23-gen-image -> https://github.com/seanpm2001/Drtyhlpr_RPI23-Gen-Image
+https://github.com/seanpm2001/salt-formula-monasca -> https://github.com/seanpm2001/Asakhnov_Salt-Formula-Monasca
+https://github.com/seanpm2001/web-minify-helper -> https://github.com/seanpm2001/PeterDaveHello_Web-Minify-Helper
+https://github.com/seanpm2001/ProductHuntTelegramBot -> https://github.com/seanpm2001/Crazy-Marvin_ProductHuntTelegramBot
+https://github.com/seanpm2001/SubwayTelegramBot -> https://github.com/seanpm2001/Crazy-Marvin_SubwayTelegramBot
+https://github.com/seanpm2001/sneak.page -> https://github.com/seanpm2001/Crazy-Marvin_Sneak.Page
+https://github.com/seanpm2001/MumbleTelegramBot -> https://github.com/seanpm2001/Crazy-Marvin_MumbleTelegramBot
+https://github.com/seanpm2001/PartyTelegramBot -> https://github.com/seanpm2001/Crazy-Marvin_PartyTelegramBot
+https://github.com/seanpm2001/EuropeanWeatherAlertsTelegramBot -> https://github.com/seanpm2001/Crazy-Marvin_EuropeanWeatherAlertsTelegramBot
+https://github.com/seanpm2001/QRTelegramBot -> https://github.com/seanpm2001/Crazy-Marvin_QRTelegramBot
+https://github.com/seanpm2001/WeatherTelegramBot -> https://github.com/seanpm2001/Crazy-Marvin_WeatherTelegramBot
+https://github.com/seanpm2001/CatsAndDogsTelegramBot -> https://github.com/seanpm2001/Crazy-Marvin_CatsAndDogsTelegramBot
+https://github.com/seanpm2001/FunnyTelegramBot -> https://github.com/seanpm2001/Crazy-Marvin_FunnyTelegramBot
+https://github.com/seanpm2001/PepeTelegramBot -> https://github.com/seanpm2001/Crazy-Marvin_PepeTelegramBot
+https://github.com/seanpm2001/GassiTelegramBot -> https://github.com/seanpm2001/Crazy-Marvin_GassiTelegramBot
+@seanwallawalla
+https://github.com/seanwallawalla/Bliss_Browser_Installer
+https://github.com/seanwallawalla/Bliss_Browser_Uninstaller
+https://github.com/seanwallawalla/Learn-Gremlin
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Gremlin
+https://github.com/seanwallawalla/Learn-Wasp
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Wasp
+https://github.com/seanwallawalla/AI2001_Category-Audio-SC-Sound_Effects
+https://github.com/seanwallawalla/AI2001_Category-Audio-SC-Speeches
