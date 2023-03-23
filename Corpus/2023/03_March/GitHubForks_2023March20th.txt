@@ -1,0 +1,30 @@
+# GitHub forks 2023, Monday, March 20th
+@seanpm2001
+https://github.com/seanpm2001/bonescript -> https://github.com/seanpm2001/Jadonk_BoneScript
+https://github.com/seanpm2001/bone101 -> https://github.com/seanpm2001/Jadonk_Bone101
+https://github.com/seanpm2001/cape-firmware -> https://github.com/seanpm2001/Jadonk_Cape-Firmware
+https://github.com/seanpm2001/BeagleBone-Black -> https://github.com/seanpm2001/CircuitCo_BeagleBone-Black
+https://github.com/seanpm2001/BeagleBoard-RevC5 -> https://github.com/seanpm2001/CircuitCo_BeagleBoard-RevC5
+https://github.com/seanpm2001/MetadataRemoverWeb -> https://github.com/seanpm2001/Crazy-Marvin_MetadataRemoverWeb
+https://github.com/seanpm2001/Crazy-Marvin.github.io -> https://github.com/seanpm2001/Crazy-Marvin_Crazy-Marvin.github.io
+https://github.com/seanpm2001/Cat-Care-Android -> https://github.com/seanpm2001/Crazy-Marvin_Cat-Care-Android
+https://github.com/seanpm2001/Viewee -> https://github.com/seanpm2001/Crazy-Marvin_Viewee
+https://github.com/seanpm2001/Dog-Digest-Android -> https://github.com/seanpm2001/Crazy-Marvin_Dog-Digest-Android
+https://github.com/seanpm2001/ShittyPixels -> https://github.com/seanpm2001/Crazy-Marvin_ShittyPixels
+https://github.com/seanpm2001/Wallah -> https://github.com/seanpm2001/Crazy-Marvin_Wallah
+https://github.com/seanpm2001/picamera2 -> https://github.com/seanpm2001/RaspberryPi_PiCamera2
+https://github.com/seanpm2001/azure-pipelines-extensions -> https://github.com/seanpm2001/Microsoft_Azure-Pipelines-Extensions
+https://github.com/seanpm2001/libcamera-apps -> https://github.com/seanpm2001/RaspberryPI_LIBCamera-Apps
+https://github.com/seanpm2001/pico-sdk -> https://github.com/seanpm2001/RaspberryPi_Pico-SDK
+https://github.com/seanpm2001/pico-examples -> https://github.com/seanpm2001/RaspberryPi_Pico-Examples
+https://github.com/seanpm2001/Raspberry-Pi-Documentation -> https://github.com/seanpm2001/RaspberryPi_Documentation //// [ALREADY FORKED, RENAMED TODAY]
+@seanwallawalla
+https://github.com/seanwallawalla/Bliss_Browser_SNU-Addon
+https://github.com/seanwallawalla/Bliss_Browser_Safe-Mode
+https://github.com/seanwallawalla/Seanpm2001-RaspberryPi
+https://github.com/seanwallawalla/OpenPassport_Docs
+https://github.com/seanwallawalla/MMMMMMMMMMMMMMMMMMMM
+https://github.com/seanwallawalla/qqqqqqqqqqqqqqqqqqqq
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-German
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-Japanese
+

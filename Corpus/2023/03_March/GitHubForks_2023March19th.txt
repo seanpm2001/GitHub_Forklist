@@ -1,0 +1,28 @@
+# GitHub forks 2023, Sunday, March 19th
+@seanpm2001
+https://github.com/seanpm2001/newsletter -> https://github.com/seanpm2001/Jadonk_Newsletter
+https://github.com/seanpm2001/cloud9-examples -> https://github.com/seanpm2001/Jadonk_Cloud9-Examples
+https://github.com/seanpm2001/beaglebone-getting-started -> https://github.com/seanpm2001/Jadonk_BeagleBone-Getting-Started
+https://github.com/seanpm2001/beaglebone-black-wireless -> https://github.com/seanpm2001/Jadonk_BeagleBone-Black-Wireless
+https://github.com/seanpm2001/beaglebone-blue -> https://github.com/seanpm2001/Jadonk_BeagleBone-Blue
+https://github.com/seanpm2001/yogibot-voice -> https://github.com/seanpm2001/Crazy-Marvin_YogiBot-Voice
+https://github.com/seanpm2001/yogibot-teams -> https://github.com/seanpm2001/Crazy-Marvin_YogiBot-Teams
+https://github.com/seanpm2001/yogibot-electron -> https://github.com/seanpm2001/Crazy-Marvin_YogiBot-Electron
+https://github.com/seanpm2001/yogibot-elm -> https://github.com/seanpm2001/Crazy-Marvin_YogiBot-Elm
+https://github.com/seanpm2001/yogibot-cli -> https://github.com/seanpm2001/Crazy-Marvin_YogiBot-CLI
+https://github.com/seanpm2001/yogibot-android -> https://github.com/seanpm2001/Crazy-Marvin_YogiBot-Android
+https://github.com/seanpm2001/yogibot-slack -> https://github.com/seanpm2001/Crazy-Marvin_YogiBot-Slack
+https://github.com/seanpm2001/yogibot-ios -> https://github.com/seanpm2001/Crazy-Marvin_YogiBot-iOS
+https://github.com/seanpm2001/yogibot-flutter -> https://github.com/seanpm2001/Crazy-Marvin_YogiBot-Flutter
+https://github.com/seanpm2001/crazymarvin.com -> https://github.com/seanpm2001/Crazy-Marvin_crazymarvin.com
+https://github.com/seanpm2001/Landing -> https://github.com/seanpm2001/Crazy-Marvin_Landing
+https://github.com/seanpm2001/Gassi -> https://github.com/seanpm2001/Crazy-Marvin_Gassi
+@seanwallawalla
+https://github.com/seanwallawalla/Bliss_Browser_Data-Manager
+https://github.com/seanwallawalla/Bliss_Browser_Cookie-Jar
+https://github.com/seanwallawalla/LANChair_LANMan
+https://github.com/seanwallawalla/LANChair_Messenger
+https://github.com/seanwallawalla/EEEEEEEEEEEEEEEEEEEE
+https://github.com/seanwallawalla/JJJJJJJJJJJJJJJJJJJJ
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-Spanish
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-French

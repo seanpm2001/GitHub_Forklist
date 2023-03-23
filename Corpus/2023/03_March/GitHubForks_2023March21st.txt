@@ -1,0 +1,33 @@
+# GitHub forks 2023, Tuesday, March 21st
+@seanpm2001
+https://github.com/seanpm2001/BeagleBone-RevA6 -> https://github.com/seanpm2001/CircuitCo_BeagleBone-RevA6
+https://github.com/seanpm2001/BeagleBone-Black-RevA5C -> https://github.com/seanpm2001/CircuitCo_BeagleBone-Black-RevA5C
+https://github.com/seanpm2001/-BeagleBone-Black -> https://github.com/seanpm2001/CircuitCo_-BeagleBone-Black
+https://github.com/seanpm2001/BeagleBoard-xM-RevC2 -> https://github.com/seanpm2001/CircuitCo_BeagleBoard-xM-RevC2
+https://github.com/seanpm2001/BeagleBoard-xM-RevC1 -> https://github.com/seanpm2001/CircuitCo_BeagleBoard-xM-RevC1
+https://github.com/seanpm2001/linux-1 -> https://github.com/seanpm2001/RaspberryPi_Linux
+https://github.com/seanpm2001/cmprovision -> https://github.com/seanpm2001/RaspberryPi_CMProvision
+https://github.com/seanpm2001/utils -> https://github.com/seanpm2001/RaspberryPi_Utils
+https://github.com/seanpm2001/usb-pid -> https://github.com/seanpm2001/RaspberryPi_USB-PID
+https://github.com/seanpm2001/Raspberry-Pi_Firmware -> https://github.com/seanpm2001/RaspberryPi_Firmware //// RENAME ONLY
+https://github.com/seanpm2001/rpi-imager -> https://github.com/seanpm2001/RaspberryPi_RPI-Imager
+https://github.com/seanpm2001/usbboot -> https://github.com/seanpm2001/RaspberryPI_USBBoot
+https://github.com/seanpm2001/pico-micropython-examples -> https://github.com/seanpm2001/RaspberryPi_Pico-MicroPython-Examples
+https://github.com/seanpm2001/picoprobe -> https://github.com/seanpm2001/RaspberryPi_PicoProbe
+https://github.com/seanpm2001/pico-extras -> https://github.com/seanpm2001/RaspberryPI_Pico-Extras -> https://github.com/seanpm2001/RaspberryPi_Pico-Extras
+https://github.com/seanpm2001/rpi-eeprom -> https://github.com/seanpm2001/RaspberryPi_RPI-EEProm
+https://github.com/seanpm2001/libcamera -> https://github.com/seanpm2001/RaspberryPi_LIBCamera
+https://github.com/seanpm2001/navcontainerhelper -> https://github.com/seanpm2001/Microsoft_NavContainerHelper
+https://github.com/seanpm2001/CSS-Exchange -> https://github.com/seanpm2001/Microsoft_CSS-Exchange
+https://github.com/seanpm2001/Microsoft365DSC -> https://github.com/seanpm2001/Microsoft_Microsoft365DSC
+https://github.com/seanpm2001/dataweave-playground -> https://github.com/seanpm2001/GSamba_DataWeave-Playground
+@seanwallawalla
+https://github.com/seanwallawalla/Bliss_Browser_File-Manager
+https://github.com/seanwallawalla/Bliss_Browser_Pocket-Addon
+https://github.com/seanwallawalla/iWill_Docs
+https://github.com/seanwallawalla/Rick_Docs
+https://github.com/seanwallawalla/RRRRRRRRRRRRRRRRRRRR
+https://github.com/seanwallawalla/VVVVVVVVVVVVVVVVVVVV
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-Ukrainian
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-Latin
+
