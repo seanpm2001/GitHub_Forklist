@@ -1,0 +1,29 @@
+# GitHub forks 2023, Friday, March 24th
+@seanpm2001
+https://github.com/seanpm2001/jquery-pjax -> https://github.com/seanpm2001/Defunkt_JQuery-PJAX
+https://github.com/seanpm2001/ckeditor5.github.io
+https://github.com/seanpm2001/ckeditor-nuget -> https://github.com/seanpm2001/MdeVilliers_CKEditor-Nuget
+https://github.com/seanpm2001/idiomatic.js -> https://github.com/seanpm2001/RWaldron_Idiomatic.JS
+https://github.com/seanpm2001/scala-bootstrapper -> https://github.com/seanpm2001/Fizx_Scala-BootStrapper
+https://github.com/seanpm2001/rpi-sense -> https://github.com/seanpm2001/RaspberryPI_RPI-Sense
+https://github.com/seanpm2001/skygate -> https://github.com/seanpm2001/RaspberryPi_SkyGate
+https://github.com/seanpm2001/pytrack -> https://github.com/seanpm2001/RaspberryPi_PyTrack
+https://github.com/seanpm2001/gpioexpander -> https://github.com/seanpm2001/RaspberryPI_GPIOExpander
+https://github.com/seanpm2001/maynard -> https://github.com/seanpm2001/RaspberryPi_MayNard
+https://github.com/seanpm2001/weston -> https://github.com/seanpm2001/RaspberryPi_Weston
+https://github.com/seanpm2001/target_fs -> https://github.com/seanpm2001/RaspberryPi_Target_FS
+https://github.com/seanpm2001/rosie_demos -> https://github.com/seanpm2001/ROSIE-Project_Rosie_Demos
+https://github.com/seanpm2001/colcon-rebar3 -> https://github.com/seanpm2001/ROSIE-Project_ColCon-ReBar3
+https://github.com/seanpm2001/rosie_ros2_deps -> https://github.com/seanpm2001/ROSIE-Project_Rosie_ROS2_Deps
+https://github.com/seanpm2001/rosie_dds -> https://github.com/seanpm2001/ROSIE-Project_Rosie_DDS
+https://github.com/seanpm2001/rosie_interface_compiler -> https://github.com/seanpm2001/ROSIE-Project_Rosie_Interface_Compiler
+@seanwallawalla
+https://github.com/seanwallawalla/Bliss_Browser_AJAX
+https://github.com/seanwallawalla/Bliss_Browser_Widgets
+https://github.com/seanwallawalla/SeansLifeArchive_Images_Daily-Desktop-Screenshots_Dump-Unprocessed
+https://github.com/seanwallawalla/SeansLifeArchive_Images_GitHub_Y2024
+https://github.com/seanwallawalla/SeansLifeArchive_Images_GNOME_System_Monitor_Y2023
+https://github.com/seanwallawalla/SeansLifeArchive_Images_GNOME_System_Monitor_Y2024
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-Urdu
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-Hindi
+
