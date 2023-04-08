@@ -1,0 +1,28 @@
+# GitHub forks 2023, Saturday, April 1st
+@seanpm2001
+https://github.com/seanpm2001/AzStackHCISandbox -> https://github.com/seanpm2001/Microsoft_AzStackHCISandbox
+https://github.com/seanpm2001/AzureMonitorCommunity -> https://github.com/seanpm2001/Microsoft_AzureMonitorCommunity
+https://github.com/seanpm2001/coe-alm-accelerator-templates -> https://github.com/seanpm2001/Microsoft_COE-ALM-Accelerator-Templates
+https://github.com/seanpm2001/digitalworkplace-workflows -> https://github.com/seanpm2001/Microsoft_DigitalWorkplace-Workflows
+https://github.com/seanpm2001/mdi-react -> https://github.com/seanpm2001/Levrik_MDi-React
+https://github.com/seanpm2001/react-redux-firebase -> https://github.com/seanpm2001/PrescottPrue_React-Redux-FireBase
+https://github.com/seanpm2001/devsquad-dataops -> https://github.com/seanpm2001/Microsoft_DevSquad-DataOps
+https://github.com/seanpm2001/react-native-collapsible -> https://github.com/seanpm2001/Oblador_React-Native-Collapsible
+https://github.com/seanpm2001/MDE-PowerBI-Templates -> https://github.com/seanpm2001/Microsoft_MDE-PowerBI-Templates
+https://github.com/seanpm2001/i18n -> https://github.com/seanpm2001/PonyLang_i18n
+https://github.com/seanpm2001/gleam -> https://github.com/seanpm2001/Gleam-Lang_Gleam
+https://github.com/seanpm2001/awesome-gleam -> https://github.com/seanpm2001/Gleam-Lang_Awesome-Gleam
+https://github.com/seanpm2001/tree-sitter-gleam -> https://github.com/seanpm2001/Gleam-Lang_Tree-Sitter-Gleam
+https://github.com/seanpm2001/example-todomvc -> https://github.com/seanpm2001/Gleam-Lang_Example-ToDoMVC
+https://github.com/seanpm2001/stdlib -> https://github.com/seanpm2001/Gleam-Lang_STDLIB
+https://github.com/seanpm2001/fetch -> https://github.com/seanpm2001/Gleam-Lang_Fetch
+https://github.com/seanpm2001/website -> https://github.com/seanpm2001/Gleam-Lang_Website
+https://github.com/seanpm2001/gleam-highlight.js -> https://github.com/seanpm2001/Gleam-Lang_Gleam-Highlight.JS
+https://github.com/seanpm2001/vscode-gleam -> https://github.com/seanpm2001/Gleam-Lang_VSCode-Gleam
+https://github.com/seanpm2001/cowboy -> https://github.com/seanpm2001/Gleam-Lang_Cowboy
+https://github.com/seanpm2001/javascript-1 -> https://github.com/seanpm2001/Gleam-Lang_JavaScript
+@seanwallawalla
+https://github.com/seanwallawalla/whyWatchOS_Weather
+https://github.com/seanwallawalla/WacOS_Kiri
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-Afrikaans
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-Hungarian

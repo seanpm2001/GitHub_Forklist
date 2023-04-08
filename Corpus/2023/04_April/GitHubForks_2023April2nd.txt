@@ -1,0 +1,25 @@
+# GitHub forks 2023, Sunday, April 2nd
+@seanpm2001
+https://github.com/seanpm2001/ReportingServicesTools -> https://github.com/seanpm2001/Microsoft_ReportingServicesTools
+https://github.com/seanpm2001/react-autosuggest -> https://github.com/seanpm2001/Moroshko_React-AutoSuggest
+https://github.com/seanpm2001/uf2-linux -> https://github.com/seanpm2001/Microsoft_UF2-Linux
+https://github.com/seanpm2001/es-regexp-named-groups -> https://github.com/seanpm2001/Goyakin_Es-RegExp-Named-Groups
+https://github.com/seanpm2001/es-regexp-lookbehind -> https://github.com/seanpm2001/Goyakin_Es-RegExp-LookBehind
+https://github.com/seanpm2001/erlang -> https://github.com/seanpm2001/Gleam-Lang_Erlang
+https://github.com/seanpm2001/developer-survey -> https://github.com/seanpm2001/Gleam-Lang_Developer-Survey
+https://github.com/seanpm2001/mix_gleam -> https://github.com/seanpm2001/Gleam-Lang_Mix_Gleam
+https://github.com/seanpm2001/otp -> https://github.com/seanpm2001/Gleam-Lang_OTP
+https://github.com/seanpm2001/http -> https://github.com/seanpm2001/Gleam-Lang_HTTP
+https://github.com/seanpm2001/example-lisp-interpreter -> https://github.com/seanpm2001/Gleam-Lang_Example-Lisp-Interpreter
+https://github.com/seanpm2001/example-echo-server -> https://github.com/seanpm2001/Gleam-Lang_Example-Echo-Server
+https://github.com/seanpm2001/bitwise -> https://github.com/seanpm2001/Gleam-Lang_BitWise
+https://github.com/seanpm2001/elli -> https://github.com/seanpm2001/Gleam-Lang_Elli
+https://github.com/seanpm2001/branding -> https://github.com/seanpm2001/Gleam-Lang_Branding
+https://github.com/seanpm2001/gleam-mode -> https://github.com/seanpm2001/Gleam-Lang_Gleam-Mode
+https://github.com/seanpm2001/json -> https://github.com/seanpm2001/Gleam-Lang_JSON
+@seanwallawalla
+https://github.com/seanwallawalla/wOS_Kiri
+https://github.com/seanwallawalla/whyPadOS_Kiri
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-Javanese
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-Laos
+

@@ -1,0 +1,27 @@
+# GitHub forks 2023, Thursday, April 6th
+@seanpm2001
+https://github.com/seanpm2001/PSRule.Rules.CAF -> https://github.com/seanpm2001/Microsoft_PSRule.Rules.CAF
+https://github.com/seanpm2001/SDN -> https://github.com/seanpm2001/Microsoft_SDN
+https://github.com/seanpm2001/kafka-static-quota-plugin -> https://github.com/seanpm2001/Lulf_Kafka-Static-Quota-Plugin
+https://github.com/seanpm2001/thrifty -> https://github.com/seanpm2001/Microsoft_Thrifty
+https://github.com/seanpm2001/django-bookmarks -> https://github.com/seanpm2001/Brosner_DJango-Bookmarks
+https://github.com/seanpm2001/django-announcements -> https://github.com/seanpm2001/Brosner_DJango-Announcements
+https://github.com/seanpm2001/craft-snitch -> https://github.com/seanpm2001/MarionNewLevant_Craft-Snitch
+https://github.com/seanpm2001/commandbox-action -> https://github.com/seanpm2001/Ortus-Solutions_CommandBox-Action
+https://github.com/seanpm2001/vscode-testbox -> https://github.com/seanpm2001/Ortus-Solutions_VSCode-TestBox
+https://github.com/seanpm2001/coding-standards -> https://github.com/seanpm2001/Ortus-Solutions_Coding-Standards
+https://github.com/seanpm2001/fixinator-action -> https://github.com/seanpm2001/Ortus-Solutions_Fixinator-Action
+https://github.com/seanpm2001/semantic-release-action -> https://github.com/seanpm2001/Ortus-Solutions_Semantic-Release-Action
+https://github.com/seanpm2001/REST-over-STOMP -> https://github.com/seanpm2001/Ortus-Solutions_REST-over-STOMP
+https://github.com/seanpm2001/unified-workbench -> https://github.com/seanpm2001/Ortus-Solutions_Unified-WorkBench
+https://github.com/seanpm2001/vscode-coldbox -> https://github.com/seanpm2001/ColdBox_VSCode-ColdBox
+https://github.com/seanpm2001/FRAPISDK -> https://github.com/seanpm2001/Ortus-Solutions_FRAPISDK
+https://github.com/seanpm2001/up-and-running-with-quick -> https://github.com/seanpm2001/Ortus-Solutions_Up-And-Running-With-Quick
+https://github.com/seanpm2001/commandbox-docbox -> https://github.com/seanpm2001/Ortus-Solutions_CommandBox-DocBox
+https://github.com/seanpm2001/cfcasts-coldbox-zero-to-hero -> https://github.com/seanpm2001/Ortus-Solutions_CFCasts-ColdBox-Zero-To-Hero
+@seanwallawalla
+https://github.com/seanwallawalla/Seanpm2001-Vim
+https://github.com/seanwallawalla/SeanWallaWalla-Vim
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-Bulgarian
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-Belarusian
+
