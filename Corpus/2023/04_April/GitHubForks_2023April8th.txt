@@ -1,0 +1,30 @@
+# GitHub forks 2023, Thursday, April 6th
+@seanpm2001
+https://github.com/seanpm2001/aws-favs-to-pins -> https://github.com/seanpm2001/AravindParappil46_AWS-Favs-To-Pins
+https://github.com/seanpm2001/oauth2-amazon -> https://github.com/seanpm2001/MichaelKaefer_OAuth2-Amazon
+https://github.com/seanpm2001/Visual-Studio-Administrative-Templates -> https://github.com/seanpm2001/Microsoft_Visual-Studio-Administrative-Templates
+https://github.com/seanpm2001/docs-1 -> https://github.com/seanpm2001/KyleShank_Docs
+https://github.com/seanpm2001/ics-parser -> https://github.com/seanpm2001/U01JMG3_ICS-Parser
+https://github.com/seanpm2001/cbcms-updater-v3 -> https://github.com/seanpm2001/Ortus-Solutions_CBCMS-Updater-V3
+https://github.com/seanpm2001/sublime-commandbox -> https://github.com/seanpm2001/Ortus-Solutions_SubLime-CommandBox
+https://github.com/seanpm2001/path-checker -> https://github.com/seanpm2001/Ortus-Solutions_Path-Checker
+https://github.com/seanpm2001/box-tasks -> https://github.com/seanpm2001/Ortus-Solutions_Box-Tasks
+https://github.com/seanpm2001/contentbox-utilities -> https://github.com/seanpm2001/Ortus-Solutions_ContentBox-Utilities
+https://github.com/seanpm2001/codexwiki -> https://github.com/seanpm2001/Ortus-Solutions_CodeXWiki
+https://github.com/seanpm2001/ungoogled-chromium-binaries -> https://github.com/seanpm2001/Ungoogled-Software_UnGoogled-Chromium-Binaries
+https://github.com/seanpm2001/ungoogled-chromium-windows -> https://github.com/seanpm2001/Ungoogled-Software_UnGoogled-Chromium-Windows
+https://github.com/seanpm2001/ungoogled-chromium-archlinux -> https://github.com/seanpm2001/Ungoogled-Software_UnGoogled-Chromium-ArchLinux
+https://github.com/seanpm2001/ungoogled-software.github.io
+https://github.com/seanpm2001/ungoogled-chromium-debian -> https://github.com/seanpm2001/Ungoogled-Software_UnGoogled-Chromium-Debian
+https://github.com/seanpm2001/ungoogled-chromium-wiki -> https://github.com/seanpm2001/Ungoogled-Software_UnGoogled-Chromium-Wiki
+https://github.com/seanpm2001/psscriptanalyzer-action -> https://github.com/seanpm2001/Microsoft_PSScriptAnalyzer-Action
+https://github.com/seanpm2001/mdefordownlevelserver -> https://github.com/seanpm2001/Microsoft_MDEForDownLevelServer
+https://github.com/seanpm2001/AzureStackHCI-Liftoff -> https://github.com/seanpm2001/Microsoft_AzureStackHCI-Liftoff
+https://github.com/seanpm2001/xbox-game-streaming-tools -> https://github.com/seanpm2001/Microsoft_XBOX-Game-Streaming-Tools
+@seanwallawalla
+https://github.com/seanwallawalla/Contributing
+https://github.com/seanwallawalla/Contributors
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-Ancient-Egyptian
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-Pashto
+https://github.com/seanwallawalla/Learn-AGRAN
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_AGRAN
