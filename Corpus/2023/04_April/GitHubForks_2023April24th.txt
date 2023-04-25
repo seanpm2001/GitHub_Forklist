@@ -1,0 +1,50 @@
+# GitHub forks 2023, Monday, April 24th
+@seanpm2001
+https://github.com/seanpm2001/jaguarjs-jsdoc -> https://github.com/seanpm2001/DavidShimJS_JaguarJS-JSDoc
+https://github.com/seanpm2001/BTNavigationDropdownMenu -> https://github.com/seanpm2001/PhamBaTho_BTNavigationDropdownMenu
+https://github.com/seanpm2001/PSTCollectionView -> https://github.com/seanpm2001/SteiPete_PSTCollectionView
+https://github.com/seanpm2001/ObjectAL-for-iPhone -> https://github.com/seanpm2001/KStenerud_ObjectAL-For-iPhone
+https://github.com/seanpm2001/JSONKit -> https://github.com/seanpm2001/Johnezang_JSONKit
+https://github.com/seanpm2001/openfire-pade-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-Pade-Plugin
+https://github.com/seanpm2001/pade -> https://github.com/seanpm2001/IgniteRealTime_Pade
+https://github.com/seanpm2001/openfire-monitoring-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-Monitoring-Plugin
+https://github.com/seanpm2001/openfire-restAPI-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-RestAPI-Plugin
+https://github.com/seanpm2001/openfire-hazelcast-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-HazelCast-Plugin
+https://github.com/seanpm2001/Smack -> https://github.com/seanpm2001/IgniteRealTime_Smack
+https://github.com/seanpm2001/Fastpath-webchat -> https://github.com/seanpm2001/IgniteRealTime_Fastpath-WebChat
+https://github.com/seanpm2001/Botz -> https://github.com/seanpm2001/IgniteRealTime_Botz
+https://github.com/seanpm2001/openfire-xmldebugger-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-XMLDebugger-Plugin
+https://github.com/seanpm2001/openfire-galene-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-Galene-Plugin
+https://github.com/seanpm2001/openfire-zgitea-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-ZGitea-Plugin
+https://github.com/seanpm2001/openfire-bookmarks-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-Bookmarks-Plugin
+https://github.com/seanpm2001/CompositeResource -> https://github.com/seanpm2001/Microsoft_CompositeResource
+https://github.com/seanpm2001/AzureDWScriptsandUtilities -> https://github.com/seanpm2001/Microsoft_AzureDWScriptsAndUtilities
+https://github.com/seanpm2001/ADU -> https://github.com/seanpm2001/Microsoft_ADU
+https://github.com/seanpm2001/Requirements -> https://github.com/seanpm2001/Microsoft_Requirements
+@seanwallawalla
+https://github.com/seanwallawalla/Seanpm2001-Forks
+https://github.com/seanwallawalla/Dotfiles
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-Sundanese
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-Esperanto
+https://github.com/seanwallawalla/SeansLifeArchive_Images_i-Ready
+https://github.com/seanwallawalla/SeansLifeArchive_Images_Infant-ready
+https://github.com/seanwallawalla/SeansLifeArchive_Images_inbred-ready
+https://github.com/seanwallawalla/SeansLifeArchive_Images_PapaAndGuinea
+https://github.com/seanwallawalla/SeansLifeArchive_Images_MyFirstTurkeys5.03.2019
+https://github.com/seanwallawalla/SeansLifeArchive_Images_Milly
+https://github.com/seanwallawalla/SeansLifeArchive_Images_HardDriveSapling7.12.2019
+https://github.com/seanwallawalla/SeansLifeArchive_Images_HardDrive-Batch-A1
+https://github.com/seanwallawalla/SeansLifeArchive_Images_GuineaMillyHaircut12.27.2019
+https://github.com/seanwallawalla/SeansLifeArchive_Images_Channas_Puzzle_Challenge_I
+https://github.com/seanwallawalla/Awesome-DRM
+https://github.com/seanwallawalla/SeansLifeArchive_Images_CutTheRope
+https://github.com/seanwallawalla/SeansLifeArchive_Images_7718
+https://github.com/seanwallawalla/SeansLifeArchive_Images_Adblock
+https://github.com/seanwallawalla/SeansLifeArchive_Images_Ads
+https://github.com/seanwallawalla/SeansLifeArchive_Images_11th-grade
+https://github.com/seanwallawalla/SeansLifeArchive_Images_desktop_destroyer
+https://github.com/seanwallawalla/SeansLifeArchive_Images_Cobie2020Dog
+https://github.com/seanwallawalla/Notchware
+https://github.com/seanwallawalla/SeansLifeArchive_Images_3D-printer
+https://github.com/seanwallawalla/SeansLifeArchive_Images_External_Hard_Drives
+

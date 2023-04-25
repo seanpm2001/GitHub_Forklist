@@ -1,0 +1,47 @@
+# GitHub forks 2023, Wednesday, April 19th
+@seanpm2001
+https://github.com/seanpm2001/friendly-errors-webpack-plugin -> https://github.com/seanpm2001/GeoWarin_Friendly-Errors-WebPack-Plugin
+https://github.com/seanpm2001/mIRC-BattleArena -> https://github.com/seanpm2001/LyouBoushi_mIRC-BattleArena
+https://github.com/seanpm2001/emailjs -> https://github.com/seanpm2001/Eleith_EmailJS
+https://github.com/seanpm2001/psgroove -> https://github.com/seanpm2001/PSGroove_PSGroove
+https://github.com/seanpm2001/old.lxde.org -> https://github.com/seanpm2001/LXDE_old.lxde.org
+https://github.com/seanpm2001/libqtxdg -> https://github.com/seanpm2001/LXQT_LIBQTXDG
+https://github.com/seanpm2001/qps -> https://github.com/seanpm2001/LXQT_QPS
+https://github.com/seanpm2001/lxqt-session -> https://github.com/seanpm2001/LXQT_LXQT-Session
+https://github.com/seanpm2001/lximage-qt -> https://github.com/seanpm2001/LXQT_LXImage-QT
+https://github.com/seanpm2001/pavucontrol-qt -> https://github.com/seanpm2001/LXQT_PAVUControl-QT
+https://github.com/seanpm2001/lxqt-archiver -> https://github.com/seanpm2001/LXQT_LXQT-Archiver
+https://github.com/seanpm2001/pcmanfm-qt -> https://github.com/seanpm2001/LXQT_PCManFM-QT
+https://github.com/seanpm2001/qterminal -> https://github.com/seanpm2001/LXQT_QTerminal
+https://github.com/seanpm2001/libfm-qt -> https://github.com/seanpm2001/LXQT_LIBFM-QT
+https://github.com/seanpm2001/lxqt-build-tools -> https://github.com/seanpm2001/LXQT_LXQT-Build-Tools
+https://github.com/seanpm2001/lxqt-panel -> https://github.com/seanpm2001/LXQT_LXQT-Panel
+https://github.com/seanpm2001/powerbi-azure-pipelines-extensions -> https://github.com/seanpm2001/Microsoft_PowerBi-Azure-Pipelines-Extensions
+https://github.com/seanpm2001/SQL_LogScout -> https://github.com/seanpm2001/Microsoft_SQL_LogScout
+https://github.com/seanpm2001/configmgr-hub-selfhost -> https://github.com/seanpm2001/Microsoft_ConfigMgr-Hub-SelfHost
+@seanwallawalla
+https://github.com/seanwallawalla/History_GitHub
+https://github.com/seanwallawalla/History_Graphic-Design
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-Polish
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-Latvian
+https://github.com/seanwallawalla/SNU_2D_Business
+https://github.com/seanwallawalla/SNU_2D_3DPrinting
+https://github.com/seanwallawalla/SNU_2D_Film_Plaza
+https://github.com/seanwallawalla/SNU_2D_TOS
+https://github.com/seanwallawalla/SNU_2D_Video_Theater
+https://github.com/seanwallawalla/SNU_2D_Time_Machine
+https://github.com/seanwallawalla/SNU_2D_Terror_Bay
+https://github.com/seanwallawalla/SNU_2D_SexEducation
+https://github.com/seanwallawalla/SNU_2D_NitterMode
+https://github.com/seanwallawalla/SNU_2D_Root
+https://github.com/seanwallawalla/SNU_2D_SNU_Blogs
+https://github.com/seanwallawalla/SNU_2D_SlangDictionary
+https://github.com/seanwallawalla/SNU_2D_IdeaBoard
+https://github.com/seanwallawalla/SNU_2D_MalwareViru_RepoMode
+https://github.com/seanwallawalla/SNU_2D_KenThompsonMemorial
+https://github.com/seanwallawalla/SNU_2D_JavaScript_Math_Center
+https://github.com/seanwallawalla/SNU_2D_DownloadMoreRAM_JokePage_
+https://github.com/seanwallawalla/SNU_2D_Earth-Day-2020
+https://github.com/seanwallawalla/SNU_2D_Earth-Day-2019
+https://github.com/seanwallawalla/SeansLifeArchive_Images_AdVenture_Communist_Part2
+https://github.com/seanwallawalla/SeansLifeArchive_Images_AdVenture_Communist

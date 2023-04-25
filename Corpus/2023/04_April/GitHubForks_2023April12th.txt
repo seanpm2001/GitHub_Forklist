@@ -1,0 +1,28 @@
+# GitHub forks 2023, Wednesday, April 12th
+@seanpm2001
+https://github.com/seanpm2001/docker-solr -> https://github.com/seanpm2001/RKRX_Docker-SolR
+https://github.com/seanpm2001/covid-schulen -> https://github.com/seanpm2001/GStephan30_COVID-Schulen
+https://github.com/seanpm2001/nightwatch-api -> https://github.com/seanpm2001/Mucsi96_NightWatch-API
+https://github.com/seanpm2001/yaml-grammar -> https://github.com/seanpm2001/YAML_YAML-Grammar
+https://github.com/seanpm2001/yaml-test-runtimes -> https://github.com/seanpm2001/YAML_YAML-Test-RunTimes
+https://github.com/seanpm2001/yaml-play -> https://github.com/seanpm2001/YAML_YAML-Play
+https://github.com/seanpm2001/yaml-spec -> https://github.com/seanpm2001/YAML_YAML-Spec
+https://github.com/seanpm2001/yaml-test-suite -> https://github.com/seanpm2001/YAML_YAML-Test-Suite
+https://github.com/seanpm2001/www.yaml.com -> https://github.com/seanpm2001/YAML_www.yaml.com
+https://github.com/seanpm2001/AdaYaml -> https://github.com/seanpm2001/YAML_AdaYaml -> https://github.com/seanpm2001/YAML_AdaYAML
+https://github.com/seanpm2001/yaml-editor -> https://github.com/seanpm2001/YAML_YAML-Editor
+https://github.com/seanpm2001/yaml-common -> https://github.com/seanpm2001/YAML_YAML-Common
+https://github.com/seanpm2001/gh-actions -> https://github.com/seanpm2001/YAML_GH-Actions
+https://github.com/seanpm2001/www.yaml.io -> https://github.com/seanpm2001/YAML_www.yaml.io
+https://github.com/seanpm2001/pyyaml-future -> https://github.com/seanpm2001/YAML_PyYAML-Future
+https://github.com/seanpm2001/GDK -> https://github.com/seanpm2001/Microsoft_GDK
+https://github.com/seanpm2001/Get-ExchangeBuildNumber -> https://github.com/seanpm2001/Microsoft_Get-ExchangeBuildNumber
+https://github.com/seanpm2001/CSS-SystemCenter-ServiceManager -> https://github.com/seanpm2001/Microsoft_CSS-SystemCenter-ServiceManager
+https://github.com/seanpm2001/SurfaceDeploymentAccelerator -> https://github.com/seanpm2001/Microsoft_SurfaceDeploymentAccelerator
+https://github.com/seanpm2001/nav-docker -> https://github.com/seanpm2001/Microsoft_Nav-Docker
+https://github.com/seanpm2001/Exo-TroubleshootingWorkshop -> https://github.com/seanpm2001/Microsoft_Exo-TroubleshootingWorkshop
+@seanwallawalla
+https://github.com/seanwallawalla/SeanPatrickMyrick
+https://github.com/seanwallawalla/2001
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-Finnish
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-Norwegian

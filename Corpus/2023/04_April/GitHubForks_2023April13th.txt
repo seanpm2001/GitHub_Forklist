@@ -1,0 +1,28 @@
+# GitHub forks 2023, Thursday, April 13th
+@seanpm2001
+https://github.com/seanpm2001/powermail_from_override -> https://github.com/seanpm2001/Bmoex_PowerMail_From_OverRide
+https://github.com/seanpm2001/powermail_cond -> https://github.com/seanpm2001/Einpraegsam_PowerMail_Cond
+https://github.com/seanpm2001/TYPO3-Extensions-lp_iframe -> https://github.com/seanpm2001/Lars85_TYPO3-Extensions-LP_iFrame
+https://github.com/seanpm2001/json-editor -> https://github.com/seanpm2001/JDorn_JSON-Editor
+https://github.com/seanpm2001/TYPO3-Travis-Integration -> https://github.com/seanpm2001/Lolli42_TYPO3-Travis-Integration
+https://github.com/seanpm2001/yaml-schema -> https://github.com/seanpm2001/YAML_YAML-Schema
+https://github.com/seanpm2001/yaml-reference-stack -> https://github.com/seanpm2001/YAML_YAML-Reference-Stack
+https://github.com/seanpm2001/sml-dev-archive -> https://github.com/seanpm2001/YAML_SML-Dev-Archive
+https://github.com/seanpm2001/yaml-interactive -> https://github.com/seanpm2001/YAML_YAML-Interactive
+https://github.com/seanpm2001/www.yaml.com-2012 -> https://github.com/seanpm2001/YAML_www.yaml.com-2012
+https://github.com/seanpm2001/libyaml-test -> https://github.com/seanpm2001/YAML_LIBYAML-Test
+https://github.com/seanpm2001/libyaml-test-suite -> https://github.com/seanpm2001/YAML_LIBYAML-Test-Suite
+https://github.com/seanpm2001/yaml -> https://github.com/seanpm2001/YAML_YAML
+https://github.com/seanpm2001/msg.pyyaml.org -> https://github.com/seanpm2001/YAML_msg.pyyaml.org
+https://github.com/seanpm2001/www.yaml.me -> https://github.com/seanpm2001/YAML_www.yaml.me
+https://github.com/seanpm2001/pyyaml-build -> https://github.com/seanpm2001/YAML_PyYAML-Build
+https://github.com/seanpm2001/www.yaml.in -> https://github.com/seanpm2001/YAML_www.yaml.in
+https://github.com/seanpm2001/unitysetup.powershell -> https://github.com/seanpm2001/Microsoft_UnitySetup.PowerShell
+https://github.com/seanpm2001/csa-misc-utils -> https://github.com/seanpm2001/Microsoft_CSA-Misc-Utils
+https://github.com/seanpm2001/Get-NetView -> https://github.com/seanpm2001/Microsoft_Get-NetView
+https://github.com/seanpm2001/dchemistruck -> https://github.com/seanpm2001/Microsoft_DChemiStruck
+@seanwallawalla
+https://github.com/seanwallawalla/Seanpm2001-Google
+https://github.com/seanwallawalla/Seanpm2001-Apple
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-Danish
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-Italian

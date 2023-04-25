@@ -1,0 +1,49 @@
+# GitHub forks 2023, Friday, April 21st
+@seanpm2001
+https://github.com/seanpm2001/puppet-cis -> https://github.com/seanpm2001/Swizzley_Puppet-CIS
+https://github.com/seanpm2001/APLevelDB -> https://github.com/seanpm2001/Preble_APLevelDB
+https://github.com/seanpm2001/sqlite-net-wp8 -> https://github.com/seanpm2001/PeterHuene_SQLITE-NET-WP8
+https://github.com/seanpm2001/WindowsPhoneControls -> https://github.com/seanpm2001/JoshClose_WindowsPhoneControls
+https://github.com/seanpm2001/android-support-v4-preferencefragment -> https://github.com/seanpm2001/PeterJurkovic_Android-Support-V4-PreferenceFragment
+https://github.com/seanpm2001/obconf-qt -> https://github.com/seanpm2001/LXQT_OBConf-QT
+https://github.com/seanpm2001/lxqt-themes -> https://github.com/seanpm2001/LXQT_LXQT-Themes
+https://github.com/seanpm2001/lxqt-globalkeys -> https://github.com/seanpm2001/LXQT_LXQT-GlobalKeys
+https://github.com/seanpm2001/lxqt -> https://github.com/seanpm2001/LXQT_LXQT
+https://github.com/seanpm2001/xdg-desktop-portal-lxqt -> https://github.com/seanpm2001/LXQT_XDG-Desktop-Portal-LXQT
+https://github.com/seanpm2001/lxqt-openssh-askpass -> https://github.com/seanpm2001/LXQT_LXQT-OpenSSH-AskPass
+https://github.com/seanpm2001/lxqt-policykit -> https://github.com/seanpm2001/LXQT_LXQT-PolicyKit
+https://github.com/seanpm2001/lxqt-qtplugin -> https://github.com/seanpm2001/LXQT_LXQT-QTPlugin
+https://github.com/seanpm2001/qtxdg-tools -> https://github.com/seanpm2001/LXQT_QTXDG-Tools
+https://github.com/seanpm2001/sddm-config-editor -> https://github.com/seanpm2001/LXQT_SDDM-Config-Editor
+https://github.com/seanpm2001/lxqt-connman-applet -> https://github.com/seanpm2001/LXQT_LXQT-ConnMan-Applet
+https://github.com/seanpm2001/ci -> https://github.com/seanpm2001/LXQT_CI
+https://github.com/seanpm2001/corenet-ci -> https://github.com/seanpm2001/Microsoft_CoreNET-CI
+https://github.com/seanpm2001/Azure-DDP -> https://github.com/seanpm2001/Microsoft_Azure-DDP
+https://github.com/seanpm2001/Code-Search -> https://github.com/seanpm2001/Microsoft_Code-Search
+https://github.com/seanpm2001/DSC-data-driven-deployment -> https://github.com/seanpm2001/Microsoft_DSC-Data-Driven-Deployment
+@seanwallawalla
+https://github.com/seanwallawalla/Acknowledgements
+https://github.com/seanwallawalla/.gitlab
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-Catalan
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-Corsican
+https://github.com/seanwallawalla/SeansLifeArchive_Images_Duck-Duck-Go
+https://github.com/seanwallawalla/SeansLifeArchive_Images_Newrow
+https://github.com/seanwallawalla/SeansLifeArchive_Images_Nature
+https://github.com/seanwallawalla/SeansLifeArchive_Images_MyFlags
+https://github.com/seanwallawalla/SeansLifeArchive_Images_Messing-around-with-Waldo
+https://github.com/seanwallawalla/SeansLifeArchive_Images_MEDOS
+https://github.com/seanwallawalla/SeansLifeArchive_Images_Favicons
+https://github.com/seanwallawalla/SeansLifeArchive_Images_FakeUpdate_Net
+https://github.com/seanwallawalla/SeansLifeArchive_Images_Downloads-folder
+https://github.com/seanwallawalla/SeansLifeArchive_Images_Define
+https://github.com/seanwallawalla/SeansLifeArchive_Images_Colors
+https://github.com/seanwallawalla/SeansLifeArchive_Images_Clock
+https://github.com/seanwallawalla/SeansLifeArchive_Images_My-room-Rosewood-street
+https://github.com/seanwallawalla/SeansLifeArchive_Images_MitchellsRoom
+https://github.com/seanwallawalla/SeansLifeArchive_Images_Fish-Tank
+https://github.com/seanwallawalla/SeansLifeArchive_Images_Illusions
+https://github.com/seanwallawalla/SeansLifeArchive_Images_Geometry
+https://github.com/seanwallawalla/SeansLifeArchive_Images_Fonts
+https://github.com/seanwallawalla/SeansLifeArchive_Images_EggCollection
+https://github.com/seanwallawalla/SeansLifeArchive_Images_Certificates
+https://github.com/seanwallawalla/SeansLifeArchive_Images_Counters

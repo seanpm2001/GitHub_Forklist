@@ -1,0 +1,28 @@
+# GitHub forks 2023, Tuesday, April 11th
+@seanpm2001
+https://github.com/seanpm2001/j2ep -> https://github.com/seanpm2001/StWeil_J2EP
+https://github.com/seanpm2001/BagItTools -> https://github.com/seanpm2001/Whikloj_BagItTools
+https://github.com/seanpm2001/cup-lex-eclipse -> https://github.com/seanpm2001/PA314159_CUP-LEX-Eclipse
+https://github.com/seanpm2001/typo3-realurl -> https://github.com/seanpm2001/DmitryD_TYPO3-RealURL
+https://github.com/seanpm2001/typo3-pagebrowse -> https://github.com/seanpm2001/DmitryD_TYPO3-PageBrowse
+https://github.com/seanpm2001/mock-mediawiki -> https://github.com/seanpm2001/Wikimedia-Gadgets_Mock-MediaWiki
+https://github.com/seanpm2001/prosesize -> https://github.com/seanpm2001/Wikimedia-Gadgets_ProSeSize
+https://github.com/seanpm2001/yt-dlp-sample-plugins -> https://github.com/seanpm2001/YT-DLP_YT-DLP-Sample-Plugins
+https://github.com/seanpm2001/homebrew-taps -> https://github.com/seanpm2001/YT-DLP_HomeBrew-Taps
+https://github.com/seanpm2001/yt-dlp-wiki -> https://github.com/seanpm2001/YT-DLP_YT-DLP-Wiki
+https://github.com/seanpm2001/Pyinstaller-Builds -> https://github.com/seanpm2001/YT-DLP_Pyinstaller-Builds
+https://github.com/seanpm2001/pyyaml -> https://github.com/seanpm2001/YAML_PyYAML
+https://github.com/seanpm2001/www.yaml.org -> https://github.com/seanpm2001/YAML_www.yaml.org # But not forked until today
+https://github.com/seanpm2001/libyaml -> https://github.com/seanpm2001/LIBYAML -> https://github.com/seanpm2001/YAML_LIBYAML
+https://github.com/seanpm2001/yaml-runtimes -> https://github.com/seanpm2001/YAML_YAML-RunTimes
+https://github.com/seanpm2001/yaml-reference-parser -> https://github.com/seanpm2001/YAML_YAML-Reference-Parser
+https://github.com/seanpm2001/yamlscript -> https://github.com/seanpm2001/YAML_YAMLScript
+https://github.com/seanpm2001/Intune-DeviceAdmins -> https://github.com/seanpm2001/Microsoft_Intune-DeviceAdmins
+https://github.com/seanpm2001/commercial-marketplace-offer-solution -> https://github.com/seanpm2001/Microsoft_Commercial-MarketPlace-Offer-Solution
+https://github.com/seanpm2001/PSRule.Rules.MSFT.OSS -> https://github.com/seanpm2001/Microsoft_PSRule.Rules.MSFT.OSS
+https://github.com/seanpm2001/UnifiedLabelingSupportTool -> https://github.com/seanpm2001/Microsoft_UnifiedLabelingSupportTool
+@seanwallawalla
+https://github.com/seanwallawalla/Credits
+https://github.com/seanwallawalla/Seanpm2001-Blog
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-Dutch
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-Swedish
