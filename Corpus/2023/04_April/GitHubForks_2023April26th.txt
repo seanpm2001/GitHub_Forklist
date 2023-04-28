@@ -1,0 +1,31 @@
+# GitHub forks 2023, Wednesday, April 26th
+@seanpm2001
+https://github.com/seanpm2001/ps-docs -> https://github.com/seanpm2001/Microsoft_PS-Docs
+https://github.com/seanpm2001/em-websocket -> https://github.com/seanpm2001/Igrigorik_EM-WebSocket
+https://github.com/seanpm2001/em-mysql -> https://github.com/seanpm2001/TMM1_EM-MySQL
+https://github.com/seanpm2001/em-spec -> https://github.com/seanpm2001/TMM1_EM-Spec
+https://github.com/seanpm2001/xmpp4em -> https://github.com/seanpm2001/TMM1_XMPP4EM
+https://github.com/seanpm2001/jbosh -> https://github.com/seanpm2001/IgniteRealTime_JBosh
+https://github.com/seanpm2001/openfire-inverse-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-InVerse-Plugin
+https://github.com/seanpm2001/tinder -> https://github.com/seanpm2001/IgniteRealTime_Tinder
+https://github.com/seanpm2001/openfire-mucservice-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-MucService-Plugin
+https://github.com/seanpm2001/openfire-loadStats-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-LoadStats-Plugin
+https://github.com/seanpm2001/openfire-exampleplugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-ExamplePlugin
+https://github.com/seanpm2001/openfire-motd-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-MOTD-Plugin
+https://github.com/seanpm2001/openfire-randomavatar-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-RandomAvatar-Plugin
+https://github.com/seanpm2001/openfire-registration-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-Registration-Plugin
+https://github.com/seanpm2001/openfire-userCreation-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-UserCreation-Plugin
+https://github.com/seanpm2001/openfire-userImportExport-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-UserImportExport-Plugin
+https://github.com/seanpm2001/openfire-userservice-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-UserService-Plugin
+https://github.com/seanpm2001/openfire-jingleNodes-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-JingleNodes-Plugin
+https://github.com/seanpm2001/StigRepo -> https://github.com/seanpm2001/Microsoft_StigRepo
+@seanwallawalla
+https://github.com/seanwallawalla/Archives
+https://github.com/seanwallawalla/Benchmarks
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-Armenian
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-Frisian
+https://github.com/seanwallawalla/SeansLifeArchive_Extras_Website-Archives
+https://github.com/seanwallawalla/SeansLifeArchive_Extras_Documents
+https://github.com/seanwallawalla/SNU_2D_OpenVex_Mod_FOTW_Index
+https://github.com/seanwallawalla/SeansLifeArchive_Extras_Zoology
+

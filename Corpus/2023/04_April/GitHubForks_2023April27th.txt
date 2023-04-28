@@ -1,0 +1,31 @@
+# GitHub forks 2023, Thursday, April 27th
+@seanpm2001
+https://github.com/seanpm2001/backbone ->? https://github.com/seanpm2001/JachKenas_Backbone
+https://github.com/seanpm2001/json -> https://github.com/seanpm2001/Flori_JSON
+https://github.com/seanpm2001/tig -> https://github.com/seanpm2001/Jonas_TIG
+https://github.com/seanpm2001/xjsfl -> https://github.com/seanpm2001/DaveStewart_XJSFL -> https://github.com/seanpm2001/DaveStewart_xJSFL
+https://github.com/seanpm2001/EASTL -> https://github.com/seanpm2001/PaulHodge_EASTL
+https://github.com/seanpm2001/openfire-emailListener-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-EmailListener-Plugin
+https://github.com/seanpm2001/openfire-justmarried-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-JustMarried-Plugin
+https://github.com/seanpm2001/openfire-packetFilter-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-PacketFilter-Plugin
+https://github.com/seanpm2001/openfire-subscription-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-Subscription-Plugin
+https://github.com/seanpm2001/openfire-nodejs-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-NodeJS-Plugin
+https://github.com/seanpm2001/openfire-presence-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-Presence-Plugin
+https://github.com/seanpm2001/openfire-jidvalidation-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-JIDValidation-Plugin
+https://github.com/seanpm2001/openfire-userStatus-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-UserStatus-Plugin
+https://github.com/seanpm2001/openfire-certificateManager-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-CertificateManager-Plugin
+https://github.com/seanpm2001/openfire-callbackOnOffline-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-CallBackOnOffline-Plugin
+https://github.com/seanpm2001/openfire-externalservicediscovery-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-ExternalServiceDiscovery-Plugin
+https://github.com/seanpm2001/openfire-nonSaslAuthentication-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-NonSASLAuthentication-Plugin
+https://github.com/seanpm2001/testbase -> https://github.com/seanpm2001/Microsoft_TestBase
+https://github.com/seanpm2001/Convert-Etl2Pcapng -> https://github.com/seanpm2001/Microsoft_Convert-ETL2PCaPNG
+https://github.com/seanpm2001/SfMC-Tools -> https://github.com/seanpm2001/Microsoft_SFMC-Tools
+https://github.com/seanpm2001/AKS-HCI-Apps -> https://github.com/seanpm2001/Microsoft_AKS-HCI-Apps
+@seanwallawalla
+https://github.com/seanwallawalla/Projects
+https://github.com/seanwallawalla/Repositories
+https://github.com/seanwallawalla/Google-is-a-monopoly
+https://github.com/seanwallawalla/Google-Outage-History
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-Bengali
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-Indonesian
+
