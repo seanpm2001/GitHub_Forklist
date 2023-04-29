@@ -1,0 +1,26 @@
+# GitHub forks 2023, Friday, April 28th
+@seanpm2001
+https://github.com/seanpm2001/KSJSON -> https://github.com/seanpm2001/Kstenerud_KSJSON
+https://github.com/seanpm2001/jeweler -> https://github.com/seanpm2001/TechnicalPickles_Jeweler
+https://github.com/seanpm2001/PXSourceList -> https://github.com/seanpm2001/AlexRozanski_PXSourceList
+https://github.com/seanpm2001/FontLabel -> https://github.com/seanpm2001/LilyBall_FontLabel
+https://github.com/seanpm2001/as3swf -> https://github.com/seanpm2001/Claus_AS3SWF
+https://github.com/seanpm2001/openfire-gojara-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-GoJara-Plugin
+https://github.com/seanpm2001/openfire-candy-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-Candy-Plugin
+https://github.com/seanpm2001/openfire-tikitoken-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-TikiToken-Plugin
+https://github.com/seanpm2001/openfire-broadcast-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-Broadcast-Plugin
+https://github.com/seanpm2001/openfire-irmaserver-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-IRMAServer-Plugin
+https://github.com/seanpm2001/openfire-ohun-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-Ohun-Plugin
+https://github.com/seanpm2001/openfire-mucextinfo-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-MucExtInfo-Plugin
+https://github.com/seanpm2001/openfire-jmxweb-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-JMXWeb-Plugin
+https://github.com/seanpm2001/openfire-jsxc-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-JSXC-Plugin
+https://github.com/seanpm2001/openfire-fastpath-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-FastPath-Plugin
+https://github.com/seanpm2001/openfire-passwordreset-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-PasswordReset-Plugin
+https://github.com/seanpm2001/openfire-emailOnAway-plugin -> https://github.com/seanpm2001/IgniteRealTime_OpenFire-EmailOnAway-Plugin
+https://github.com/seanpm2001/VSTSAgent.PowerShell -> https://github.com/seanpm2001/Microsoft_VSTSAgent.PowerShell
+https://github.com/seanpm2001/MSFT.Network.Diag -> https://github.com/seanpm2001/Microsoft_MSFT.Network.Diag
+@seanwallawalla
+https://github.com/seanwallawalla/List
+https://github.com/seanwallawalla/Artificial-Intelligence
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-Marathi
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-Tamil
