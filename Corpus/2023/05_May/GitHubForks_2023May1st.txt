@@ -1,0 +1,34 @@
+# GitHub forks 2023, Monday, May 1st
+@seanpm2001
+https://github.com/seanpm2001/sharejs-server -> https://github.com/seanpm2001/ElectricG_ShareJS-Server
+https://github.com/seanpm2001/SnappySnippet -> https://github.com/seanpm2001/KdzWinel_SnappySnippet
+https://github.com/seanpm2001/node-style-guide -> https://github.com/seanpm2001/FelixeGE_Node-Style-Guide
+https://github.com/seanpm2001/bcrypt-nodejs -> https://github.com/seanpm2001/ShaneGirish_BCrypt-NodeJS
+https://github.com/seanpm2001/github-integration-testing -> https://github.com/seanpm2001/Remy_GitHub-Integration-Testing
+https://github.com/seanpm2001/Vulkan-ValidationLayers -> https://github.com/seanpm2001/KhronosGroup_Vulkan-ValidationLayers
+https://github.com/seanpm2001/glTF-CSharp-Loader -> https://github.com/seanpm2001/KhronosGroup_glTF-CSharp-Loader
+https://github.com/seanpm2001/OpenCL-ICD-Loader -> https://github.com/seanpm2001/KhronosGroup_OpenCL-ICD-Loader
+https://github.com/seanpm2001/SYCL-CTS -> https://github.com/seanpm2001/KhronosGroup_SYCL-CTS
+https://github.com/seanpm2001/Vulkan-Headers -> https://github.com/seanpm2001/KhronosGroup_Vulkan-Headers
+https://github.com/seanpm2001/Vulkan-Loader -> https://github.com/seanpm2001/KhronosGroup_Vulkan-Loader
+https://github.com/seanpm2001/ANARI-SDK -> https://github.com/seanpm2001/KhronosGroup_ANARI-SDK
+https://github.com/seanpm2001/OpenCL-CTS -> https://github.com/seanpm2001/KhronosGroup_OpenCL-CTS
+https://github.com/seanpm2001/glslang -> https://github.com/seanpm2001/KhronosGroup_GLSLang
+https://github.com/seanpm2001/OpenCL-Docs -> https://github.com/seanpm2001/KhronosGroup_OpenCL-Docs
+https://github.com/seanpm2001/Vulkan-Docs -> https://github.com/seanpm2001/KhronosGroup_Vulkan-Docs
+https://github.com/seanpm2001/SPIRV-Headers -> https://github.com/seanpm2001/KhronosGroup_SPIRV-Headers
+https://github.com/seanpm2001/glTF -> https://github.com/seanpm2001/KhronosGroup_glTF
+https://github.com/seanpm2001/glTF-Sample-Models -> https://github.com/seanpm2001/KhronosGroup_glTF-Sample-Models
+https://github.com/seanpm2001/KTX-Software -> https://github.com/seanpm2001/KhronosGroup_KTX-Software
+https://github.com/seanpm2001/DockerContainers -> https://github.com/seanpm2001/KhronosGroup_DockerContainers
+https://github.com/seanpm2001/OpenGL-API -> https://github.com/seanpm2001/KhronosGroup_OpenGL-API
+https://github.com/seanpm2001/Vulkan-Tools -> https://github.com/seanpm2001/KhronosGroup_Vulkan-Tools
+https://github.com/seanpm2001/Vulkan-Samples-Assets -> https://github.com/seanpm2001/KhronosGroup_Vulkan-Samples-Assets
+https://github.com/seanpm2001/EGL-Registry -> https://github.com/seanpm2001/KhronosGroup_EGL-Registry
+@seanwallawalla
+https://github.com/seanwallawalla/Seanpm2001-AI
+https://github.com/seanwallawalla/SeansLifeArchive_Extras_ClockTree
+https://github.com/seanwallawalla/SeansLifeArchive_Extras_Quora
+https://github.com/seanwallawalla/SeansLifeArchive_Extras_LiberaPay
+https://github.com/seanwallawalla/SeansLifeArchive_Extras_IssueHunt
+
