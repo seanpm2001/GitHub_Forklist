@@ -1,0 +1,27 @@
+# GitHub forks 2023, Friday, May 5th
+@seanpm2001
+https://github.com/seanpm2001/ticketmaster-bugshelf -> https://github.com/seanpm2001/iAddict_TicketMaster-BugShelf
+https://github.com/seanpm2001/retire -> https://github.com/seanpm2001/Karmi_ReTire
+https://github.com/seanpm2001/OBSlider -> https://github.com/seanpm2001/OLE_OBSlider
+https://github.com/seanpm2001/gravatar_image_tag -> https://github.com/seanpm2001/MDeering_Gravatar_Image_Tag
+https://github.com/seanpm2001/UIView-Badge -> https://github.com/seanpm2001/RobrasMussen_UIView-Badge
+https://github.com/seanpm2001/AzureSynapseScriptsAndAccelerators -> https://github.com/seanpm2001/Microsoft_AzureSynapseScriptsAndAccelerators
+https://github.com/seanpm2001/SQL-Migration-AzureSQL-PoC -> https://github.com/seanpm2001/Microsoft_SQL-Migration-AzureSQL-PoC
+https://github.com/seanpm2001/Dynamics365-Xpp-Samples-Tools -> https://github.com/seanpm2001/Microsoft_Dynamics365-Xpp-Samples-Tools
+https://github.com/seanpm2001/windows-host-process-containers-base-image -> https://github.com/seanpm2001/Microsoft_Windows-Host-Process-Containers-Base-Image
+https://github.com/seanpm2001/Test-NetHLK -> https://github.com/seanpm2001/Microsoft_Test-NetHLK
+https://github.com/seanpm2001/sarif-testing -> https://github.com/seanpm2001/Microsoft_Sarif-Testing
+https://github.com/seanpm2001/universal-print-resources -> https://github.com/seanpm2001/Microsoft_Universal-Print-Resources
+https://github.com/seanpm2001/azureadexporter -> https://github.com/seanpm2001/Microsoft_AzureADExporter
+https://github.com/seanpm2001/NetPerfTest-Linux -> https://github.com/seanpm2001/Microsoft_NetPerfTest-Linux
+https://github.com/seanpm2001/devsquad-mlops -> https://github.com/seanpm2001/Microsoft_DevSquad-MLOPS
+https://github.com/seanpm2001/DSCEA -> https://github.com/seanpm2001/Microsoft_DSCEA
+https://github.com/seanpm2001/MCW-Implementing-Azure-Virtual-Desktop-in-the-enterprise -> https://github.com/seanpm2001/Microsoft_MCW-Implementing-Azure-Virtual-Desktop-In-The-Enterprise
+https://github.com/seanpm2001/WindowsIISServerConfig -> https://github.com/seanpm2001/Microsoft_WindowsIISServerConfig
+https://github.com/seanpm2001/NETCoreWindowsServerConfig -> https://github.com/seanpm2001/Microsoft_NETCoreWindowsServerConfig
+https://github.com/seanpm2001/security-devops-policy -> https://github.com/seanpm2001/Microsoft_Security-DevOPS-Policy
+https://github.com/seanpm2001/MIMPowerShellConnectors -> https://github.com/seanpm2001/Microsoft_MIMPowerShellConnectors
+@seanwallawalla
+https://github.com/seanwallawalla/Seanpm2001-LifeArchive-Images-ZombieFarmEscape
+https://github.com/seanwallawalla/Seanpm2001-LifeArchive-Images-ZombieLife
+
