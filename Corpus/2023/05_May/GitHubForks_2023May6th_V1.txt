@@ -1,0 +1,28 @@
+# GitHub forks 2023, Saturday, May 6th
+@seanpm2001
+https://github.com/seanpm2001/Sails -> https://github.com/seanpm2001/JacobSimeon_Sails
+https://github.com/seanpm2001/pocket-marketing-pages -> https://github.com/seanpm2001/Glogiotatidis_Pocket-Marketing-Pages
+https://github.com/seanpm2001/php-xray -> https://github.com/seanpm2001/PatrickKerrigan_PHP-XRAY
+https://github.com/seanpm2001/json-logic-py -> https://github.com/seanpm2001/Nadirizr_JSON-Logic-Py
+https://github.com/seanpm2001/redis-lua -> https://github.com/seanpm2001/NRK_Redis-Lua
+https://github.com/seanpm2001/MSRC-Microsoft-Security-Updates-API -> https://github.com/seanpm2001/Microsoft_MSRC-Microsoft-Security-Updates-API
+https://github.com/seanpm2001/Network-Performance-Visualization -> https://github.com/seanpm2001/Microsoft_Network-Performance-Visualization
+https://github.com/seanpm2001/SMBSecurity -> https://github.com/seanpm2001/Microsoft_SMBSecurity
+https://github.com/seanpm2001/MCAS -> https://github.com/seanpm2001/Microsoft_MCAS
+https://github.com/seanpm2001/AzureAutomation-Account-Modules-Update ->https://github.com/seanpm2001/Microsoft_AzureAutomation-Account-Modules-Update
+https://github.com/seanpm2001/windows-dev-box-setup-scripts -> https://github.com/seanpm2001/Microsoft_Windows-Dev-Box-Setup-Scripts
+https://github.com/seanpm2001/emat -> https://github.com/seanpm2001/Microsoft_EMAT
+https://github.com/seanpm2001/MCW-Line-of-business-application-migration -> https://github.com/seanpm2001/Microsoft_MCW-Line-Of-Business-Application-Migration
+https://github.com/seanpm2001/MCW-Hybrid-identity -> https://github.com/seanpm2001/Microsoft_MCW-Hybrid-Identity
+https://github.com/seanpm2001/MCW-Building-a-resilient-IaaS-architecture -> https://github.com/seanpm2001/Microsoft_MCW-Building-A-Resilient-LaaS-Architecture
+https://github.com/seanpm2001/Export-Microsoft365LicenseStatus -> https://github.com/seanpm2001/Microsoft_Export-Microsoft365LicenseStatus
+https://github.com/seanpm2001/AzureSuperpowers -> https://github.com/seanpm2001/Microsoft_AzureSuperpowers
+https://github.com/seanpm2001/AGIC-Installer-assistant -> https://github.com/seanpm2001/Microsoft_AGIC-Installer-Assistant
+https://github.com/seanpm2001/MSTIC-Sysmon -> https://github.com/seanpm2001/Microsoft_MSTIC-Sysmon
+https://github.com/seanpm2001/academic-knowledge-exploration-services-utilities -> https://github.com/seanpm2001/Microsoft_Academic-Knowledge-Exploration-Services-Utilities
+https://github.com/seanpm2001/AaronLocker -> https://github.com/seanpm2001/Microsoft_AaronLocker
+@seanwallawalla
+https://github.com/seanwallawalla/Actions
+https://github.com/seanwallawalla/GitHub-Workflows
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-Somali
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-Czech
