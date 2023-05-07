@@ -1,0 +1,29 @@
+# GitHub forks 2023, Sunday, May 7th
+@seanpm2001
+https://github.com/seanpm2001/proclaunch -> https://github.com/seanpm2001/PeterKeen_ProcLaunch
+https://github.com/seanpm2001/react-slick -> https://github.com/seanpm2001/Akiran_React-Slick
+https://github.com/seanpm2001/spdlog -> https://github.com/seanpm2001/Gabime_SPDLog
+https://github.com/seanpm2001/gofpdf -> https://github.com/seanpm2001/Jung-Kurt_GoFPDF
+https://github.com/seanpm2001/psimpl -> https://github.com/seanpm2001/Skyrpex_PSimpL
+https://github.com/seanpm2001/glTF-Tutorials -> https://github.com/seanpm2001/KhronosGroup_glTF-Tutorials
+https://github.com/seanpm2001/VK-GL-CTS-Tools -> https://github.com/seanpm2001/KhronosGroup_VK-GL-CTS-Tools
+https://github.com/seanpm2001/OpenCL-CLHPP -> https://github.com/seanpm2001/KhronosGroup_OpenCL-CLHPP
+https://github.com/seanpm2001/OpenCL-SDK -> https://github.com/seanpm2001/KhronosGroup_OpenCL-SDK
+https://github.com/seanpm2001/OpenCL-Registry -> https://github.com/seanpm2001/KhronosGroup_OpenCL-Registry
+https://github.com/seanpm2001/SyclParallelSTL -> https://github.com/seanpm2001/KhronosGroup_SyclParallelSTL
+https://github.com/seanpm2001/3D-Formats-Guidelines -> https://github.com/seanpm2001/KhronosGroup_3D-Formats-Guidelines
+https://github.com/seanpm2001/SYCL_Reference -> https://github.com/seanpm2001/KhronosGroup_SYCL_Reference
+https://github.com/seanpm2001/VulkanSC-Docs -> https://github.com/seanpm2001/KhronosGroup_VulkanSC-Docs
+https://github.com/seanpm2001/VulkanSC-Registry -> https://github.com/seanpm2001/KhronosGroup_VulkanSC-Registry
+https://github.com/seanpm2001/microsoft-data-governance-accelerator -> https://github.com/seanpm2001/Microsoft_Microsoft-Data-Governance-Accelerator
+https://github.com/seanpm2001/AzureADGraphApps -> https://github.com/seanpm2001/Microsoft_AzureADGraphApps
+https://github.com/seanpm2001/sqlworkshops-migratesqltoazure -> https://github.com/seanpm2001/Microsoft_SQLWorkshops-MigrateSQLToAzure
+https://github.com/seanpm2001/NetPerfTest -> https://github.com/seanpm2001/Microsoft_NetPerfTest
+https://github.com/seanpm2001/Validate-DCB -> https://github.com/seanpm2001/Microsoft_Validate-DCB
+https://github.com/seanpm2001/Azure-CloudAdoptionFramework-UnderstandingNetworking -> https://github.com/seanpm2001/Microsoft_Azure-CloudAdoptionFramework-UnderstandingNetworking
+@seanwallawalla
+https://github.com/seanwallawalla/Videos
+https://github.com/seanwallawalla/Images
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-ABAP
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-ActionScript
+
