@@ -1,0 +1,29 @@
+# GitHub forks 2023, Tuesday, May 0th
+@seanpm2001
+https://github.com/seanpm2001/ExampleIK -> https://github.com/seanpm2001/Kvoeten_ExampleIK
+https://github.com/seanpm2001/MailKit -> https://github.com/seanpm2001/JStedFast_MailKit
+https://github.com/seanpm2001/MimeKit -> https://github.com/seanpm2001/JStedFest_MimeKit
+https://github.com/seanpm2001/windows-docker-machine -> https://github.com/seanpm2001/StefanScherer_Windows-Docker-Machine
+https://github.com/seanpm2001/Craft-Bugsnag -> https://github.com/seanpm2001/Sjelfull_Craft-Bugsnag
+https://github.com/seanpm2001/COLLADA2GLTF -> https://github.com/seanpm2001/KhronosGroup_COLLADA2GLTF
+https://github.com/seanpm2001/OpenVX-Registry -> https://github.com/seanpm2001/KhronosGroup_OpenVX-Registry
+https://github.com/seanpm2001/3DC-Metadata-Recommendations -> https://github.com/seanpm2001/KhronosGroup_3DC-Metadata-Recommendations
+https://github.com/seanpm2001/OpenVG-Docs -> https://github.com/seanpm2001/KhronosGroup_OpenVG-Docs
+https://github.com/seanpm2001/OpenCL-CTS-Kernel-Dumps -> https://github.com/seanpm2001/KhronosGroup_OpenCL-CTS-Kernel-Dumps
+https://github.com/seanpm2001/ANARI-Registry -> https://github.com/seanpm2001/KhronosGroup_ANARI-Registry
+https://github.com/seanpm2001/glTF-Sample-Environments -> https://github.com/seanpm2001/KhronosGroup_glTF-Sample-Environments
+https://github.com/seanpm2001/glTF-Registry -> https://github.com/seanpm2001/KhronosGroup_glTF-Registry
+https://github.com/seanpm2001/OpenVX-cts -> https://github.com/seanpm2001/KhronosGroup_OpenVX-CTS
+https://github.com/seanpm2001/openvx-samples -> https://github.com/seanpm2001/KhronosGroup_OpenVX-Samples
+https://github.com/seanpm2001/SPIR -> https://github.com/seanpm2001/KhronosGroup_SPIR
+https://github.com/seanpm2001/OpenKODE-Registry -> https://github.com/seanpm2001/KhronosGroup_OpenKODE-Registry
+https://github.com/seanpm2001/skype-interviews-docs -> https://github.com/seanpm2001/Microsoft_Skype-Interviews-Docs
+https://github.com/seanpm2001/m365-hrconnector-sample-scripts -> https://github.com/seanpm2001/Microsoft_M365-HRConnector-Sample-Scripts
+@seanwallawalla
+https://github.com/seanwallawalla/Issues
+https://github.com/seanwallawalla/Pull-Requests
+https://github.com/seanwallawalla/Domainiac
+https://github.com/seanwallawalla/Domainiac_Docs
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-AngelScript
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-ASP.NET
+
