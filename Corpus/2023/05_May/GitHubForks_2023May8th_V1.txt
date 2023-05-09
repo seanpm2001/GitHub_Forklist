@@ -1,0 +1,26 @@
+# GitHub forks 2023, Monday, May 8th
+@seanpm2001
+https://github.com/seanpm2001/color -> https://github.com/seanpm2001/Qix-_Color
+https://github.com/seanpm2001/color-string -> https://github.com/seanpm2001/Qix-_Color-String
+https://github.com/seanpm2001/go-junit-report -> https://github.com/seanpm2001/JStemmer_Go-JUnit-Report
+https://github.com/seanpm2001/rushstack -> https://github.com/seanpm2001/Microsoft_RushStack
+https://github.com/seanpm2001/github-achievement-cheatsheet -> https://github.com/seanpm2001/Sagelga_GitHub-Achievement-Cheatsheet
+https://github.com/seanpm2001/SPIRV-LIT-Converter -> https://github.com/seanpm2001/KhronosGroup_SPIRV-LIT-Converter
+https://github.com/seanpm2001/VulkanSC-pcutil -> https://github.com/seanpm2001/KhronosGroup_VulkanSC-PCUtil
+https://github.com/seanpm2001/glXF -> https://github.com/seanpm2001/KhronosGroup_glXF
+https://github.com/seanpm2001/OpenCL-Layers -> https://github.com/seanpm2001/KhronosGroup_OpenCL-Layers
+https://github.com/seanpm2001/Registry-Root-SPIR-V -> https://github.com/seanpm2001/KhronosGroup_Registry-Root-SPIR-V
+https://github.com/seanpm2001/OpenMAX-IL-CTS -> https://github.com/seanpm2001/KhronosGroup_OpenMAX-IL-CTS
+https://github.com/seanpm2001/NNEF-Registry -> https://github.com/seanpm2001/KhronosGroup_NNEF-Registry
+https://github.com/seanpm2001/SPIRV-Guide -> https://github.com/seanpm2001/KhronosGroup_SPIRV-Guide
+https://github.com/seanpm2001/3DC-Certification -> https://github.com/seanpm2001/KhronosGroup_3DC-Certification
+https://github.com/seanpm2001/Vulkan-MemoryModel -> https://github.com/seanpm2001/KhronosGroup_Vulkan-MemoryModel
+https://github.com/seanpm2001/3DC-Asset-Creation-Registry -> https://github.com/seanpm2001/KhronosGroup_3DC-Asset-Creation-Registry
+https://github.com/seanpm2001/Basis-Universal-Transcoders -> https://github.com/seanpm2001/KhronosGroup_Basis-Universal-Transcoders
+https://github.com/seanpm2001/aad-app-credential-tools -> https://github.com/seanpm2001/Microsoft_AAD-App-Credential-Tools
+https://github.com/seanpm2001/azure-artifacts-migration -> https://github.com/seanpm2001/Microsoft_Azure-Artifacts-Migration
+@seanwallawalla
+https://github.com/seanwallawalla/Audio
+https://github.com/seanwallawalla/Social-Preview
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-ALGOL
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-AWK
