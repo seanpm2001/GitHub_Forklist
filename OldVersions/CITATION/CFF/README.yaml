@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this project (Git+GitHub fork archived record database repository) please cite it as below."
+# preferred-citation:
+  # type: data
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Seanpm2001 GitHub Forklist (archived database of records of Git forks)"
+version: 1.0.0
+# doi: 10.5281/zenodo.1234
+date-released: 2022-02-07
+# Date the repository was created
+url: "https://github.com/seanpm2001/GitHub_Forklist/"
+cff-version: 1.2.0
+message: "If you use this project (Git+GitHub fork archived record database repository) please cite it as below."
+authors:
+- family-names: "Myrick"
+  given-names: "Sean P. Myrick"
+  # orcid: "https://orcid.org/0000-0000-0000-0000"
+title: ""
+version: 2.0.4
+doi: 10.5281/zenodo.1234
+# Date of the creation of the citation file
+date-released: 2022-12-22
+url: "https://github.com/seanpm2001/GitHub_Forklist/"
+preferred-citation:
+  type: data
+  authors:
+  - family-names: "Myrick family"
+    given-names: "Sean P. Myrick"
+    # orcid: "https://orcid.org/0000-0000-0000-0000"
+  doi: "10.0000/00000"
+  journal: "Seanpm2001 GitHub Forklist (archived database of records of Git forks)"
+  month: 12
+  start: 1 # First page number
+  end: 100000 # Last page number
+  title: "Seanpm2001 GitHub forklist is a database repository that contains archived records of Seans Git forks while using GitHub."
+  issue: 1
+  volume: 1
+  year: 2022
+# File info
+# File version: 1 (2022, Thursday, December 22nd at 9:30 pm PST)
+# File type: CFF Citation file (*.cff)
+# Line count (including blank lines and compiler line): 46
