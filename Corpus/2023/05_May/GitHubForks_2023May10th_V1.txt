@@ -1,0 +1,31 @@
+# GitHub forks 2023, Wednesday, May 10th
+@seanpm2001
+https://github.com/seanpm2001/sqlite-promised -> https://github.com/seanpm2001/Luzianz_SQLite-Promised
+https://github.com/seanpm2001/avro-typescript -> https://github.com/seanpm2001/JoeWood_Avro-TypeScript
+https://github.com/seanpm2001/CORS-Proxy -> https://github.com/seanpm2001/GR2M_CORS-Proxy
+https://github.com/seanpm2001/ExCSS -> https://github.com/seanpm2001/TylerBrinks_ExCSS
+https://github.com/seanpm2001/CsQuery -> https://github.com/seanpm2001/JamieTre_CsQuery
+https://github.com/seanpm2001/OpenMAX-IL-Registry -> https://github.com/seanpm2001/KhronosGroup_OpenMAX-IL-Registry
+https://github.com/seanpm2001/OpenMAX-AL-Registry -> https://github.com/seanpm2001/KhronosGroup_OpenMAX-AL-Registry
+https://github.com/seanpm2001/OpenWF-Registry -> https://github.com/seanpm2001/KhronosGroup_OpenWF-Registry
+https://github.com/seanpm2001/OpenVG-Registry -> https://github.com/seanpm2001/KhronosGroup_OpenVG-Registry
+https://github.com/seanpm2001/SPIR-Registry -> https://github.com/seanpm2001/KhronosGroup_SPIR-Registry
+https://github.com/seanpm2001/DataFormat-Registry -> https://github.com/seanpm2001/KhronosGroup_DataFormat-Registry
+https://github.com/seanpm2001/glTF-Generator-Registry -> https://github.com/seanpm2001/KhronosGroup_glTF-Generator-Registry
+https://github.com/seanpm2001/OpenVG-CTS -> https://github.com/seanpm2001/KhronosGroup_OpenVG-CTS
+https://github.com/seanpm2001/OpenMAX-DL-Registry -> https://github.com/seanpm2001/KhronosGroup_OpenMAX-DL-Registry
+https://github.com/seanpm2001/OpenSL-ES-Registry -> https://github.com/seanpm2001/KhronosGroup_OpenSL-ES-Registry
+https://github.com/seanpm2001/3DC-Sample-Viewer -> https://github.com/seanpm2001/KhronosGroup_3DC-Sample-Viewer
+https://github.com/seanpm2001/3DC-Asset-Creation -> https://github.com/seanpm2001/KhronosGroup_3DC-Asset-Creation
+https://github.com/seanpm2001/sentinel-as-code -> https://github.com/seanpm2001/Microsoft_Sentinel-As-Code
+https://github.com/seanpm2001/BatchMoveToTeams -> https://github.com/seanpm2001/Microsoft_BatchMoveToTeams
+https://github.com/seanpm2001/Intune-PowerShell-Management -> https://github.com/seanpm2001/Microsoft_Intune-PowerShell-Management
+https://github.com/seanpm2001/CSU-AzureLabs -> https://github.com/seanpm2001/Microsoft_CSU-AzureLabs
+@seanwallawalla
+https://github.com/seanwallawalla/Discussion
+https://github.com/seanwallawalla/Sponsoring
+https://github.com/seanwallawalla/LinFsck
+https://github.com/seanwallawalla/LinFsck_Docs
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-ASP
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-Astro
+
