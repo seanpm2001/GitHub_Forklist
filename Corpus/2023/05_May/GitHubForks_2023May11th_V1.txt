@@ -1,0 +1,27 @@
+# GitHub forks 2023, Thursday, May 11th
+@seanpm2001
+https://github.com/seanpm2001/git2 -> https://github.com/seanpm2001/Dsabanin_Git2
+https://github.com/seanpm2001/pretty_diff -> https://github.com/seanpm2001/Isabanin_Pretty_Diff
+https://github.com/seanpm2001/unpacker -> https://github.com/seanpm2001/PetYosi_UnPacker
+https://github.com/seanpm2001/table_view -> https://github.com/seanpm2001/Dsabanin_Table_View
+https://github.com/seanpm2001/net-ssh-multi -> https://github.com/seanpm2001/Jamis_Net-SSH-Multi
+https://github.com/seanpm2001/glTF-Metadata-CLI -> https://github.com/seanpm2001/KhronosGroup_glTF-Metadata-CLI
+https://github.com/seanpm2001/BC6H-Decoder-WASM -> https://github.com/seanpm2001/KhronosGroup_BC6H-Decoder-WASM
+https://github.com/seanpm2001/SYCL-Shared -> https://github.com/seanpm2001/KhronosGroup_SYCL-Shared
+https://github.com/seanpm2001/Education-Forum -> https://github.com/seanpm2001/KhronosGroup_Education-Forum
+https://github.com/seanpm2001/KSCAF_DocRequirements -> https://github.com/seanpm2001/KhronosGroup_KSCAF_DocRequirements
+https://github.com/seanpm2001/KSCAF_DocGuidelines -> https://github.com/seanpm2001/KhronosGroup_KSCAF_DocGuidelines
+https://github.com/seanpm2001/WebGLConformanceSubmissions -> https://github.com/seanpm2001/KhronosGroup_WebGLConformanceSubmissions
+https://github.com/seanpm2001/OpenCL-Sample-Kernels -> https://github.com/seanpm2001/KhronosGroup_OpenCL-Sample-Kernels
+https://github.com/seanpm2001/NNEF-Docs ->https://github.com/seanpm2001/KhronosGroup_NNEF-Docs
+https://github.com/seanpm2001/OpenCL-CXX -> https://github.com/seanpm2001/KhronosGroup_OpenCL-CXX
+https://github.com/seanpm2001/SPIR-Tools -> https://github.com/seanpm2001/KhronosGroup_SPIR-Tools
+https://github.com/seanpm2001/WebGLPerf -> https://github.com/seanpm2001/KhronosGroup_WebGLPerf
+https://github.com/seanpm2001/fin-ops-doc-scripts -> https://github.com/seanpm2001/Microsoft_FIN-Ops-Doc-Scripts
+https://github.com/seanpm2001/MCW-SQL-Server-hybrid-cloud -> https://github.com/seanpm2001/Microsoft_MCW-SQL-Server-hybrid-cloud
+@seanwallawalla
+https://github.com/seanwallawalla/Seanpm2001-GOI
+https://github.com/seanwallawalla/Calendar
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-Agda
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-AMPL
+
