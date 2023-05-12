@@ -1,0 +1,29 @@
+# GitHub forks 2023, Friday, May 12th
+@seanpm2001
+https://github.com/seanpm2001/net-ssh-gateway -> https://github.com/seanpm2001/Jamis_Net-SSH-Gateway
+https://github.com/seanpm2001/http_router -> https://github.com/seanpm2001/JoshBuddy_HTTP_Router
+https://github.com/seanpm2001/websocket_client -> https://github.com/seanpm2001/JeremyOng_WebSocket_Client
+https://github.com/seanpm2001/AdventOfCodeLeaderboard -> https://github.com/seanpm2001/TomsWartz107_AdventOfCodeLeaderboard
+https://github.com/seanpm2001/haraka-ldap -> https://github.com/seanpm2001/Tasansga_Haraka-LDAP
+https://github.com/seanpm2001/COLLADA-CTS -> https://github.com/seanpm2001/KhronosGroup_COLLADA-CTS
+https://github.com/seanpm2001/siggraph2012course -> https://github.com/seanpm2001/KhronosGroup_SIGGraph2012Course
+https://github.com/seanpm2001/WebGLNext-Proposals -> https://github.com/seanpm2001/KhronosGroup_WebGLNext-Proposals
+https://github.com/seanpm2001/WebCL -> https://github.com/seanpm2001/KhronosGroup_WebCL
+https://github.com/seanpm2001/Vulkan-Ecosystem -> https://github.com/seanpm2001/KhronosGroup_Vulkan-Ecosystem
+https://github.com/seanpm2001/glTF-Compressonator -> https://github.com/seanpm2001/KhronosGroup_glTF-Compressonator
+https://github.com/seanpm2001/SPIRV-LLVM -> https://github.com/seanpm2001/KhronosGroup_SPIRV-LLVM
+https://github.com/seanpm2001/glTF-Blender-Exporter -> https://github.com/seanpm2001/KhronosGroup_glTF-Blender-Exporter
+https://github.com/seanpm2001/Vulkan-Samples-Deprecated -> https://github.com/seanpm2001/KhronosGroup_Vulkan-Samples-Deprecated
+https://github.com/seanpm2001/Vulkan-LoaderAndValidationLayers -> https://github.com/seanpm2001/KhronosGroup_Vulkan-LoaderAndValidationLayers
+https://github.com/seanpm2001/WebCL-conformance -> https://github.com/seanpm2001/KhronosGroup_WebCL-conformance
+https://github.com/seanpm2001/Open-Use-of-Data-Agreement -> https://github.com/seanpm2001/Microsoft_Open-Use-of-Data-Agreement
+https://github.com/seanpm2001/BCUpgrade -> https://github.com/seanpm2001/Microsoft_BCUpgrade
+https://github.com/seanpm2001/saaslab -> https://github.com/seanpm2001/Microsoft_SaaSLab
+@seanwallawalla
+https://github.com/seanwallawalla/Templates
+https://github.com/seanwallawalla/Template
+https://github.com/seanwallawalla/URLL-VSCode
+https://github.com/seanwallawalla/DSergeant-VSCode
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-AppleScript
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-Ada
+
