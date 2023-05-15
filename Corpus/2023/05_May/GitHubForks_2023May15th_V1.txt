@@ -1,0 +1,33 @@
+# GitHub forks 2023, Monday, May 15th
+@seanpm2001
+https://github.com/seanpm2001/require-handlebars-plugin -> https://github.com/seanpm2001/SlexAxton_Require-HandleBars-Plugin
+https://github.com/seanpm2001/FileReader -> https://github.com/seanpm2001/AVApps_FileReader
+https://github.com/seanpm2001/testuki -> https://github.com/seanpm2001/Aitorciki_Testuki
+https://github.com/seanpm2001/OCCT -> https://github.com/seanpm2001/Microsoft_OCCT
+https://github.com/seanpm2001/documentwmi -> https://github.com/seanpm2001/Microsoft_DocumentWMI
+https://github.com/seanpm2001/ElementsSQLite -> https://github.com/seanpm2001/RemObjects_ElementsSQLite
+https://github.com/seanpm2001/GoldBaseLibrary -> https://github.com/seanpm2001/RemObjects_GoldBaseLibrary
+https://github.com/seanpm2001/ASQLite3 -> https://github.com/seanpm2001/RemObjects_ASQLite3
+https://github.com/seanpm2001/ChangeLogTool -> https://github.com/seanpm2001/RemObjecs_ChangeLogTool -> https://github.com/seanpm2001/RemObjects_ChangeLogTool
+https://github.com/seanpm2001/ZeroConfBrowser -> https://github.com/seanpm2001/RemObjects_ZeroConfBrowser
+https://github.com/seanpm2001/recipes -> https://github.com/seanpm2001/RemObjects_Recipes
+https://github.com/seanpm2001/goldpackages -> https://github.com/seanpm2001/RemObjects_GoldPackages
+https://github.com/seanpm2001/ProfilingAspect -> https://github.com/seanpm2001/RemObjects_ProfilingAspect
+https://github.com/seanpm2001/Obfuscar -> https://github.com/seanpm2001/RemObjects_Obfuscar
+https://github.com/seanpm2001/Beta -> https://github.com/seanpm2001/RemObjects_Beta
+https://github.com/seanpm2001/Push -> https://github.com/seanpm2001/RemObjects_Push
+https://github.com/seanpm2001/sugar-1 -> https://github.com/seanpm2001/RemObjects_sugar -> https://github.com/seanpm2001/RemObjects_Sugar
+https://github.com/seanpm2001/BaselineManagement -> https://github.com/seanpm2001/Microsoft_BaselineManagement
+https://github.com/seanpm2001/JMeter-AKS-LoadTest -> https://github.com/seanpm2001/Microsoft_JMeter-AKS-LoadTest
+https://github.com/seanpm2001/azuredevopsgenerator -> https://github.com/seanpm2001/Microsoft_AzureDevOpsGenerator
+https://github.com/seanpm2001/arm-debug-deployment-cleanup -> https://github.com/seanpm2001/Microsoft_Arm-Debug-Deployment-Cleanup
+@seanwallawalla
+https://github.com/seanwallawalla/YouTube
+https://github.com/seanwallawalla/Sponsors
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-Bikeshed
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-Batchfile
+@seanpm2001.renames
+https://github.com/seanpm2001/sugar -> https://github.com/seanpm2001/SugarLabs_Sugar
+https://github.com/seanpm2001/reactos -> https://github.com/seanpm2001/ReactOS_ReactOS
+https://github.com/seanpm2001/nixpkgs -> https://github.com/seanpm2001/NixOS_NixPkgs
+
