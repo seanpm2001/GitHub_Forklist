@@ -1,0 +1,33 @@
+# GitHub forks 2023, Thursday, May 18th
+@seanpm2001
+https://github.com/seanpm2001/.NET_runtime -> https://github.com/seanpm2001/DotNet_.NET_Runtime
+https://github.com/seanpm2001/toolset -> https://github.com/seanpm2001/DotNet_Toolset
+https://github.com/seanpm2001/aspnetcore -> https://github.com/seanpm2001/DotNet_ASPNETCore
+https://github.com/seanpm2001/csharplang -> https://github.com/seanpm2001/DotNet_CSharpLang
+https://github.com/seanpm2001/linker -> https://github.com/seanpm2001/DotNet_Linker
+https://github.com/seanpm2001/runtimelab -> https://github.com/seanpm2001/DotNet_RunTimeLab
+https://github.com/seanpm2001/spark -> https://github.com/seanpm2001/DotNet_Spark
+https://github.com/seanpm2001/format -> https://github.com/seanpm2001/DotNet_Format
+https://github.com/seanpm2001/fsharp ->https://github.com/seanpm2001/DotNet_FSharp
+https://github.com/seanpm2001/maui -> https://github.com/seanpm2001/DotNet_Maui
+https://github.com/seanpm2001/roslyn -> https://github.com/seanpm2001/DotNet_Roslyn
+https://github.com/seanpm2001/sdk -> https://github.com/seanpm2001/DotNet_SDK
+https://github.com/seanpm2001/dotnet-monitor -> https://github.com/seanpm2001/DotNet_DotNet-Monitor
+https://github.com/seanpm2001/docs-1 -> https://github.com/seanpm2001/DotNet_Docs
+https://github.com/seanpm2001/.NET_Core -> https://github.com/seanpm2001/DotNet_.NET_Core
+https://github.com/seanpm2001/api-docs-sync -> https://github.com/seanpm2001/DotNet_API-Docs-Sync
+https://github.com/seanpm2001/upgrade-assistant -> https://github.com/seanpm2001/DotNet_Upgrade-Assistant
+https://github.com/seanpm2001/razor ->https://github.com/seanpm2001/DotNet_Razor
+https://github.com/seanpm2001/SqlClient -> https://github.com/seanpm2001/DotNet_SQLClient
+https://github.com/seanpm2001/sign -> https://github.com/seanpm2001/DotNet_Sign
+https://github.com/seanpm2001/docs-tools -> https://github.com/seanpm2001/DotNet_Docs-Tools
+https://github.com/seanpm2001/installer -> https://github.com/seanpm2001/DotNet_Installer
+https://github.com/seanpm2001/TorchSharp ->https://github.com/seanpm2001/DotNet_TorchSharp
+https://github.com/seanpm2001/efcore -> https://github.com/seanpm2001/DotNet_EFCore
+https://github.com/seanpm2001/machinelearning -> https://github.com/seanpm2001/DotNet_MachineLearning
+@seanwallawalla
+https://github.com/seanwallawalla/DB
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Zircon
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-C-Plus-Plus
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-CSound
+
