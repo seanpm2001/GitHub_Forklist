@@ -1,0 +1,29 @@
+# GitHub forks 2023, Saturday, May 20th
+@seanpm2001
+https://github.com/seanpm2001/windowsdesktop -> https://github.com/seanpm2001/DotNet_WindowsDesktop
+https://github.com/seanpm2001/tye -> https://github.com/seanpm2001/DotNet_Tye
+https://github.com/seanpm2001/msquic -> https://github.com/seanpm2001/DotNet_MSQuic
+https://github.com/seanpm2001/try-convert -> https://github.com/seanpm2001/DotNet_Try-Convert
+https://github.com/seanpm2001/NuGet.BuildTasks -> https://github.com/seanpm2001/DotNet_NuGet.BuildTasks
+https://github.com/seanpm2001/performance -> https://github.com/seanpm2001/DotNet_Performance
+https://github.com/seanpm2001/csharpstandard -> https://github.com/seanpm2001/DotNet_CSharpStandard
+https://github.com/seanpm2001/arcade-validation -> https://github.com/seanpm2001/DotNet_Arcade-Validation
+https://github.com/seanpm2001/msbuild -> https://github.com/seanpm2001/DotNet_MSBuild
+https://github.com/seanpm2001/arcade-services -> https://github.com/seanpm2001/DotNet_Arcade-Services
+https://github.com/seanpm2001/AspNetCore.Docs -> https://github.com/seanpm2001/DotNet_AspNetCore.Docs
+https://github.com/seanpm2001/Scaffolding -> https://github.com/seanpm2001/DotNet_Scaffolding
+https://github.com/seanpm2001/winforms -> https://github.com/seanpm2001/DotNet_WinForms
+https://github.com/seanpm2001/dotnet -> https://github.com/seanpm2001/DotNet_DotNet
+https://github.com/seanpm2001/arcade -> https://github.com/seanpm2001/DotNet_Arcade
+https://github.com/seanpm2001/BenchmarkDotNet -> https://github.com/seanpm2001/DotNet_BenchmarkDotNet
+https://github.com/seanpm2001/templating -> https://github.com/seanpm2001/DotNet_Templating
+https://github.com/seanpm2001/dotnet-docker -> https://github.com/seanpm2001/DotNet_DotNet-Docker
+https://github.com/seanpm2001/EntityFramework.Docs -> https://github.com/seanpm2001/DotNet_EntityFramework.Docs
+https://github.com/seanpm2001/PeerTube -> https://github.com/seanpm2001/ChocoBozzz_PeerTube
+@seanwallawalla
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Suite-GSuite
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Lens
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-CartoCSS
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-CAML
+https://github.com/seanwallawalla/SeansLifeArchive_Images_Sonic-Dash
+
