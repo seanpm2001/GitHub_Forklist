@@ -1,0 +1,30 @@
+# GitHub forks 2023, Sunday, May 21st
+@seanpm2001
+https://github.com/seanpm2001/website-thanks-data -> https://github.com/seanpm2001/DotNet_Website-Thanks-Data
+https://github.com/seanpm2001/dotnet-api-docs -> https://github.com/seanpm2001/DotNet_DotNet-API-Docs
+https://github.com/seanpm2001/dotnet-buildtools-prereqs-docker -> https://github.com/seanpm2001/DotNet_DotNet-BuildTools-PreReqs-Docker
+https://github.com/seanpm2001/ef6 -> https://github.com/seanpm2001/DotNet_EF6
+https://github.com/seanpm2001/roslyn-analyzers -> https://github.com/seanpm2001/DotNet_Roslyn-Analyzers
+https://github.com/seanpm2001/docs-maui -> https://github.com/seanpm2001/DotNet_Docs-MAUI
+https://github.com/seanpm2001/designs -> https://github.com/seanpm2001/DotNet_Designs
+https://github.com/seanpm2001/orleans -> https://github.com/seanpm2001/DotNet_Orleans
+https://github.com/seanpm2001/wpf -> https://github.com/seanpm2001/DotNet_WPF
+https://github.com/seanpm2001/wpf-test -> https://github.com/seanpm2001/DotNet_WPF-Test
+https://github.com/seanpm2001/deployment-tools -> https://github.com/seanpm2001/DotNet_Deployment-Tools
+https://github.com/seanpm2001/source-build-externals -> https://github.com/seanpm2001/DotNet_Source-Build-Externals
+https://github.com/seanpm2001/xliff-tasks -> https://github.com/seanpm2001/DotNet_XLIFF-Tasks
+https://github.com/seanpm2001/install-scripts -> https://github.com/seanpm2001/DotNet_Install-Scripts
+https://github.com/seanpm2001/Silk.NET -> https://github.com/seanpm2001/DotNet_Silk.NET
+https://github.com/seanpm2001/diagnostics -> https://github.com/seanpm2001/DotNet_Diagnostics
+https://github.com/seanpm2001/project-system -> https://github.com/seanpm2001/DotNet_Project-System
+https://github.com/seanpm2001/reactive -> https://github.com/seanpm2001/DotNet_Reactive
+https://github.com/seanpm2001/sourcelink -> https://github.com/seanpm2001/DotNet_SourceLink
+https://github.com/seanpm2001/RussiaDNSLeak -> https://github.com/seanpm2001/MandatoryProgrammer_RussiaDNSLeak
+https://github.com/seanpm2001/NorthKoreaDNSLeak -> https://github.com/seanpm2001/MandatoryProgrammer_NorthKoreaDNSLeak
+@seanwallawalla
+https://github.com/seanwallawalla/Please-do-NOT-turn-off-your-adblocker
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Topaz
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Trips
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-D
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-Dafny
+
