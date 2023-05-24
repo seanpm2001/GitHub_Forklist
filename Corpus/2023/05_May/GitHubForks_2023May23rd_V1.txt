@@ -1,0 +1,29 @@
+# GitHub forks 2023, Tuesday, May 23rd
+@seanpm2001
+https://github.com/seanpm2001/samples -> https://github.com/seanpm2001/DotNET_Samples
+https://github.com/seanpm2001/interactive -> https://github.com/seanpm2001/DotNET_Interactive
+https://github.com/seanpm2001/versions -> https://github.com/seanpm2001/DotNET_Versions
+https://github.com/seanpm2001/AspNetDocs -> https://github.com/seanpm2001/DotNET_AspNetDocs
+https://github.com/seanpm2001/crank -> https://github.com/seanpm2001/DotNET_Crank
+https://github.com/seanpm2001/extensions -> https://github.com/seanpm2001/DotNET_Extensions
+https://github.com/seanpm2001/docker-tools -> https://github.com/seanpm2001/DotNET_Docker-Tools
+https://github.com/seanpm2001/command-line-api -> https://github.com/seanpm2001/DotNET_Command-Line-API
+https://github.com/seanpm2001/infer -> https://github.com/seanpm2001/DotNET_Infer
+https://github.com/seanpm2001/Nerdbank.GitVersioning -> https://github.com/seanpm2001/DotNET_Nerdbank.GitVersioning
+https://github.com/seanpm2001/arcade-extensions -> https://github.com/seanpm2001/DotNET_Arcade-Extensions
+https://github.com/seanpm2001/xharness -> https://github.com/seanpm2001/DotNET_XHarness
+https://github.com/seanpm2001/source-build -> https://github.com/seanpm2001/DotNET_Source-Build
+https://github.com/seanpm2001/HttpRepl -> https://github.com/seanpm2001/DotNET_HTTPREPL
+https://github.com/seanpm2001/cli-lab -> https://github.com/seanpm2001/DotNET_CLI-Lab
+https://github.com/seanpm2001/metadata-tools -> https://github.com/seanpm2001/DotNET_Metadata-Tools
+https://github.com/seanpm2001/symreader-converter -> https://github.com/seanpm2001/DotNET_SymReader-Converter
+https://github.com/seanpm2001/interactive-window -> https://github.com/seanpm2001/DotNET_Interactive-Window
+https://github.com/seanpm2001/try -> https://github.com/seanpm2001/DotNET_Try
+@seanwallawalla
+https://github.com/seanwallawalla/Why-you-should-have-avoided-Google-SMS
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Stackdriver
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-Diff
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-Dhall
+https://github.com/seanwallawalla/NUNIX_SurvivalMode
+https://github.com/seanwallawalla/NUNIX_SurvivalMode_HungerE
+
