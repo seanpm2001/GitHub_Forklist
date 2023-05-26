@@ -1,0 +1,29 @@
+# GitHub forks 2023, Thursday, May 25th
+@seanpm2001
+https://github.com/seanpm2001/vscode-dotnet-pack -> https://github.com/seanpm2001/DotNET_VSCode-DotNET-Pack
+https://github.com/seanpm2001/Docker.DotNet -> https://github.com/seanpm2001/DotNET_Docker.DotNet
+https://github.com/seanpm2001/xdt -> https://github.com/seanpm2001/DotNET_XDT
+https://github.com/seanpm2001/MQTTnet -> https://github.com/seanpm2001/DotNET_MQTTnet
+https://github.com/seanpm2001/docs-desktop -> https://github.com/seanpm2001/DotNET_Docs-Desktop
+https://github.com/seanpm2001/AspNetCore.Docs.Samples -> https://github.com/seanpm2001/DotNET_AspNetCore.Docs.Samples
+https://github.com/seanpm2001/csharp-notebooks -> https://github.com/seanpm2001/DotNET_CSharp-Notebooks
+https://github.com/seanpm2001/nuget-trends -> https://github.com/seanpm2001/DotNET_NuGet-Trends
+https://github.com/seanpm2001/dotnet-wasi-sdk -> https://github.com/seanpm2001/DotNET_DotNET-WASI-SDK
+https://github.com/seanpm2001/pinvoke -> https://github.com/seanpm2001/DotNET_PinVoke
+https://github.com/seanpm2001/nbgv -> https://github.com/seanpm2001/DotNET_NBGV
+https://github.com/seanpm2001/MobileBlazorBindings ->https://github.com/seanpm2001/DotNET_MobileBlazorBindings
+https://github.com/seanpm2001/DataGridExtensions -> https://github.com/seanpm2001/DotNET_DataGridExtensions
+https://github.com/seanpm2001/LLVMSharp -> https://github.com/seanpm2001/DotNET_LLVMSharp
+https://github.com/seanpm2001/EntityFramework.ApiDocs -> https://github.com/seanpm2001/DotNET_EntityFramework.APIDocs
+https://github.com/seanpm2001/Microsoft.Data.Sqlite.ApiDocs -> https://github.com/seanpm2001/DotNET_Microsoft.Data.SQLite.APIDocs
+https://github.com/seanpm2001/roslyn-api-docs -> https://github.com/seanpm2001/DotNET_Roslyn-API-Docs
+https://github.com/seanpm2001/versionsweeper -> https://github.com/seanpm2001/DotNET_VersionSweeper
+https://github.com/seanpm2001/reproducible-builds -> https://github.com/seanpm2001/DotNET_Reproducible-Builds
+https://github.com/seanpm2001/grit_ext -> https://github.com/seanpm2001/SaitoWu_Grit_EXT
+https://github.com/seanpm2001/gitolite -> https://github.com/seanpm2001/Sitaramc_GitoLite
+@seanwallawalla
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Discover
+https://github.com/seanwallawalla/Why-you-should-not-be-a-Google-Developer
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-Erlang
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-Eiffel
+https://github.com/seanwallawalla/Malware-as-art

@@ -1,0 +1,31 @@
+# GitHub forks 2023, Wednesday, May 24th
+@seanpm2001
+https://github.com/seanpm2001/jitutils -> https://github.com/seanpm2001/DotNET_JITUtils
+https://github.com/seanpm2001/hotreload-utils -> https://github.com/seanpm2001/DotNET_HotReload-Utils
+https://github.com/seanpm2001/apireviews -> https://github.com/seanpm2001/DotNET_APIReviews
+https://github.com/seanpm2001/symstore -> https://github.com/seanpm2001/DotNET_SymStore
+https://github.com/seanpm2001/sdk-container-builds -> https://github.com/seanpm2001/DotNET_SDK-Container-Builds
+https://github.com/seanpm2001/websdk -> https://github.com/seanpm2001/DotNET_WebSDK
+https://github.com/seanpm2001/coreclr -> https://github.com/seanpm2001/DotNET_CoreCLR
+https://github.com/seanpm2001/cli -> https://github.com/seanpm2001/DotNET_CLI
+https://github.com/seanpm2001/corefx -> https://github.com/seanpm2001/DotNET_CoreFX
+https://github.com/seanpm2001/core-setup -> https://github.com/seanpm2001/DotNET_Core-Setup
+https://github.com/seanpm2001/dotNext -> https://github.com/seanpm2001/DotNET_DotNext
+https://github.com/seanpm2001/systemweb-adapters -> https://github.com/seanpm2001/DotNET_SystemWeb-Adapters
+https://github.com/seanpm2001/spa-templates -> https://github.com/seanpm2001/DotNET_SPA-Templates
+https://github.com/seanpm2001/aspnet-api-versioning -> https://github.com/seanpm2001/DotNET_ASPNET-API-Versioning
+https://github.com/seanpm2001/vscode-dotnet-runtime -> https://github.com/seanpm2001/DotNET_VSCode-DotNET-Runtime
+https://github.com/seanpm2001/dotnet-maui-api-docs -> https://github.com/seanpm2001/DotNET_DotNET-MAUI-API-Docs
+https://github.com/seanpm2001/machinelearning-modelbuilder -> https://github.com/seanpm2001/DotNET_MachineLearning-ModelBuilder
+https://github.com/seanpm2001/Microsoft.Maui.Graphics -> https://github.com/seanpm2001/DotNET_Microsoft.MAUI.Graphics
+https://github.com/seanpm2001/nettica -> https://github.com/seanpm2001/Wr0ngWay_Nettica
+https://github.com/seanpm2001/aa -> https://github.com/seanpm2001/JaGregory_AA
+https://github.com/seanpm2001/regexlint -> https://github.com/seanpm2001/Thatch_RegExLint
+@seanwallawalla
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Tasks
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Meet
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-DIGITAL-Command-Language
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-E
+https://github.com/seanwallawalla/NUNIX_SurvivalMode_Docs
+https://github.com/seanwallawalla/NUNIX_SurvivalMode_Safety
+
