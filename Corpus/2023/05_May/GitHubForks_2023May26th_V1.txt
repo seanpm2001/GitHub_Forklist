@@ -1,0 +1,27 @@
+# GitHub forks 2023, Friday, May 26th
+@seanpm2001
+https://github.com/seanpm2001/msbuild-api-docs -> https://github.com/seanpm2001/DotNET_MSBuild-API-Docs
+https://github.com/seanpm2001/AzCopyNet -> https://github.com/seanpm2001/DotNET_AzCopyNet
+https://github.com/seanpm2001/source-indexer -> https://github.com/seanpm2001/DotNET_Source-Indexer
+https://github.com/seanpm2001/blazor-samples -> https://github.com/seanpm2001/DotNET_Blazor-Samples
+https://github.com/seanpm2001/machinelearning-samples -> https://github.com/seanpm2001/DotNET_MachineLearning-Samples
+https://github.com/seanpm2001/ClangSharp -> https://github.com/seanpm2001/DotNET_ClangSharp
+https://github.com/seanpm2001/Comet -> https://github.com/seanpm2001/DotNET_Comet
+https://github.com/seanpm2001/JavaApiDocs -> https://github.com/seanpm2001/DotNET_JavaAPIDocs
+https://github.com/seanpm2001/ef6tools -> https://github.com/seanpm2001/DotNET_EF6Tools
+https://github.com/seanpm2001/issue-labeler -> https://github.com/seanpm2001/DotNET_Issue-Labeler
+https://github.com/seanpm2001/csharp-tmLanguage -> https://github.com/seanpm2001/DotNET_CSharp-tmLanguage
+https://github.com/seanpm2001/ResXResourceManager -> https://github.com/seanpm2001/DotNET_ResXResourceManager
+https://github.com/seanpm2001/fabricbot-config -> https://github.com/seanpm2001/DotNET_FabricBot-Config
+https://github.com/seanpm2001/ProjFileTools -> https://github.com/seanpm2001/DotNET_ProjFileTools
+https://github.com/seanpm2001/letslearndotnet -> https://github.com/seanpm2001/DotNET_LetsLearnDotNET
+https://github.com/seanpm2001/codeformatter -> https://github.com/seanpm2001/DotNET_CodeFormatter
+https://github.com/seanpm2001/datalab -> https://github.com/seanpm2001/DotNET_DataLab
+https://github.com/seanpm2001/announcements -> https://github.com/seanpm2001/DotNET_Announcements
+https://github.com/seanpm2001/windows-desktop -> https://github.com/seanpm2001/DotNET_Windows-Desktop
+@seanwallawalla
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Currents
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Cloud-Services
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-EJS
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-Epigram
+
