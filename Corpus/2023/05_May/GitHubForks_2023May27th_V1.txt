@@ -1,0 +1,31 @@
+# GitHub forks 2023, Saturday, May 27th
+@seanpm2001
+https://github.com/seanpm2001/AspNetApiDocs -> https://github.com/seanpm2001/DotNET_AspNETAPIDocs -> https://github.com/seanpm2001/DotNET_ASPNETAPIDocs
+https://github.com/seanpm2001/insertions-client -> https://github.com/seanpm2001/DotNET_Insertions-Client
+https://github.com/seanpm2001/code-analysis -> https://github.com/seanpm2001/DotNET_Code-Analysis
+https://github.com/seanpm2001/JsApiDocs -> https://github.com/seanpm2001/DotNET_JSAPIDocs
+https://github.com/seanpm2001/iot-api-docs -> https://github.com/seanpm2001/DotNET_IoT-API-Docs
+https://github.com/seanpm2001/brand -> https://github.com/seanpm2001/DotNET_Brand
+https://github.com/seanpm2001/Microsoft.Maui.Graphics.Controls -> https://github.com/seanpm2001/DotNET_Microsoft.MAUI.Graphics.Controls
+https://github.com/seanpm2001/try-samples -> https://github.com/seanpm2001/DotNET_Try-Samples
+https://github.com/seanpm2001/new-repo -> https://github.com/seanpm2001/DotNET_New-Repo
+https://github.com/seanpm2001/cssparser -> https://github.com/seanpm2001/DotNET_CSSParser
+https://github.com/seanpm2001/standard -> https://github.com/seanpm2001/DotNET_Standard
+https://github.com/seanpm2001/winforms-datavisualization -> https://github.com/seanpm2001/DotNET_WinForms-DataVisualization
+https://github.com/seanpm2001/vblang -> https://github.com/seanpm2001/DotNET_VBLang
+https://github.com/seanpm2001/msbuild-language-service -> https://github.com/seanpm2001/DotNET_MSBuild-Language-Service
+https://github.com/seanpm2001/mbmlbook -> https://github.com/seanpm2001/DotNET_MBMLBook
+https://github.com/seanpm2001/corefxlab -> https://github.com/seanpm2001/DotNET_CoreFXLab
+https://github.com/seanpm2001/BuildPerformanceTestAssets -> https://github.com/seanpm2001/DotNET_BuildPerformanceTestAssets
+https://github.com/seanpm2001/blazor -> https://github.com/seanpm2001/DotNET_Blazor
+https://github.com/seanpm2001/dotnet-cli-archiver -> https://github.com/seanpm2001/DotNET_DotNET-CLI-Archiver
+https://github.com/seanpm2001/TorchSharpExamples ->https://github.com/seanpm2001/DotNET_TorchSharpExamples
+https://github.com/seanpm2001/spomskyd -> https://github.com/seanpm2001/AdamMCK_Spomskyd
+@seanwallawalla
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Apps-Script
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Capital
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-F-Sharp
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-Fish
+https://github.com/seanwallawalla/Learn-Ezhil
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Ezhil
+
