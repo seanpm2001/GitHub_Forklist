@@ -1,0 +1,27 @@
+# GitHub forks 2023, Sunday, May 28th
+@seanpm2001
+https://github.com/seanpm2001/org-policy -> https://github.com/seanpm2001/DotNET_Org-Policy
+https://github.com/seanpm2001/fsharp-api-docs -> https://github.com/seanpm2001/DotNET_FSharp-API-Docs
+https://github.com/seanpm2001/arcade-pool-provider -> https://github.com/seanpm2001/DotNET_Arcade-Pool-Provider
+https://github.com/seanpm2001/orleans-docs -> https://github.com/seanpm2001/DotNET_Orleans-Docs
+https://github.com/seanpm2001/llilc -> https://github.com/seanpm2001/DotNET_LLiLC
+https://github.com/seanpm2001/machinelearning-testdata -> https://github.com/seanpm2001/DotNET_MachineLearning-TestData
+https://github.com/seanpm2001/SyndicationFeedReaderWriter -> https://github.com/seanpm2001/DotNET_SyndicationFeedReaderWriter
+https://github.com/seanpm2001/CliCommandLineParser -> https://github.com/seanpm2001/DotNET_CLICommandLineParser
+https://github.com/seanpm2001/xamarin -> https://github.com/seanpm2001/DotNET_Xamarin
+https://github.com/seanpm2001/buildtools -> https://github.com/seanpm2001/DotNET_BuildTools
+https://github.com/seanpm2001/perf-autofiling-issues -> https://github.com/seanpm2001/DotNET_Perf-AutoFiling-Issues
+https://github.com/seanpm2001/cli-migrate -> https://github.com/seanpm2001/DotNET_CLI-Migrate
+https://github.com/seanpm2001/training-tutorials -> https://github.com/seanpm2001/DotNET_Training-Tutorials
+https://github.com/seanpm2001/port-to-core -> https://github.com/seanpm2001/DotNET_Port-To-Core
+https://github.com/seanpm2001/orleans-templates -> https://github.com/seanpm2001/DotNET_Orleans-Templates
+https://github.com/seanpm2001/perf-infra -> https://github.com/seanpm2001/DotNET_Perf-Infra
+https://github.com/seanpm2001/dotnet-docker-samples -> https://github.com/seanpm2001/DotNET_DotNET-Docker-Samples
+https://github.com/seanpm2001/dotnet-docker-nightly -> https://github.com/seanpm2001/DotNET_DotNET-Docker-Nightly
+https://github.com/seanpm2001/gitolite -> https://github.com/seanpm2001/WinGrunr21_GitoLite
+@seanwallawalla
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Chat
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-AdWords
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-Factor
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-Fluent
+
