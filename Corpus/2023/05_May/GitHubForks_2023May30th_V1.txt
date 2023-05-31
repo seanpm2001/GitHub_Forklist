@@ -1,0 +1,30 @@
+# GitHub forks 2023, Tuesday, May 30th
+@seanpm2001
+https://github.com/seanpm2001/coreclr.xunit -> https://github.com/seanpm2001/DotNET_CoreCLR.XUnit
+https://github.com/seanpm2001/import-comments -> https://github.com/seanpm2001/DotNET_Import-Comments
+https://github.com/seanpm2001/roslyn-analyzers-contrib -> https://github.com/seanpm2001/DotNET_Roslyn-Analyzers-Contrib
+https://github.com/seanpm2001/llvm-project -> https://github.com/seanpm2001/LLVM_LLVM-Project
+https://github.com/seanpm2001/circt -> https://github.com/seanpm2001/LLVM_Circt
+https://github.com/seanpm2001/torch-mlir -> https://github.com/seanpm2001/LLVM_Torch-MLIR
+https://github.com/seanpm2001/llvm-foundation-www -> https://github.com/seanpm2001/LLVM_LLVM-Foundation-WWW
+https://github.com/seanpm2001/mlir-www -> https://github.com/seanpm2001/LLVM_MLIR-WWW
+https://github.com/seanpm2001/llvm-zorg -> https://github.com/seanpm2001/LLVM_LLVM-Zorg
+https://github.com/seanpm2001/llvm-www -> https://github.com/seanpm2001/LLVM_LLVM-WWW
+https://github.com/seanpm2001/circt-www -> https://github.com/seanpm2001/LLVM_Circt-WWW
+https://github.com/seanpm2001/llvm-project-release-prs -> https://github.com/seanpm2001/LLVM_LLVM-Project-Release-PRs
+https://github.com/seanpm2001/llvm-test-suite -> https://github.com/seanpm2001/LLVM_LLVM-Test-Suite
+https://github.com/seanpm2001/pycld2 -> https://github.com/seanpm2001/AboSamoor_PyCLD2
+https://github.com/seanpm2001/cli -> https://github.com/seanpm2001/Carimura_CLI
+https://github.com/seanpm2001/jquery-scroll -> https://github.com/seanpm2001/ThomD_JQuery-Scroll
+https://github.com/seanpm2001/jquery-autosave -> https://github.com/seanpm2001/NerveTattoo_JQuery-AutoSave
+https://github.com/seanpm2001/facebooker -> https://github.com/seanpm2001/MMangino_FaceBooker
+https://github.com/seanpm2001/tampio -> https://github.com/seanpm2001/FergusQ_Tampio
+https://github.com/seanpm2001/oauth_provider -> https://github.com/seanpm2001/Halorgium_OAuth_Provider
+@seanwallawalla
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Dropcam
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-DoubleClick
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-GoogleGo
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-Go-
+https://github.com/seanwallawalla/The-REAL-Data-Liberation-Front
+https://github.com/seanwallawalla/The-REAL-Data-Liberation-Front_Docs
+
