@@ -1,0 +1,28 @@
+# GitHub forks 2023, Wednesday, May 31st
+@seanpm2001
+https://github.com/seanpm2001/clangir -> https://github.com/seanpm2001/LLVM_ClangIR
+https://github.com/seanpm2001/Polygeist -> https://github.com/seanpm2001/LLVM_Polygeist
+https://github.com/seanpm2001/clangd-www -> https://github.com/seanpm2001/LLVM_ClangD-WWW
+https://github.com/seanpm2001/llvm-blog-www -> https://github.com/seanpm2001/LLVM_LLVM-Blog-WWW
+https://github.com/seanpm2001/actions-1 -> https://github.com/seanpm2001/LLVM_Actions
+https://github.com/seanpm2001/www-releases -> https://github.com/seanpm2001/LLVM_WWW-Releases
+https://github.com/seanpm2001/vscode-mlir -> https://github.com/seanpm2001/LLVM_VSCode-MLIR
+https://github.com/seanpm2001/llvm-lnt -> https://github.com/seanpm2001/LLVM-LNT
+https://github.com/seanpm2001/llvm-iwg -> https://github.com/seanpm2001/LLVM_LLVM-IWG
+https://github.com/seanpm2001/temp-issue-tester -> https://github.com/seanpm2001/LLVM_Temp-Issue-Tester
+https://github.com/seanpm2001/llvm-project-staging -> https://github.com/seanpm2001/LLVM_LLVM-Project-Staging
+https://github.com/seanpm2001/llvm-archive -> https://github.com/seanpm2001/LLVM_LLVM-Archive
+https://github.com/seanpm2001/llvm-www-pubs -> https://github.com/seanpm2001/LLVM_LLVM-WWW-Pubs
+https://github.com/seanpm2001/llvm-project-legacy-branches -> https://github.com/seanpm2001/LLVM_LLVM-Project-Legacy-Branches
+https://github.com/seanpm2001/debiman -> https://github.com/seanpm2001/Debian_DebiMan
+https://github.com/seanpm2001/dak -> https://github.com/seanpm2001/Deian_Dak -> https://github.com/seanpm2001/Debian_Dak
+https://github.com/seanpm2001/dh-make-golang -> https://github.com/seanpm2001/Debian_DH-Make-GoLang
+https://github.com/seanpm2001/apt -> https://github.com/seanpm2001/Debian_APT
+https://github.com/seanpm2001/dcs -> https://github.com/seanpm2001/Debian_DCS
+@seanwallawalla
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Arts-and-Culture
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-AlphaGo
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-GDScript
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-GLSL
+https://github.com/seanwallawalla/Undigitized
+https://github.com/seanwallawalla/Undigitized_Docs
