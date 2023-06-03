@@ -1,0 +1,28 @@
+# GitHub forks 2023, Saturday, June 3rd
+@seanpm2001
+https://github.com/seanpm2001/debile -> https://github.com/seanpm2001/Debian_Debile
+https://github.com/seanpm2001/openjdk-8 -> https://github.com/seanpm2001/Debian_OpenJDK-8
+https://github.com/seanpm2001/docker.io -> https://github.com/seanpm2001/Debian_Docker.io
+https://github.com/seanpm2001/firewoes -> https://github.com/seanpm2001/Debian_Firewoes
+https://github.com/seanpm2001/noggin -> https://github.com/seanpm2001/Fedora-Infra_Noggin
+https://github.com/seanpm2001/mote -> https://github.com/seanpm2001/Fedora-Infra_Mote
+https://github.com/seanpm2001/bodhi -> https://github.com/seanpm2001/Fedora-Infra_Bodhi
+https://github.com/seanpm2001/fmn -> https://github.com/seanpm2001/Fedora-Infra_FMN
+https://github.com/seanpm2001/datagrepper -> https://github.com/seanpm2001/Fedora-Infra_DataGrepper
+https://github.com/seanpm2001/sqlalchemy-helpers -> https://github.com/seanpm2001/Fedora-Infra_SQLAlchemy-Helpers
+https://github.com/seanpm2001/fasjson -> https://github.com/seanpm2001/Fedora-Infra_FASJSON
+https://github.com/seanpm2001/noggin-messages -> https://github.com/seanpm2001/Fedora-Infra_Noggin-Messages
+https://github.com/seanpm2001/mdapi -> https://github.com/seanpm2001/Fedora-Infra_MDAPI
+https://github.com/seanpm2001/flask-healthz -> https://github.com/seanpm2001/Fedora-Infra_Flask-HealthZ
+https://github.com/seanpm2001/datanommer -> https://github.com/seanpm2001/Fedora-Infra_DataNommer
+https://github.com/seanpm2001/asknot-ng -> https://github.com/seanpm2001/Fedora-Infra_AskNot-NG
+https://github.com/seanpm2001/mirrormanager2 -> https://github.com/seanpm2001/Fedora-Infra_MirrorManager2
+https://github.com/seanpm2001/fasjson-client -> https://github.com/seanpm2001/Fedora-Infra_FASJSON-Client
+https://github.com/seanpm2001/discourse2fedmsg -> https://github.com/seanpm2001/Fedora-Infra_Discourse2FedMSG
+https://github.com/seanpm2001/default_value_for -> https://github.com/seanpm2001/FooBarWidget_Default_Value_For
+@seanwallawalla
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-HTML
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-HTTP
+https://github.com/seanwallawalla/StarVS
+https://github.com/seanwallawalla/StarVS_Docs
+
