@@ -1,0 +1,28 @@
+# GitHub forks 2023, Thursday, June 1st
+@seanpm2001
+https://github.com/seanpm2001/.github-1 -> https://github.com/seanpm2001/Debian.github
+https://github.com/seanpm2001/ratt -> https://github.com/seanpm2001/Debian_RATT
+https://github.com/seanpm2001/rsnapshot -> https://github.com/seanpm2001/Debian_RSnapshot
+https://github.com/seanpm2001/debsources -> https://github.com/seanpm2001/Debian_DebSources
+https://github.com/seanpm2001/devscripts -> https://github.com/seanpm2001/Debian_DevScripts
+https://github.com/seanpm2001/pkg-go-tools -> https://github.com/seanpm2001/Debian_PKG-Go-Tools
+https://github.com/seanpm2001/dput-ng -> https://github.com/seanpm2001/Debian_DPut-NG
+https://github.com/seanpm2001/tensorflow-1 -> https://github.com/seanpm2001/Debian_Tensorflow -> https://github.com/seanpm2001/Debian_TensorFlow
+https://github.com/seanpm2001/pytorch-1 -> https://github.com/seanpm2001/Debian_PyTorch
+https://github.com/seanpm2001/pk4 -> https://github.com/seanpm2001/Debian_PK4
+https://github.com/seanpm2001/debhelper -> https://github.com/seanpm2001/Debian_DebHelper
+https://github.com/seanpm2001/spdx-licenses -> https://github.com/seanpm2001/Debian_SPDX-Licenses
+https://github.com/seanpm2001/raspi3-image-spec -> https://github.com/seanpm2001/Debian_RasPi3-Image-Spec
+https://github.com/seanpm2001/britney2 -> https://github.com/seanpm2001/Debian_Britney2
+https://github.com/seanpm2001/intel-mkl -> https://github.com/seanpm2001/Debian_Intel-MKL
+https://github.com/seanpm2001/java-package -> https://github.com/seanpm2001/Debian_Java-Package
+https://github.com/seanpm2001/freebsd-quota -> https://github.com/seanpm2001/Debian_FreeBSD-Quota
+https://github.com/seanpm2001/xserver-xorg-video-nv -> https://github.com/seanpm2001/Debian_XServer-XORG-Video-NV
+https://github.com/seanpm2001/ufsutils -> https://github.com/seanpm2001/Debian_UFSUtils
+@seanwallawalla
+https://github.com/seanwallawalla/SeansLifeArchive_Images_Sonic-Dash_Y2023_V1
+https://github.com/seanwallawalla/Seanpm2001-VSCode
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Cloud-Print
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-GAP
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-Gherkin
+https://github.com/seanwallawalla/AI2001_Category-Meta

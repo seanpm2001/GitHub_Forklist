@@ -1,0 +1,30 @@
+# GitHub forks 2023, Friday, June 2nd
+@seanpm2001
+https://github.com/seanpm2001/kfreebsd-downloader-10 -> https://github.com/seanpm2001/Debian_KFreeBSD-Downloader-10
+https://github.com/seanpm2001/kfreebsd-defaults -> https://github.com/seanpm2001/Debian_KFreeBSD-Defaults
+https://github.com/seanpm2001/kfreebsd-11 -> https://github.com/seanpm2001/Debian_KFreeBSD-11
+https://github.com/seanpm2001/kfreebsd-10 -> https://github.com/seanpm2001/Debian_KFreeBSD-10
+https://github.com/seanpm2001/zfsutils -> https://github.com/seanpm2001/Debian_ZFSUtils
+https://github.com/seanpm2001/freebsd-smbfs -> https://github.com/seanpm2001/Debian_FreeBSD-SMBFS
+https://github.com/seanpm2001/kfreebsd-kernel-headers -> https://github.com/seanpm2001/Debian_KFreeBSD-Kernel-Headers
+https://github.com/seanpm2001/istgt -> https://github.com/seanpm2001/Debian_ISTGT
+https://github.com/seanpm2001/fuse4bsd -> https://github.com/seanpm2001/Debian_Fuse4BSD
+https://github.com/seanpm2001/freebsd-utils -> https://github.com/seanpm2001/Debian_FreeBSD-Utils
+https://github.com/seanpm2001/freebsd-manpages -> https://github.com/seanpm2001/Debian_FreeBSD-ManPages
+https://github.com/seanpm2001/freebsd-libs -> https://github.com/seanpm2001/Debian_FreeBSD-LIBs
+https://github.com/seanpm2001/freebsd-glue -> https://github.com/seanpm2001/Debian_FreeBSD-Glue
+https://github.com/seanpm2001/freebsd-buildutils -> https://github.com/seanpm2001/Debian_FreeBSD-BuildUtils
+https://github.com/seanpm2001/cuse4bsd -> https://github.com/seanpm2001/Debian_Cuse4BSD
+https://github.com/seanpm2001/ctfutils -> https://github.com/seanpm2001/Debian_CTFUtils
+https://github.com/seanpm2001/ud -> https://github.com/seanpm2001/Debian_UD
+https://github.com/seanpm2001/cdbs -> https://github.com/seanpm2001/Debian_CDBS
+https://github.com/seanpm2001/mergebot -> https://github.com/seanpm2001/Debian_MergeBot
+https://github.com/seanpm2001/rubysms ->https://github.com/seanpm2001/Adfammck_RubySMS -> https://github.com/seanpm2001/Adammck_RubySMS
+https://github.com/seanpm2001/rubygsm -> https://github.com/seanpm2001/Adammck_RubyGSM
+@seanwallawalla
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-For-Education
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-For-Startups
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-GSC
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-Haskell
+https://github.com/seanwallawalla/Service
+https://github.com/seanwallawalla/Services
