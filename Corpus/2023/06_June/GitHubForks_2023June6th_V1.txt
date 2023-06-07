@@ -1,0 +1,29 @@
+# GitHub forks 2023, Tuesday, June 6th
+@seanpm2001
+https://github.com/seanpm2001/aaa-tracker -> https://github.com/seanpm2001/Fedora-Infra_AAA-Tracker
+https://github.com/seanpm2001/fedocal-messages -> https://github.com/seanpm2001/Fedora-Infra_FedoCal-Messages
+https://github.com/seanpm2001/fas2ipa -> https://github.com/seanpm2001/Fedora-Infra_FAS2IPA
+https://github.com/seanpm2001/github2fedmsg -> https://github.com/seanpm2001/Fedora-Infra_GitHub2FedMSG
+https://github.com/seanpm2001/fedora-infra-messages -> https://github.com/seanpm2001/Fedora-Infra_Fedora-Infra-Messages
+https://github.com/seanpm2001/kitchen -> https://github.com/seanpm2001/Fedora-Infra_Kitchen
+https://github.com/seanpm2001/bodhi-ci-images -> https://github.com/seanpm2001/Fedora-Infra_Bodhi-CI-Images
+https://github.com/seanpm2001/python-fedora -> https://github.com/seanpm2001/Fedora-Infra_Python-Fedora
+https://github.com/seanpm2001/tbs -> https://github.com/seanpm2001/Fedora-Infra_TBS
+https://github.com/seanpm2001/fedmsg-migration-tools -> https://github.com/seanpm2001/Fedora-Infra_FedMSG-Migration-Tools
+https://github.com/seanpm2001/fedora-planet-messages -> https://github.com/seanpm2001/Fedora-Infra_Fedora-Planet-Messages
+https://github.com/seanpm2001/nuancier-messages -> https://github.com/seanpm2001/Fedora-Infra_Nuancier-Messages
+https://github.com/seanpm2001/fedora-messaging-schemas-issues -> https://github.com/seanpm2001/Fedora-Infra_Fedora-Messaging-Schemas-Issues
+https://github.com/seanpm2001/pdc-updater -> https://github.com/seanpm2001/Fedora-Infra_PDC-Updater
+https://github.com/seanpm2001/cookiecutter-message-schemas -> https://github.com/seanpm2001/Fedora-Infra_CookieCutter-Message-Schemas
+https://github.com/seanpm2001/geoip-city-wsgi -> https://github.com/seanpm2001/Fedora-Infra_GeoIP-City-WSGI
+https://github.com/seanpm2001/fpdc -> https://github.com/seanpm2001/Fedora-Infra_FPDC
+https://github.com/seanpm2001/fedmenu -> https://github.com/seanpm2001/Fedora-Infra_FedMenu
+https://github.com/seanpm2001/fedora-packages -> https://github.com/seanpm2001/Fedora-Infra_Fedora-Packages
+@seanwallawalla
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Podcasts
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Orkut
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-Hack
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-Inno-Setup
+https://github.com/seanwallawalla/WarmWelcome
+https://github.com/seanwallawalla/WarmWelcome_Docs
+
