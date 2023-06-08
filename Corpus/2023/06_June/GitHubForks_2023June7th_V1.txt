@@ -1,0 +1,28 @@
+# GitHub forks 2023, Wednesday, June 7th
+@seanpm2001
+https://github.com/seanpm2001/fedora-gather-easyfix -> https://github.com/seanpm2001/Fedora-Infra_Fedora-Gather-EasyFix
+https://github.com/seanpm2001/fedora-search -> https://github.com/seanpm2001/Fedora-Infra_Fedora-Search
+https://github.com/seanpm2001/stickynotes2modernpaste -> https://github.com/seanpm2001/Fedora-Infra_StickyNotes2ModernPaste
+https://github.com/seanpm2001/people2 -> https://github.com/seanpm2001/Fedora-Infra_People2
+https://github.com/seanpm2001/pkgwat.cli -> https://github.com/seanpm2001/Fedora-Infra_PKGWat.CLI
+https://github.com/seanpm2001/pkgwat.api -> https://github.com/seanpm2001/Fedora-Infra_PKGWat.API
+https://github.com/seanpm2001/noggin-old -> https://github.com/seanpm2001/Fedora-Infra_Noggin-Old
+https://github.com/seanpm2001/cspreport -> https://github.com/seanpm2001/Fedora-Infra_CSPrePort
+https://github.com/seanpm2001/taiga-contrib-oidc-auth -> https://github.com/seanpm2001/Fedora-Infra_Taiga-Contrib-OIDC-Auth
+https://github.com/seanpm2001/mailman3-fedmsg-plugin -> https://github.com/seanpm2001/Fedora-Infra_MailMan3-FedMSG-Plugin
+https://github.com/seanpm2001/taiga-contrib-fas-openid-auth -> https://github.com/seanpm2001/Fedora-Infra_Taiga-Contrib-FAS-OpenID-Auth
+https://github.com/seanpm2001/zanata2fedmsg -> https://github.com/seanpm2001/Fedora-Infra_Zanata2FedMSG
+https://github.com/seanpm2001/rdbsync -> https://github.com/seanpm2001/Fedora-Infra_RDBSync
+https://github.com/seanpm2001/sse2fedmsg -> https://github.com/seanpm2001/Fedora-Infra_SSE2FedMSG
+https://github.com/seanpm2001/fpdc-client -> https://github.com/seanpm2001/Fedora-Infra_FPDC-Client
+https://github.com/seanpm2001/fedmsg-notify -> https://github.com/seanpm2001/Fedora-Infra_FedMSG-Notify
+https://github.com/seanpm2001/fedmsg-health -> https://github.com/seanpm2001/Fedora-Infra_FedMSG-Health
+https://github.com/seanpm2001/rube -> https://github.com/seanpm2001/Fedora-Infra_Rube
+https://github.com/seanpm2001/fedmsg-atomic-composer -> https://github.com/seanpm2001/Fedora-Infra_FedMSG-Atomic-Composer
+@seanwallawalla
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Kubernetes
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Jigsaw
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-INI
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-Java
+https://github.com/seanwallawalla/SDE_MobileServer
+https://github.com/seanwallawalla/SDE_MobileServer_Docs
