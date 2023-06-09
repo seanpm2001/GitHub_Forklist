@@ -1,0 +1,29 @@
+# GitHub forks 2023, Thursday, June 8th
+@seanpm2001
+https://github.com/seanpm2001/pkgdb2 -> https://github.com/seanpm2001/Fedora-Infra_PKGDB2
+https://github.com/seanpm2001/fedmsg-genacls -> https://github.com/seanpm2001/Fedora-Infra_FedMSG-Genacls
+https://github.com/seanpm2001/statscache -> https://github.com/seanpm2001/Fedora-Infra_StatsCache
+https://github.com/seanpm2001/statscache_plugins -> https://github.com/seanpm2001/Fedora-Infra_StatsCache_Plugins
+https://github.com/seanpm2001/fmn.web -> https://github.com/seanpm2001/Fedora-Infra_FMN.Web
+https://github.com/seanpm2001/fmn.sse -> https://github.com/seanpm2001/Fedora-Infra_FMN.SSE
+https://github.com/seanpm2001/fedora-stats -> https://github.com/seanpm2001/Fedora-Infra_Fedora-Stats
+https://github.com/seanpm2001/fedora-news -> https://github.com/seanpm2001/Fedora-Infra_Fedora-News
+https://github.com/seanpm2001/fmn.consumer -> https://github.com/seanpm2001/Fedora-Infra_FMN.Consumer
+https://github.com/seanpm2001/jenkins-fedmsg-emit -> https://github.com/seanpm2001/Fedora-Infra_Jenkins-FedMSG-Emit
+https://github.com/seanpm2001/packagedb-cli -> https://github.com/seanpm2001/Fedora-Infra_PackageDB-CLI
+https://github.com/seanpm2001/faitout -> https://github.com/seanpm2001/Fedora-Infra_FaitOut
+https://github.com/seanpm2001/fmn.lib -> https://github.com/seanpm2001/Fedora-Infra_FMN.LIB
+https://github.com/seanpm2001/fmn.rules -> https://github.com/seanpm2001/Fedora-Infra_FMN.Rules
+https://github.com/seanpm2001/fresque -> https://github.com/seanpm2001/Fedora-Infra_Fresque
+https://github.com/seanpm2001/pagure-haskell -> https://github.com/seanpm2001/Fedora-Infra_Pagure-Haskell
+https://github.com/seanpm2001/trac-fedmsg-plugin -> https://github.com/seanpm2001/Fedora-Infra_Trac-FedMSG-Plugin
+https://github.com/seanpm2001/pagure-cli -> https://github.com/seanpm2001/Fedora-Infra_Pagure-CLI
+https://github.com/seanpm2001/fedora-releng-dash -> https://github.com/seanpm2001/Fedora-Infra_Fedora-ReLeng-Dash
+@seanwallawalla
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Workspace
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-WebDriver
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-JavaScript
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-JSON
+https://github.com/seanwallawalla/SDE_MobileServer_Imager
+https://github.com/seanwallawalla/SDE_MobileServer_TestZone
+
