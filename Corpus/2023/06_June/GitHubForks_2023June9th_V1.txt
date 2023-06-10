@@ -1,0 +1,29 @@
+# GitHub forks 2023, Friday, June 9th
+@seanpm2001
+https://github.com/seanpm2001/fedora-stats-tools -> https://github.com/seanpm2001/Fedora-Infra_Fedora-Stats-Tools
+https://github.com/seanpm2001/githubtools -> https://github.com/seanpm2001/Fedora-Infra_GitHubTools
+https://github.com/seanpm2001/fedmsg-fasclient -> https://github.com/seanpm2001/Fedora-Infra_FedMSG-FASClient
+https://github.com/seanpm2001/packagedb -> https://github.com/seanpm2001/Fedora-Infra_PackageDB
+https://github.com/seanpm2001/gilmsg -> https://github.com/seanpm2001/Fedora-Infra_GILMSG
+https://github.com/seanpm2001/fas-client -> https://github.com/seanpm2001/Fedora-Infra_FAS-Client
+https://github.com/seanpm2001/shumgrepper -> https://github.com/seanpm2001/Fedora-Infra_ShumGrepper
+https://github.com/seanpm2001/is-it-in-rhel -> https://github.com/seanpm2001/Fedora-Infra_Is-It-In-RHEL
+https://github.com/seanpm2001/fedmsg-java -> https://github.com/seanpm2001/Fedora-Infra_FedMSG-Java
+https://github.com/seanpm2001/pagure-hook-receiver -> https://github.com/seanpm2001/Fedora-Infra_Pagure-Hook-Receiver
+https://github.com/seanpm2001/fedmsg2statsd -> https://github.com/seanpm2001/Fedora-Infra_FedMSG2StatsD
+https://github.com/seanpm2001/fedinfra-currentreboots -> https://github.com/seanpm2001/Fedora-Infra_FedInfra-CurrentReboots
+https://github.com/seanpm2001/fas3-api-haskell -> https://github.com/seanpm2001/Fedora-Infra_FAS3-API-Haskell
+https://github.com/seanpm2001/summershum -> https://github.com/seanpm2001/Fedora-Infra_SummersHum
+https://github.com/seanpm2001/canvass -> https://github.com/seanpm2001/Fedora-Infra_Canvass
+https://github.com/seanpm2001/JSAutoLogin -> https://github.com/seanpm2001/Fedora-Infra_JSAutoLogin
+https://github.com/seanpm2001/fedmsg-wp -> https://github.com/seanpm2001/Fedora-Infra_FedMSG-WP
+https://github.com/seanpm2001/flock-registration -> https://github.com/seanpm2001/Fedora-Infra_Flock-Registration
+https://github.com/seanpm2001/ideas -> https://github.com/seanpm2001/Fedora-Infra_Ideas
+@seanwallawalla
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-StreetView
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Maps
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-J
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-Jsonnet
+https://github.com/seanwallawalla/SDE_MobileServer_Android
+https://github.com/seanwallawalla/SDE_MobileServer_FireOS
+
