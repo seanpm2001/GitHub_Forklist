@@ -1,0 +1,29 @@
+# GitHub forks 2023, Saturday, June 10th
+@seanpm2001
+https://github.com/seanpm2001/pygit2_utils -> https://github.com/seanpm2001/Fedora-Infra_PyGit2_Utils
+https://github.com/seanpm2001/mobile -> https://github.com/seanpm2001/Fedora-Infra_Mobile
+https://github.com/seanpm2001/copr-scala -> https://github.com/seanpm2001/Fedora-Infra_COPR-Scala
+https://github.com/seanpm2001/android-pusher -> https://github.com/seanpm2001/Fedora-Infra_Android-Pusher
+https://github.com/seanpm2001/hrf -> https://github.com/seanpm2001/Fedora-Infra_HRF
+https://github.com/seanpm2001/askbot-fedmsg -> https://github.com/seanpm2001/Fedora-Infra_AskBot-FedMSG
+https://github.com/seanpm2001/spechub -> https://github.com/seanpm2001/Fedora-Infra_SpecHub
+https://github.com/seanpm2001/fedmsg-pkgdb-sync-git -> https://github.com/seanpm2001/Fedora-Infra_FedMSG-PKGDB-Sync-Git
+https://github.com/seanpm2001/busmon -> https://github.com/seanpm2001/Fedora-Infra_BusMon
+https://github.com/seanpm2001/fedhubsync -> https://github.com/seanpm2001/Fedora-Infra_FedHubSync
+https://github.com/seanpm2001/gnome-tagger -> https://github.com/seanpm2001/Fedora-Infra_GNOME-Tagger
+https://github.com/seanpm2001/fedmsg-gcm-demo -> https://github.com/seanpm2001/Fedora-Infra_FedMSG-GCM-Demo
+https://github.com/seanpm2001/fedora-openhw2012 -> https://github.com/seanpm2001/Fedora-Infra_Fedora-OpenHW2012
+https://github.com/seanpm2001/fedmsg_middleware -> https://github.com/seanpm2001/Fedora-Infra_FedMSG_Middleware
+https://github.com/seanpm2001/backgrounds -> https://github.com/seanpm2001/FedoraDesign_Backgrounds
+https://github.com/seanpm2001/coloringbook-eda -> https://github.com/seanpm2001/FedoraDesign_ColoringBook-EDA
+https://github.com/seanpm2001/brand-guidelines -> https://github.com/seanpm2001/FedoraDesign_Brand-Guidelines
+https://github.com/seanpm2001/fedora-presentation-template -> https://github.com/seanpm2001/FedoraDesign_Fedora-Presentation-Template
+https://github.com/seanpm2001/em-imap -> https://github.com/seanpm2001/ConradIrwin_EM-IMAP
+@seanwallawalla
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Earth
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-JetBrains-MPS
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-Kotlin
+https://github.com/seanwallawalla/SDE_MobileServer_iOS
+https://github.com/seanwallawalla/SDE_MobileServer_iPadOS
+
