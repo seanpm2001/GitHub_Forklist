@@ -1,0 +1,29 @@
+# GitHub forks 2023, Tuesday, June 13th
+@seanpm2001
+https://github.com/seanpm2001/adwaita-qt -> https://github.com/seanpm2001/FedoraQT_Adwaita-QT
+https://github.com/seanpm2001/highcontrast-qt -> https://github.com/seanpm2001/FedoraQT_HighContrast-QT
+https://github.com/seanpm2001/fido-device-onboard-rs -> https://github.com/seanpm2001/Fedora-IoT_FIDO-Device-OnBoard-RS
+https://github.com/seanpm2001/iot-docs -> https://github.com/seanpm2001/Fedora-IoT_IoT-Docs
+https://github.com/seanpm2001/greenboot -> https://github.com/seanpm2001/Fedora-IoT_GreenBoot
+https://github.com/seanpm2001/ignition-edge -> https://github.com/seanpm2001/Fedora-IoT_Ignition-Edge
+https://github.com/seanpm2001/zezere -> https://github.com/seanpm2001/Fedora-IoT_Zezere
+https://github.com/seanpm2001/dbus-parsec -> https://github.com/seanpm2001/Fedora-IoT_DBus-ParSec
+https://github.com/seanpm2001/clevis-pin-tpm2 -> https://github.com/seanpm2001/Fedora-IoT_Clevis-Pin-TPM2
+https://github.com/seanpm2001/rpm-head-signing -> https://github.com/seanpm2001/Fedora-IoT_RPM-Head-Signing
+https://github.com/seanpm2001/rust-tpm2-policy -> https://github.com/seanpm2001/Fedora-IoT_Rust-TPM2-Policy
+https://github.com/seanpm2001/fido-device-onboard-rs-consoledot -> https://github.com/seanpm2001/Fedora-IoT_FIDO-Device-OnBoard-RS-ConsoleDot
+https://github.com/seanpm2001/otto -> https://github.com/seanpm2001/Fedora-IoT_Otto
+https://github.com/seanpm2001/ansible -> https://github.com/seanpm2001/Fedora-IoT_Ansible
+https://github.com/seanpm2001/ima-policies -> https://github.com/seanpm2001/Fedora-IoT_IMA-Policies
+https://github.com/seanpm2001/keyring-ima-signer -> https://github.com/seanpm2001/Fedora-IoT_KeyRing-IMA-Signer
+https://github.com/seanpm2001/silverblue-docs -> https://github.com/seanpm2001/Fedora-SilverBlue_SilverBlue-Docs
+https://github.com/seanpm2001/.github-1 -> https://github.com/seanpm2001/Fedora-SilverBlue.github
+https://github.com/seanpm2001/silverblue-site -> https://github.com/seanpm2001/Fedora-SilverBlue_SilverBlue-Site
+@seanwallawalla
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-Zagat
+https://github.com/seanwallawalla/Why-you-should-stop-using-Google-V8
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-Limbo
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-Lean
+https://github.com/seanwallawalla/SDE_MobileServer_Plugins_WordPress
+https://github.com/seanwallawalla/SDE_MobileServer_Plugins_MediaWiki
+
