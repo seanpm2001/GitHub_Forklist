@@ -1,0 +1,111 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification/
+//// GitHub forks 2023 September 13th
+//// Starting 2023 September 9th, I am now increasing the daily star, watch, and fork count, due to a lack of progress on my timeline. I will now fork 92-100 repositories per day, instead of 17-25 repositories per day
+https://github.com/seanpm2001/constructs -> https://github.com/seanpm2001/AWS_Constructs
+https://github.com/seanpm2001/aws-lambda-dotnet -> https://github.com/seanpm2001/AWS_AWS-Lambda-DotNET
+https://github.com/seanpm2001/aws-tools-for-powershell -> https://github.com/seanpm2001/AWS_AWS-Tools-For-PowerShell
+https://github.com/seanpm2001/secrets-store-csi-driver-provider-aws -> https://github.com/seanpm2001/AWS_Secrets-Store-CSI-Driver-Provider-AWS
+https://github.com/seanpm2001/jsii -> https://github.com/seanpm2001/AWS_JSII
+https://github.com/seanpm2001/aws-cdi-sdk -> https://github.com/seanpm2001/AWS_AWS-CDI-SDK
+https://github.com/seanpm2001/aws-sdk-net -> https://github.com/seanpm2001/AWS_AWS-SDK-NET
+https://github.com/seanpm2001/aws-sdk-java -> https://github.com/seanpm2001/AWS_AWS-SDK-Java
+https://github.com/seanpm2001/aws-toolkit-common -> https://github.com/seanpm2001/AWS_AWS-ToolKit-Common
+https://github.com/seanpm2001/aws-encryption-sdk-cli -> https://github.com/seanpm2001/AWS_AWS-Encryption-SDK-CLI
+https://github.com/seanpm2001/aws-secretsmanager-jdbc -> https://github.com/seanpm2001/AWS_AWS-SecretsManager-JDBC
+https://github.com/seanpm2001/aws-node-termination-handler -> https://github.com/seanpm2001/AWS_AWS-Node-Termination-Handler
+https://github.com/seanpm2001/aws-secretsmanager-caching-net -> https://github.com/seanpm2001/AWS_AWS-SecretsManager-Caching-NET
+https://github.com/seanpm2001/aws-app-mesh-controller-for-k8s -> https://github.com/seanpm2001/AWS_AWS-App-Mesh-Controller-For-K8S
+https://github.com/seanpm2001/aws-eks-best-practices -> https://github.com/seanpm2001/AWS_AWS-EKS-Best-Practices
+https://github.com/seanpm2001/amazon-states-language-service -> https://github.com/seanpm2001/AWS_Amazon-States-Language-Service
+https://github.com/seanpm2001/aws-toolkit-jetbrains -> https://github.com/seanpm2001/AWS_AWS-ToolKit-JetBrains
+https://github.com/seanpm2001/aws-secretsmanager-caching-go -> https://github.com/seanpm2001/AWS_AWS-SecretsManager-Caching-Go
+https://github.com/seanpm2001/aws-mwaa-local-runner -> https://github.com/seanpm2001/AWS_AWS-MWAA-Local-Runner
+https://github.com/seanpm2001/grunt-electron-installer -> https://github.com/seanpm2001/Electron-Archive_Grunt-Electron-Installer
+https://github.com/seanpm2001/brightray_example -> https://github.com/seanpm2001/Electron-Archive_BrightRay_Example
+https://github.com/seanpm2001/node-chromium-pickle -> https://github.com/seanpm2001/Electron-Archive_Node-Chromium-Pickle
+https://github.com/seanpm2001/electron-jasmine -> https://github.com/seanpm2001/Electron-Archive_Electron-Jasmine
+https://github.com/seanpm2001/compile-cache -> https://github.com/seanpm2001/Electron-Archive_Compile-Cache
+https://github.com/seanpm2001/husk-cli -> https://github.com/seanpm2001/Electron-Archive_Husk-CLI
+https://github.com/seanpm2001/electron-manifesto -> https://github.com/seanpm2001/Electron-Archive_Electron-Manifesto
+https://github.com/seanpm2001/Chatbook -> https://github.com/seanpm2001/WolfRamResearch_Chatbook
+https://github.com/seanpm2001/wolfram-library-link-rs -> https://github.com/seanpm2001/WolfRamResearch_WolfRam-LIBrary-Link-RS
+https://github.com/seanpm2001/wstp-rs -> https://github.com/seanpm2001/WolfRamResearch_WSTP-RS
+https://github.com/seanpm2001/PacletCICD -> https://github.com/seanpm2001/WolfRamResearch_PacletCICD
+https://github.com/seanpm2001/test-paclet -> https://github.com/seanpm2001/WolfRamResearch_Test-Paclet
+https://github.com/seanpm2001/submit-paclet -> https://github.com/seanpm2001/WolfRamResearch_Submit-Paclet
+https://github.com/seanpm2001/check-paclet -> https://github.com/seanpm2001/WolfRamResearch_Check-Paclet
+https://github.com/seanpm2001/build-paclet -> https://github.com/seanpm2001/WolfRamResearch_Build-Paclet
+https://github.com/seanpm2001/wolfram-app-discovery-rs -> https://github.com/seanpm2001/WolfRamResearch_WolfRam-App-Discovery-RS
+https://github.com/seanpm2001/WAS-Kubernetes -> https://github.com/seanpm2001/WolfRamResearch_WAS-Kubernetes
+https://github.com/seanpm2001/OpenCascadeLink -> https://github.com/seanpm2001/WolfRamResearch_OpenCascadeLink
+https://github.com/seanpm2001/FEMAddOns -> https://github.com/seanpm2001/WolfRamResearch_FEMAddOns
+https://github.com/seanpm2001/wolfram-expr-rs -> https://github.com/seanpm2001/WolfRamResearch_WolfRam-Expr-RS
+https://github.com/seanpm2001/PacletCICD-Examples-AdvancedSample -> https://github.com/seanpm2001/WolfRamResearch_PacletCICD-Examples-AdvancedSample
+https://github.com/seanpm2001/Sublime-WolframLanguage -> https://github.com/seanpm2001/WolfRamResearch_Sublime-WolframLanguage
+https://github.com/seanpm2001/vscode-wolfram -> https://github.com/seanpm2001/WolfRamResearch_VSCode-WolfRam
+https://github.com/seanpm2001/LSPServer -> https://github.com/seanpm2001/WolfRamResearch_LSPServer
+https://github.com/seanpm2001/codeinspector -> https://github.com/seanpm2001/WolfRamResearch_CodeInspector
+https://github.com/seanpm2001/codeparser -> https://github.com/seanpm2001/WolfRamResearch_CodeParser
+https://github.com/seanpm2001/BioFormatsLink -> https://github.com/seanpm2001/WolfRamResearch_BioFormatsLink
+https://github.com/seanpm2001/codeformatter -> https://github.com/seanpm2001/WolfRamResearch_CodeFormatter
+https://github.com/seanpm2001/GitLink -> https://github.com/seanpm2001/WolfRamResearch_GitLink
+https://github.com/seanpm2001/PacletCICD-Examples-MoreIssues -> https://github.com/seanpm2001/WolfRamResearch_PacletCICD-Examples-MoreIssues
+https://github.com/seanpm2001/PacletCICD-Examples-FewIssues -> https://github.com/seanpm2001/WolfRamResearch_PacletCICD-Examples-FewIssues
+https://github.com/seanpm2001/PacletCICD-Examples-CompiledLibrary -> https://github.com/seanpm2001/WolfRamResearch_PacletCICD-Examples-CompiledLibrary
+https://github.com/seanpm2001/PacletCICD-Examples-Sample -> https://github.com/seanpm2001/WolfRamResearch_PacletCICD-Examples-Sample
+//// ALREADY STARRED AND FORKED https://github.com/seanpm2001/WolframLanguageForJupyter
+https://github.com/seanpm2001/LibraryLinkUtilities -> https://github.com/seanpm2001/WolfRamResearch_LibraryLinkUtilities
+https://github.com/seanpm2001/WolframWebEngineForPython -> https://github.com/seanpm2001/WolfRamResearch_WolframWebEngineForPython
+https://github.com/seanpm2001/AWSLambda-WolframLanguage -> https://github.com/seanpm2001/WolfRamResearch_AWSLambda-WolframLanguage
+https://github.com/seanpm2001/WL-FunctionCompile-CI-Template -> https://github.com/seanpm2001/WolfRamResearch_WL-FunctionCompile-CI-Template
+https://github.com/seanpm2001/reback-js -> https://github.com/seanpm2001/WolfRamResearch_ReBack-JS
+https://github.com/seanpm2001/sync-promise-js -> https://github.com/seanpm2001/WolfRamResearch_Sync-Promise-JS
+https://github.com/seanpm2001/loggers-js -> https://github.com/seanpm2001/WolfRamResearch_Loggers-JS
+https://github.com/seanpm2001/wolfram-notebook-embedder -> https://github.com/seanpm2001/WolfRamResearch_WolfRam-NoteBook-Embedder
+https://github.com/seanpm2001/GurobiLink -> https://github.com/seanpm2001/WolfRamResearch_GurobiLink
+https://github.com/seanpm2001/WolframClientForPython -> https://github.com/seanpm2001/WolfRamResearch_WolframClientForPython
+https://github.com/seanpm2001/MongoLink -> https://github.com/seanpm2001/WolfRamResearch_MongoLink
+https://github.com/seanpm2001/CSSTools -> https://github.com/seanpm2001/WolfRamResearch_CSSTools
+https://github.com/seanpm2001/Arrival-Movie-Live-Coding -> https://github.com/seanpm2001/WolfRamResearch_Arrival-Movie-Live-Coding
+https://github.com/seanpm2001/semantic-math -> https://github.com/seanpm2001/WolfRamResearch_Semantic-Math
+https://github.com/seanpm2001/GitLink-Talk -> https://github.com/seanpm2001/WolfRamResearch_GitLink-Talk
+https://github.com/seanpm2001/RhinoLink -> https://github.com/seanpm2001/WolfRamResearch_RhinoLink
+https://github.com/seanpm2001/DistMesh -> https://github.com/seanpm2001/WolfRamResearch_DistMesh
+https://github.com/seanpm2001/wolframresearch.github.io //// -> No fork needed
+https://github.com/seanpm2001/Data-Curation-Training -> https://github.com/seanpm2001/WolfRamResearch_Data-Curation-Training
+https://github.com/seanpm2001/draw -> https://github.com/seanpm2001/WolfRamResearch_Draw
+https://github.com/seanpm2001/amazon-braket-containers -> https://github.com/seanpm2001/Amazon-Braket_Amazon-Braket-Containers
+//// ALREADY STARRED AND FORKED https://github.com/seanpm2001/Amazon-Braket_Amazon-Braket-Examples
+https://github.com/seanpm2001/amazon-braket-sdk-python -> https://github.com/seanpm2001/Amazon-Braket_Amazon-Braket-SDK-Python
+https://github.com/seanpm2001/amazon-braket-pennylane-plugin-python -> https://github.com/seanpm2001/Amazon-Braket_Amazon-Braket-PennyLane-Plugin-Python
+https://github.com/seanpm2001/amazon-braket-default-simulator-python -> https://github.com/seanpm2001/Amazon-Braket_Amazon-Braket-Default-Simulator-Python
+https://github.com/seanpm2001/amazon-braket-schemas-python -> https://github.com/seanpm2001/Amazon-Braket_Amazon-Braket-Schemas-Python
+https://github.com/seanpm2001/amazon-braket-build-tools -> https://github.com/seanpm2001/Amazon-Braket_Amazon-Braket-Build-Tools
+https://github.com/seanpm2001/amazon-braket-ocean-plugin-python -> https://github.com/seanpm2001/Amazon-Braket_Amazon-Braket-Ocean-Plugin-Python
+https://github.com/seanpm2001/amazon-braket-strawberryfields-plugin-python -> https://github.com/seanpm2001/Amazon-Braket_Amazon-Braket-StrawberryFields-Plugin-Python
+https://github.com/seanpm2001/node-ci -> https://github.com/seanpm2001/PhotoIonization_Node-CI
+https://github.com/seanpm2001/kizunapi -> https://github.com/seanpm2001/PhotoIonization_KizunAPI
+https://github.com/seanpm2001/node_with_gn -> https://github.com/seanpm2001/PhotoIonization_Node_With_GN
+https://github.com/seanpm2001/logo -> https://github.com/seanpm2001/PhotoIonization_Logo
+https://github.com/seanpm2001/build_chromium -> https://github.com/seanpm2001/PhotoIonization_Build_Chromium
+https://github.com/seanpm2001/monkey-patch -> https://github.com/seanpm2001/IOCave_Monkey-Patch
+https://github.com/seanpm2001/customize-ui -> https://github.com/seanpm2001/IOCave_Customize-UI
+https://github.com/seanpm2001/gn-project-generators -> https://github.com/seanpm2001/IOCave_GN-Project-Generators
+https://github.com/seanpm2001/GuardianConnect-Android -> https://github.com/seanpm2001/GuardianFirewall_GuardianConnect-Android
+https://github.com/seanpm2001/GuardianConnect -> https://github.com/seanpm2001/GuardianFirewall_GuardianConnect
+https://github.com/seanpm2001/GuardianWireGuard -> https://github.com/seanpm2001/GuardianFirewall_GuardianWireGuard
+https://github.com/seanpm2001/grd-wireguard-apple -> https://github.com/seanpm2001/GuardianFirewall_GRD-WireGuard-Apple
+https://github.com/seanpm2001/APT_CyberCriminal_Campagin_Collections -> https://github.com/seanpm2001/CyberMonitor_APT_CyberCriminal_Campagin_Collections
+https://github.com/seanpm2001/china-dictatorship -> https://github.com/seanpm2001/CiroSantilli_China-Dictatorship
+//// Repository renames
+https://github.com/seanpm2001/WolframLanguageForJupyter -> https://github.com/seanpm2001/WolfRamResearch_WolframLanguageForJupyter
+https://github.com/seanpm2001/Amazon-Braket_Amazon-Braket-Examples //// -> No rename needed
+//// Taking another break from the main queue, no other queue was worked with today.
+//// @seanwallawalla
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-GraphVizDOT
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-GraphQL
+https://github.com/seanwallawalla/AudiBass_Manager_Docs
+https://github.com/seanwallawalla/MalNotch_Docs
+https://github.com/seanwallawalla/FINF-DB_Docs
+https://github.com/seanwallawalla/ChromaTags_ForGit_Docs
