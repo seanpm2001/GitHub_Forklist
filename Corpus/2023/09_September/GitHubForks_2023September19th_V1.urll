@@ -1,0 +1,110 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification/
+//// GitHub forks 2023 September 19th
+//// Starting 2023 September 9th, I am now increasing the daily star, watch, and fork count, due to a lack of progress on my timeline. I will now fork 92-100 repositories per day, instead of 17-25 repositories per day
+https://github.com/seanpm2001/studio-lab-examples -> https://github.com/seanpm2001/AWS_Studio-Lab-Examples
+https://github.com/seanpm2001/Device-Shadow-for-AWS-IoT-embedded-sdk -> https://github.com/seanpm2001/AWS_Device-Shadow-For-AWS-IoT-Embedded-SDK
+https://github.com/seanpm2001/Fleet-Provisioning-for-AWS-IoT-embedded-sdk -> https://github.com/seanpm2001/AWS_Fleet-Provisioning-For-AWS-IoT-Embedded-SDK
+https://github.com/seanpm2001/SigV4-for-AWS-IoT-embedded-sdk -> https://github.com/seanpm2001/AWS_SigV4-For-AWS-IoT-Embedded-SDK
+https://github.com/seanpm2001/Jobs-for-AWS-IoT-embedded-sdk -> https://github.com/seanpm2001/AWS_Jobs-For-AWS-IoT-Embedded-SDK
+https://github.com/seanpm2001/Device-Defender-for-AWS-IoT-embedded-sdk -> https://github.com/seanpm2001/AWS_Device-Defender-For-AWS-IoT-Embedded-SDK
+https://github.com/seanpm2001/aws-k8s-tester -> https://github.com/seanpm2001/AWS_AWS-K8S-Tester
+https://github.com/seanpm2001/aws-cloud-map-mcs-controller-for-k8s -> https://github.com/seanpm2001/AWS_AWS-Cloud-Map-MCS-Controller-For-K8S
+https://github.com/seanpm2001/aws-encryption-sdk-c -> https://github.com/seanpm2001/AWS_AWS-Encryption-SDK-C
+https://github.com/seanpm2001/porting-assistant-dotnet-visual-studio-ide-extension -> https://github.com/seanpm2001/AWS_Porting-Assistant-DotNET-Visual-Studio-IDE-Extension
+https://github.com/seanpm2001/cta -> https://github.com/seanpm2001/AWS_CTA
+https://github.com/seanpm2001/aws-lambda-base-images -> https://github.com/seanpm2001/AWS_AWS-Lambda-Base-Images
+https://github.com/seanpm2001/amazon-ec2-spot-interrupter -> https://github.com/seanpm2001/AWS_Amazon-EC2-Spot-Interrupter
+https://github.com/seanpm2001/firelens-datajet -> https://github.com/seanpm2001/AWS_FireLens-DataJet
+https://github.com/seanpm2001/amazon-ssm-agent-selinux -> https://github.com/seanpm2001/AWS_Amazon-SSM-Agent-SELinux
+https://github.com/seanpm2001/aws-xray-sdk-java -> https://github.com/seanpm2001/AWS_AWS-XRay-SDK-Java
+https://github.com/seanpm2001/aws-app-mesh-examples -> https://github.com/seanpm2001/AWS_AWS-App-Mesh-Examples
+https://github.com/seanpm2001/shim-loggers-for-containerd -> https://github.com/seanpm2001/AWS_Shim-Loggers-For-ContainerD
+https://github.com/seanpm2001/global-change-data-lab.org -> https://github.com/seanpm2001/OWID_Global-Change-Data-Lab.ORG
+https://github.com/seanpm2001/owid-datautils-py -> https://github.com/seanpm2001/OWID_OWID-DataUtils-Py
+https://github.com/seanpm2001/owid-repack-py -> https://github.com/seanpm2001/OWID_OWID-RePack-Py
+https://github.com/seanpm2001/poverty-data -> https://github.com/seanpm2001/OWID_Poverty-Data
+https://github.com/seanpm2001/imp.presentation -> https://github.com/seanpm2001/Impulse-Org_IMP.Presentation
+https://github.com/seanpm2001/imp.prefspecs -> https://github.com/seanpm2001/Impulse-Org_IMP.PrefSpecs
+https://github.com/seanpm2001/pdb.values.test -> https://github.com/seanpm2001/Impulse-Org_PDB.Values.Test
+https://github.com/seanpm2001/imp.pom -> https://github.com/seanpm2001/Impulse-Org_IMP.POM
+https://github.com/seanpm2001/pdb -> https://github.com/seanpm2001/Impulse-Org_PDB
+https://github.com/seanpm2001/imp.runtime.feature -> https://github.com/seanpm2001/Impulse-Org_IMP.Runtime.Feature
+https://github.com/seanpm2001/imp.xform.test -> https://github.com/seanpm2001/Impulse-Org_IMP.XForm.Test
+https://github.com/seanpm2001/imp.xform -> https://github.com/seanpm2001/Impulse-Org_IMP.XForm
+https://github.com/seanpm2001/imp.update -> https://github.com/seanpm2001/Impulse-Org_IMP.Update
+https://github.com/seanpm2001/imp.ui.explorer -> https://github.com/seanpm2001/Impulse-Org_IMP.UI.Explorer
+https://github.com/seanpm2001/imp.test.null -> https://github.com/seanpm2001/Impulse-Org_IMP.Test.Null
+https://github.com/seanpm2001/imp.test.non -> https://github.com/seanpm2001/Impulse-Org_IMP.Test.Non
+https://github.com/seanpm2001/imp.test.except -> https://github.com/seanpm2001/Impulse-Org_IMP.Test.Except
+https://github.com/seanpm2001/imp.smapifier -> https://github.com/seanpm2001/Impulse-Org_IMP.Smapifier
+https://github.com/seanpm2001/imp.smapi -> https://github.com/seanpm2001/Impulse-Org_IMP.Smapi
+https://github.com/seanpm2001/imp.releng.update -> https://github.com/seanpm2001/Impulse-Org_IMP.ReLeng.Update
+https://github.com/seanpm2001/imp.releng.feature -> https://github.com/seanpm2001/Impulse-Org_IMP.ReLeng.Feature
+https://github.com/seanpm2001/imp.releng -> https://github.com/seanpm2001/Impulse-Org_IMP.ReLeng
+https://github.com/seanpm2001/netguard -> https://github.com/seanpm2001/DuckDuckGo_NetGuard
+https://github.com/seanpm2001/zeroclickinfo-goodie-chords -> https://github.com/seanpm2001/DuckDuckGo_ZeroClickInfo-Goodie-Chords //// BUT NOT FORKED UNTIL TODAY
+https://github.com/seanpm2001/DuckDuckHack-APIs -> https://github.com/seanpm2001/DuckDuckGo_DuckDuckHack-APIs //// BUT NOT FORKED UNTIL TODAY
+https://github.com/seanpm2001/TrackerRadarKit -> https://github.com/seanpm2001/DuckDuckGo_TrackerRadarKit
+https://github.com/seanpm2001/DuckDuckBox -> https://github.com/seanpm2001/DuckDuckGo_DuckDuckBox //// BUT NOT FORKED UNTIL TODAY
+https://github.com/seanpm2001/Launchpad -> https://github.com/seanpm2001/DuckDuckGo_Launchpad //// BUT NOT FORKED UNTIL TODAY
+https://github.com/seanpm2001/p5-app-duckduckgo-ui -> https://github.com/seanpm2001/DuckDuckGo_P5-App-DuckDuckGo-UI //// BUT NOT FORKED UNTIL TODAY
+https://github.com/seanpm2001/zeroclickinfo-goodie-spell -> https://github.com/seanpm2001/DuckDuckGo_ZeroClickInfo-Goodie-Spell //// BUT NOT FORKED UNTIL TODAY
+https://github.com/seanpm2001/privacy-dashboard -> https://github.com/seanpm2001/DuckDuckGo_Privacy-Dashboard
+https://github.com/seanpm2001/ddg2dnr -> https://github.com/seanpm2001/DuckDuckGo_DDG2DNR
+https://github.com/seanpm2001/windows-zeroclickinfo -> https://github.com/seanpm2001/DuckDuckGo_Windows-ZeroClickInfo //// BUT NOT FORKED UNTIL TODAY
+https://github.com/seanpm2001/eslint-config-duckduckgo -> https://github.com/seanpm2001/DuckDuckGo_ESLint-Config-DuckDuckGo //// BUT NOT FORKED UNTIL TODAY
+https://github.com/seanpm2001/content-blocking-lists -> https://github.com/seanpm2001/DuckDuckGo_Content-Blocking-Lists
+https://github.com/seanpm2001/wireguard-apple -> https://github.com/seanpm2001/DuckDuckGo_WireGuard-Apple
+https://github.com/seanpm2001/p5-dist-zilla-plugin-uploadtoduckpan -> https://github.com/seanpm2001/DuckDuckGo_P5-Dist-Zilla-Plugin-UploadToDuckPan //// BUT NOT FORKED UNTIL TODAY
+https://github.com/seanpm2001/community-platform-static -> https://github.com/seanpm2001/DuckDuckGo_Community-Platform-Static //// BUT NOT FORKED UNTIL TODAY
+https://github.com/seanpm2001/privacy-grade -> https://github.com/seanpm2001/DuckDuckGo_Privacy-Grade //// BUT NOT FORKED UNTIL TODAY
+https://github.com/seanpm2001/p5-www-duckduckgo -> https://github.com/seanpm2001/DuckDuckGo_P5-WWW-DuckDuckGo //// BUT NOT FORKED UNTIL TODAY
+https://github.com/seanpm2001/privacy-reference-tests -> https://github.com/seanpm2001/DuckDuckGo_Privacy-Reference-Tests
+https://github.com/seanpm2001/DaxMailer -> https://github.com/seanpm2001/DuckDuckGo_DaxMailer //// BUT NOT FORKED UNTIL TODAY
+https://github.com/seanpm2001/p5-duckpan-installer -> https://github.com/seanpm2001/DuckDuckGo_P5-DuckPan-Installer //// BUT NOT FORKED UNTIL TODAY
+https://github.com/seanpm2001/imp.preferences -> https://github.com/seanpm2001/Impulse-Org_IMP.Preferences
+https://github.com/seanpm2001/imp.metatooling.feature -> https://github.com/seanpm2001/Impulse-Org_IMP.MetaTooling.Feature
+https://github.com/seanpm2001/imp.metatooling -> https://github.com/seanpm2001/Impulse-Org_IMP.MetaTooling
+https://github.com/seanpm2001/imp.lpg.metatooling -> https://github.com/seanpm2001/Impulse-Org_IMP.LPG.MetaTooling
+https://github.com/seanpm2001/imp.lpg.ide -> https://github.com/seanpm2001/Impulse-Org_IMP.LPG.IDE
+https://github.com/seanpm2001/imp.lpg.feature -> https://github.com/seanpm2001/Impulse-Org_IMP.LPG.Feature
+https://github.com/seanpm2001/imp.lpg.analysis -> https://github.com/seanpm2001/Impulse-Org_IMP.LPG.Analysis
+https://github.com/seanpm2001/imp.lpg -> https://github.com/seanpm2001/Impulse-Org_IMP.LPG
+https://github.com/seanpm2001/imp.leg.test -> https://github.com/seanpm2001/Impulse-Org_IMP.Leg.Test
+https://github.com/seanpm2001/imp.leg -> https://github.com/seanpm2001/Impulse-Org_IMP.Leg
+https://github.com/seanpm2001/imp.java.hosted.feature -> https://github.com/seanpm2001/Impulse-Org_IMP.Java.Hosted.Feature
+https://github.com/seanpm2001/imp.java.hosted -> https://github.com/seanpm2001/Impulse-Org_IMP.Java.Hosted
+https://github.com/seanpm2001/imp.java.core -> https://github.com/seanpm2001/Impulse-Org_IMP.Java.Core
+https://github.com/seanpm2001/imp.formatting.metatooling -> https://github.com/seanpm2001/Impulse-Org_IMP.Formatting.MetaTooling
+https://github.com/seanpm2001/imp.formatting.feature -> https://github.com/seanpm2001/Impulse-Org_IMP.Formatting.Feature
+https://github.com/seanpm2001/imp.formatting -> https://github.com/seanpm2001/Impulse-Org_IMP.Formatting
+https://github.com/seanpm2001/imp.doc -> https://github.com/seanpm2001/Impulse-Org_IMP.Doc
+https://github.com/seanpm2001/imp.cheatsheets -> https://github.com/seanpm2001/Impulse-Org_IMP.CheatSheets
+https://github.com/seanpm2001/imp.box.tests -> https://github.com/seanpm2001/Impulse-Org_IMP.Box.Tests
+https://github.com/seanpm2001/imp.box -> https://github.com/seanpm2001/Impulse-Org_IMP.Box
+https://github.com/seanpm2001/imp.asl -> https://github.com/seanpm2001/Impulse-Org_IMP.ASL
+https://github.com/seanpm2001/imp.asl.ui -> https://github.com/seanpm2001/Impulse-Org_IMP.ASI.UI
+https://github.com/seanpm2001/imp.ant -> https://github.com/seanpm2001/Impulse-Org_IMP.Ant
+https://github.com/seanpm2001/GeoTweets -> https://github.com/seanpm2001/NelStrom_GeoTweets
+https://github.com/seanpm2001/Sencha-Touch-templates-demo -> https://github.com/seanpm2001/NelStrom_Sencha-Touch-Templates-Demo
+https://github.com/seanpm2001/Sencha-Touch-listeners-demo -> https://github.com/seanpm2001/NelStrom_Sencha-Touch-Listeners-Demo
+https://github.com/seanpm2001/worker-dom-mfe -> https://github.com/seanpm2001/CharlesVG_Worker-DOM-MFE
+https://github.com/seanpm2001/linux-1 -> https://github.com/seanpm2001/DTrace4Linux_Linux
+https://github.com/seanpm2001/h2spec -> https://github.com/seanpm2001/SummerWind_H2Spec
+https://github.com/seanpm2001/ebc-cj -> https://github.com/seanpm2001/Kristiandz_EBC-CJ
+https://github.com/seanpm2001/kyua -> https://github.com/seanpm2001/JMMV_Kyua
+https://github.com/seanpm2001/atf -> https://github.com/seanpm2001/JMMV_ATF
+https://github.com/seanpm2001/lutok -> https://github.com/seanpm2001/JMMV_Lutok
+//// Repository renames
+//// ----
+//// Finishing off the current main queue today (2023.09.18)
+//// No new data to work with (2023.09.19)
+//// ----
+//// @seanwallawalla
+https://github.com/seanwallawalla/WhyPadOS_Docs
+https://github.com/seanwallawalla/WhyPhoneOS_Docs
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-HolyC
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-HXML
+https://github.com/seanwallawalla/Learn_Docs
+https://github.com/seanwallawalla/Matrix-lang_Docs
