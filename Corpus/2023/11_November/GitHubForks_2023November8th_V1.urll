@@ -1,0 +1,132 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification/
+//// GitHub forks
+//// DATE: 2023, Wednesday, November 8th
+//// Starting 2023 September 9th, I am now increasing the daily star, watch, and fork count, due to a lack of progress on my timeline. I will now fork 92-100 repositories per day, instead of 17-25 repositories per day
+//// Start
+//// 2 users {
+//// @seanpm2001
+//// @seanwallawalla }
+//// @seanpm2001():
+https://github.com/seanpm2001/oldest-supported-numpy -> https://github.com/seanpm2001/SciPy_Oldest-Supported-NumPy
+https://github.com/seanpm2001/archive -> https://github.com/seanpm2001/SciPy_Archive
+https://github.com/seanpm2001/unuran -> https://github.com/seanpm2001/SciPy_UNURUN -> https://github.com/seanpm2001/SciPy_UNURAN
+https://github.com/seanpm2001/boost-headers-only -> https://github.com/seanpm2001/SciPy_Boost-Headers-Only
+https://github.com/seanpm2001/scipy-cookbook -> https://github.com/seanpm2001/SciPy_SciPy-Cookbook
+https://github.com/seanpm2001/dataset-face -> https://github.com/seanpm2001/SciPy_Dataset-Face
+https://github.com/seanpm2001/dataset-ecg -> https://github.com/seanpm2001/SciPy_Dataset-ECG
+https://github.com/seanpm2001/PROPACK -> https://github.com/seanpm2001/SciPy_PROPACK
+https://github.com/seanpm2001/scipy-ci-artifacts -> https://github.com/seanpm2001/SciPy_SciPy-CI-Artifacts
+https://github.com/seanpm2001/dataset-iris -> https://github.com/seanpm2001/SciPy_Dataset-Iris
+https://github.com/seanpm2001/scipy-sphinx-theme -> https://github.com/seanpm2001/SciPy_SciPy-Sphinx-Theme
+https://github.com/seanpm2001/SciPyCentral -> https://github.com/seanpm2001/SciPy_SciPyCentral
+https://github.com/seanpm2001/test-suite -> https://github.com/seanpm2001/LLVM-MIrror_Test-Suite
+https://github.com/seanpm2001/lldb -> https://github.com/seanpm2001/LLVM-Mirror_LLDB
+https://github.com/seanpm2001/polly -> https://github.com/seanpm2001/LLVM-Mirror_Polly
+https://github.com/seanpm2001/lld -> https://github.com/seanpm2001/LLVM-Mirror_LLD
+https://github.com/seanpm2001/libcxxabi -> https://github.com/seanpm2001/LLVM-Mirror_LIBCXXABI
+https://github.com/seanpm2001/libunwind -> https://github.com/seanpm2001/LLVM-Mirror_LIBUnWind
+https://github.com/seanpm2001/libc -> https://github.com/seanpm2001/LLVM-Mirror_LIBC
+https://github.com/seanpm2001/openmp -> https://github.com/seanpm2001/LLVM-Mirror_OpenMP
+https://github.com/seanpm2001/libclc -> https://github.com/seanpm2001/LLVM-Mirror_LIBCLC
+https://github.com/seanpm2001/pstl -> https://github.com/seanpm2001/LLVM-Mirror_PSTL
+https://github.com/seanpm2001/debuginfo-tests -> https://github.com/seanpm2001/LLVM-Mirror_DebugInfo-Tests
+https://github.com/seanpm2001/llgo -> https://github.com/seanpm2001/LLVM-Mirror_LLGo
+https://github.com/seanpm2001/parallel-libs -> https://github.com/seanpm2001/LLVM-Mirror_Parallel-LIBs
+https://github.com/seanpm2001/vmkit -> https://github.com/seanpm2001/LLVM-Mirror_VMKit
+https://github.com/seanpm2001/dragonegg -> https://github.com/seanpm2001/LLVM-Mirror_DragonEgg
+https://github.com/seanpm2001/klee -> https://github.com/seanpm2001/LLVM-Mirror_Klee
+https://github.com/seanpm2001/poolalloc -> https://github.com/seanpm2001/LLVM-Mirror_PoolAlloc
+https://github.com/seanpm2001/deprecated_rust_wasm_template -> https://github.com/seanpm2001/RustWASM_Deprecated_Rust_WASM_Template
+https://github.com/seanpm2001/seia -> https://github.com/seanpm2001/ImportantImport_Seia
+https://github.com/seanpm2001/a2 -> https://github.com/seanpm2001/ImportantImport_A2
+https://github.com/seanpm2001/urara-docs -> https://github.com/seanpm2001/ImportantImport_Urara-Docs
+https://github.com/seanpm2001/urara -> https://github.com/seanpm2001/ImportantImport_Urara
+https://github.com/seanpm2001/shiraha -> https://github.com/seanpm2001/ImportantImport_Shiraha
+https://github.com/seanpm2001/gumori -> https://github.com/seanpm2001/ImportantImport_Gumori
+https://github.com/seanpm2001/.github-1 -> https://github.com/seanpm2001/ImportantImport.github
+https://github.com/seanpm2001/fff -> https://github.com/seanpm2001/ImportantImport_FFF
+https://github.com/seanpm2001/hsno -> https://github.com/seanpm2001/ImportantImport_Hsno
+https://github.com/seanpm2001/mcus -> https://github.com/seanpm2001/ImportantImport_MCUS
+https://github.com/seanpm2001/gumori-you -> https://github.com/seanpm2001/ImportantImport_Gumori-Uou -> https://github.com/seanpm2001/ImportantImport_Gumori-You
+https://github.com/seanpm2001/clang -> https://github.com/seanpm2001/LLVM-Mirror_Clang
+https://github.com/seanpm2001/lnt -> https://github.com/seanpm2001/LLVM-Mirror_lnt
+https://github.com/seanpm2001/libcxx -> https://github.com/seanpm2001/LLVM-Mirror_LIBCXX
+https://github.com/seanpm2001/clang-tools-extra -> https://github.com/seanpm2001/LLVM-Mirror_Clang-Tools-Extra
+https://github.com/seanpm2001/compiler-rt -> https://github.com/seanpm2001/LLVM-Mirror_Compiler-RT
+https://github.com/seanpm2001/zorg -> https://github.com/seanpm2001/LLVM-Mirror_Zorg
+https://github.com/seanpm2001/binary-install -> https://github.com/seanpm2001/RustWASM_Binary-Install
+https://github.com/seanpm2001/console_error_panic_hook -> https://github.com/seanpm2001/RustWASM_Console_Error_Panic_Hook
+https://github.com/seanpm2001/walrus -> https://github.com/seanpm2001/RustWASM_Walrus
+https://github.com/seanpm2001/awesome-rust-and-webassembly -> https://github.com/seanpm2001/RustWASM_Awesome-Rust-And-WebAssembly
+https://github.com/seanpm2001/weedle -> https://github.com/seanpm2001/RustWASM_Weedle
+https://github.com/seanpm2001/rust-webpack-template -> https://github.com/seanpm2001/RustWASM_Rust-WebPack-Template
+https://github.com/seanpm2001/wasm_game_of_life -> https://github.com/seanpm2001/RustWASM_WASM_Game_Of_Life
+https://github.com/seanpm2001/rfcs -> https://github.com/seanpm2001/RustWASM_RFCs
+https://github.com/seanpm2001/wee_alloc -> https://github.com/seanpm2001/RustWASM_Wee_Alloc
+https://github.com/seanpm2001/rust-parcel-template -> https://github.com/seanpm2001/RustWASM_Rust-Parcel-Template
+https://github.com/seanpm2001/rustwasm.github.io
+https://github.com/seanpm2001/wasm-tracing-allocator -> https://github.com/seanpm2001/RustWASM_WASM-Tracing-Allocator
+https://github.com/seanpm2001/wasm-webidl-bindings -> https://github.com/seanpm2001/RustWASM_WASM-WebIDL-Bindings
+https://github.com/seanpm2001/team -> https://github.com/seanpm2001/RustWASM_Team
+https://github.com/seanpm2001/wasm-weight-tracker -> https://github.com/seanpm2001/RustWASM_WASM-Weight-Tracker
+https://github.com/seanpm2001/wasm-weight-tracker-data -> https://github.com/seanpm2001/RustWASM_WASM-Weight-Tracker-Data
+https://github.com/seanpm2001/.github-1 -> https://github.com/seanpm2001/RustWASM.github
+https://github.com/seanpm2001/sfhtml5-rust-and-wasm -> https://github.com/seanpm2001/RustWASM_SFHTML5-Rust-And-WASM
+https://github.com/seanpm2001/hello-wasm-bindgen -> https://github.com/seanpm2001/RustWASM_Hello-WASM-BindGen
+https://github.com/seanpm2001/i18n -> https://github.com/seanpm2001/Gorilla_I18N
+https://github.com/seanpm2001/template -> https://github.com/seanpm2001/Gorilla_Template
+https://github.com/seanpm2001/wasm-bindgen -> https://github.com/seanpm2001/RustWASM_WASM-BindGen
+https://github.com/seanpm2001/gloo -> https://github.com/seanpm2001/RustWASM_GLOO
+https://github.com/seanpm2001/wasm-pack -> https://github.com/seanpm2001/RustWASM_WASM-Pack
+https://github.com/seanpm2001/twiggy -> https://github.com/seanpm2001/RustWASM_Twiggy
+https://github.com/seanpm2001/create-wasm-app -> https://github.com/seanpm2001/RustWASM_Create-WASM-App
+https://github.com/seanpm2001/book -> https://github.com/seanpm2001/RustWASM_Book
+https://github.com/seanpm2001/wasm-snip -> https://github.com/seanpm2001/RustWASM_WASM-Snip
+https://github.com/seanpm2001/scipy-mathjax -> https://github.com/seanpm2001/SciPy_SciPy-MathJax
+https://github.com/seanpm2001/scipy-sphinx-theme-v2 -> https://github.com/seanpm2001/SciPy_SciPy-Sphinx-Theme-V2
+https://github.com/seanpm2001/scipy-central-rescue -> https://github.com/seanpm2001/SciPy_SciPy-Central-Rescue
+https://github.com/seanpm2001/old-wiki -> https://github.com/seanpm2001/SciPy_Old-Wiki
+https://github.com/seanpm2001/scipy.github.com -> https://github.com/seanpm2001/SciPy_SciPy.GitHub.Com
+https://github.com/seanpm2001/scipy-svn -> https://github.com/seanpm2001/SciPy_SciPy-SVN
+https://github.com/seanpm2001/docker-signal -> https://github.com/seanpm2001/Moby_Docker-Signal
+https://github.com/seanpm2001/tsc -> https://github.com/seanpm2001/Moby_TSC
+https://github.com/seanpm2001/datakit.logs -> https://github.com/seanpm2001/Moby_DataKit.Logs
+https://github.com/seanpm2001/tool -> https://github.com/seanpm2001/Moby_Tool
+https://github.com/seanpm2001/libentitlement -> https://github.com/seanpm2001/Moby_LIBEntitlement
+https://github.com/seanpm2001/docker-tdmgcc -> https://github.com/seanpm2001/Moby_Docker-TDMGCC
+https://github.com/seanpm2001/go-swagger -> https://github.com/seanpm2001/Go-Swagger_Go-Swagger
+https://github.com/seanpm2001/homebrew-go-swagger -> https://github.com/seanpm2001/Go-Swagger_Homebrew-Go-Swagger
+https://github.com/seanpm2001/dockerctl -> https://github.com/seanpm2001/Go-Swagger_DockerCTL
+https://github.com/seanpm2001/go-swagger.github.io
+https://github.com/seanpm2001/scan-repo-boundary -> https://github.com/seanpm2001/Go-Swagger_Scan-Repo-Boundary
+https://github.com/seanpm2001/wasm-pack-template -> https://github.com/seanpm2001/RustWASM_WASM-Pack-Template
+//// 10 lines at start, so that current number of forks can be reduced by 10 to get the current fork count (so I don't go over my limit)
+//// Repository renames
+//// ----
+//// Finishing off the current main queue today (2023.09.18)
+//// No new data to work with (2023.09.19 to 2023.09.20)
+//// Not enough data to work with (2023.09.21 to 2023.09.29)
+//// Not enough data to work with (2023.10.01 to 2023.10.03)
+//// Not willing to work with it yet (2023.10.04 to 2023.10.07)
+//// Queue cleared 2023.10.08
+//// Waiting for new data to work with/next month (2023.10.09)
+//// Waiting for a lot more data, or until next month (2023.10.10 to 2023.10.13)
+//// Partial queue work (2023.10.14)
+//// Waiting for a lot more data, or until next month (2023.10.15 to 2023.10.20)
+//// Waiting for when I feel ready and have the time (2023.10.21 to 2023.10.26)
+//// Waiting for when I feel ready and have the time next month (2023.10.27 to 2023.10.31)
+//// Waiting for when I feel ready (2023.11.01 to 2023.11.03)
+//// Working with queue (2023.11.04 to 2023.11.07)
+//// Waiting for new data to work with (2023.11.08)
+//// 1 new entry today
+https://github.com/seanpm2001/llvm -> https://github.com/seanpm2001/LLVM-Mirror_LLVM
+//// ----
+//// @seanwallawalla
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-QMake
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-Qt-Script
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-PicoLisp
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-PigLatin
+https://github.com/seanwallawalla/BlueCalm_Docs
+https://github.com/seanwallawalla/Branch-Ranch_Docs
+

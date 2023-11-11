@@ -1,0 +1,138 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification/
+//// GitHub forks
+//// DATE: 2023, Thursday, November 9th
+//// Starting 2023 September 9th, I am now increasing the daily star, watch, and fork count, due to a lack of progress on my timeline. I will now fork 92-100 repositories per day, instead of 17-25 repositories per day
+//// Start
+//// 2 users {
+//// @seanpm2001
+//// @seanwallawalla }
+//// @seanpm2001():
+https://github.com/seanpm2001/salt-formula-ntp -> https://github.com/seanpm2001/Salt-Formulas_Salt-Formula-NTP
+https://github.com/seanpm2001/salt-formula-freeipa -> https://github.com/seanpm2001/Salt-Formulas_Salt-Formula-FreeIPA
+https://github.com/seanpm2001/salt-formula-linux -> https://github.com/seanpm2001/Salt-Formulas_Salt-Formula-Linux
+https://github.com/seanpm2001/salt-formula-grafana -> https://github.com/seanpm2001/Salt-Formulas_Salt-Formula-Grafana
+https://github.com/seanpm2001/salt-formula-rsyslog -> https://github.com/seanpm2001/Salt-Formulas_Salt-Formula-RSysLog
+https://github.com/seanpm2001/salt-formula-glusterfs -> https://github.com/seanpm2001/Salt-Formulas_Salt-Formula-GlusterFS
+https://github.com/seanpm2001/salt-formula-prometheus -> https://github.com/seanpm2001/Salt-Formulas_Salt-Formula-Prometheus
+https://github.com/seanpm2001/salt-formula-jenkins -> https://github.com/seanpm2001/Salt-Formulas_Salt-Formula-Jenkins
+https://github.com/seanpm2001/salt-formula-docker -> https://github.com/seanpm2001/Salt-Formulas_Salt-Formula-Docker
+https://github.com/seanpm2001/salt-formula-influxdb -> https://github.com/seanpm2001/Salt-Formulas_Salt-Formula-InfluxDB
+https://github.com/seanpm2001/salt-formula-keepalived -> https://github.com/seanpm2001/Salt-Formulas_Salt-Formula-KeepAliveD
+https://github.com/seanpm2001/salt-formula-isc-dhcp -> https://github.com/seanpm2001/Salt-Formulas_Salt-Formula-ISC-DHcp -> https://github.com/seanpm2001/Salt-Formulas_Salt-Formula-ISC-DHCP
+https://github.com/seanpm2001/salt-formula-postgresql -> https://github.com/seanpm2001/Salt-Formulas_Salt-Formula-PostGreSQL
+https://github.com/seanpm2001/mux -> https://github.com/seanpm2001/Gorilla_MUX
+https://github.com/seanpm2001/.github-1 -> https://github.com/seanpm2001/Gorilla.github
+https://github.com/seanpm2001/gorilla.github.io
+https://github.com/seanpm2001/http -> https://github.com/seanpm2001/Gorilla_HTTP
+https://github.com/seanpm2001/pat -> https://github.com/seanpm2001/Gorilla_Pat
+https://github.com/seanpm2001/css -> https://github.com/seanpm2001/Gorilla_CSS
+https://github.com/seanpm2001/context -> https://github.com/seanpm2001/Gorilla_Context
+https://github.com/seanpm2001/reverse -> https://github.com/seanpm2001/Gorilla_Reverse
+https://github.com/seanpm2001/muxy -> https://github.com/seanpm2001/Gorilla_MUXY
+https://github.com/seanpm2001/csrf -> https://github.com/seanpm2001/Gorilla_CSRF
+https://github.com/seanpm2001/websocket -> https://github.com/seanpm2001/Gorilla_WebSocket
+https://github.com/seanpm2001/schema -> https://github.com/seanpm2001/Gorilla_Schema
+https://github.com/seanpm2001/rpc -> https://github.com/seanpm2001/Gorilla_RPC
+https://github.com/seanpm2001/securecookie -> https://github.com/seanpm2001/Gorilla_SecureCookie
+https://github.com/seanpm2001/feeds -> https://github.com/seanpm2001/Gorilla_Feeds
+https://github.com/seanpm2001/handlers -> https://github.com/seanpm2001/Gorilla_Handlers
+https://github.com/seanpm2001/sessions -> https://github.com/seanpm2001/Gorilla_Sessions
+https://github.com/seanpm2001/helm-classic -> https://github.com/seanpm2001/Helm_Helm-Classic
+https://github.com/seanpm2001/buildkit -> https://github.com/seanpm2001/Moby_BuildKit
+https://github.com/seanpm2001/moby -> https://github.com/seanpm2001/Moby_Moby
+https://github.com/seanpm2001/vpnkit -> https://github.com/seanpm2001/Moby_VPNKit
+https://github.com/seanpm2001/swarmkit -> https://github.com/seanpm2001/Moby_SwarmKit
+https://github.com/seanpm2001/locker -> https://github.com/seanpm2001/Moby_Locker
+https://github.com/seanpm2001/libnetwork -> https://github.com/seanpm2001/Moby_LIBNetwork
+https://github.com/seanpm2001/sys -> https://github.com/seanpm2001/Moby_SYS
+https://github.com/seanpm2001/ipvs -> https://github.com/seanpm2001/Moby_IPVS
+https://github.com/seanpm2001/spdystream -> https://github.com/seanpm2001/Moby_SPDYStream
+https://github.com/seanpm2001/term -> https://github.com/seanpm2001/Moby_Term
+https://github.com/seanpm2001/mobywebsite -> https://github.com/seanpm2001/Moby_MobyWebsite
+https://github.com/seanpm2001/busybox -> https://github.com/seanpm2001/Moby_BusyBox
+https://github.com/seanpm2001/patternmatcher -> https://github.com/seanpm2001/Moby_PatternMatcher
+https://github.com/seanpm2001/pubsub -> https://github.com/seanpm2001/Moby_PubSub
+https://github.com/seanpm2001/containerd -> https://github.com/seanpm2001/Moby_ContainerD
+https://github.com/seanpm2001/hyperkit -> https://github.com/seanpm2001/Moby_HyperKit
+https://github.com/seanpm2001/datakit -> https://github.com/seanpm2001/Moby_DataKit
+https://github.com/seanpm2001/docker-ci-zap -> https://github.com/seanpm2001/Moby_Docker-CI-Zap
+https://github.com/seanpm2001/charts -> https://github.com/seanpm2001/Helm_Charts
+https://github.com/seanpm2001/hub -> https://github.com/seanpm2001/Helm_Hub
+https://github.com/seanpm2001/docker-kubectl-helm-az -> https://github.com/seanpm2001/Helm_Docker-KubeCTL-Helm-AZ
+https://github.com/seanpm2001/docker-kubectl-helm-aws -> https://github.com/seanpm2001/Helm_Docker-KubeCTL-Helm-AWS
+https://github.com/seanpm2001/monocular -> https://github.com/seanpm2001/Helm_Monocular
+https://github.com/seanpm2001/get-helm-sh -> https://github.com/seanpm2001/Helm_Get-Helm-SH
+https://github.com/seanpm2001/pull-sizer -> https://github.com/seanpm2001/Helm_Pull-Sizer
+https://github.com/seanpm2001/rudder-appcontroller -> https://github.com/seanpm2001/Helm_Rudder-AppController
+https://github.com/seanpm2001/get-helm -> https://github.com/seanpm2001/Helm_Get-Helm
+https://github.com/seanpm2001/prow -> https://github.com/seanpm2001/Helm_Prow
+https://github.com/seanpm2001/rudder-federation -> https://github.com/seanpm2001/Helm_Rudder-Federation
+https://github.com/seanpm2001/charts-tooling -> https://github.com/seanpm2001/Helm_Charts-Tooling
+https://github.com/seanpm2001/helm-summit-notes -> https://github.com/seanpm2001/Helm_Helm-Summit-Notes
+https://github.com/seanpm2001/specs -> https://github.com/seanpm2001/Helm_Specs
+https://github.com/seanpm2001/query-store-quay-logs -> https://github.com/seanpm2001/Helm_Query-Store-Quay-Logs
+https://github.com/seanpm2001/github-webhook-dco-labeler -> https://github.com/seanpm2001/Helm_GitHub-WebHook-DCO-Labeler
+https://github.com/seanpm2001/charts-check-pr-title -> https://github.com/seanpm2001/Helm_Charts-Check-PR-Title
+https://github.com/seanpm2001/repo-audit -> https://github.com/seanpm2001/Helm_Repo-Audit
+https://github.com/seanpm2001/charts-classic -> https://github.com/seanpm2001/Helm_Charts-Classic
+https://github.com/seanpm2001/community -> https://github.com/seanpm2001/Helm_Community
+https://github.com/seanpm2001/chart-testing -> https://github.com/seanpm2001/Helm_Chart-Testing
+https://github.com/seanpm2001/chart-testing-action -> https://github.com/seanpm2001/Helm_Chart-Testing-Action
+https://github.com/seanpm2001/helm-2to3 -> https://github.com/seanpm2001/Helm_Helm-2To3
+https://github.com/seanpm2001/kind-action -> https://github.com/seanpm2001/Helm_Kind-Action
+https://github.com/seanpm2001/homebrew-tap -> https://github.com/seanpm2001/Helm_Homebrew-Tap
+https://github.com/seanpm2001/charts-repo-actions-demo -> https://github.com/seanpm2001/Helm_Charts-Repo-Actions-Demo
+https://github.com/seanpm2001/acceptance-testing -> https://github.com/seanpm2001/Helm_Acceptance-Testing
+https://github.com/seanpm2001/salt-formula-openode -> https://github.com/seanpm2001/Salt-Formulas_Salt-Formula-OPENode
+https://github.com/seanpm2001/salt-formula-redis -> https://github.com/seanpm2001/Salt-Formulas_Salt-Formula-Redis
+https://github.com/seanpm2001/salt-formula-logrotate -> https://github.com/seanpm2001/Salt-Formulas_Salt-Formula-LogRotate
+https://github.com/seanpm2001/salt-formula-postfix -> https://github.com/seanpm2001/Salt-Formulas_Salt-Formula-PostFix
+https://github.com/seanpm2001/salt-formula-libvirt -> https://github.com/seanpm2001/Salt-Formulas_Salt-Formula-LIBVirt
+https://github.com/seanpm2001/salt-formula-letsencrypt -> https://github.com/seanpm2001/Salt-Formulas_Salt-Formula-LetsEncrypt
+https://github.com/seanpm2001/salt-formula-aptly -> https://github.com/seanpm2001/Salt-Formulas_Salt-Formula-Aptly
+https://github.com/seanpm2001/salt-formula-nginx -> https://github.com/seanpm2001/Salt-Formulas_Salt-Formula-NGinx
+https://github.com/seanpm2001/salt-formula-openssh -> https://github.com/seanpm2001/Salt-Formulas_Salt-Formula-OpenSSH
+https://github.com/seanpm2001/salt-formula-pritunl -> https://github.com/seanpm2001/Salt-Formulas_Salt-Formula-Pritunl
+https://github.com/seanpm2001/salt-formula-maas -> https://github.com/seanpm2001/Salt-Formulas_Salt-Formula-MaaS
+https://github.com/seanpm2001/salt-formula-helm -> https://github.com/seanpm2001/Salt-Formulas_Salt-Formula-Helm
+https://github.com/seanpm2001/salt-formula-kalliope -> https://github.com/seanpm2001/Salt-Formulas_Salt-Formula-Kalliope
+https://github.com/seanpm2001/salt-formula-iptables -> https://github.com/seanpm2001/Salt-Formulas_Salt-Formula-IPTables
+https://github.com/seanpm2001/salt-formula-rabbitmq -> https://github.com/seanpm2001/Salt-Formulas_Salt-Formula-RabbitMQ
+https://github.com/seanpm2001/salt-formula-apache -> https://github.com/seanpm2001/Salt-Formulas_Salt-Formula-Apache
+https://github.com/seanpm2001/salt-formula-telegraf -> https://github.com/seanpm2001/Salt-Formulas_Salt-Formula-Telegraf
+//// 10 lines at start, so that current number of forks can be reduced by 10 to get the current fork count (so I don't go over my limit)
+//// Repository renames
+//// ----
+//// Finishing off the current main queue today (2023.09.18)
+//// No new data to work with (2023.09.19 to 2023.09.20)
+//// Not enough data to work with (2023.09.21 to 2023.09.29)
+//// Not enough data to work with (2023.10.01 to 2023.10.03)
+//// Not willing to work with it yet (2023.10.04 to 2023.10.07)
+//// Queue cleared 2023.10.08
+//// Waiting for new data to work with/next month (2023.10.09)
+//// Waiting for a lot more data, or until next month (2023.10.10 to 2023.10.13)
+//// Partial queue work (2023.10.14)
+//// Waiting for a lot more data, or until next month (2023.10.15 to 2023.10.20)
+//// Waiting for when I feel ready and have the time (2023.10.21 to 2023.10.26)
+//// Waiting for when I feel ready and have the time next month (2023.10.27 to 2023.10.31)
+//// Waiting for when I feel ready (2023.11.01 to 2023.11.03)
+//// Working with queue (2023.11.04 to 2023.11.07)
+//// Waiting for new data to work with (2023.11.08)
+//// 1 entry worked with (2023.11.09)
+//// 5 entries worked with (2023.11.09)
+//// 5 new entries today
+https://github.com/seanpm2001/astro-netlify-starter -> https://github.com/seanpm2001/Cassidoo_Astro-Netlify-Starter
+https://github.com/seanpm2001/astro-blog-template -> https://github.com/seanpm2001/Charca_Astro-Blog-Template
+https://github.com/seanpm2001/Astro-Documentation -> https://github.com/seanpm2001/WithAstro_Docs
+https://github.com/seanpm2001/astro.build -> https://github.com/seanpm2001/WithAstro_Astro.Build
+https://github.com/seanpm2001/LLVM-MIrror_Test-Suite -> https://github.com/seanpm2001/LLVM-Mirror_Test-Suite
+//// ----
+//// @seanwallawalla
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-QueryByExample
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-RAML
+https://github.com/seanwallawalla/Numeric-Liberation-Front_Docs
+https://github.com/seanwallawalla/CH3-c-K_Docs
+https://github.com/seanwallawalla/RegAggregate
+https://github.com/seanwallawalla/RegAggregate_Docs
+

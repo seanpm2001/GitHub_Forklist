@@ -1,0 +1,133 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification/
+//// GitHub forks
+//// DATE: 2023, Friday, November 10th
+//// Starting 2023 September 9th, I am now increasing the daily star, watch, and fork count, due to a lack of progress on my timeline. I will now fork 92-100 repositories per day, instead of 17-25 repositories per day
+//// Start
+//// 2 users {
+//// @seanpm2001
+//// @seanwallawalla }
+//// @seanpm2001():
+https://github.com/seanpm2001/salt-formula-ceph -> https://github.com/seanpm2001/Salt-Formulas_Salt-Formula-Ceph
+https://github.com/seanpm2001/salt-formula-openvpn -> https://github.com/seanpm2001/Salt-Formulas_Salt-Formula-OpenVPN
+https://github.com/seanpm2001/oauth2-proxy -> https://github.com/seanpm2001/OAuth2-Proxy_OAuth2-Proxy
+https://github.com/seanpm2001/manifests -> https://github.com/seanpm2001/OAuth2-Proxy_Manifests
+https://github.com/seanpm2001/mockoidc -> https://github.com/seanpm2001/OAuth2-Proxy_MockOIDC
+https://github.com/seanpm2001/tools -> https://github.com/seanpm2001/OAuth2-Proxy_Tools
+https://github.com/seanpm2001/chart-releaser-action -> https://github.com/seanpm2001/Helm_Chart-Releaser-Action
+https://github.com/seanpm2001/helm-www -> https://github.com/seanpm2001/Helm_Helm-WWW
+https://github.com/seanpm2001/helm -> https://github.com/seanpm2001/Helm_Helm
+https://github.com/seanpm2001/chart-releaser -> https://github.com/seanpm2001/Helm_Chart-Releaser
+https://github.com/seanpm2001/chartmuseum -> https://github.com/seanpm2001/Helm_ChartMuseum
+https://github.com/seanpm2001/helm-mapkubeapis -> https://github.com/seanpm2001/Helm_Helm-MapKubeAPIs
+https://github.com/seanpm2001/examples -> https://github.com/seanpm2001/Helm_Examples
+https://github.com/seanpm2001/ksi-pdf-verifier -> https://github.com/seanpm2001/Guardtime_Ksi-PDF-Verifier -> https://github.com/seanpm2001/Guardtime_KSI-PDF-Verifier
+https://github.com/seanpm2001/js-common -> https://github.com/seanpm2001/GuardTime_JS-Common
+https://github.com/seanpm2001/ksi-js-api -> https://github.com/seanpm2001/Guardtime_KSI-JS-API
+https://github.com/seanpm2001/software-engineer-assignment -> https://github.com/seanpm2001/Guardtime_Software-Engineer-Assignment
+https://github.com/seanpm2001/ksi-tool -> https://github.com/seanpm2001/Guardtime_KSI-Tool
+https://github.com/seanpm2001/logksi -> https://github.com/seanpm2001/Guardtime_LogKSI
+https://github.com/seanpm2001/libksi -> https://github.com/seanpm2001/Guardtime_LIBKSI
+https://github.com/seanpm2001/ksi-java-sdk -> https://github.com/seanpm2001/Guardtime_KSI-Java-SDK
+https://github.com/seanpm2001/ksi-hlf -> https://github.com/seanpm2001/Guardtime_KSI-HLF
+https://github.com/seanpm2001/ksi-sdk-samples -> https://github.com/seanpm2001/Guardtime_KSI-SDK-Samples
+https://github.com/seanpm2001/libparamset -> https://github.com/seanpm2001/Guardtime_LIBParamSet
+https://github.com/seanpm2001/libgtrfc3161 -> https://github.com/seanpm2001/Guardtime_LIBGTRFC3161
+https://github.com/seanpm2001/gttlvutil -> https://github.com/seanpm2001/Guardtime_GTTlLVUtil -> https://github.com/seanpm2001/Guardtime_GTTLVUtil
+https://github.com/seanpm2001/ksie-java -> https://github.com/seanpm2001/Guardtime_KSIE-Java
+https://github.com/seanpm2001/utl_relp -> https://github.com/seanpm2001/Guardtime_UTL_RELP
+https://github.com/seanpm2001/goksi -> https://github.com/seanpm2001/Guardtime_GoKSI
+https://github.com/seanpm2001/homebrew-ksi -> https://github.com/seanpm2001/Guardtime_Homebrew-KSI
+https://github.com/seanpm2001/ksi-net-sdk -> https://github.com/seanpm2001/Guardtime_KSI-NET-SDK
+https://github.com/seanpm2001/lsc -> https://github.com/seanpm2001/Guardtime_LSC
+https://github.com/seanpm2001/rsyslog-doc -> https://github.com/seanpm2001/RSysLog_RSysLog-Doc
+https://github.com/seanpm2001/rsyslog -> https://github.com/seanpm2001/RSysLog_RSysLog
+https://github.com/seanpm2001/librelp -> https://github.com/seanpm2001/RSysLog_LIBRELP
+https://github.com/seanpm2001/rsyslog-docker -> https://github.com/seanpm2001/RSysLog_RSysLog-Docker
+https://github.com/seanpm2001/rsyslog-pkg-rhel-centos -> https://github.com/seanpm2001/RSysLog_RSysLog-PKG-RHEL-CentOS
+https://github.com/seanpm2001/rsyslog-pkg-ubuntu -> https://github.com/seanpm2001/RSysLog_RSysLog-PKG-Ubuntu
+https://github.com/seanpm2001/pkg_obs-clone -> https://github.com/seanpm2001/RSysLog_PKG_OBS-Clone
+https://github.com/seanpm2001/buildbot-config -> https://github.com/seanpm2001/RSysLog_BuildBot-Config
+https://github.com/seanpm2001/rsyslog-website -> https://github.com/seanpm2001/RSysLog_RSysLog-Website
+https://github.com/seanpm2001/libfastjson -> https://github.com/seanpm2001/RSysLog_LIBFastJSON
+https://github.com/seanpm2001/rsyslog-infrastructure -> https://github.com/seanpm2001/RSysLog_RSysLog-Infrastructure
+https://github.com/seanpm2001/libestr -> https://github.com/seanpm2001/RSysLog_LIBESTR
+https://github.com/seanpm2001/rsyslog-pkg-alpine -> https://github.com/seanpm2001/RSysLog_RSysLog-PKG-Alpine
+https://github.com/seanpm2001/libee -> https://github.com/seanpm2001/RSysLog_LIBEE
+https://github.com/seanpm2001/codestyle -> https://github.com/seanpm2001/RSysLog_CodeStyle
+https://github.com/seanpm2001/liblogging -> https://github.com/seanpm2001/RSysLog_LIBLogging
+https://github.com/seanpm2001/rsyslog-pkg-debian -> https://github.com/seanpm2001/RSysLog_RSysLog-PKG-Debian
+https://github.com/seanpm2001/liblognorm-rulebases -> https://github.com/seanpm2001/RSysLog_LIBLogNorm-RuleBases
+https://github.com/seanpm2001/libgt -> https://github.com/seanpm2001/RSysLog_LIBGT
+https://github.com/seanpm2001/helm -> https://github.com/seanpm2001/Verizon_Helm
+https://github.com/seanpm2001/sbt-rig -> https://github.com/seanpm2001/Verizon_SBT-Rig
+https://github.com/seanpm2001/sbt-blockade -> https://github.com/seanpm2001/Verizon_SBT-Blockade
+https://github.com/seanpm2001/quiver -> https://github.com/seanpm2001/Verizon_Quiver
+https://github.com/seanpm2001/AcUtils -> https://github.com/seanpm2001/Verizon_AcUtils
+https://github.com/seanpm2001/delorean -> https://github.com/seanpm2001/Verizon_Delorean
+https://github.com/seanpm2001/boogio -> https://github.com/seanpm2001/Verizon_BoogIO
+https://github.com/seanpm2001/nelson -> https://github.com/seanpm2001/Verizon_Nelson
+https://github.com/seanpm2001/mutatis -> https://github.com/seanpm2001/Verizon_Mutatis
+https://github.com/seanpm2001/journal -> https://github.com/seanpm2001/Verizon_Journal
+https://github.com/seanpm2001/remotely -> https://github.com/seanpm2001/Verizon_Remotely
+https://github.com/seanpm2001/sbt-scalaz -> https://github.com/seanpm2001/Verizon_SBT-ScalaZ
+https://github.com/seanpm2001/funnel -> https://github.com/seanpm2001/Verizon_Funnel
+https://github.com/seanpm2001/dractor -> https://github.com/seanpm2001/Verizon_DRactor
+https://github.com/seanpm2001/ark -> https://github.com/seanpm2001/Verizon_Ark
+https://github.com/seanpm2001/remotely-demo -> https://github.com/seanpm2001/Verizon_Remotely-Demo
+https://github.com/seanpm2001/loganalyzer -> https://github.com/seanpm2001/RSysLog_LogAnalyzer
+https://github.com/seanpm2001/liblognorm -> https://github.com/seanpm2001/RSysLog_LIBLogNorm
+https://github.com/seanpm2001/frisky -> https://github.com/seanpm2001/Edgio_Frisky
+https://github.com/seanpm2001/edgio_caching_emulator -> https://github.com/seanpm2001/Edgio_Edgio_Caching_Emulator
+https://github.com/seanpm2001/ectoken -> https://github.com/seanpm2001/Edgio_ECToken
+https://github.com/seanpm2001/cs-ectoken -> https://github.com/seanpm2001/Edgio_CS-ECToken
+https://github.com/seanpm2001/functions_cookbook -> https://github.com/seanpm2001/Edgio_Functions_Cookbook
+https://github.com/seanpm2001/promts -> https://github.com/seanpm2001/Edgio_PromTS
+https://github.com/seanpm2001/java-ectoken -> https://github.com/seanpm2001/Edgio_Java-ECToken
+https://github.com/seanpm2001/knobs -> https://github.com/seanpm2001/Verizon_Knobs
+https://github.com/seanpm2001/stl_interfaces -> https://github.com/seanpm2001/BoostOrg_STL_Interfaces
+https://github.com/seanpm2001/docca -> https://github.com/seanpm2001/BoostOrg_Docca
+https://github.com/seanpm2001/move -> https://github.com/seanpm2001/BoostOrg_Move
+https://github.com/seanpm2001/interprocess -> https://github.com/seanpm2001/BoostOrg_Interprocess
+https://github.com/seanpm2001/intrusive -> https://github.com/seanpm2001/BoostOrg_Intrusive
+https://github.com/seanpm2001/function -> https://github.com/seanpm2001/BoostOrg_Function
+https://github.com/seanpm2001/redis -> https://github.com/seanpm2001/BoostOrg_Redis
+https://github.com/seanpm2001/bcp -> https://github.com/seanpm2001/BoostOrg_BCP
+https://github.com/seanpm2001/filesystem -> https://github.com/seanpm2001/BoostOrg_FileSystem
+https://github.com/seanpm2001/gil -> https://github.com/seanpm2001/BoostOrg_GIL
+https://github.com/seanpm2001/fusion -> https://github.com/seanpm2001/BoostOrg_Fusion
+https://github.com/seanpm2001/boostbook -> https://github.com/seanpm2001/BoostOrg_BoostBook
+https://github.com/seanpm2001/boostdep -> https://github.com/seanpm2001/BoostOrg_BoostDep
+https://github.com/seanpm2001/lexical_cast -> https://github.com/seanpm2001/BoostOrg_Lexical_Cast
+https://github.com/seanpm2001/variant -> https://github.com/seanpm2001/BoostOrg_Variant
+https://github.com/seanpm2001/conversion -> https://github.com/seanpm2001/BoostOrg_Conversion
+//// 10 lines at start, so that current number of forks can be reduced by 10 to get the current fork count (so I don't go over my limit)
+//// Repository renames
+//// ----
+//// Finishing off the current main queue today (2023.09.18)
+//// No new data to work with (2023.09.19 to 2023.09.20)
+//// Not enough data to work with (2023.09.21 to 2023.09.29)
+//// Not enough data to work with (2023.10.01 to 2023.10.03)
+//// Not willing to work with it yet (2023.10.04 to 2023.10.07)
+//// Queue cleared 2023.10.08
+//// Waiting for new data to work with/next month (2023.10.09)
+//// Waiting for a lot more data, or until next month (2023.10.10 to 2023.10.13)
+//// Partial queue work (2023.10.14)
+//// Waiting for a lot more data, or until next month (2023.10.15 to 2023.10.20)
+//// Waiting for when I feel ready and have the time (2023.10.21 to 2023.10.26)
+//// Waiting for when I feel ready and have the time next month (2023.10.27 to 2023.10.31)
+//// Waiting for when I feel ready (2023.11.01 to 2023.11.03)
+//// Working with queue (2023.11.04 to 2023.11.07)
+//// Waiting for new data to work with (2023.11.08)
+//// 1 entry worked with (2023.11.08)
+//// 5 entries worked with (2023.11.09)
+//// Waiting for new data to work with (2023.11.10)
+//// ----
+//// @seanwallawalla
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-RDoc
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-ReasonML
+https://github.com/seanwallawalla/Notchware_Docs
+https://github.com/seanwallawalla/New-Years-Tag_Docs
+https://github.com/seanwallawalla/Internet-Explorer6-Flavored-Markdown
+https://github.com/seanwallawalla/Internet-Explorer6-Flavored-Markdown_Docs
+
