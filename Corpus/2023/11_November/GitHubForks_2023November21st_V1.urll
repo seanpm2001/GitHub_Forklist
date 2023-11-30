@@ -1,0 +1,136 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification/
+//// GitHub forks
+//// DATE: 2023, Tuesday, November 21st
+//// Starting 2023 September 9th, I am now increasing the daily star, watch, and fork count, due to a lack of progress on my timeline. I will now fork 92-100 repositories per day, instead of 17-25 repositories per day
+//// Start
+//// 2 users {
+//// @seanpm2001
+//// @seanwallawalla }
+//// @seanpm2001():
+https://github.com/seanpm2001/customizations -> https://github.com/seanpm2001/BeagleBoard_Customizations
+https://github.com/seanpm2001/librobotcontrol -> https://github.com/seanpm2001/BeagleBoard_LIBRobotControl
+https://github.com/seanpm2001/robotics-cape -> https://github.com/seanpm2001/BeagleBoard_Robotics-Cape
+https://github.com/seanpm2001/ti-msp430-gcc -> https://github.com/seanpm2001/BeagleBoard_TI-MSP430-GCC
+https://github.com/seanpm2001/ti-cgt-c7000-2 -> https://github.com/seanpm2001/BeagleBoard_TI-CGT-C7000-2
+https://github.com/seanpm2001/j721e-evm -> https://github.com/seanpm2001/BeagleBoarD_J721E-EVM -> https://github.com/seanpm2001/BeagleBoard_J721E-EVM
+https://github.com/seanpm2001/k3-image-gen -> https://github.com/seanpm2001/BeagleBoard_K3-Image-Gen
+https://github.com/seanpm2001/cuelang.org -> https://github.com/seanpm2001/CUE-Lang_CUELang.Org
+https://github.com/seanpm2001/cuelang.org-trybot -> https://github.com/seanpm2001/CUE-Lang_CUELang.Org-TryBot
+https://github.com/seanpm2001/setup-cue -> https://github.com/seanpm2001/CUE-Lang_Setup-CUE
+https://github.com/seanpm2001/homebrew-tap -> https://github.com/seanpm2001/CUE-Lang_HomeBrew-Tap
+https://github.com/seanpm2001/proposal -> https://github.com/seanpm2001/CUE-Lang_Proposal
+https://github.com/seanpm2001/proposal-trybot -> https://github.com/seanpm2001/CUE-Lang_Proposal-TryBot
+https://github.com/seanpm2001/.github-1 -> https://github.com/seanpm2001/CUE-Lang.github
+https://github.com/seanpm2001/warehouse -> https://github.com/seanpm2001/PyPi_WareHouse
+https://github.com/seanpm2001/linehaul-cloud-function -> https://github.com/seanpm2001/PyPi_LineHaul-Cloud-Function
+https://github.com/seanpm2001/inspector -> https://github.com/seanpm2001/PyPi_Inspector
+https://github.com/seanpm2001/infra -> https://github.com/seanpm2001/PyPi_Infra //// BUT NOT FORKED UNTIL TODAY
+https://github.com/seanpm2001/conveyor -> https://github.com/seanpm2001/PyPi_Conveyor
+https://github.com/seanpm2001/support -> https://github.com/seanpm2001/PyPi_Support
+https://github.com/seanpm2001/linehaul -> https://github.com/seanpm2001/PyPi_LineHaul
+https://github.com/seanpm2001/warehouse-camo-old -> https://github.com/seanpm2001/PyPi_Warehouse-Camo-Old
+https://github.com/seanpm2001/salt -> https://github.com/seanpm2001/PyPi_Salt //// BUT NOT FORKED UNTIL TODAY
+https://github.com/seanpm2001/legacy -> https://github.com/seanpm2001/PyPi_Legacy
+https://github.com/seanpm2001/cdn-log-archiver -> https://github.com/seanpm2001/PyPi_CDN-Log-Archiver //// BUT NOT FORKED UNTIL TODAY
+https://github.com/seanpm2001/go-statsd-client -> https://github.com/seanpm2001/Cactus_Go-StatsD-Client
+https://github.com/seanpm2001/go-camo -> https://github.com/seanpm2001/Cactus_Go-Camo
+https://github.com/seanpm2001/go-misc -> https://github.com/seanpm2001/Cactus_Go-Misc
+https://github.com/seanpm2001/tai64 -> https://github.com/seanpm2001/Cactus_Tai64 -> https://github.com/seanpm2001/Cactus_TAI64
+https://github.com/seanpm2001/gostrftime -> https://github.com/seanpm2001/Cactus_GoStrFTime
+https://github.com/seanpm2001/mlog -> https://github.com/seanpm2001/Cactus_MLog
+https://github.com/seanpm2001/slurpy -> https://github.com/seanpm2001/Cactus_Slurpy
+https://github.com/seanpm2001/siphashc -> https://github.com/seanpm2001/Cactus_SipHashC
+https://github.com/seanpm2001/static-server -> https://github.com/seanpm2001/Cactus_Static-Server
+https://github.com/seanpm2001/gologit -> https://github.com/seanpm2001/Cactus_GoLogIt
+https://github.com/seanpm2001/cronkite -> https://github.com/seanpm2001/Cactus_CronKite
+https://github.com/seanpm2001/rollcage -> https://github.com/seanpm2001/Cactus_RollCage
+https://github.com/seanpm2001/nanobsd-scripts -> https://github.com/seanpm2001/Cactus_NanoBSD-Scripts
+https://github.com/seanpm2001/app-freshmint -> https://github.com/seanpm2001/Cactus_App-FreshMint
+https://github.com/seanpm2001/aurlivesearch -> https://github.com/seanpm2001/Cactus_AURLiveSearch
+https://github.com/seanpm2001/lua_setproctitle -> https://github.com/seanpm2001/Cactus_Lua_SetProcTitle
+https://github.com/seanpm2001/pycronkite -> https://github.com/seanpm2001/Cactus_PyCronKite
+https://github.com/seanpm2001/luacronkite -> https://github.com/seanpm2001/Cactus_LuaCronKite
+https://github.com/seanpm2001/blurhash -> https://github.com/seanpm2001/WoltApp_BlurHash
+https://github.com/seanpm2001/arrow-detekt-rules -> https://github.com/seanpm2001/WoltApp_Arrow-Detekt-Rules
+https://github.com/seanpm2001/engineering-summer-intern-2023 -> https://github.com/seanpm2001/WoltApp_Engineering-Summer-Intern-2023
+https://github.com/seanpm2001/react-native-assignment -> https://github.com/seanpm2001/WoltApp_React-Native-Assignment
+https://github.com/seanpm2001/react-blurhash -> https://github.com/seanpm2001/WoltApp_React-BlurHash
+https://github.com/seanpm2001/redux-autoloader -> https://github.com/seanpm2001/WoltApp_Redux-AutoLoader
+https://github.com/seanpm2001/react-router-query-params -> https://github.com/seanpm2001/WoltApp_React-Router-Query-Params
+https://github.com/seanpm2001/wolt-python-package-cookiecutter -> https://github.com/seanpm2001/WoltApp_Wolt-Python-Package-CookieCutter
+https://github.com/seanpm2001/celery-farmer -> https://github.com/seanpm2001/WoltApp_Celery-Farmer
+https://github.com/seanpm2001/python-fastapi-workshop -> https://github.com/seanpm2001/WoltApp_Python-FastAPI-Workshop
+https://github.com/seanpm2001/junction-2022-materials -> https://github.com/seanpm2001/WoltApp_Junction-2022-Materials
+https://github.com/seanpm2001/parallelpbf -> https://github.com/seanpm2001/WoltApp_ParallelPBF
+https://github.com/seanpm2001/engineering-summer-intern-2022 -> https://github.com/seanpm2001/WoltApp_Engineering-Summer-Intern-2022
+https://github.com/seanpm2001/mitmproxy-mock -> https://github.com/seanpm2001/WoltApp_MITMProxy-Mock
+https://github.com/seanpm2001/memories -> https://github.com/seanpm2001/WoltApp_Memories
+https://github.com/seanpm2001/analytics-summer-intern-2022 -> https://github.com/seanpm2001/WoltApp_Analytics-Summer-Intern-2022
+https://github.com/seanpm2001/data-science-summer-intern-2022 -> https://github.com/seanpm2001/WoltApp_Data-Science-Summer-Intern-2022
+https://github.com/seanpm2001/blurhash-python -> https://github.com/seanpm2001/WoltApp_BlurHash-Python
+https://github.com/seanpm2001/spark-osm-datasource -> https://github.com/seanpm2001/WoltApp_Spark-OSM-DatasSource -> https://github.com/seanpm2001/WoltApp_Spark-OSM-DataSource
+https://github.com/seanpm2001/summer2021-internship -> https://github.com/seanpm2001/WoltApp_Summer2021-Internship
+https://github.com/seanpm2001/data-science-summer-intern-2021 -> https://github.com/seanpm2001/WoltApp_Data-Science-Summer-Intern-2021
+https://github.com/seanpm2001/summer2020 -> https://github.com/seanpm2001/WoltApp_Summer2020
+https://github.com/seanpm2001/react-geoinput -> https://github.com/seanpm2001/WoltApp_React-GeoInput
+https://github.com/seanpm2001/spark-osm-tools -> https://github.com/seanpm2001/WoltApp_Spark-OSM-Tools
+https://github.com/seanpm2001/looker-viz-transposed-table -> https://github.com/seanpm2001/WoltApp_Looker-Viz-Transposed-Table
+https://github.com/seanpm2001/summer2019 -> https://github.com/seanpm2001/WoltApp_Summer2019
+https://github.com/seanpm2001/summer2018 -> https://github.com/seanpm2001/WoltApp_Summer2018
+https://github.com/seanpm2001/osrm-backend -> https://github.com/seanpm2001/Project-OSRM_OSRM-Backend
+https://github.com/seanpm2001/osrm-profiles-contrib -> https://github.com/seanpm2001/Project-OSRM_OSRM-Profiles-Contrib
+https://github.com/seanpm2001/osrm-text-instructions -> https://github.com/seanpm2001/Project-OSRM_OSRM-Text-Instructions
+https://github.com/seanpm2001/osrm-frontend -> https://github.com/seanpm2001/Project-OSRM_OSRM-Frontend
+https://github.com/seanpm2001/project-osrm.github.com -> https://github.com/seanpm2001/Project-OSRM_Project-OSRM.GitHub.Com
+https://github.com/seanpm2001/osrm.js -> https://github.com/seanpm2001/Project-OSRM_OSRM.JS
+https://github.com/seanpm2001/osrm-text-instructions.java -> https://github.com/seanpm2001/Project-OSRM_OSRM-Text-Instructions.Java
+https://github.com/seanpm2001/osrm-frontend-legacy -> https://github.com/seanpm2001/Project-OSRM_OSRM-FrontEnd-Legacy
+https://github.com/seanpm2001/node-osrm -> https://github.com/seanpm2001/Project-OSRM_Node-OSRM
+https://github.com/seanpm2001/osrm-text-instructions.swift -> https://github.com/seanpm2001/Project-OSRM_OSRM-Text-Instructions.Swift
+https://github.com/seanpm2001/osrm-backend-docker -> https://github.com/seanpm2001/Project-OSRM_OSRM-Backend-Docker
+https://github.com/seanpm2001/ACE3 -> https://github.com/seanpm2001/ACEMod_ACE3
+https://github.com/seanpm2001/repos-armhf-ti-pru-software -> https://github.com/seanpm2001/BeagleBoard_Repos-ARMHF-TI-Pru-Software
+https://github.com/seanpm2001/repos-riscv64 -> https://github.com/seanpm2001/BeagleBoard_Repos-RISCV64
+https://github.com/seanpm2001/beaglev-starlight -> https://github.com/seanpm2001/BeagleBoard_BeagleV-StarLight
+https://github.com/seanpm2001/capes -> https://github.com/seanpm2001/BeagleBoard_Capes
+https://github.com/seanpm2001/beaglebone-ai -> https://github.com/seanpm2001/BeagleBoard_BeagleBone-AI
+https://github.com/seanpm2001/smallvm -> https://github.com/seanpm2001/BeagleBoard_SmallVM
+https://github.com/seanpm2001/Latest-Images -> https://github.com/seanpm2001/BeagleBoard_Latest-Images
+https://github.com/seanpm2001/beagle-cadence-libraries -> https://github.com/seanpm2001/BeagleBoard_Beagle-Cadence-LIBraries
+https://github.com/seanpm2001/pocketbeagle -> https://github.com/seanpm2001/BeagleBOard_PocketBeagle -> https://github.com/seanpm2001/BeagleBoard_PocketBeagle
+https://github.com/seanpm2001/beaglebone-blue-jadonk -> https://github.com/seanpm2001/BeagleBoard_BeagleBone-Blue-Jadonk
+https://github.com/seanpm2001/am335x_pru_package -> https://github.com/seanpm2001/BeagleBoard_AM335X_PRU_Package
+//// 10 lines at start, so that current number of forks can be reduced by 10 to get the current fork count (so I don't go over my limit)
+//// Repository renames
+//// ----
+//// Finishing off the current main queue today (2023.09.18)
+//// No new data to work with (2023.09.19 to 2023.09.20)
+//// Not enough data to work with (2023.09.21 to 2023.09.29)
+//// Not enough data to work with (2023.10.01 to 2023.10.03)
+//// Not willing to work with it yet (2023.10.04 to 2023.10.07)
+//// Queue cleared 2023.10.08
+//// Waiting for new data to work with/next month (2023.10.09)
+//// Waiting for a lot more data, or until next month (2023.10.10 to 2023.10.13)
+//// Partial queue work (2023.10.14)
+//// Waiting for a lot more data, or until next month (2023.10.15 to 2023.10.20)
+//// Waiting for when I feel ready and have the time (2023.10.21 to 2023.10.26)
+//// Waiting for when I feel ready and have the time next month (2023.10.27 to 2023.10.31)
+//// Waiting for when I feel ready (2023.11.01 to 2023.11.03)
+//// Working with queue (2023.11.04 to 2023.11.07)
+//// Waiting for new data to work with (2023.11.08)
+//// 1 entry worked with (2023.11.08)
+//// 5 entries worked with (2023.11.09)
+//// Waiting for new data to work with (2023.11.10)
+//// 1 entry worked with (2023.11.11)
+//// Waiting for new data to work with (2023.11.12 to 2023.11.13)
+//// 10 entries worked with (2023.11.14)
+//// Waiting for new data to work with (2023.11.15)
+//// 1 entry worked with (2023.11.16)
+//// 5 entries worked with (2023.11.17)
+//// Waiting for new data to work with (2023.11.18 to 2023.11.21)
+//// ----
+//// @seanwallawalla
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-Smarty
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-SMT
+

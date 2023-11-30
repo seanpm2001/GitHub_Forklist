@@ -1,0 +1,144 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification/
+//// GitHub forks
+//// DATE: 2023, Saturday, November 25th
+//// Starting 2023 September 9th, I am now increasing the daily star, watch, and fork count, due to a lack of progress on my timeline. I will now fork 92-100 repositories per day, instead of 17-25 repositories per day
+//// Start
+//// 2 users {
+//// @seanpm2001
+//// @seanwallawalla }
+//// @seanpm2001():
+https://github.com/seanpm2001/requirements -> https://github.com/seanpm2001/YiiSoft_Requirements
+https://github.com/seanpm2001/yii-runner-roadrunner -> https://github.com/seanpm2001/YiiSoft_Yii-Runner-RoadRunner
+https://github.com/seanpm2001/csrf -> https://github.com/seanpm2001/YiiSoft_CSRF
+https://github.com/seanpm2001/db-pgsql -> https://github.com/seanpm2001/YiiSoft_DB-PGSQL
+https://github.com/seanpm2001/app-api -> https://github.com/seanpm2001/YiiSoft_App-API
+https://github.com/seanpm2001/yii2-framework -> https://github.com/seanpm2001/YiiSoft_Yii2-Framework
+https://github.com/seanpm2001/strings -> https://github.com/seanpm2001/YiiSoft_Strings
+https://github.com/seanpm2001/security-1 -> https://github.com/seanpm2001/YiiSoft_Security
+https://github.com/seanpm2001/network-utilities -> https://github.com/seanpm2001/YiiSoft_Network-Utilities
+https://github.com/seanpm2001/db-mssql -> https://github.com/seanpm2001/YiiSoft_DB-MSSQL
+https://github.com/seanpm2001/package-template -> https://github.com/seanpm2001/YiiSoft_Package-Template
+https://github.com/seanpm2001/test-fixtures -> https://github.com/seanpm2001/Haraka_Test-Fixtures
+https://github.com/seanpm2001/message-stream -> https://github.com/seanpm2001/Haraka_Message-Stream
+https://github.com/seanpm2001/chunk-emitter -> https://github.com/seanpm2001/Haraka_Chunk-Emitter
+https://github.com/seanpm2001/haraka-plugin-rcpt-ldap -> https://github.com/seanpm2001/Haraka_Haraka-Plugin-RCPT-LDAP
+https://github.com/seanpm2001/haraka-plugin-auth-ldap -> https://github.com/seanpm2001/Haraka_Haraka-Plugin-Auth-LDAP
+https://github.com/seanpm2001/haraka-plugin-graph -> https://github.com/seanpm2001/Haraka_Haraka-Plugin-Graph
+https://github.com/seanpm2001/haraka-plugin-access -> https://github.com/seanpm2001/Haraka_Haraka-Plugin-Access
+https://github.com/seanpm2001/haraka-plugin-syslog -> https://github.com/seanpm2001/Haraka_Haraka-Plugin-SysLog
+https://github.com/seanpm2001/haraka-plugin-dcc -> https://github.com/seanpm2001/Haraka_Haraka-Plugin-DCC
+https://github.com/seanpm2001/haraka-dsn -> https://github.com/seanpm2001/Haraka_Haraka-DSN
+https://github.com/seanpm2001/haraka-constants -> https://github.com/seanpm2001/Haraka_Haraka-Constants
+https://github.com/seanpm2001/haraka-plugin-log-reader -> https://github.com/seanpm2001/Haraka_Haraka-Plugin-Log-Reader
+https://github.com/seanpm2001/haraka-plugin-headers -> https://github.com/seanpm2001/Haraka_Haraka-Plugin-Headers
+https://github.com/seanpm2001/haraka-plugin-auth-imap -> https://github.com/seanpm2001/Haraka_Haraka-Plugin-Auth-IMAP
+https://github.com/seanpm2001/haraka-results -> https://github.com/seanpm2001/Haraka_Haraka-Results
+https://github.com/seanpm2001/haraka-plugin-known-senders -> https://github.com/seanpm2001/Haraka_Haraka-Plugin-Known-Senders
+https://github.com/seanpm2001/haraka-plugin-watch -> https://github.com/seanpm2001/Haraka_Haraka-Plugin-Watch
+https://github.com/seanpm2001/haraka-config -> https://github.com/seanpm2001/Haraka_Haraka-Config
+https://github.com/seanpm2001/haraka-notes -> https://github.com/seanpm2001/Haraka_Haraka-Notes
+https://github.com/seanpm2001/haraka-utils -> https://github.com/seanpm2001/Haraka_Haraka-Utils
+https://github.com/seanpm2001/haraka-plugin-aliases -> https://github.com/seanpm2001/Haraka_Haraka-Plugin-Aliases
+https://github.com/seanpm2001/node-address-rfc2821 -> https://github.com/seanpm2001/Haraka_Node-Address-RFC2821
+https://github.com/seanpm2001/node-address-rfc2822 -> https://github.com/seanpm2001/Haraka_Node-Address-RFC2822
+https://github.com/seanpm2001/haraka-plugin-rcpt_to-strip-tagging -> https://github.com/seanpm2001/Haraka_Haraka-Plugin-RCPT_To-Strip-Tagging
+https://github.com/seanpm2001/haraka-plugin-dovecot -> https://github.com/seanpm2001/Haraka_Haraka-Plugin-DoveCot
+https://github.com/seanpm2001/haraka-plugin-milter -> https://github.com/seanpm2001/Haraka_Haraka-Plugin-Milter
+https://github.com/seanpm2001/haraka-plugin-rcpt-postgresql -> https://github.com/seanpm2001/Haraka_Haraka-Plugin-RCPT-PostGreSQL
+https://github.com/seanpm2001/haraka-plugin-vmta -> https://github.com/seanpm2001/Haraka_Haraka-Plugin-VMTA
+https://github.com/seanpm2001/chef-splunk -> https://github.com/seanpm2001/Sous-Chefs_Chef-Splunk
+https://github.com/seanpm2001/aws -> https://github.com/seanpm2001/Sous-Chefs_AWS
+https://github.com/seanpm2001/selinux -> https://github.com/seanpm2001/Sous-Chefs_SELinux
+https://github.com/seanpm2001/docker -> https://github.com/seanpm2001/Sous-Chefs_Docker
+https://github.com/seanpm2001/yum-almalinux -> https://github.com/seanpm2001/Sous-Chefs_YUM-AlmaLinux
+https://github.com/seanpm2001/pyenv -> https://github.com/seanpm2001/Sous-Chefs_PyEnv
+https://github.com/seanpm2001/jenkins-1 -> https://github.com/seanpm2001/Sous-Chefs_Jenkins
+https://github.com/seanpm2001/postgresql -> https://github.com/seanpm2001/Sous-Chefs_PostGreSQL
+https://github.com/seanpm2001/transmission-1 -> https://github.com/seanpm2001/Sous-Chefs_Transmission
+https://github.com/seanpm2001/rvm -> https://github.com/seanpm2001/Sous-Chefs_RVM
+https://github.com/seanpm2001/sql_server -> https://github.com/seanpm2001/Sous-Chefs_SQL_Server
+https://github.com/seanpm2001/php -> https://github.com/seanpm2001/Sous-Chefs_PHP
+https://github.com/seanpm2001/.github-1 -> https://github.com/seanpm2001/Sous-Chefs.github
+https://github.com/seanpm2001/lvm -> https://github.com/seanpm2001/Sous-Chefs_LVM
+https://github.com/seanpm2001/language-chef -> https://github.com/seanpm2001/Sous-Chefs_Language-Chef
+https://github.com/seanpm2001/repo-management -> https://github.com/seanpm2001/Sous-Chefs_Repo-mManagement -> https://github.com/seanpm2001/Sous-Chefs_Repo-Management
+https://github.com/seanpm2001/sublimechef -> https://github.com/seanpm2001/Sous-Chefs_SubLimeChef
+https://github.com/seanpm2001/ossec -> https://github.com/seanpm2001/Sous-Chefs_OSSEC
+https://github.com/seanpm2001/terraform-github-repository -> https://github.com/seanpm2001/Sous-Chefs_TerraForm-GitHub-Repository
+https://github.com/seanpm2001/website -> https://github.com/seanpm2001/Sous-Chefs-Boneyard_Website
+https://github.com/seanpm2001/terraform-github-membership -> https://github.com/seanpm2001/Sous-Chefs_TerraForm-GitHub-Membership
+https://github.com/seanpm2001/powershell-1 -> https://github.com/seanpm2001/Sous-Chefs_PowerShell
+https://github.com/seanpm2001/apt -> https://github.com/seanpm2001/Sous-Chefs_APT
+https://github.com/seanpm2001/yum-remi-chef -> https://github.com/seanpm2001/Sous-Chefs_YUM-Remi-Chef
+https://github.com/seanpm2001/seven_zip -> https://github.com/seanpm2001/Sous-Chefs_Seven_Zip
+https://github.com/seanpm2001/yum-mysql-community -> https://github.com/seanpm2001/Sous-Chefs_YUM-MySQL-Community
+https://github.com/seanpm2001/yum-centos -> https://github.com/seanpm2001/Sous-Chefs_YUM-CentOS
+https://github.com/seanpm2001/vagrant -> https://github.com/seanpm2001/Sous-Chefs_Vagrant
+https://github.com/seanpm2001/mysql -> https://github.com/seanpm2001/Sous-Chefs_MySQL
+https://github.com/seanpm2001/nfs -> https://github.com/seanpm2001/Sous-Chefs_NFS
+https://github.com/seanpm2001/mcelog -> https://github.com/seanpm2001/Sous-Chefs_MCELog
+https://github.com/seanpm2001/bind -> https://github.com/seanpm2001/Sous-Chefs_Bind
+https://github.com/seanpm2001/passenger_apache2 -> https://github.com/seanpm2001/Sous-Chefs_Passenger_Apache2
+https://github.com/seanpm2001/ark -> https://github.com/seanpm2001/Sous-Chefs_Ark
+https://github.com/seanpm2001/kubernetes -> https://github.com/seanpm2001/Sous-Chefs_Kubernetes
+https://github.com/seanpm2001/confluence -> https://github.com/seanpm2001/Sous-Chefs_Confluence
+https://github.com/seanpm2001/vim-1 -> https://github.com/seanpm2001/Sous-Chefs_Vim
+https://github.com/seanpm2001/openldap -> https://github.com/seanpm2001/Sous-Chefs_OpenLDAP
+https://github.com/seanpm2001/golang -> https://github.com/seanpm2001/Sous-Chefs_GoLang
+https://github.com/seanpm2001/ufw -> https://github.com/seanpm2001/Sous-Chefs_UFW
+https://github.com/seanpm2001/perl -> https://github.com/seanpm2001/Sous-Chefs_Perl
+https://github.com/seanpm2001/rsyslog -> https://github.com/seanpm2001/Sous-Chefs_RSysLog
+https://github.com/seanpm2001/homebrew -> https://github.com/seanpm2001/Sous-Chefs_HomeBrew
+https://github.com/seanpm2001/nagios -> https://github.com/seanpm2001/Sous-CHefs_NagIOs
+https://github.com/seanpm2001/sc_vscode -> https://github.com/seanpm2001/Sous-Chefs_SC_VSCode
+https://github.com/seanpm2001/rundeck -> https://github.com/seanpm2001/Sous-Chefs_RunDeck
+https://github.com/seanpm2001/yii -> https://github.com/seanpm2001/YiiSoft_Yii
+https://github.com/seanpm2001/factory -> https://github.com/seanpm2001/YiiSoft_Factory
+https://github.com/seanpm2001/yii-auth-client -> https://github.com/seanpm2001/YiiSoft_Yii-Auth-Client
+https://github.com/seanpm2001/widget -> https://github.com/seanpm2001/YiiSoft_Widget
+https://github.com/seanpm2001/yii-runner-console -> https://github.com/seanpm2001/YiiSoft_Yii-Runner-Console
+https://github.com/seanpm2001/yii-runner-http -> https://github.com/seanpm2001/YiiSoft_Yii-Runner-HTTP
+https://github.com/seanpm2001/yii-runner -> https://github.com/seanpm2001/YIiSoft_Yii-Runner
+https://github.com/seanpm2001/docs-1 -> https://github.com/seanpm2001/YiiSoft_Docs
+//// 10 lines at start, so that current number of forks can be reduced by 10 to get the current fork count (so I don't go over my limit)
+//// Repository renames
+//// ----
+//// Finishing off the current main queue today (2023.09.18)
+//// No new data to work with (2023.09.19 to 2023.09.20)
+//// Not enough data to work with (2023.09.21 to 2023.09.29)
+//// Not enough data to work with (2023.10.01 to 2023.10.03)
+//// Not willing to work with it yet (2023.10.04 to 2023.10.07)
+//// Queue cleared 2023.10.08
+//// Waiting for new data to work with/next month (2023.10.09)
+//// Waiting for a lot more data, or until next month (2023.10.10 to 2023.10.13)
+//// Partial queue work (2023.10.14)
+//// Waiting for a lot more data, or until next month (2023.10.15 to 2023.10.20)
+//// Waiting for when I feel ready and have the time (2023.10.21 to 2023.10.26)
+//// Waiting for when I feel ready and have the time next month (2023.10.27 to 2023.10.31)
+//// Waiting for when I feel ready (2023.11.01 to 2023.11.03)
+//// Working with queue (2023.11.04 to 2023.11.07)
+//// Waiting for new data to work with (2023.11.08)
+//// 1 entry worked with (2023.11.08)
+//// 5 entries worked with (2023.11.09)
+//// Waiting for new data to work with (2023.11.10)
+//// 1 entry worked with (2023.11.11)
+//// Waiting for new data to work with (2023.11.12 to 2023.11.13)
+//// 10 entries worked with (2023.11.14)
+//// Waiting for new data to work with (2023.11.15)
+//// 1 entry worked with (2023.11.16)
+//// 5 entries worked with (2023.11.17)
+//// Waiting for new data to work with (2023.11.18 to 2023.11.21)
+//// 1 entry worked with (2023.11.22)
+//// Waiting for new data to work with (2023.11.23 to 2023.11.24)
+//// 4 entries worked with (2023.11.25)
+https://github.com/seanpm2001/vim -> https://github.com/seanpm2001/Vim_Vim
+https://github.com/seanpm2001/Powershell -> https://github.com/seanpm2001/PowerShell_PowerShell
+https://github.com/seanpm2001/jenkins -> https://github.com/seanpm2001/JenkinsCI_Jenkins
+https://github.com/seanpm2001/transmission -> https://github.com/seanpm2001/Transmission_Transmission
+//// ----
+//// @seanwallawalla
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-Stan
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-StandardML
+https://github.com/seanwallawalla/Motor-Universe-Open-Factory
+

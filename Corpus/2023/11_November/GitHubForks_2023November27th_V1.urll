@@ -1,0 +1,146 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification/
+//// GitHub forks
+//// DATE: 2023, Monday, November 27th
+//// Starting 2023 September 9th, I am now increasing the daily star, watch, and fork count, due to a lack of progress on my timeline. I will now fork 92-100 repositories per day, instead of 17-25 repositories per day
+//// Start
+//// 2 users {
+//// @seanpm2001
+//// @seanwallawalla }
+//// @seanpm2001():
+https://github.com/seanpm2001/yii-http -> https://github.com/seanpm2001/YiiSoft_Yii-HTTP
+https://github.com/seanpm2001/arrays -> https://github.com/seanpm2001/YiiSoft_Arrays
+https://github.com/seanpm2001/cache-file -> https://github.com/seanpm2001/YiiSoft_Cache-File
+https://github.com/seanpm2001/router-fastroute -> https://github.com/seanpm2001/YiiSoft_Router-FastRoute
+https://github.com/seanpm2001/translator-message-php -> https://github.com/seanpm2001/YiiSoft_Translator-Message-PHP
+https://github.com/seanpm2001/yii-console -> https://github.com/seanpm2001/YiiSoft_Yii-Console
+https://github.com/seanpm2001/middleware-dispatcher -> https://github.com/seanpm2001/YiiSoft_MiddleWare-Dispatcher
+https://github.com/seanpm2001/translator -> https://github.com/seanpm2001/YiiSoft_Translator
+https://github.com/seanpm2001/yii2-httpclient -> https://github.com/seanpm2001/YiiSoft_Yii2-HTTPClient
+https://github.com/seanpm2001/yii2-bootstrap4 -> https://github.com/seanpm2001/YiiSoft_Yii2-BootStrap4
+https://github.com/seanpm2001/reprepro -> https://github.com/seanpm2001/Sous-Chefs_Reprepro
+https://github.com/seanpm2001/wix -> https://github.com/seanpm2001/Sous-Chefs_Wix
+https://github.com/seanpm2001/tftp -> https://github.com/seanpm2001/Sous-Chefs_TFLP -> https://github.com/seanpm2001/Sous-Chefs_TFTP
+https://github.com/seanpm2001/webpi -> https://github.com/seanpm2001/Sous-Chefs_WebPi
+https://github.com/seanpm2001/github -> https://github.com/seanpm2001/Sous-Chefs_GitHub
+https://github.com/seanpm2001/aptly -> https://github.com/seanpm2001/Sous-Chefs_Aptly
+https://github.com/seanpm2001/motd-tail -> https://github.com/seanpm2001/Sous-Chefs_MOTD-Tail
+https://github.com/seanpm2001/remote_install -> https://github.com/seanpm2001/Sous-Chefs_Remote_Install
+https://github.com/seanpm2001/bot-trainer -> https://github.com/seanpm2001/Sous-Chefs_Bot-Trainer
+https://github.com/seanpm2001/snort -> https://github.com/seanpm2001/Sous-Chefs_Snort
+https://github.com/seanpm2001/mingw -> https://github.com/seanpm2001/Sous-Chefs_MingW
+https://github.com/seanpm2001/squid -> https://github.com/seanpm2001/Sous-Chefs_Squid
+https://github.com/seanpm2001/smartmontools -> https://github.com/seanpm2001/Sous-Chefs_SmartMonTools
+https://github.com/seanpm2001/sensors -> https://github.com/seanpm2001/Sous-Chefs_Sensors
+https://github.com/seanpm2001/sc-chruby -> https://github.com/seanpm2001/Sous-Chef_SC-CHRuby ->https://github.com/seanpm2001/Sous-Chefs_SC-CHRuby
+https://github.com/seanpm2001/rsync -> https://github.com/seanpm2001/Sous-Chefs_RSync
+https://github.com/seanpm2001/resharper -> https://github.com/seanpm2001/Sous-Chefs_ReSharper
+https://github.com/seanpm2001/pulledpork -> https://github.com/seanpm2001/Sous-Chefs_PulledPork
+https://github.com/seanpm2001/prometheus -> https://github.com/seanpm2001/Sous-Chefs_Prometheus
+https://github.com/seanpm2001/notepadpp -> https://github.com/seanpm2001/Sous-Chefs_NotepadPP
+https://github.com/seanpm2001/nscd -> https://github.com/seanpm2001/Sous-Chefs_NSCD
+https://github.com/seanpm2001/nrpe -> https://github.com/seanpm2001/Sous-Chefs_NRPE
+https://github.com/seanpm2001/nginx_simplecgi -> https://github.com/seanpm2001/Sous-Chefs_NGinx_SimpleCGI
+https://github.com/seanpm2001/nexus -> https://github.com/seanpm2001/Sous-Chefs_Nexus
+https://github.com/seanpm2001/network_interfaces -> https://github.com/seanpm2001/Sous-Chefs_Network_Interfaces
+https://github.com/seanpm2001/netplan -> https://github.com/seanpm2001/Sous-Chefs_NetPlan
+https://github.com/seanpm2001/nano -> https://github.com/seanpm2001/Sous-Chefs_Nano
+https://github.com/seanpm2001/maven -> https://github.com/seanpm2001/Sous-Chefs_Maven
+https://github.com/seanpm2001/locales -> https://github.com/seanpm2001/Sous-Chefs_Locales
+https://github.com/seanpm2001/keepalived -> https://github.com/seanpm2001/Sous-Chefs_KeepAliveD
+https://github.com/seanpm2001/iis_urlrewrite -> https://github.com/seanpm2001/Sous-Chefs_IIS_URLRewrite
+https://github.com/seanpm2001/htpasswd -> https://github.com/seanpm2001/Sous-Chefs_HTPassWD
+https://github.com/seanpm2001/gpg -> https://github.com/seanpm2001/Sous-Chefs_GPG
+https://github.com/seanpm2001/gems -> https://github.com/seanpm2001/Sous-Chefs_Gems
+https://github.com/seanpm2001/foreman -> https://github.com/seanpm2001/Sous-Chefs_ForeMan
+https://github.com/seanpm2001/firefox -> https://github.com/seanpm2001/Sous-Chefs_Firefox
+https://github.com/seanpm2001/fileutils -> https://github.com/seanpm2001/Sous-Chefs_FileUtils
+https://github.com/seanpm2001/fastly -> https://github.com/seanpm2001/Sous-Chefs_Fastly
+https://github.com/seanpm2001/emacs -> https://github.com/seanpm2001/Sous-Chefs_Emacs
+https://github.com/seanpm2001/elixir -> https://github.com/seanpm2001/Sous-Chefs_Elixir
+https://github.com/seanpm2001/drbd -> https://github.com/seanpm2001/Sous-Chefs_DRBD
+https://github.com/seanpm2001/dpkg_autostart -> https://github.com/seanpm2001/Sous-Chefs_DPKG_AutoStart
+https://github.com/seanpm2001/docker-engine -> https://github.com/seanpm2001/Sous-Chefs_Docker-Engine
+https://github.com/seanpm2001/dnsmasq -> https://github.com/seanpm2001/Sous-Chefs_DNSMasQ
+https://github.com/seanpm2001/djbdns -> https://github.com/seanpm2001/Sous-Chefs_DJBDNS
+https://github.com/seanpm2001/dhcp -> https://github.com/seanpm2001/Sous-Chefs_DHCP
+https://github.com/seanpm2001/chef_ca -> https://github.com/seanpm2001/Sous-Chefs_Chef_CA
+https://github.com/seanpm2001/control_groups -> https://github.com/seanpm2001/Sous-Chefs_Control_Groups
+https://github.com/seanpm2001/daemontools -> https://github.com/seanpm2001/Sous-Chefs_DaemonTools
+https://github.com/seanpm2001/deb_pkg_unautostart -> https://github.com/seanpm2001/Sous-Chefs_Deb_PKG_UnAutoStart
+https://github.com/seanpm2001/bsdcpio -> https://github.com/seanpm2001/Sous-Chefs_BSDCPIO
+https://github.com/seanpm2001/beyondcompare -> https://github.com/seanpm2001/Sous-Chefs_BeyondCompare
+https://github.com/seanpm2001/autofs -> https://github.com/seanpm2001/Sous-Chefs_AutoFS
+https://github.com/seanpm2001/stunnel -> https://github.com/seanpm2001/Sous-Chefs_STunnel
+https://github.com/seanpm2001/atom -> https://github.com/seanpm2001/Sous-Chefs_Atom
+https://github.com/seanpm2001/atlantis -> https://github.com/seanpm2001/Sous-Chefs_Atlantis
+https://github.com/seanpm2001/apparmor -> https://github.com/seanpm2001/Sous-Chefs_AppArmor
+https://github.com/seanpm2001/sssd_ldap -> https://github.com/seanpm2001/Sous-Chefs_SSSD_LDAP
+https://github.com/seanpm2001/meta-1 -> https://github.com/seanpm2001/Sous-Chefs_Meta
+https://github.com/seanpm2001/result -> https://github.com/seanpm2001/RustedPy_Result
+https://github.com/seanpm2001/community_cookbook_documentation -> https://github.com/seanpm2001/Chef-Cookbooks_Community_CookBook_Documentation
+https://github.com/seanpm2001/chef-ingredient -> https://github.com/seanpm2001/Chef-Cookbooks_Chef-Ingredient
+https://github.com/seanpm2001/chef_client_updater -> https://github.com/seanpm2001/Chef-Cookbooks_Chef_Client_Updater
+https://github.com/seanpm2001/runit -> https://github.com/seanpm2001/Chef-Cookbooks_RUnit
+https://github.com/seanpm2001/supermarket-omnibus-cookbook -> https://github.com/seanpm2001/Chef-Cookbooks_SuperMarket-OmniBus-CookBook
+https://github.com/seanpm2001/enterprise-chef-common -> https://github.com/seanpm2001/Chef-Cookbooks_Enterprise-Chef-Common
+https://github.com/seanpm2001/rubygems-1 -> https://github.com/seanpm2001/Chef-Cookbooks_RubyGems
+https://github.com/seanpm2001/ssh_known_hosts -> https://github.com/seanpm2001/Chef-Cookbooks_SSH_Known_Hosts
+https://github.com/seanpm2001/yum-chef -> https://github.com/seanpm2001/Chef-Cookbooks_YUM-Chef
+https://github.com/seanpm2001/apt-chef -> https://github.com/seanpm2001/Chef-Cookbooks_APT-Chef
+https://github.com/seanpm2001/pkgutil -> https://github.com/seanpm2001/Chef-Cookbooks_PKGUtil
+https://github.com/seanpm2001/aix -> https://github.com/seanpm2001/Chef-Cookbooks_AIX
+https://github.com/seanpm2001/auditd -> https://github.com/seanpm2001/Chef-Cookbooks_AuditD
+https://github.com/seanpm2001/db-redis -> https://github.com/seanpm2001/YiiSoft_DB-Redis
+https://github.com/seanpm2001/yii2-bootstrap5 -> https://github.com/seanpm2001/YiiSoft_Yii2-BootStrap5
+https://github.com/seanpm2001/mailer-symfony -> https://github.com/seanpm2001/YiiSoft_Mailer-Symfony
+https://github.com/seanpm2001/view-twig -> https://github.com/seanpm2001/YiiSoft_View-Twig
+https://github.com/seanpm2001/log-target-email -> https://github.com/seanpm2001/YiiSoft_Log-Target-Email
+https://github.com/seanpm2001/mailer -> https://github.com/seanpm2001/YiiSoft_Mailer
+https://github.com/seanpm2001/access -> https://github.com/seanpm2001/YiiSoft_Access
+https://github.com/seanpm2001/yii-debug-viewer -> https://github.com/seanpm2001/YiiSoft_Yii-Debug-Viewer
+https://github.com/seanpm2001/rate-limiter -> https://github.com/seanpm2001/YiiSoft_Rate-Limiter
+https://github.com/seanpm2001/maybe -> https://github.com/seanpm2001/RustedPy_Maybe
+//// 10 lines at start, so that current number of forks can be reduced by 10 to get the current fork count (so I don't go over my limit)
+//// Repository renames
+//// ----
+//// Finishing off the current main queue today (2023.09.18)
+//// No new data to work with (2023.09.19 to 2023.09.20)
+//// Not enough data to work with (2023.09.21 to 2023.09.29)
+//// Not enough data to work with (2023.10.01 to 2023.10.03)
+//// Not willing to work with it yet (2023.10.04 to 2023.10.07)
+//// Queue cleared 2023.10.08
+//// Waiting for new data to work with/next month (2023.10.09)
+//// Waiting for a lot more data, or until next month (2023.10.10 to 2023.10.13)
+//// Partial queue work (2023.10.14)
+//// Waiting for a lot more data, or until next month (2023.10.15 to 2023.10.20)
+//// Waiting for when I feel ready and have the time (2023.10.21 to 2023.10.26)
+//// Waiting for when I feel ready and have the time next month (2023.10.27 to 2023.10.31)
+//// Waiting for when I feel ready (2023.11.01 to 2023.11.03)
+//// Working with queue (2023.11.04 to 2023.11.07)
+//// Waiting for new data to work with (2023.11.08)
+//// 1 entry worked with (2023.11.08)
+//// 5 entries worked with (2023.11.09)
+//// Waiting for new data to work with (2023.11.10)
+//// 1 entry worked with (2023.11.11)
+//// Waiting for new data to work with (2023.11.12 to 2023.11.13)
+//// 10 entries worked with (2023.11.14)
+//// Waiting for new data to work with (2023.11.15)
+//// 1 entry worked with (2023.11.16)
+//// 5 entries worked with (2023.11.17)
+//// Waiting for new data to work with (2023.11.18 to 2023.11.21)
+//// 1 entry worked with (2023.11.22)
+//// Waiting for new data to work with (2023.11.23 to 2023.11.24)
+//// 4 entries worked with (2023.11.25)
+//// 2 entries worked with (2023.11.26)
+//// 1 entry worked with (2023.11.27)
+https://github.com/seanpm2001/rubygems -> https://github.com/seanpm2001/RubyGems_RubyGems
+//// ----
+//// @seanwallawalla
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-Stata
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-StringTemplate
+https://github.com/seanwallawalla/SeansLifeArchive_Images_ModernSmurfsVillage_Y2023_V5
+https://github.com/seanwallawalla/SeansLifeArchive_Images_MotorWorld_CarFactory_Y2023_V5
+https://github.com/seanwallawalla/EMAIL_2_SelfHosting_Docs
+https://github.com/seanwallawalla/DMAIL_SelfHosting
+

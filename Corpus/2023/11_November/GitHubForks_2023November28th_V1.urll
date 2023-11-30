@@ -1,0 +1,143 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification/
+//// GitHub forks
+//// DATE: 2023, Tuesday, November 28th
+//// Starting 2023 September 9th, I am now increasing the daily star, watch, and fork count, due to a lack of progress on my timeline. I will now fork 92-100 repositories per day, instead of 17-25 repositories per day
+//// Start
+//// 2 users {
+//// @seanpm2001
+//// @seanwallawalla }
+//// @seanpm2001():
+https://github.com/seanpm2001/i18n-1 -> https://github.com/seanpm2001/YiiSoft_I18N
+https://github.com/seanpm2001/definitions -> https://github.com/seanpm2001/YiiSoft_Definitions
+https://github.com/seanpm2001/rbac-rules-container -> https://github.com/seanpm2001/YiiSoft_RBAC-Rules-Container
+https://github.com/seanpm2001/di -> https://github.com/seanpm2001/YiiSoft_DI
+https://github.com/seanpm2001/yii-twig -> https://github.com/seanpm2001/YiiSoft_Yii-Twig
+https://github.com/seanpm2001/session -> https://github.com/seanpm2001/YiiSoft_Session
+https://github.com/seanpm2001/auth-jwt -> https://github.com/seanpm2001/YiiSoft_Auth-JWT
+https://github.com/seanpm2001/mutex-pdo-mysql -> https://github.com/seanpm2001/YiiSoft_MutEx-PDO-MySQL
+https://github.com/seanpm2001/data-response -> https://github.com/seanpm2001/YiiSoft_Data-Response
+https://github.com/seanpm2001/mutex-pdo-pgsql -> https://github.com/seanpm2001/YiiSoft_MutEx-PDO-PGSQL
+https://github.com/seanpm2001/chef-server -> https://github.com/seanpm2001/Chef-Cookbooks_Chef-Server
+https://github.com/seanpm2001/iptables -> https://github.com/seanpm2001/Chef-Cookbooks_IPTables
+https://github.com/seanpm2001/testing_examples -> https://github.com/seanpm2001/Chef-Cookbooks_Testing_Examples
+https://github.com/seanpm2001/repo-management -> https://github.com/seanpm2001/Chef-Cookbooks_Repo-Management
+https://github.com/seanpm2001/community_cookbook_tools -> https://github.com/seanpm2001/Chef-Cookbooks_Community_Cookbook_Tools
+https://github.com/seanpm2001/.github-1 -> https://github.com/seanpm2001/Chef-Cookbooks.github
+https://github.com/seanpm2001/windows_certificate_binding -> https://github.com/seanpm2001/Chef-Cookbooks_Windows_Certificate_Binding
+https://github.com/seanpm2001/enqueue-dev -> https://github.com/seanpm2001/PHP-Enqueue_Enqueue-Dev
+https://github.com/seanpm2001/laravel-queue -> https://github.com/seanpm2001/PHP-Enqueue_Laravel-Queue
+https://github.com/seanpm2001/enqueue-elastica-bundle -> https://github.com/seanpm2001/PHP-Enqueue_Enqueue-Elastica-Bundle
+https://github.com/seanpm2001/monitoring -> https://github.com/seanpm2001/PHP-Enqueue_Monitoring
+https://github.com/seanpm2001/job-queue -> https://github.com/seanpm2001/PHP-Enqueue_Job-Queue
+https://github.com/seanpm2001/amqp-bunny -> https://github.com/seanpm2001/PHP-Enqueue_AMQP-Bunny
+https://github.com/seanpm2001/null -> https://github.com/seanpm2001/PHP-Enqueue_Null
+https://github.com/seanpm2001/enqueue -> https://github.com/seanpm2001/PHP-Enqueue_Enqueue
+https://github.com/seanpm2001/dbal -> https://github.com/seanpm2001/PHP-Enqueue_DBal -> https://github.com/seanpm2001/PHP-Enqueue_DBAL
+https://github.com/seanpm2001/async-command -> https://github.com/seanpm2001/PHP-Enqueue_ASync-Command
+https://github.com/seanpm2001/async-event-dispatcher -> https://github.com/seanpm2001/PHP-Enqueue_ASync-Event-Dispatcher
+https://github.com/seanpm2001/test -> https://github.com/seanpm2001/PHP-Enqueue_Test
+https://github.com/seanpm2001/enqueue-bundle -> https://github.com/seanpm2001/PHP-Enqueue_Enqueue-Bundle
+https://github.com/seanpm2001/simple-client -> https://github.com/seanpm2001/PHP-Enqueue_Simple-Client
+https://github.com/seanpm2001/rdkafka -> https://github.com/seanpm2001/PHP-Enqueue_RDKafka
+https://github.com/seanpm2001/fs -> https://github.com/seanpm2001/PHP-Enqueue_FS
+https://github.com/seanpm2001/stomp -> https://github.com/seanpm2001/PHP-Enqueue_Stomp -> https://github.com/seanpm2001/PHP-Enqueue_STOMP
+https://github.com/seanpm2001/php-enqueue.github.io
+https://github.com/seanpm2001/sns -> https://github.com/seanpm2001/PHP-Enqueue_SNS
+https://github.com/seanpm2001/sqs -> https://github.com/seanpm2001/PHP-Enqueue_SQS
+https://github.com/seanpm2001/snsqs -> https://github.com/seanpm2001/PHP-Enqueue_SNSQS
+https://github.com/seanpm2001/wamp -> https://github.com/seanpm2001/PHP-Enqueue_WAMP
+https://github.com/seanpm2001/gearman -> https://github.com/seanpm2001/PHP-Enqueue_GearMan
+https://github.com/seanpm2001/gps -> https://github.com/seanpm2001/PHP-Enqueue_GPS
+https://github.com/seanpm2001/mongodb -> https://github.com/seanpm2001/PHP-Enqueue_MongoDB
+https://github.com/seanpm2001/redis -> https://github.com/seanpm2001/PHP-Enqueue_Redis
+https://github.com/seanpm2001/pheanstalk -> https://github.com/seanpm2001/PHP-Enqueue_PHeanStalk
+https://github.com/seanpm2001/amqp-tools -> https://github.com/seanpm2001/PHP-Enqueue_AMQP-Tools
+https://github.com/seanpm2001/amqp-lib -> https://github.com/seanpm2001/PHP-Enqueue_AMQP-LIB
+https://github.com/seanpm2001/amqp-ext -> https://github.com/seanpm2001/PHP-Enqueue_AMQP-EXT
+https://github.com/seanpm2001/dsn -> https://github.com/seanpm2001/PHP-Enqueue_DSN
+https://github.com/seanpm2001/job-queue-flex-pack -> https://github.com/seanpm2001/PHP-Enqueue_Job-Queue-Flex-Pack
+https://github.com/seanpm2001/enqueue-sandbox -> https://github.com/seanpm2001/PHP-Enqueue_Enqueue-Sandbox
+https://github.com/seanpm2001/magento2-enqueue -> https://github.com/seanpm2001/PHP-Enqueue_Magento2-Enqueue
+https://github.com/seanpm2001/tactician-queue-interop -> https://github.com/seanpm2001/PHP-Enqueue_Tactician-Queue-Interop
+https://github.com/seanpm2001/magento-enqueue -> https://github.com/seanpm2001/PHP-Enqueue_Magento-Enqueue
+https://github.com/seanpm2001/logos-1 -> https://github.com/seanpm2001/PHP-Enqueue_Logos
+https://github.com/seanpm2001/monolog-queue-handler -> https://github.com/seanpm2001/PHP-Enqueue_Monolog-Queue-Handler
+https://github.com/seanpm2001/psr-queue -> https://github.com/seanpm2001/PHP-Enqueue_PSR-Queue
+https://github.com/seanpm2001/select2 -> https://github.com/seanpm2001/Select2_Select2
+https://github.com/seanpm2001/select2-bootstrap-theme -> https://github.com/seanpm2001/Select2_Select2-Bootstrap-Theme
+https://github.com/seanpm2001/docs -> https://github.com/seanpm2001/Select2_Docs
+https://github.com/seanpm2001/select2.github.io
+https://github.com/seanpm2001/gridster.js -> https://github.com/seanpm2001/DucksBoard_Gridster.JS
+https://github.com/seanpm2001/libsaas -> https://github.com/seanpm2001/DucksBoard_LIBSaaS
+https://github.com/seanpm2001/twilio-zabbix-handler -> https://github.com/seanpm2001/DucksBoard_Twilio-Zabbix-Handler
+https://github.com/seanpm2001/api-examples -> https://github.com/seanpm2001/DucksBoard_API-Examples
+https://github.com/seanpm2001/redux-loop -> https://github.com/seanpm2001/Redux-Loop_Redux-Loop
+https://github.com/seanpm2001/redux-loop-immutable -> https://github.com/seanpm2001/Redux-Loop_Redux-Loop-Immutable
+https://github.com/seanpm2001/backbone.subroute -> https://github.com/seanpm2001/BackboneSubroute_Backbone.Subroute
+https://github.com/seanpm2001/momentjs.com -> https://github.com/seanpm2001/Moment_MomentJS.Com
+https://github.com/seanpm2001/moment-timezone -> https://github.com/seanpm2001/Moment_Moment-TimeZone
+https://github.com/seanpm2001/moment -> https://github.com/seanpm2001/Moment_Moment
+https://github.com/seanpm2001/luxon -> https://github.com/seanpm2001/Moment_Luxon
+https://github.com/seanpm2001/env_tests -> https://github.com/seanpm2001/Moment_Env_Tests
+https://github.com/seanpm2001/moment-rfcs -> https://github.com/seanpm2001/Moment_Moment-RFCs
+https://github.com/seanpm2001/moment-cldr -> https://github.com/seanpm2001/Moment_Moment-CLDR
+https://github.com/seanpm2001/LibreTranslate -> https://github.com/seanpm2001/LibreTranslate_LibreTranslate
+https://github.com/seanpm2001/presentations -> https://github.com/seanpm2001/LibreTranslate_Presentations
+https://github.com/seanpm2001/CommunityDS -> https://github.com/seanpm2001/LibreTranslate_CommunityDS
+https://github.com/seanpm2001/LibreTranslate-Models -> https://github.com/seanpm2001/LibreTranslate_LibreTranslate-Models
+https://github.com/seanpm2001/solidus -> https://github.com/seanpm2001/SolidusIO_Solidus
+https://github.com/seanpm2001/solidus_stripe -> https://github.com/seanpm2001/SolidusIO_Solidus_Stripe
+https://github.com/seanpm2001/solidus_starter_frontend -> https://github.com/seanpm2001/Solidus_Solidus_Starter_FrontEnd -> https://github.com/seanpm2001/SolidusIO_Solidus_Starter_FrontEnd
+https://github.com/seanpm2001/solidus_braintree -> https://github.com/seanpm2001/SolidusIO_Solidus_BrainTree
+https://github.com/seanpm2001/.github-1 -> https://github.com/seanpm2001/SolidusIO.github
+https://github.com/seanpm2001/solidus.io -> https://github.com/seanpm2001/SolidusIO_Solidus.IO
+https://github.com/seanpm2001/rbac-php -> https://github.com/seanpm2001/YiiSoft_RBAC-PHP
+https://github.com/seanpm2001/mutex-pdo-oracle -> https://github.com/seanpm2001/YiiSoft_MutEx-PDO-Oracle
+https://github.com/seanpm2001/mutex -> https://github.com/seanpm2001/YiiSoft_MutEx
+https://github.com/seanpm2001/injector -> https://github.com/seanpm2001/YiiSoft_Injector
+https://github.com/seanpm2001/rbac -> https://github.com/seanpm2001/YiiSoft_RBAC
+https://github.com/seanpm2001/yii2-symfonymailer -> https://github.com/seanpm2001/YiiSoft_Yii2-SymfonyMailer
+https://github.com/seanpm2001/cache-wincache -> https://github.com/seanpm2001/YiiSoft_Cache-WinCache
+https://github.com/seanpm2001/yii-queue -> https://github.com/seanpm2001/YiiSoft_Yii-Queue
+https://github.com/seanpm2001/log-target-syslog -> https://github.com/seanpm2001/YiiSoft_Log-Target-SysLog
+//// 10 lines at start, so that current number of forks can be reduced by 10 to get the current fork count (so I don't go over my limit)
+//// Repository renames
+//// ----
+//// Finishing off the current main queue today (2023.09.18)
+//// No new data to work with (2023.09.19 to 2023.09.20)
+//// Not enough data to work with (2023.09.21 to 2023.09.29)
+//// Not enough data to work with (2023.10.01 to 2023.10.03)
+//// Not willing to work with it yet (2023.10.04 to 2023.10.07)
+//// Queue cleared 2023.10.08
+//// Waiting for new data to work with/next month (2023.10.09)
+//// Waiting for a lot more data, or until next month (2023.10.10 to 2023.10.13)
+//// Partial queue work (2023.10.14)
+//// Waiting for a lot more data, or until next month (2023.10.15 to 2023.10.20)
+//// Waiting for when I feel ready and have the time (2023.10.21 to 2023.10.26)
+//// Waiting for when I feel ready and have the time next month (2023.10.27 to 2023.10.31)
+//// Waiting for when I feel ready (2023.11.01 to 2023.11.03)
+//// Working with queue (2023.11.04 to 2023.11.07)
+//// Waiting for new data to work with (2023.11.08)
+//// 1 entry worked with (2023.11.08)
+//// 5 entries worked with (2023.11.09)
+//// Waiting for new data to work with (2023.11.10)
+//// 1 entry worked with (2023.11.11)
+//// Waiting for new data to work with (2023.11.12 to 2023.11.13)
+//// 10 entries worked with (2023.11.14)
+//// Waiting for new data to work with (2023.11.15)
+//// 1 entry worked with (2023.11.16)
+//// 5 entries worked with (2023.11.17)
+//// Waiting for new data to work with (2023.11.18 to 2023.11.21)
+//// 1 entry worked with (2023.11.22)
+//// Waiting for new data to work with (2023.11.23 to 2023.11.24)
+//// 4 entries worked with (2023.11.25)
+//// 2 entries worked with (2023.11.26)
+//// 1 entry worked with (2023.11.27)
+//// Waiting for new data to work with (2023.11.28)
+//// ----
+//// @seanwallawalla
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-Stylus
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-SugarSS
+https://github.com/seanwallawalla/DMAIL_SelfHosting_Docs
+
