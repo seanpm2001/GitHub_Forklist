@@ -1,0 +1,147 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification/
+//// GitHub forks
+//// DATE: 2023, Friday, December 8th
+//// Starting 2023 September 9th, I am now increasing the daily star, watch, and fork count, due to a lack of progress on my timeline. I will now fork 92-100 repositories per day, instead of 17-25 repositories per day
+//// Start
+//// 2 users {
+//// @seanpm2001
+//// @seanwallawalla }
+//// @seanpm2001():
+https://github.com/seanpm2001/ckeditor-boilerplate -> https://github.com/seanpm2001/CKEditor_CKEditor-BoilerPlate
+https://github.com/seanpm2001/ckeditor4-skintuner -> https://github.com/seanpm2001/CKEditor_CKEditor4-SkinTuner
+https://github.com/seanpm2001/ckeditor4-plugin-xmas -> https://github.com/seanpm2001/CKEditor_CKEditor4-Plugin-XMAS
+https://github.com/seanpm2001/jsdoc -> https://github.com/seanpm2001/JSDoc_JSDoc
+https://github.com/seanpm2001/jsdoc.github.io
+https://github.com/seanpm2001/versioned-hdf5 -> https://github.com/seanpm2001/DeShaw_Versioned-HDF5
+https://github.com/seanpm2001/pyflyby -> https://github.com/seanpm2001/DeShaw_PyFlyBy
+https://github.com/seanpm2001/gulp-jsdoc3 -> https://github.com/seanpm2001/DeShaw_Gulp-JSDoc3
+https://github.com/seanpm2001/debezium-kubernetes -> https://github.com/seanpm2001/Debezium_Debezium-Kubernetes
+https://github.com/seanpm2001/starrocks -> https://github.com/seanpm2001/StarRocks_StarRocks
+https://github.com/seanpm2001/docs.zh-cn -> https://github.com/seanpm2001/StarRocks_Docs.ZH-CN
+https://github.com/seanpm2001/starrocks-kubernetes-operator -> https://github.com/seanpm2001/StarRocks_StarRocks-Kubernetes-Operator
+https://github.com/seanpm2001/starrocks-connector-for-apache-flink -> https://github.com/seanpm2001/StarRocks_StarRocks-Connector-For-Apache-Flink
+https://github.com/seanpm2001/helm-charts -> https://github.com/seanpm2001/StarRocks_Helm-Charts
+https://github.com/seanpm2001/starrocks-connector-for-apache-spark -> https://github.com/seanpm2001/StarRocks_StarRocks-Connector-For-Apache-Spark
+https://github.com/seanpm2001/stargo -> https://github.com/seanpm2001/StarRocks_StarGo
+https://github.com/seanpm2001/demo -> https://github.com/seanpm2001/StarRocks_Demo
+https://github.com/seanpm2001/docker -> https://github.com/seanpm2001/StarRocks_Docker
+https://github.com/seanpm2001/community -> https://github.com/seanpm2001/StarRocks_Community
+https://github.com/seanpm2001/lkbot-notifier -> https://github.com/seanpm2001/StarRocks_LKBot-Notifier
+https://github.com/seanpm2001/aws-cloudformation -> https://github.com/seanpm2001/StarRocks_AWS-CloudFormation
+https://github.com/seanpm2001/FeCoverageTool -> https://github.com/seanpm2001/StarRocks_FeCoverageTool
+https://github.com/seanpm2001/bdb-je -> https://github.com/seanpm2001/StarRocks_BDB-JE
+https://github.com/seanpm2001/CBOPlanTest -> https://github.com/seanpm2001/StarRocks_CBOPlanTest
+https://github.com/seanpm2001/BenchmarkTool -> https://github.com/seanpm2001/StarRocks_BenchmarkTool
+https://github.com/seanpm2001/drain-cleaner -> https://github.com/seanpm2001/Strimzi_Drain-Cleaner
+https://github.com/seanpm2001/strimzi-kafka-operator -> https://github.com/seanpm2001/Strimzi_Strimzi-Kafka-Operator
+https://github.com/seanpm2001/strimzi.github.io
+https://github.com/seanpm2001/strimzi-kafka-bridge -> https://github.com/seanpm2001/Strimzi_Strimzi-Kafka-Bridge
+https://github.com/seanpm2001/proposals -> https://github.com/seanpm2001/Strimzi_Proposals
+https://github.com/seanpm2001/client-examples -> https://github.com/seanpm2001/Strimzi_Client-Examples
+https://github.com/seanpm2001/strimzi-canary -> https://github.com/seanpm2001/Strimzi_Strimzi-Canary
+https://github.com/seanpm2001/kafka-access-operator -> https://github.com/seanpm2001/Strimzi_Kafka-Access-Operator
+https://github.com/seanpm2001/strimzi-kafka-oauth -> https://github.com/seanpm2001/Strimzi_Strimzi-Kafka-OAuth
+https://github.com/seanpm2001/test-clients -> https://github.com/seanpm2001/Strimzi_Test-Clients
+https://github.com/seanpm2001/kafka-env-var-config-provider -> https://github.com/seanpm2001/Strimzi_Kafka-Env-Var-Config-Provider
+https://github.com/seanpm2001/kafka-kubernetes-config-provider -> https://github.com/seanpm2001/Strimzi_Kafka-Kubernetes-Config-Provider
+https://github.com/seanpm2001/test-container -> https://github.com/seanpm2001/Strimzi_Test-Container
+https://github.com/seanpm2001/topic-encryption -> https://github.com/seanpm2001/Strimzi_Topic-Encryption
+https://github.com/seanpm2001/governance -> https://github.com/seanpm2001/Strimzi_Governance
+https://github.com/seanpm2001/test-container-images -> https://github.com/seanpm2001/Strimzi_Test-Container-Images
+https://github.com/seanpm2001/.github -> https://github.com/seanpm2001/Strimzi.github
+https://github.com/seanpm2001/mirror-maker-2-extensions -> https://github.com/seanpm2001/Strimzi_Mirror-Maker-2-Extensions
+https://github.com/seanpm2001/strimzi-lab -> https://github.com/seanpm2001/Strimzi_Strimzi-Lab
+https://github.com/seanpm2001/strimzi-admin -> https://github.com/seanpm2001/Strimzi_Strimzi-Admin
+https://github.com/seanpm2001/strimzi-ui -> https://github.com/seanpm2001/Strimzi_Strimzi-UI
+https://github.com/seanpm2001/snort3 -> https://github.com/seanpm2001/Snort3_Snort3
+https://github.com/seanpm2001/libdaq -> https://github.com/seanpm2001/Snort3_LIBDAQ
+https://github.com/seanpm2001/snort3_extra -> https://github.com/seanpm2001/Snort3_Snort3_Extra
+https://github.com/seanpm2001/snort3_demo -> https://github.com/seanpm2001/Snort3_Snort3_Demo
+https://github.com/seanpm2001/snort3_aws -> https://github.com/seanpm2001/Snort3_Snort3_AWS
+https://github.com/seanpm2001/pinax-teams -> https://github.com/seanpm2001/Pinax_Pinax-Teams
+https://github.com/seanpm2001/pinax-messages -> https://github.com/seanpm2001/Pinax_Pinax-Messages
+https://github.com/seanpm2001/pinax-referrals -> https://github.com/seanpm2001/Pinax_Pinax-Referrals
+https://github.com/seanpm2001/pinax_theme_tester -> https://github.com/seanpm2001/Pinax_Pinax_Theme_Tester
+https://github.com/seanpm2001/pinax-badges -> https://github.com/seanpm2001/Pinax_Pinax-Badges
+https://github.com/seanpm2001/django-mailer -> https://github.com/seanpm2001/Pinax_DJango-Mailer
+https://github.com/seanpm2001/pinax-stripe-light -> https://github.com/seanpm2001/Pinax_Pinax-Stripe-Light
+https://github.com/seanpm2001/symposion -> https://github.com/seanpm2001/Pinax_Symposion
+https://github.com/seanpm2001/pinax-ratings -> https://github.com/seanpm2001/Pinax_Pinax-Ratings
+https://github.com/seanpm2001/pinax-theme-bootstrap -> https://github.com/seanpm2001/Pinax_Pinax-Theme-BootStrap
+https://github.com/seanpm2001/pinax-eventlog -> https://github.com/seanpm2001/Pinax_Pinax-EventLog
+https://github.com/seanpm2001/pinax-blog -> https://github.com/seanpm2001/Pinax_Pinax-Blog
+https://github.com/seanpm2001/testing -> https://github.com/seanpm2001/Pinax_Testing
+https://github.com/seanpm2001/pinax-images -> https://github.com/seanpm2001/Pinax_Pinax-Images
+https://github.com/seanpm2001/linting -> https://github.com/seanpm2001/Pinax_Linting
+https://github.com/seanpm2001/pinax-comments -> https://github.com/seanpm2001/Pinax_Pinax-Comments
+https://github.com/seanpm2001/pinax-forums -> https://github.com/seanpm2001/Pinax_Pinax-Forums
+https://github.com/seanpm2001/pinax-types -> https://github.com/seanpm2001/Pinax_Pinax-Types
+https://github.com/seanpm2001/pinax-testimonials -> https://github.com/seanpm2001/Pinax_Pinax-Testimonials
+https://github.com/seanpm2001/pinax-news -> https://github.com/seanpm2001/Pinax_Pinax-News
+https://github.com/seanpm2001/pinax-likes -> https://github.com/seanpm2001/Pinax_Pinax-Likes
+https://github.com/seanpm2001/pinax-invitations -> https://github.com/seanpm2001/Pinax_Pinax-Invitations
+https://github.com/seanpm2001/pinax-events -> https://github.com/seanpm2001/Pinax_Pinax-Events
+https://github.com/seanpm2001/pinax-calendars -> https://github.com/seanpm2001/Pinax_Pinax-Calendars
+https://github.com/seanpm2001/pinax-documents -> https://github.com/seanpm2001/Pinax_Pinax-Documents
+https://github.com/seanpm2001/pinax -> https://github.com/seanpm2001/Pinax_Pinax
+https://github.com/seanpm2001/.github -> https://github.com/seanpm2001/Pinax.github
+https://github.com/seanpm2001/pinax-cohorts -> https://github.com/seanpm2001/Pinax_Pinax-Cohorts
+https://github.com/seanpm2001/pinax-wiki -> https://github.com/seanpm2001/Pinax_Pinax-Wiki
+https://github.com/seanpm2001/jupyterlab-execute-time -> https://github.com/seanpm2001/DeShaw_JupyterLab-Execute-Time
+https://github.com/seanpm2001/nbstripout-fast -> https://github.com/seanpm2001/DeShaw_NBSTripout-Fast -> https://github.com/seanpm2001/DeShaw_NBStripout-Fast
+https://github.com/seanpm2001/ksmm -> https://github.com/seanpm2001/DeShaw_KSMM
+https://github.com/seanpm2001/jupyterlab-notify -> https://github.com/seanpm2001/DeShaw_JupyterLab-Notify
+https://github.com/seanpm2001/srv-rs -> https://github.com/seanpm2001/DeShaw_SRV-RS
+https://github.com/seanpm2001/wsgi-kerberos -> https://github.com/seanpm2001/DeShaw_WSGI-Kerberos
+https://github.com/seanpm2001/flask-kerberos -> https://github.com/seanpm2001/DeShaw_Flask-Kerberos
+https://github.com/seanpm2001/jupyterlab-limit-output -> https://github.com/seanpm2001/DeShaw_JupyterLab-Limit-Output
+https://github.com/seanpm2001/jupyterlab-pyflyby -> https://github.com/seanpm2001/DeShaw_JupyterLab-PyFlyBy
+https://github.com/seanpm2001/jupyterlab-skip-traceback -> https://github.com/seanpm2001/DeShaw_Jupyterlab-Skip-TraceBack
+https://github.com/seanpm2001/commitlint -> https://github.com/seanpm2001/Conventional-Changelog_CommitLint
+https://github.com/seanpm2001/conventional-changelog -> https://github.com/seanpm2001/Conventional-Changelog_Conventional-Changelog
+https://github.com/seanpm2001/standard-version -> https://github.com/seanpm2001/Conventional-Changelog_Standard-Version
+//// 10 lines at start, so that current number of forks can be reduced by 10 to get the current fork count (so I don't go over my limit)
+//// Repository renames
+//// ----
+//// Finishing off the current main queue today (2023.09.18)
+//// No new data to work with (2023.09.19 to 2023.09.20)
+//// Not enough data to work with (2023.09.21 to 2023.09.29)
+//// Not enough data to work with (2023.10.01 to 2023.10.03)
+//// Not willing to work with it yet (2023.10.04 to 2023.10.07)
+//// Queue cleared 2023.10.08
+//// Waiting for new data to work with/next month (2023.10.09)
+//// Waiting for a lot more data, or until next month (2023.10.10 to 2023.10.13)
+//// Partial queue work (2023.10.14)
+//// Waiting for a lot more data, or until next month (2023.10.15 to 2023.10.20)
+//// Waiting for when I feel ready and have the time (2023.10.21 to 2023.10.26)
+//// Waiting for when I feel ready and have the time next month (2023.10.27 to 2023.10.31)
+//// Waiting for when I feel ready (2023.11.01 to 2023.11.03)
+//// Working with queue (2023.11.04 to 2023.11.07)
+//// Waiting for new data to work with (2023.11.08)
+//// 1 entry worked with (2023.11.08)
+//// 5 entries worked with (2023.11.09)
+//// Waiting for new data to work with (2023.11.10)
+//// 1 entry worked with (2023.11.11)
+//// Waiting for new data to work with (2023.11.12 to 2023.11.13)
+//// 10 entries worked with (2023.11.14)
+//// Waiting for new data to work with (2023.11.15)
+//// 1 entry worked with (2023.11.16)
+//// 5 entries worked with (2023.11.17)
+//// Waiting for new data to work with (2023.11.18 to 2023.11.21)
+//// 1 entry worked with (2023.11.22)
+//// Waiting for new data to work with (2023.11.23 to 2023.11.24)
+//// 4 entries worked with (2023.11.25)
+//// 2 entries worked with (2023.11.26)
+//// 1 entry worked with (2023.11.27)
+//// Waiting for new data to work with (2023.11.28 to 2023.12.05)
+//// 3 entries worked with (2023.12.06)
+//// Waiting for new data to work with (2023.12.07 to 2023.12.08)
+//// ----
+//// @seanwallawalla
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-Verilog-AMS
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-Verona
+https://github.com/seanwallawalla/BaSYS_3_Docs
+https://github.com/seanwallawalla/BaSYS_4_Docs
+https://github.com/seanwallawalla/PNGVS
+https://github.com/seanwallawalla/PNGVS_Docs
