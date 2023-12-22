@@ -1,0 +1,158 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification/
+//// GitHub forks
+//// DATE: 2023, Thursday, December 21st
+//// Starting 2023 September 9th, I am now increasing the daily star, watch, and fork count, due to a lack of progress on my timeline. I will now fork 92-100 repositories per day, instead of 17-25 repositories per day
+//// Start
+//// 2 users {
+//// @seanpm2001
+//// @seanwallawalla }
+//// @seanpm2001():
+https://github.com/seanpm2001/repository-service-tuf-cli -> https://github.com/seanpm2001/Repository-Service-TUF_Repository-Service-TUF-CLI
+https://github.com/seanpm2001/build-tools-for-vmware-aria -> https://github.com/seanpm2001/VMWare_Build-Tools-For-VMWare-Aria
+https://github.com/seanpm2001/terraform-provider-vcd -> https://github.com/seanpm2001/VMWare_Terraform-Provider-VCD
+https://github.com/seanpm2001/pmd -> https://github.com/seanpm2001/VMWare_PMD
+https://github.com/seanpm2001/concord-bft -> https://github.com/seanpm2001/VMWare_Concord-BFT
+https://github.com/seanpm2001/terraform-provider-tanzu-mission-control -> https://github.com/seanpm2001/VMWare_Terraform-Provider-Tanzu-Mission-Control
+https://github.com/seanpm2001/cluster-api-provider-cloud-director -> https://github.com/seanpm2001/VMWare_Cluster-API-Provider-Cloud-Director
+https://github.com/seanpm2001/alb-sdk -> https://github.com/seanpm2001/VMWare_ALB-SDK
+https://github.com/seanpm2001/cloud-director-named-disk-csi-driver -> https://github.com/seanpm2001/VMWare_Cloud-Director-Named-Disk-CSI-Driver
+https://github.com/seanpm2001/vmware-log-collectors-for-public-cloud -> https://github.com/seanpm2001/VMWare_VMWare-Log-Collectors-For-Public-Cloud
+https://github.com/seanpm2001/vmware-aria-operations-integration-sdk -> https://github.com/seanpm2001/VMWare_VMWare-Aria-Operations-Integration-SDK
+https://github.com/seanpm2001/ansible-module-vcloud-director -> https://github.com/seanpm2001/VMWare_Ansible-Module-VCloud-Director
+https://github.com/seanpm2001/database-stream-processor -> https://github.com/seanpm2001/VMWare_Database-Stream-Processor
+https://github.com/seanpm2001/container-service-extension -> https://github.com/seanpm2001/VMWare_Container-Service-Extension
+https://github.com/seanpm2001/powershell-module-for-vmware-cloud-foundation-reporting -> https://github.com/seanpm2001/VMWare_PowerShell-Module-For-VMWare-Cloud-Foundation-Reporting
+https://github.com/seanpm2001/sql-to-dbsp-compiler -> https://github.com/seanpm2001/VMWare_SQL-To-DBSP-Compiler
+https://github.com/seanpm2001/hexdocs-static -> https://github.com/seanpm2001/HexPM_HexDocs-Static
+https://github.com/seanpm2001/pbcs -> https://github.com/seanpm2001/HexPM_PBCS
+https://github.com/seanpm2001/specifications -> https://github.com/seanpm2001/HexPM_Specifications
+https://github.com/seanpm2001/mini_repo -> https://github.com/seanpm2001/HexPM_Mini_Repo
+https://github.com/seanpm2001/community -> https://github.com/seanpm2001/HexPM_Community
+https://github.com/seanpm2001/diffixAttacks -> https://github.com/seanpm2001/AirCloak_DiffixAttacks
+https://github.com/seanpm2001/diffixAttackModules -> https://github.com/seanpm2001/AirCloak_DiffixAttackModules
+https://github.com/seanpm2001/erlang_riemann -> https://github.com/seanpm2001/AirCloak_Erlang_Riemann
+https://github.com/seanpm2001/irc_lib -> https://github.com/seanpm2001/OtpChatBot_IRC_LIB
+https://github.com/seanpm2001/gen_smtpc -> https://github.com/seanpm2001/OtpChatBot_Gen_SMTPC
+https://github.com/seanpm2001/Ybot -> https://github.com/seanpm2001/OtpChatBot_YBot
+https://github.com/seanpm2001/ybot-contrib -> https://github.com/seanpm2001/OtpChatBot_YBot-Contrib
+https://github.com/seanpm2001/lager_ybot_backend -> https://github.com/seanpm2001/OptChatBot_Lager_YBot_Backend
+https://github.com/seanpm2001/ybot-experimental -> https://github.com/seanpm2001/OtpChatBot_YBot-Experimental
+https://github.com/seanpm2001/eflowdock -> https://github.com/seanpm2001/OtpChatBot_EFlowDock
+https://github.com/seanpm2001/ecampfire -> https://github.com/seanpm2001/OtpChatBot_ECampfire
+https://github.com/seanpm2001/pop3 -> https://github.com/seanpm2001/OtpChatBot_Pop3
+https://github.com/seanpm2001/rebar -> https://github.com/seanpm2001/Rebar_Rebar
+https://github.com/seanpm2001/lager -> https://github.com/seanpm2001/Erlang-Lager_Lager
+https://github.com/seanpm2001/android-player-samples -> https://github.com/seanpm2001/BrightCoveOS_Android-Player-Samples
+https://github.com/seanpm2001/ios-player-samples -> https://github.com/seanpm2001/BrightCoveOS_iOS-Player-Samples
+https://github.com/seanpm2001/SharePoint-Connector -> https://github.com/seanpm2001/BrightcoveOS_SharePoint-Connector
+https://github.com/seanpm2001/Brightcove-Video-Connector-for-Microsoft-Teams -> https://github.com/seanpm2001/BrightcoveOS_Brightcove-Video-Connector-For-Microsoft-Teams
+https://github.com/seanpm2001/grunt-base64 -> https://github.com/seanpm2001/BrightcoveOS_Grunt-Base64
+https://github.com/seanpm2001/whitesource-config -> https://github.com/seanpm2001/BrightcoveOS_WhiteSource-Config
+https://github.com/seanpm2001/Java-Commons -> https://github.com/seanpm2001/BrightcoveOS_Java-Commons
+https://github.com/seanpm2001/Ruby-MAPI-Wrapper -> https://github.com/seanpm2001/BrightcoveOS_Ruby-MAPI-Wrapper
+https://github.com/seanpm2001/evaporate-brightcove -> https://github.com/seanpm2001/BrightcoveOS_Evaporate-BrightCove
+https://github.com/seanpm2001/api-request-troubleshooting-script -> https://github.com/seanpm2001/BrightcoveOS_API-Request-Troubleshooting-Script
+https://github.com/seanpm2001/videojs-omniture -> https://github.com/seanpm2001/BrightcoveOS_VideoJS-Omniture
+https://github.com/seanpm2001/App-Cloud-Demos -> https://github.com/seanpm2001/BrightcoveOS_App-Cloud-Demos
+https://github.com/seanpm2001/Brightcove-Playback-API-Wrapper -> https://github.com/seanpm2001/BrightcoveOS_Brightcove-Playback-API-Wrapper
+https://github.com/seanpm2001/PLAY2017_iOS -> https://github.com/seanpm2001/BrightcoveOS_PLAY2017_iOS
+https://github.com/seanpm2001/PLAY2017_Android -> https://github.com/seanpm2001/BrightcoveOS_PLAY2017_Android
+https://github.com/seanpm2001/Diamond -> https://github.com/seanpm2001/BrightcoveOS_Diamond
+https://github.com/seanpm2001/Java-MAPI-Wrapper -> https://github.com/seanpm2001/BrightcoveOS_Java-MAPI-Wrapper
+https://github.com/seanpm2001/.NET-MAPI-Wrapper -> https://github.com/seanpm2001/BrightCoveOS_.NET-MAPI-Wrapper
+https://github.com/seanpm2001/php-wrapper-dynamic-ingest -> https://github.com/seanpm2001/BrightcoveOS_PHP-Wrapper-Dynamic-Ingest
+https://github.com/seanpm2001/Roku-Sample-App -> https://github.com/seanpm2001/BrightcoveOS_Roku-Sample-App
+https://github.com/seanpm2001/dfxp2webvtt-converter -> https://github.com/seanpm2001/BrightcoveOS_DFXP2WebVTT-Converter
+https://github.com/seanpm2001/PLAY2016_iOS -> https://github.com/seanpm2001/BrightcoveOS_PLAY2016_iOS
+https://github.com/seanpm2001/Samsung-Smart-TV-Sample-App -> https://github.com/seanpm2001/BrightcoveOS_Samsung-Smart-TV-Sample-App
+https://github.com/seanpm2001/android-plugin-guide -> https://github.com/seanpm2001/BrightcoveOS_Android-Plugin-Guide
+https://github.com/seanpm2001/PHP-MAPI-Wrapper -> https://github.com/seanpm2001/BrightcoveOS_PHP-MAPI-Wrapper
+https://github.com/seanpm2001/PLAY2015_Android -> https://github.com/seanpm2001/BrightcoveOS_PLAY2015_Android
+https://github.com/seanpm2001/videojs-captions-toggle -> https://github.com/seanpm2001/Brightcove_VideoJS-Captions-Toggle -> https://github.com/seanpm2001/BrightcoveOS_VideoJS-Captions-Toggle
+https://github.com/seanpm2001/SampleiOSCustomControls -> https://github.com/seanpm2001/BrightcoveOS_SampleiOSCustomControls
+https://github.com/seanpm2001/gradle-wrapper -> https://github.com/seanpm2001/BrightcoveOS_Gradle-Wrapper
+https://github.com/seanpm2001/metrics-graphite-pickle -> https://github.com/seanpm2001/BrightcoveOS_Metrics-Graphite-Pickle
+https://github.com/seanpm2001/Video-Cloud-SharePoint-2010-Integration -> https://github.com/seanpm2001/BrightcoveOS_Video-Cloud-SharePoint-2010-Integration
+https://github.com/seanpm2001/Simple-Workflow-Engine -> https://github.com/seanpm2001/BrightcoveOS_Simple-Workflow-Engine
+https://github.com/seanpm2001/CoremetricsSWF -> https://github.com/seanpm2001/BrightcoveOS_CoremetricsSWF
+https://github.com/seanpm2001/Rendition-Selector-Plugin -> https://github.com/seanpm2001/BrightcoveOS_Rendition-Selector-Plugin
+https://github.com/seanpm2001/Java-Account-Cache -> https://github.com/seanpm2001/BrightcoveOS_Java-Account-Cache
+https://github.com/seanpm2001/User-Uploads -> https://github.com/seanpm2001/BrightcoveOS_User-Uploads
+https://github.com/seanpm2001/Perl-Commons -> https://github.com/seanpm2001/BrightcoveOS_Perl-Commons
+https://github.com/seanpm2001/Brightcove-Wordpress-Plugin -> https://github.com/seanpm2001/BrightcoveOS_Brightcove-Wordpress-Plugin
+https://github.com/seanpm2001/Video-Probe -> https://github.com/seanpm2001/BrightcoveOS_Video-Probe
+https://github.com/seanpm2001/App-Cloud-Emulator -> https://github.com/seanpm2001/BrightcoveOS_App-Cloud-Emulator
+https://github.com/seanpm2001/LG-Sample-App -> https://github.com/seanpm2001/BrightcoveOS_LG-Sample-App
+https://github.com/seanpm2001/BrightAction -> https://github.com/seanpm2001/BrightcoveOS_BrightAction
+https://github.com/seanpm2001/Context-Aware-Related-Videos -> https://github.com/seanpm2001/BrightcoveOS_Context-Aware-Related-Videos
+https://github.com/seanpm2001/JavaScript-Utilities -> https://github.com/seanpm2001/BrightcoveOS_JavaScript-Utilities
+https://github.com/seanpm2001/yii2-ip-ratelimiter -> https://github.com/seanpm2001/EtherCreative_Yii2-IP-RateLimiter
+https://github.com/seanpm2001/seo -> https://github.com/seanpm2001/EtherCreative_SEO
+https://github.com/seanpm2001/thumbro -> https://github.com/seanpm2001/EtherCreative_Thumbro
+https://github.com/seanpm2001/telemetry-web -> https://github.com/seanpm2001/EtherCreative_Telemetry-Web
+https://github.com/seanpm2001/next-starter -> https://github.com/seanpm2001/EtherCreative_Next-Starter
+https://github.com/seanpm2001/simplemap -> https://github.com/seanpm2001/EtherCreative_SimpleMap
+https://github.com/seanpm2001/docski -> https://github.com/seanpm2001/EtherCreative_Docski
+https://github.com/seanpm2001/bookings -> https://github.com/seanpm2001/EtherCreative_Bookings
+https://github.com/seanpm2001/tags -> https://github.com/seanpm2001/EtherCreative_Tags
+https://github.com/seanpm2001/sidebar-entrytypes -> https://github.com/seanpm2001/EtherCreative_Sidebar-EntryTypes
+https://github.com/seanpm2001/docker-craft-php-fpm-alpine ->  https://github.com/seanpm2001/EtherCreative_Docker-Craft-PHP-FPM-Alpine
+https://github.com/seanpm2001/po-request -> https://github.com/seanpm2001/EtherCreative_PO-Request
+https://github.com/seanpm2001/cloud-director-extension-standard-library -> https://github.com/seanpm2001/VMWare_Cloud-Director-Extension-Standard-LIBrary
+https://github.com/seanpm2001/mangle -> https://github.com/seanpm2001/VMWare_Mangle
+//// The line before this line should be 103 and should be a fork entry
+//// 10 lines at start, so that current number of forks can be reduced by 10 to get the current fork count (so I don't go over my limit)
+//// Repository renames
+//// ----
+//// ⚠️ Data for 2023 will be removed starting on 2024, January 1st, and will only be available in older versions of the file.
+//// Finishing off the current main queue today (2023.09.18)
+//// No new data to work with (2023.09.19 to 2023.09.20)
+//// Not enough data to work with (2023.09.21 to 2023.09.29)
+//// Not enough data to work with (2023.10.01 to 2023.10.03)
+//// Not willing to work with it yet (2023.10.04 to 2023.10.07)
+//// Queue cleared 2023.10.08
+//// Waiting for new data to work with/next month (2023.10.09)
+//// Waiting for a lot more data, or until next month (2023.10.10 to 2023.10.13)
+//// Partial queue work (2023.10.14)
+//// Waiting for a lot more data, or until next month (2023.10.15 to 2023.10.20)
+//// Waiting for when I feel ready and have the time (2023.10.21 to 2023.10.26)
+//// Waiting for when I feel ready and have the time next month (2023.10.27 to 2023.10.31)
+//// Waiting for when I feel ready (2023.11.01 to 2023.11.03)
+//// Working with queue (2023.11.04 to 2023.11.07)
+//// Waiting for new data to work with (2023.11.08)
+//// 1 entry worked with (2023.11.08)
+//// 5 entries worked with (2023.11.09)
+//// Waiting for new data to work with (2023.11.10)
+//// 1 entry worked with (2023.11.11)
+//// Waiting for new data to work with (2023.11.12 to 2023.11.13)
+//// 10 entries worked with (2023.11.14)
+//// Waiting for new data to work with (2023.11.15)
+//// 1 entry worked with (2023.11.16)
+//// 5 entries worked with (2023.11.17)
+//// Waiting for new data to work with (2023.11.18 to 2023.11.21)
+//// 1 entry worked wi th (2023.11.22)
+//// Waiting for new data to work with (2023.11.23 to 2023.11.24)
+//// 4 entries worked with (2023.11.25)
+//// 2 entries worked with (2023.11.26)
+//// 1 entry worked with (2023.11.27)
+//// Waiting for new data to work with (2023.11.28 to 2023.12.05)
+//// 3 entries worked with (2023.12.06)
+//// Waiting for new data to work with (2023.12.07 to 2023.12.09)
+//// 2 entries worked with (2023.12.10)
+//// 1 entry worked with (2023.12.11)
+//// Waiting for new data to work with (2023.12.12 to 2023.12.13)
+//// 3 entries worked with (2023.12.14)
+//// 2 entries worked with (2023.12.15)
+//// Waiting for new data to work with (2023.12.16 to 2023.12.17)
+//// 1 entry worked with (2023.12.18)
+//// 2 entries worked with (2023.12.19)
+//// Waiting for new data to work with (2023.12.20 to 2023.12.21)
+//// ----
+//// @seanwallawalla
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-GolfScript
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-BennuGD
+https://github.com/seanwallawalla/WacOS_12_Docs
+https://github.com/seanwallawalla/WacOS_13_Docs
+https://github.com/seanwallawalla/Seanpm2001_Swift_Style-Guide
+https://github.com/seanwallawalla/Seanpm2001_Haskell_Style-Guide
