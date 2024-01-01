@@ -1,0 +1,164 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification/
+//// GitHub forks
+//// DATE: 2023, Friday, December 29th
+//// Starting 2023 September 9th, I am now increasing the daily star, watch, and fork count, due to a lack of progress on my timeline. I will now fork 92-100 repositories per day, instead of 17-25 repositories per day
+//// Start
+//// 2 users {
+//// @seanpm2001
+//// @seanwallawalla }
+//// @seanpm2001():
+https://github.com/seanpm2001/proposal-array-grouping -> https://github.com/seanpm2001/TC39_Proposal-Array-Grouping
+https://github.com/seanpm2001/proposal-intl-eradisplay -> https://github.com/seanpm2001/TC39_Proposal-Intl-EraDisplay
+https://github.com/seanpm2001/proposal-first-class-protocols -> https://github.com/seanpm2001/TC39_Proposal-First-Class-Protocols
+https://github.com/seanpm2001/proposal-regexp-v-flag -> https://github.com/seanpm2001/TC39_Proposal-RegExp-V-Flag
+https://github.com/seanpm2001/code-stream-cli -> https://github.com/seanpm2001/VMWare-Archive_Code-Stream-CLI
+https://github.com/seanpm2001/hamlet -> https://github.com/seanpm2001/VMWare_Hamlet
+https://github.com/seanpm2001/django-yamlconf -> https://github.com/seanpm2001/VMWare_DJango-YAMLConf
+https://github.com/seanpm2001/vmware-openapi-generator -> https://github.com/seanpm2001/VMWare_VMWare-OpenAPI-Generator
+https://github.com/seanpm2001/vivace -> https://github.com/seanpm2001/VMWare_Vivace
+https://github.com/seanpm2001/kernel-event-collector-module -> https://github.com/seanpm2001/VMWare_Kernel-Event-Collector-Module
+https://github.com/seanpm2001/distributed-apps-platform -> https://github.com/seanpm2001/VMWare_Distributed-Apps-Platform
+https://github.com/seanpm2001/vrealize-suite-lifecycle-manager-sdk -> https://github.com/seanpm2001/VMWare_VRealize-Suite-LifeCycle-Manager-SDK
+https://github.com/seanpm2001/o11n-plugin-crypto -> https://github.com/seanpm2001/VMWare_O11N-Plugin-Crypto
+https://github.com/seanpm2001/bare-metal-server-integration-with-nsxt -> https://github.com/seanpm2001/VMWare_Bare-Metal-Server-Integration-With-NSXT
+https://github.com/seanpm2001/ansible-coreos-kubernetes-master -> https://github.com/seanpm2001/VMWare-Archive_Ansible-CoreOS-Kubernetes-Master
+https://github.com/seanpm2001/ansible-kubernetes-ca -> https://github.com/seanpm2001/VMWare-Archive_Ansible-Kubernetes-CA
+https://github.com/seanpm2001/ansible-coreos-kubelet -> https://github.com/seanpm2001/VMWare-Archive_Ansible-CoreOS-Kubelet
+https://github.com/seanpm2001/nsx-advanced-load-balancer-for-openstack -> https://github.com/seanpm2001/VMWare-Archive_NSX-Advanced-Load-Balancer-For-OpenStack
+https://github.com/seanpm2001/likewise-open -> https://github.com/seanpm2001/VMWare_LikeWise-Open
+https://github.com/seanpm2001/terraform-avi-nia-module -> https://github.com/seanpm2001/VMWare_TerraForm-AVI-NIA-Module
+https://github.com/seanpm2001/gssapi-unix -> https://github.com/seanpm2001/VMWare_GSSAPI-UNIX
+https://github.com/seanpm2001/photon-checksum-generator -> https://github.com/seanpm2001/VMWare_Photon-Checksum-Generator
+https://github.com/seanpm2001/ansible-etcd-cluster -> https://github.com/seanpm2001/VMWare-Archive_Ansible-ETCD-Cluster
+https://github.com/seanpm2001/proposal-defer-import-eval -> https://github.com/seanpm2001/TC39_Proposal-Defer-Import-Eval
+https://github.com/seanpm2001/proposal-nullish-coalescing -> https://github.com/seanpm2001/TC39_Proposal-Nullish-Coalescing
+https://github.com/seanpm2001/proposal-record-tuple -> https://github.com/seanpm2001/TC39_Proposal-Record-Tuple
+https://github.com/seanpm2001/proposal-await.ops -> https://github.com/seanpm2001/TC39_Proposal-Await.OPs
+https://github.com/seanpm2001/proposal-string-dedent -> https://github.com/seanpm2001/TC39_Proposal-String-Dedent
+https://github.com/seanpm2001/proposal-regexp-legacy-features -> https://github.com/seanpm2001/TC39_Proposal-RegExp-Legacy-Features
+https://github.com/seanpm2001/template-for-proposals -> https://github.com/seanpm2001/TC39_Template-For-Proposals
+https://github.com/seanpm2001/proposal-intl-enumeration -> https://github.com/seanpm2001/TC39_Proposal-Intl-Enumeration
+https://github.com/seanpm2001/proposal-regexp-modifiers -> https://github.com/seanpm2001/TC39_Proposal-RegExp-Modifiers
+https://github.com/seanpm2001/proposal-pattern-matching -> https://github.com/seanpm2001/TC39_Proposal-Pattern-Matching
+https://github.com/seanpm2001/proposal-oom-fails-fast -> https://github.com/seanpm2001/TC39_Proposal-OOM-Fails-Fast
+https://github.com/seanpm2001/proposal-symbols-as-weakmap-keys -> https://github.com/seanpm2001/TC39_Proposal-Symbols-As-WeakMap-Keys
+https://github.com/seanpm2001/proposal-extractors -> https://github.com/seanpm2001/TC39_Proposal-Extractors
+https://github.com/seanpm2001/incubator-agendas -> https://github.com/seanpm2001/TC39_Incubator-Agendas
+https://github.com/seanpm2001/proposal-structs -> https://github.com/seanpm2001/TC39_Proposal-Structs
+https://github.com/seanpm2001/proposal-function-pipe-flow -> https://github.com/seanpm2001/TC39_Proposal-Function-Pipe-Flow
+https://github.com/seanpm2001/proposal-policy-map-set -> https://github.com/seanpm2001/TC39_Proposal-Policy-Map-Set
+https://github.com/seanpm2001/proposal-type-annotations -> https://github.com/seanpm2001/TC39_Proposal-Type-Annotations
+https://github.com/seanpm2001/proposal-object-pick-or-omit -> https://github.com/seanpm2001/TC39_Proposal-Object-Pick-Or-Omit
+https://github.com/seanpm2001/proposal-duplicate-named-capturing-groups -> https://github.com/seanpm2001/TC39_Proposal-Duplicate-Named-Capturing-Groups
+https://github.com/seanpm2001/proposal-json-parseimmutable -> https://github.com/seanpm2001/TC39_Proposal-JSON-ParseImmutable
+https://github.com/seanpm2001/proposal-function-memo -> https://github.com/seanpm2001/TC39_Proposal-Function-Memo
+https://github.com/seanpm2001/proposal-stricter-function-tostring -> https://github.com/seanpm2001/TC39_Proposal-Stricter-Function-ToString
+https://github.com/seanpm2001/proposal-deiter -> https://github.com/seanpm2001/TC39_Proposal-DeIter
+https://github.com/seanpm2001/proposal-hashbang -> https://github.com/seanpm2001/TC39_Proposal-Hashbang
+https://github.com/seanpm2001/proposal-bigint-math -> https://github.com/seanpm2001/TC39_Proposal-BigInt-Math
+https://github.com/seanpm2001/proposal-function-once -> https://github.com/seanpm2001/TC39_Proposal-Function-Once
+https://github.com/seanpm2001/proposal-slice-notation -> https://github.com/seanpm2001/TC39_Proposal-Slice-Notation
+https://github.com/seanpm2001/proposal-string-cooked -> https://github.com/seanpm2001/TC39_Proposal-String-Cooked
+https://github.com/seanpm2001/agreements -> https://github.com/seanpm2001/TC39_Agreements
+https://github.com/seanpm2001/proposal-regexp-atomic-operators -> https://github.com/seanpm2001/TC39_Proposal-RegExp-Atomic-Operators
+https://github.com/seanpm2001/proposal-faster-promise-adoption -> https://github.com/seanpm2001/TC39_Proposal-Faster-Promise-Adoption
+https://github.com/seanpm2001/proposal-array-find-from-last -> https://github.com/seanpm2001/TC39_Proposal-Array-Find-From-Last
+https://github.com/seanpm2001/proposal-regexp-match-indices -> https://github.com/seanpm2001/TC39_Proposal-RegExp-Match-Indices
+https://github.com/seanpm2001/proposal-regexp-buffer-boundaries -> https://github.com/seanpm2001/TC39_Proposal-RegExp-Buffer-Boundaries
+https://github.com/seanpm2001/proposal-grouped-and-auto-accessors -> https://github.com/seanpm2001/TC39_Proposal-Grouped-And-Auto-Accessors
+https://github.com/seanpm2001/archives -> https://github.com/seanpm2001/TC39_Archives
+https://github.com/seanpm2001/proposal-partial-application -> https://github.com/seanpm2001/TC39_Proposal-Partial-Application
+https://github.com/seanpm2001/proposal-regexp-unicode-sequence-properties -> https://github.com/seanpm2001/TC39_Proposal-RegExp-Unicode-Sequence-Properties
+https://github.com/seanpm2001/proposal-intl-segmenter-v2 -> https://github.com/seanpm2001/TC39_Proposal-Intl-Segmenter-V2
+https://github.com/seanpm2001/proposal-limited-arraybuffer -> https://github.com/seanpm2001/TC39_Proposal-Limited-ArrayBuffer
+https://github.com/seanpm2001/proposal-atomics-wait-async -> https://github.com/seanpm2001/TC39_Proposal-Atomics-Wait-ASync
+https://github.com/seanpm2001/proposal-smart-unit-preferences -> https://github.com/seanpm2001/TC39_Proposal-Smart-Unit-Preferences
+https://github.com/seanpm2001/proposal-decorator-metadata -> https://github.com/seanpm2001/TC39_Proposal-Decorator-Metadata
+https://github.com/seanpm2001/proposal-eventual-send -> https://github.com/seanpm2001/TC39_Proposal-Eventual-Send
+https://github.com/seanpm2001/proposal-call-this -> https://github.com/seanpm2001/TC39_Proposal-Call-This
+https://github.com/seanpm2001/process-document -> https://github.com/seanpm2001/TC39_Process-Document
+https://github.com/seanpm2001/proposal-destructuring-private -> https://github.com/seanpm2001/TC39_Proposal-DeStructuring-Private
+https://github.com/seanpm2001/proposal-array-unique -> https://github.com/seanpm2001/TC39_Proposal-Array-Unique
+https://github.com/seanpm2001/js-outreach-groups -> https://github.com/seanpm2001/TC39_JS-Outreach-Groups
+https://github.com/seanpm2001/proposal-class-brand-check  -> https://github.com/seanpm2001/TC39_Proposal-Class-Brand-Check
+https://github.com/seanpm2001/proposal-regex-escaping -> https://github.com/seanpm2001/TC39_Proposal-RegEx-Escaping
+https://github.com/seanpm2001/proposal-export-ns-from -> https://github.com/seanpm2001/TC39_Proposal-Export-NS-From
+https://github.com/seanpm2001/proposal-error-stacks -> https://github.com/seanpm2001/TC39_Proposal-Error-Stacks
+https://github.com/seanpm2001/proposal-reversible-string-split -> https://github.com/seanpm2001/TC39_Proposal-Reversible-String-Split
+https://github.com/seanpm2001/proposal-relative-indexing-method -> https://github.com/seanpm2001/TC39_Proposal-Relative-Indexing-Method
+https://github.com/seanpm2001/proposal-dynamic-import -> https://github.com/seanpm2001/TC39_Proposal-Dynamic-Import
+https://github.com/seanpm2001/proposal-weakrefs -> https://github.com/seanpm2001/TC39_Proposal-WeakRefs
+https://github.com/seanpm2001/proposal-optional-chaining -> https://github.com/seanpm2001/TC39_Proposal-Optional-Chaining
+https://github.com/seanpm2001/proposal-private-methods -> https://github.com/seanpm2001/TC39_Proposal-Private-Methods
+https://github.com/seanpm2001/proposal-class-fields -> https://github.com/seanpm2001/TC39_Proposal-Class-Fields
+https://github.com/seanpm2001/proposal-static-class-features -> https://github.com/seanpm2001/TC39_Proposal-Static-Class-Features
+https://github.com/seanpm2001/proposal-intl-locale -> https://github.com/seanpm2001/TC39_Proposal-Intl-Locale
+https://github.com/seanpm2001/proposal-regexp-dotall-flag -> https://github.com/seanpm2001/TC39_Proposal-RegExp-DotAll-Flag
+https://github.com/seanpm2001/proposal-class-public-fields -> https://github.com/seanpm2001/TC39_Proposal-Class-Public-Fields
+https://github.com/seanpm2001/proposal-intl-list-format -> https://github.com/seanpm2001/TC39_Proposal-Intl-List-Format
+https://github.com/seanpm2001/proposal-object-rest-spread -> https://github.com/seanpm2001/TC39_Proposal-Object-Rest-Spread
+https://github.com/seanpm2001/proposal-Declarations-in-Conditionals -> https://github.com/seanpm2001/TC39_Proposal-Declarations-In-Conditionals
+https://github.com/seanpm2001/proposal-intl-formatToParts -> https://github.com/seanpm2001/TC39_Proposal-Intl-FormatToParts
+https://github.com/seanpm2001/proposal-private-fields -> https://github.com/seanpm2001/TC39_Proposal-Private-Fields
+//// The line before this line should be 103 and should be a fork entry.
+//// 10 lines at start, so that current number of forks can be reduced by 10 to get the current fork count (so I don't go over my limit)
+//// Repository renames
+//// ----
+//// ⚠️ Data for 2023 will be removed starting on 2024, January 1st, and will only be available in older versions of the file.
+//// Finishing off the current main queue today (2023.09.18)
+//// No new data to work with (2023.09.19 to 2023.09.20)
+//// Not enough data to work with (2023.09.21 to 2023.09.29)
+//// Not enough data to work with (2023.10.01 to 2023.10.03)
+//// Not willing to work with it yet (2023.10.04 to 2023.10.07)
+//// Queue cleared 2023.10.08
+//// Waiting for new data to work with/next month (2023.10.09)
+//// Waiting for a lot more data, or until next month (2023.10.10 to 2023.10.13)
+//// Partial queue work (2023.10.14)
+//// Waiting for a lot more data, or until next month (2023.10.15 to 2023.10.20)
+//// Waiting for when I feel ready and have the time (2023.10.21 to 2023.10.26)
+//// Waiting for when I feel ready and have the time next month (2023.10.27 to 2023.10.31)
+//// Waiting for when I feel ready (2023.11.01 to 2023.11.03)
+//// Working with queue (2023.11.04 to 2023.11.07)
+//// Waiting for new data to work with (2023.11.08)
+//// 1 entry worked with (2023.11.08)
+//// 5 entries worked with (2023.11.09)
+//// Waiting for new data to work with (2023.11.10)
+//// 1 entry worked with (2023.11.11)
+//// Waiting for new data to work with (2023.11.12 to 2023.11.13)
+//// 10 entries worked with (2023.11.14)
+//// Waiting for new data to work with (2023.11.15)
+//// 1 entry worked with (2023.11.16)
+//// 5 entries worked with (2023.11.17)
+//// Waiting for new data to work with (2023.11.18 to 2023.11.21)
+//// 1 entry worked wi th (2023.11.22)
+//// Waiting for new data to work with (2023.11.23 to 2023.11.24)
+//// 4 entries worked with (2023.11.25)
+//// 2 entries worked with (2023.11.26)
+//// 1 entry worked with (2023.11.27)
+//// Waiting for new data to work with (2023.11.28 to 2023.12.05)
+//// 3 entries worked with (2023.12.06)
+//// Waiting for new data to work with (2023.12.07 to 2023.12.09)
+//// 2 entries worked with (2023.12.10)
+//// 1 entry worked with (2023.12.11)
+//// Waiting for new data to work with (2023.12.12 to 2023.12.13)
+//// 3 entries worked with (2023.12.14)
+//// 2 entries worked with (2023.12.15)
+//// Waiting for new data to work with (2023.12.16 to 2023.12.17)
+//// 1 entry worked with (2023.12.18)
+//// 2 entries worked with (2023.12.19)
+//// Waiting for new data to work with (2023.12.20 to 2023.12.23)
+//// 9 entries worked with (2023.12.24)
+//// Waiting for new data to work with (2023.12.25)
+//// 1 entry worked with (2023.12.26)
+//// Waiting for new data to work with (2023.12.27)
+//// 1 entry worked with (2023.12.28)
+//// Waiting for new data to work with (2023.12.29)
+//// ----
+//// @seanwallawalla
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-Information-Processing-Language
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-ASM.JS
+https://github.com/seanwallawalla/Learn-ARITH-MATIC
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_ARITH-MATIC
+https://github.com/seanwallawalla/wOS_14_Docs
+https://github.com/seanwallawalla/wOS_15_Docs
