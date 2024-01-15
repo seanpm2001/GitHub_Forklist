@@ -1,0 +1,120 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification/
+//// GitHub forks
+//// DATE: 2024, Friday, January 5th
+//// Starting 2023 September 9th, I am now increasing the daily star, watch, and fork count, due to a lack of progress on my timeline. I will now fork 92-100 repositories per day, instead of 17-25 repositories per day
+//// Start
+//// 2 users {
+//// @seanpm2001
+//// @seanwallawalla }
+//// @seanpm2001():
+https://github.com/seanpm2001/libubox -> https://github.com/seanpm2001/OpenWRT_LIBUBox
+https://github.com/seanpm2001/odhcpd -> https://github.com/seanpm2001/OpenWRT_ODHCPD
+https://github.com/seanpm2001/uqmi -> https://github.com/seanpm2001/OpenWRT_UQMI
+https://github.com/seanpm2001/routing -> https://github.com/seanpm2001/OpenWRT_Routing
+https://github.com/seanpm2001/uci -> https://github.com/seanpm2001/OpenWRT_UCI
+https://github.com/seanpm2001/mdnsd -> https://github.com/seanpm2001/OpenWRT_MDNSD
+https://github.com/seanpm2001/unetd -> https://github.com/seanpm2001/OpenWRT_UNETD
+https://github.com/seanpm2001/libnl-tiny -> https://github.com/seanpm2001/OpenWRT_LIBNL-Tiny
+https://github.com/seanpm2001/urngd -> https://github.com/seanpm2001/OpenWRT_URNGD
+https://github.com/seanpm2001/qosify -> https://github.com/seanpm2001/OpenWRT_Qosify
+https://github.com/seanpm2001/video -> https://github.com/seanpm2001/OpenWRT_Video
+https://github.com/seanpm2001/rpcd -> https://github.com/seanpm2001/OpenWRT_RPCD
+https://github.com/seanpm2001/docker -> https://github.com/seanpm2001/OpenWRT_Docker
+https://github.com/seanpm2001/fstools -> https://github.com/seanpm2001/OpenWRT_FSTools
+https://github.com/seanpm2001/iwinfo -> https://github.com/seanpm2001/OpenWRT_IWInfo
+https://github.com/seanpm2001/procd -> https://github.com/seanpm2001/OpenWRT_ProcD
+https://github.com/seanpm2001/uhttpd -> https://github.com/seanpm2001/OpenWRT_UHTTPD
+https://github.com/seanpm2001/ustream-ssl -> https://github.com/seanpm2001/OpenWRT_UStream-SSL
+https://github.com/seanpm2001/opkg-lede -> https://github.com/seanpm2001/OpenWRT_OPKG-LeDE -> https://github.com/seanpm2001/OpenWRT_OPKG-LEDE
+https://github.com/seanpm2001/firewall3 -> https://github.com/seanpm2001/OpenWRT_Firewall3
+https://github.com/seanpm2001/ubus -> https://github.com/seanpm2001/OpenWRT_UBus
+https://github.com/seanpm2001/usteer -> https://github.com/seanpm2001/OpenWRT_USteer
+https://github.com/seanpm2001/ustp -> https://github.com/seanpm2001/OpenWRT_USTP
+https://github.com/seanpm2001/odhcp6c -> https://github.com/seanpm2001/OpenWRT_ODHCP6C
+https://github.com/seanpm2001/broadcom-sprom -> https://github.com/seanpm2001/OpenWRT_Broadcom-SPROM
+https://github.com/seanpm2001/gh-action-sdk -> https://github.com/seanpm2001/OpenWRT_GH-Action-SDK
+https://github.com/seanpm2001/uclient -> https://github.com/seanpm2001/OpenWRT_UClient
+https://github.com/seanpm2001/omcproxy -> https://github.com/seanpm2001/OpenWRT_OMCProxy
+https://github.com/seanpm2001/firmware-selector-openwrt-org -> https://github.com/seanpm2001/OpenWRT_Firmware-Selector-OpenWRT-Org
+https://github.com/seanpm2001/bcm63xx-cfe -> https://github.com/seanpm2001/OpenWRT_BCM63XX-CFE
+https://github.com/seanpm2001/usign -> https://github.com/seanpm2001/OpenWRT_USign
+https://github.com/seanpm2001/usbmode -> https://github.com/seanpm2001/OpenWRT_USBMode
+https://github.com/seanpm2001/umbim -> https://github.com/seanpm2001/OpenWRT_UMBiM -> https://github.com/seanpm2001/OpenWRT_UMBIM
+https://github.com/seanpm2001/ucert -> https://github.com/seanpm2001/OpenWRT_UCert
+https://github.com/seanpm2001/ubox -> https://github.com/seanpm2001/OpenWRT_UBox
+https://github.com/seanpm2001/relayd -> https://github.com/seanpm2001/OpenWRT_RelayD
+https://github.com/seanpm2001/mountd -> https://github.com/seanpm2001/OpenWRT_MountD
+https://github.com/seanpm2001/make_ext4fs -> https://github.com/seanpm2001/OpenWRT_Make_EXT4FS
+https://github.com/seanpm2001/librpc-uclibc -> https://github.com/seanpm2001/OpenWRT_LIBRPC-UCLIBC
+https://github.com/seanpm2001/jsonpath -> https://github.com/seanpm2001/OpenWRT_JSONPath
+https://github.com/seanpm2001/fwtool -> https://github.com/seanpm2001/OpenWRT_FWTool
+https://github.com/seanpm2001/bcm63xx_u-boot -> https://github.com/seanpm2001/OpenWRT_BCM63XX_U-Boot
+https://github.com/seanpm2001/bcm63xx_atf -> https://github.com/seanpm2001/OpenWRT_BCM63XX_ATF
+https://github.com/seanpm2001/cgi-io -> https://github.com/seanpm2001/OpenWRT_CGI-IO
+https://github.com/seanpm2001/chaos_calmer -> https://github.com/seanpm2001/OpenWRT_Chaos_Calmer
+https://github.com/seanpm2001/cypress-nvram -> https://github.com/seanpm2001/OpenWRT_Cypress-NVRAM
+https://github.com/seanpm2001/branding -> https://github.com/seanpm2001/OpenWRT_Branding
+https://github.com/seanpm2001/archive -> https://github.com/seanpm2001/OpenWRT_Archive
+https://github.com/seanpm2001/targets -> https://github.com/seanpm2001/OpenWRT_Targets
+https://github.com/seanpm2001/buildscripts -> https://github.com/seanpm2001/OpenWRT_BuildScripts
+https://github.com/seanpm2001/mtk-wifi-gpl -> https://github.com/seanpm2001/OpenWRT_MTK-WiFi-GPL
+https://github.com/seanpm2001/bcm63xx-next -> https://github.com/seanpm2001/OpenWRT_BCM63XX-Next
+https://github.com/seanpm2001/truthbrush -> https://github.com/seanpm2001/StanfordIO_TruthBrush
+https://github.com/seanpm2001/gabber -> https://github.com/seanpm2001/StanfordIO_Gabber
+https://github.com/seanpm2001/cs152bots -> https://github.com/seanpm2001/StanfordIO_CS152Bots
+https://github.com/seanpm2001/ressenter -> https://github.com/seanpm2001/StanfordIO_Ressenter 
+https://github.com/seanpm2001/ucluster -> https://github.com/seanpm2001/StanfordIO_UCluster
+https://github.com/seanpm2001/gogettr -> https://github.com/seanpm2001/StanfordIO_GoGETTR
+https://github.com/seanpm2001/publications -> https://github.com/seanpm2001/StanfordIO_Publications
+https://github.com/seanpm2001/visualizations -> https://github.com/seanpm2001/StanfordIO_Visualizations
+https://github.com/seanpm2001/wikipedia-notebook -> https://github.com/seanpm2001/StanfordIO_Wikipedia-Notebook
+https://github.com/seanpm2001/wiki -> https://github.com/seanpm2001/StanfordIO_Wiki
+https://github.com/seanpm2001/evernote-cloud-sdk-php -> https://github.com/seanpm2001/EverNote_EverNote-Cloud-SDK-PHP
+https://github.com/seanpm2001/zing -> https://github.com/seanpm2001/EverNote_Zing
+https://github.com/seanpm2001/serge-website -> https://github.com/seanpm2001/EverNote_Serge-Website
+https://github.com/seanpm2001/serge -> https://github.com/seanpm2001/EverNote_Serge
+https://github.com/seanpm2001/evernote-sdk-python3 -> https://github.com/seanpm2001/EverNote_EverNote-SDK-Python3
+https://github.com/seanpm2001/eslint-plugin-evernote -> https://github.com/seanpm2001/EverNote_ESLint-Plugin-EverNote
+https://github.com/seanpm2001/evernote-sdk-js -> https://github.com/seanpm2001/EverNote_EverNote-SDK-JS
+https://github.com/seanpm2001/evernote-sdk-php -> https://github.com/seanpm2001/EverNote_EverNote-SDK-PHP
+https://github.com/seanpm2001/evernote-sdk-java -> https://github.com/seanpm2001/EverNote_EverNote-SDK-Java
+https://github.com/seanpm2001/eslint-config-evernote -> https://github.com/seanpm2001/EverNote_ESLint-Config-EverNote
+https://github.com/seanpm2001/evernote-sdk-csharp -> https://github.com/seanpm2001/EverNote_EverNote-SDK-CSharp
+https://github.com/seanpm2001/evernote-oauth-ruby -> https://github.com/seanpm2001/EverNote_EverNote-OAuth-Ruby
+https://github.com/seanpm2001/evernote-sdk-android -> https://github.com/seanpm2001/EverNote_EverNote-SDK-Android
+https://github.com/seanpm2001/evernote-cloud-sdk-windows -> https://github.com/seanpm2001/EverNote_EverNote-Cloud-SDK-Windows
+https://github.com/seanpm2001/Aquaman -> https://github.com/seanpm2001/EverNote_Aquaman
+https://github.com/seanpm2001/evernote-sdk-python -> https://github.com/seanpm2001/EverNote_EverNote-SDK-Python
+https://github.com/seanpm2001/evernote-cloud-sdk-ios -> https://github.com/seanpm2001/EverNote_EverNote-Cloud-SDK-iOS
+https://github.com/seanpm2001/evernote-sdk-mac -> https://github.com/seanpm2001/EverNote_EverNote-SDK-Mac
+https://github.com/seanpm2001/android-job -> https://github.com/seanpm2001/EverNote_Android-Job
+https://github.com/seanpm2001/evernote-sdk-ruby -> https://github.com/seanpm2001/EverNote_EverNote-SDK-Ruby
+https://github.com/seanpm2001/android-state -> https://github.com/seanpm2001/EverNote_Android-State
+https://github.com/seanpm2001/evernote-sdk-ios -> https://github.com/seanpm2001/EverNote_EverNote-SDK-iOS
+https://github.com/seanpm2001/android-intent -> https://github.com/seanpm2001/EverNote_Android-Intent
+https://github.com/seanpm2001/evernote-sdk-perl -> https://github.com/seanpm2001/EverNote_EverNote-SDK-Perl
+https://github.com/seanpm2001/evernote-sdk-cpp -> https://github.com/seanpm2001/EverNote_EverNote-SDK-CPP
+https://github.com/seanpm2001/evernote-sdk-as3 -> https://github.com/seanpm2001/EverNote_EverNote-SDK-AS3
+https://github.com/seanpm2001/standards -> https://github.com/seanpm2001/JSFoundation_Standards
+https://github.com/seanpm2001/js.foundation -> https://github.com/seanpm2001/JSFoundation_JS.Foundation
+https://github.com/seanpm2001/TAC -> https://github.com/seanpm2001/JSFoundation_TAC
+https://github.com/seanpm2001/run -> https://github.com/seanpm2001/Marko-JS_Run
+https://github.com/seanpm2001/vite -> https://github.com/seanpm2001/Marko-JS_Vite
+//// The line before this line should be 103 and should be a fork entry.
+//// 10 lines at start, so that current number of forks can be reduced by 10 to get the current fork count (so I don't go over my limit)
+//// Repository renames
+//// ----
+//// 1 entry worked with (2024.01.01)
+//// Waiting for new entries to work with (2024.01.02 to 2024.01.04)
+//// 1 entry worked with (2024.01.05):
+https://github.com/seanpm2001/openwrt -> https://github.com/seanpm2001/OpenWRT_OpenWRT
+//// ℹ️ The repository rename log will be cleared again on 2024, April 1st (once every 3 months)
+//// ----
+//// @seanwallawalla
+https://github.com/seanwallawalla/Learn-MDX
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_MDX
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-SKILL
+https://github.com/seanwallawalla/AI2001_Category-Source_Code-SC-EJSS
+https://github.com/seanwallawalla/Labels
+https://github.com/seanwallawalla/BlueberryOS_Docs
