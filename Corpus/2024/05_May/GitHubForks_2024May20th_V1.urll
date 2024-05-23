@@ -1,0 +1,103 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification/
+//// GitHub forks
+//// DATE: 2024, Monday, May 20th
+//// Starting 2023 September 9th, I am now increasing the daily star, watch, and fork count, due to a lack of progress on my timeline. I will now fork 92-100 repositories per day, instead of 17-25 repositories per day
+//// Starting 2024, Monday, January 8th, I have gone back to 17-25 repositories per day, instead of 92-100, due to issues with time and this system not working out for that reason. I will have to remind myself that there will need to be daily data to fork, and that I shouldn't rush through it all anymore like I was. Some days may be set aside to do extra if the queue grows too much again.
+//// Start
+//// 2 users {
+//// @seanpm2001
+//// @seanwallawalla }
+//// @seanpm2001():
+https://github.com/seanpm2001/gobble-cli -> https://github.com/seanpm2001/GobbleJS_Gobble-CLI
+https://github.com/seanpm2001/gobble-concat -> https://github.com/seanpm2001/GobbleJS_Gobble-Concat
+https://github.com/seanpm2001/gobble-webpack -> https://github.com/seanpm2001/GobbleJS_Gobble-WebPack
+https://github.com/seanpm2001/gobble-include -> https://github.com/seanpm2001/GobbleJS_Gobble-Include
+https://github.com/seanpm2001/gobble-buble -> https://github.com/seanpm2001/GobbleJS_Gobble-Buble
+https://github.com/seanpm2001/gobble-prosecco -> https://github.com/seanpm2001/GobbleJS_Gobble-Prosecco
+https://github.com/seanpm2001/gobble-postcss -> https://github.com/seanpm2001/GobbleJS_Gobble-PostCSS
+https://github.com/seanpm2001/gobble-unpackage -> https://github.com/seanpm2001/GobbleJS_Gobble-UnPackage
+https://github.com/seanpm2001/gobble-browserify -> https://github.com/seanpm2001/GobbleJS_Gobble-Browserify
+https://github.com/seanpm2001/gobble-eslint -> https://github.com/seanpm2001/GobbleJS_Gobble-ESLlint -> https://github.com/seanpm2001/GobbleJS_Gobble-ESLint
+https://github.com/seanpm2001/grunt-gobble -> https://github.com/seanpm2001/GobbleJS_Grunt-Gobble
+https://github.com/seanpm2001/gobble-rollup-babel -> https://github.com/seanpm2001/GobbleJS_Gobble-Rollup-Babel
+https://github.com/seanpm2001/gobble-grapher -> https://github.com/seanpm2001/GobbleJS_Gobble-Grapher
+https://github.com/seanpm2001/gobble-spelunk -> https://github.com/seanpm2001/GobbleJS_Gobble-Spelunk
+https://github.com/seanpm2001/gobble-replace -> https://github.com/seanpm2001/GobbleJS_Gobble-Replace
+https://github.com/seanpm2001/gobble-coffee -> https://github.com/seanpm2001/GobbleJS_Gobble-Coffee
+https://github.com/seanpm2001/gobble-derequire -> https://github.com/seanpm2001/GobbleJS_Gobble-DeRequire
+https://github.com/seanpm2001/gobble-ractive -> https://github.com/seanpm2001/GobbleJS_gobble-Ractive
+https://github.com/seanpm2001/gobble-ractive-render -> https://github.com/seanpm2001/GobbleJS_Gobble-Ractive-Render
+https://github.com/seanpm2001/gobble-sorcery -> https://github.com/seanpm2001/GobbleJS_Gobble-Sorcery
+https://github.com/seanpm2001/connect-gobble -> https://github.com/seanpm2001/GobbleJS_Connect-Gobble
+https://github.com/seanpm2001/gobble-csvtojson -> https://github.com/seanpm2001/GobbleJS_Gobble-CSVToJSON
+https://github.com/seanpm2001/gobble-es6-transpiler -> https://github.com/seanpm2001/GobbleJS_Gobble-ES6-Transpiler
+https://github.com/seanpm2001/gobble-requirejs -> https://github.com/seanpm2001/GobbleJS_Gobble-RequireJS
+https://github.com/seanpm2001/gobble-jsbeautify -> https://github.com/seanpm2001/GobbleJS_Gobble-JSBeautify
+https://github.com/seanpm2001/gobble-esnext -> https://github.com/seanpm2001/GobbleJS_Gobble-ESNext
+https://github.com/seanpm2001/gobble-amdclean -> https://github.com/seanpm2001/GobbleJS_Gobble-AMDClean
+https://github.com/seanpm2001/gobble-test -> https://github.com/seanpm2001/GobbleJS_Gobble-Test
+https://github.com/seanpm2001/Denizen -> https://github.com/seanpm2001/DenizenScript_Denizen
+https://github.com/seanpm2001/Clientizen -> https://github.com/seanpm2001/DenizenScript_Clientizen
+https://github.com/seanpm2001/Denizen-Beginners-Guide -> https://github.com/seanpm2001/DenizenScript_Denizen-Beginners-Guide
+https://github.com/seanpm2001/DenizenScript-SiteHome -> https://github.com/seanpm2001/DenizenScript_DenizenScript-SiteHome
+https://github.com/seanpm2001/Denizen-Core -> https://github.com/seanpm2001/DenizenScript_Denizen-Core
+https://github.com/seanpm2001/SharpDenizenTools -> https://github.com/seanpm2001/DenizenScript_SharpDenizenTools
+https://github.com/seanpm2001/DenizenPastingWebsite -> https://github.com/seanpm2001/DenizenScript_DenizenPastingWebsite
+https://github.com/seanpm2001/DenizenMetaWebsite -> https://github.com/seanpm2001/DenizenScript_DenizenMetaWebsite
+https://github.com/seanpm2001/DenizenMetaBot -> https://github.com/seanpm2001/DenizenScript_DenizenMetaBot
+https://github.com/seanpm2001/Depenizen -> https://github.com/seanpm2001/DenizenScript_Depenizen
+https://github.com/seanpm2001/dDiscordBot -> https://github.com/seanpm2001/DenizenScript_DDiscordBot
+https://github.com/seanpm2001/DenizenVSCode -> https://github.com/seanpm2001/DenizenScript_DenizenVSCode
+https://github.com/seanpm2001/Depenizen-Lib -> https://github.com/seanpm2001/DenizenScript_Depenizen-LIB
+https://github.com/seanpm2001/denizenscript-grammar -> https://github.com/seanpm2001/DenizenScript_Denizenscript-Grammar
+https://github.com/seanpm2001/DepenizenBungee -> https://github.com/seanpm2001/DenizenScript_DepenizenBungee
+//// The line before this line should be 29 and should be a fork entry.
+//// 10 lines at start, so that current number of forks can be reduced by 10 to get the current fork count (so I don't go over my limit)
+//// Repository renames
+//// ----
+//// 4 entries worked with (2024.04.01)
+//// Waiting for new entries to work with (2024.04.02 to 2024.04.03)
+//// 22 entries worked with (2024.04.04)
+//// Waiting for new entries to work with (2024.04.05 to 2024.04.06)
+//// 5 entries worked with (2024.04.07)
+//// 3 entries worked with (2024.04.08)
+//// Waiting for new entries to work with (2024.04.09 to 2024.04.10)
+//// 1 entry worked with (2024.04.11)
+//// Waiting for new entries to work with (2024.04.12 to 2024.04.13)
+//// 1 entry worked with (2024.04.14)
+//// Waiting for new entries to work with (2024.04.15 to 2024.04.18)
+//// 1 entry worked with (2024.04.19)
+//// Waiting for new entries to work with (2024.04.20 to 2024.04.23)
+//// 4 entries worked with (2024.04.24)
+//// Waiting for new entries to work with (2024.04.25)
+//// 2 entries worked with (2024.04.26)
+//// Waiting for new entries to work with (2024.04.27 to 2024.04.29)
+//// 1 entry worked with (2024.04.30)
+//// Waiting for new entries to work with (2024.05.01)
+//// 1 entry worked with (2024.05.02)
+//// Waiting for new entries to work with (2024.05.03 to 2024.05.05)
+//// 1 entry worked with (2024.05.06)
+//// Waiting for new entries to work with (2024.05.07)
+//// 5 entries worked with (2024.05.08)
+//// Waiting for new entries to work with (2024.05.09 to 2025.05.10)
+//// 10 entries worked with (2024.05.11)
+//// Waiting for new entries to work with (2024.05.12 to 2024.05.14)
+//// 3 entries worked with (2024.05.15)
+//// Waiting for new entries to work with (2024.05.16 to 2024.05.17)
+//// 5 entries worked with (2024.05.18)
+//// Waiting for new entries to work with (2024.05.19)
+//// 9 entries worked with (2024.05.21):
+https://github.com/seanpm2001/vinix -> https://github.com/seanpm2001/VLang_Vinix
+https://github.com/seanpm2001/vls -> https://github.com/seanpm2001/VLang_VLS
+https://github.com/seanpm2001/vtl -> https://github.com/seanpm2001/VLang_VTL
+https://github.com/seanpm2001/vsl -> https://github.com/seanpm2001/VLang_VSL
+https://github.com/seanpm2001/vab -> https://github.com/seanpm2001/VLang_VAB
+https://github.com/seanpm2001/ved -> https://github.com/seanpm2001/VLang_VED -> https://github.com/seanpm2001/VLang_Ved
+https://github.com/seanpm2001/vpm -> https://github.com/seanpm2001/VLang_VPM
+https://github.com/seanpm2001/gitly -> https://github.com/seanpm2001/VLang_Gitly
+https://github.com/seanpm2001/libsodium -> https://github.com/seanpm2001/VLang_LIBSodium
+//// This log will be cleared on 2024, July 1st
+//// ----
+//// @seanwallawalla
+https://github.com/seanwallawalla/Seanpm2001_Raku_Style-Guide
