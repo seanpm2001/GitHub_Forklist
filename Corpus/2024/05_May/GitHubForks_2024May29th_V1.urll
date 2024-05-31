@@ -1,0 +1,98 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification/
+//// GitHub forks
+//// DATE: 2024, Wednesday, May 29th
+//// Starting 2023 September 9th, I am now increasing the daily star, watch, and fork count, due to a lack of progress on my timeline. I will now fork 92-100 repositories per day, instead of 17-25 repositories per day
+//// Starting 2024, Monday, January 8th, I have gone back to 17-25 repositories per day, instead of 92-100, due to issues with time and this system not working out for that reason. I will have to remind myself that there will need to be daily data to fork, and that I shouldn't rush through it all anymore like I was. Some days may be set aside to do extra if the queue grows too much again.
+//// Start
+//// 2 users {
+//// @seanpm2001
+//// @seanwallawalla }
+//// @seanpm2001():
+https://github.com/seanpm2001/PyMuPDF -> https://github.com/seanpm2001/PyMuPDF_PyMuPDF
+https://github.com/seanpm2001/PyMuPDF-Utilities -> https://github.com/seanpm2001/PyMuPDF_PyMuPDF-Utilities
+https://github.com/seanpm2001/pymupdf.io -> https://github.com/seanpm2001/PyMuPDF_PyMuPDF.IO
+https://github.com/seanpm2001/pymupdf.github.io
+https://github.com/seanpm2001/pymupdf-fonts -> https://github.com/seanpm2001/PyMuPDF_PyMuPDF-Fonts
+https://github.com/seanpm2001/debian-packages -> https://github.com/seanpm2001/MATE-Desktop-Legacy-Archive_Debian-Packages
+https://github.com/seanpm2001/mate-wiki-old -> https://github.com/seanpm2001/MATE-Desktop-Legacy-Archive_MATE-Wiki-Old
+https://github.com/seanpm2001/mate-university -> https://github.com/seanpm2001/MATE-Desktop-Legacy-Archive_MATE-University
+https://github.com/seanpm2001/mate-icon-theme-faenza -> https://github.com/seanpm2001/MATE-Desktop-Legacy-Archive_MATE-Icon-Theme-Faenza
+https://github.com/seanpm2001/caja-xattrs -> https://github.com/seanpm2001/MATE-Desktop-Legacy-Archive_Caja-XAttrs
+https://github.com/seanpm2001/mate-netspeed -> https://github.com/seanpm2001/MATE-Desktop-Legacy-Archive_MATE-NetSpeed
+https://github.com/seanpm2001/mate-keyring -> https://github.com/seanpm2001/MATE-Desktop-Legacy-Archive_MATE-KeyRing
+https://github.com/seanpm2001/mate-character-map -> https://github.com/seanpm2001/MATE-Desktop-Legacy-Archive_MATE-Character-Map
+https://github.com/seanpm2001/mate-user-guide-mallard -> https://github.com/seanpm2001/MATE-Desktop-Legacy-Archive_MATE-User-Guide-Mallard
+https://github.com/seanpm2001/archlinux-packages -> https://github.com/seanpm2001/MATE-Desktop-Legacy-Archive_ArchLinux-Packages
+https://github.com/seanpm2001/mate-system-tools -> https://github.com/seanpm2001/MATE-Desktop-Legacy-Archive_MATE-System-Tools
+https://github.com/seanpm2001/mate-bluetooth -> https://github.com/seanpm2001/MATE-Desktop-Legacy-Archive_MATE-Bluetooth
+https://github.com/seanpm2001/mate-dialogs -> https://github.com/seanpm2001/MATE-Desktop-Legacy-Archive_MATE-Dialogs
+https://github.com/seanpm2001/mate-file-manager-open-terminal -> https://github.com/seanpm2001/MATE-Desktop-Legacy-Archive_MATE-File-Manager-Open-Terminal
+https://github.com/seanpm2001/libmatekeyring -> https://github.com/seanpm2001/MATE-Desktop-Legacy-Archive_LIBMATEKeyRing
+https://github.com/seanpm2001/mate-doc-utils -> https://github.com/seanpm2001/MATE-Desktop-Legacy-Archive_MATE-Doc-Utils
+https://github.com/seanpm2001/mate-file-manager-image-converter -> https://github.com/seanpm2001/MATE-Desktop-Legacy-Archive_MATE-File-Manager-Image-Converter
+https://github.com/seanpm2001/mate-file-manager-sendto -> https://github.com/seanpm2001/MATE-Desktop-Legacy-Archive_MATE-File-Manager-SendTo
+https://github.com/seanpm2001/mate-file-manager-share -> https://github.com/seanpm2001/MATE-Desktop-Legacy-Archive_MATE-File-Manager-Share
+https://github.com/seanpm2001/mate-mime-data -> https://github.com/seanpm2001/MATE-Desktop-Legacy-Archive_MATE-MIME-Data
+https://github.com/seanpm2001/mate-corba -> https://github.com/seanpm2001/MATE-Desktop-Legacy-Archive_MATE-Corba
+https://github.com/seanpm2001/mate-file-manager-gksu -> https://github.com/seanpm2001/MATE-Desktop-Legacy-Archive_MATE-File-Manager-GKSU
+https://github.com/seanpm2001/libmatecomponent -> https://github.com/seanpm2001/MATE-Desktop-Legacy-Archive_LIBMATEComponent
+https://github.com/seanpm2001/libmatenotify -> https://github.com/seanpm2001/MATE-Desktop-Legacy-Archive_LIBMATENotify
+https://github.com/seanpm2001/libmatecanvas -> https://github.com/seanpm2001/MATE-Desktop-Legacy-Archive_LIBMATECanvas
+https://github.com/seanpm2001/mate-conf-editor -> https://github.com/seanpm2001/MATE-Desktop-Legacy-Archive_MATE-Conf-Editor
+https://github.com/seanpm2001/python-corba -> https://github.com/seanpm2001/MATE-Desktop-Legacy-Archive_Python-Corba
+https://github.com/seanpm2001/libmateui -> https://github.com/seanpm2001/MATE-Desktop-Legacy-Archive_LIBMATEUI
+https://github.com/seanpm2001/mate-vfs -> https://github.com/seanpm2001/MATE-Desktop-Legacy-Archive_MATE-VFS
+https://github.com/seanpm2001/libmatecomponentui -> https://github.com/seanpm2001/MATE-Desktop-Legacy-Archive_LIBMATEComponentUI
+https://github.com/seanpm2001/python-mate-desktop -> https://github.com/seanpm2001/MATE-Desktop-Legacy-Archive_Python-MATE-Desktop
+https://github.com/seanpm2001/libmate -> https://github.com/seanpm2001/MATE-Desktop-Legacy-Archive_LIBMATE
+https://github.com/seanpm2001/mate-conf -> https://github.com/seanpm2001/MATE-Desktop-Legacy-Archive_MATE-Conf
+https://github.com/seanpm2001/python-mate -> https://github.com/seanpm2001/MATE-Desktop-Legacy_Archive_Python-MATE
+https://github.com/seanpm2001/ffmpegthumbnailer-caja -> https://github.com/seanpm2001/MATE-Desktop-Legacy-Archive_FFmpegThumbnailer-Caja
+https://github.com/seanpm2001/Mate-Extra -> https://github.com/seanpm2001/MATE-Desktop-Legacy-Archive_MATE-Extra
+https://github.com/seanpm2001/dataprep-feedstock -> https://github.com/seanpm2001/Conda-Forge_DataPrep-FeedStock
+https://github.com/seanpm2001/xonsh-feedstock -> https://github.com/seanpm2001/Conda-Forge_Xonsh-FeedStock
+//// The line before this line should be 29 and should be a fork entry.
+//// 10 lines at start, so that current number of forks can be reduced by 10 to get the current fork count (so I don't go over my limit)
+//// Repository renames
+//// ----
+//// 4 entries worked with (2024.04.01)
+//// Waiting for new entries to work with (2024.04.02 to 2024.04.03)
+//// 22 entries worked with (2024.04.04)
+//// Waiting for new entries to work with (2024.04.05 to 2024.04.06)
+//// 5 entries worked with (2024.04.07)
+//// 3 entries worked with (2024.04.08)
+//// Waiting for new entries to work with (2024.04.09 to 2024.04.10)
+//// 1 entry worked with (2024.04.11)
+//// Waiting for new entries to work with (2024.04.12 to 2024.04.13)
+//// 1 entry worked with (2024.04.14)
+//// Waiting for new entries to work with (2024.04.15 to 2024.04.18)
+//// 1 entry worked with (2024.04.19)
+//// Waiting for new entries to work with (2024.04.20 to 2024.04.23)
+//// 4 entries worked with (2024.04.24)
+//// Waiting for new entries to work with (2024.04.25)
+//// 2 entries worked with (2024.04.26)
+//// Waiting for new entries to work with (2024.04.27 to 2024.04.29)
+//// 1 entry worked with (2024.04.30)
+//// Waiting for new entries to work with (2024.05.01)
+//// 1 entry worked with (2024.05.02)
+//// Waiting for new entries to work with (2024.05.03 to 2024.05.05)
+//// 1 entry worked with (2024.05.06)
+//// Waiting for new entries to work with (2024.05.07)
+//// 5 entries worked with (2024.05.08)
+//// Waiting for new entries to work with (2024.05.09 to 2025.05.10)
+//// 10 entries worked with (2024.05.11)
+//// Waiting for new entries to work with (2024.05.12 to 2024.05.14)
+//// 3 entries worked with (2024.05.15)
+//// Waiting for new entries to work with (2024.05.16 to 2024.05.17)
+//// 5 entries worked with (2024.05.18)
+//// Waiting for new entries to work with (2024.05.19)
+//// 9 entries worked with (2024.05.20)
+//// 2 entries worked with (2024.05.21)
+//// 5 entries worked with (2024.05.22)
+//// 1 entry worked with (2024.05.23)
+//// Waiting for new entries to work with (2024.05.24 to 2024.05.29)
+//// This log will be cleared on 2024, July 1st
+//// ----
+//// @seanwallawalla
+https://github.com/seanwallawalla/SeansLifeArchive_Images_Clash-Royale_Website
