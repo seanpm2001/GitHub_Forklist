@@ -1,0 +1,104 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification/
+//// GitHub forks
+//// DATE: 2024, Saturday, June 8th
+//// Starting 2023 September 9th, I am now increasing the daily star, watch, and fork count, due to a lack of progress on my timeline. I will now fork 92-100 repositories per day, instead of 17-25 repositories per day
+//// Starting 2024, Monday, January 8th, I have gone back to 17-25 repositories per day, instead of 92-100, due to issues with time and this system not working out for that reason. I will have to remind myself that there will need to be daily data to fork, and that I shouldn't rush through it all anymore like I was. Some days may be set aside to do extra if the queue grows too much again.
+//// Start
+//// 2 users {
+//// @seanpm2001
+//// @seanwallawalla }
+//// @seanpm2001():
+https://github.com/seanpm2001/docker-images -> https://github.com/seanpm2001/VowpalWabbit_Docker-Images
+https://github.com/seanpm2001/vowpalwabbit.github.io
+https://github.com/seanpm2001/rl_chain -> https://github.com/seanpm2001/VowpalWabbit_RL_Chain
+https://github.com/seanpm2001/estimators -> https://github.com/seanpm2001/VowpalWabbit_Estimators
+https://github.com/seanpm2001/agenda -> https://github.com/seanpm2001/VowpalWabbit_Agenda
+https://github.com/seanpm2001/jupyter-notebooks -> https://github.com/seanpm2001/VowpalWabbit_Jupyter-Notebooks
+https://github.com/seanpm2001/slates-experiments -> https://github.com/seanpm2001/VowpalWabbit_Slates-Experiments
+https://github.com/seanpm2001/feature-broker -> https://github.com/seanpm2001/VowpalWabbit_Feature-Broker
+https://github.com/seanpm2001/slope-experiments -> https://github.com/seanpm2001/VowpalWabbit_Slope-Experiments
+https://github.com/seanpm2001/neurips2019 -> https://github.com/seanpm2001/VowpalWabbit_Neurips2019
+https://github.com/seanpm2001/ccb-experiments -> https://github.com/seanpm2001/VowpalWabbit_CCB-Experiments
+https://github.com/seanpm2001/icml2019 -> https://github.com/seanpm2001/VowpalWabbit_ICML2019
+https://github.com/seanpm2001/MotionMark -> https://github.com/seanpm2001/WebKit_MotionMark
+https://github.com/seanpm2001/Documentation -> https://github.com/seanpm2001/WebKit_Documentation
+https://github.com/seanpm2001/Speedometer -> https://github.com/seanpm2001/WebKit_Speedometer
+https://github.com/seanpm2001/explainers -> https://github.com/seanpm2001/WebKit_Explainers
+https://github.com/seanpm2001/standards-positions -> https://github.com/seanpm2001/WebKit_Standards-Positions
+https://github.com/seanpm2001/WebKit-http -> https://github.com/seanpm2001/WebKit_WebKit-HTTP
+https://github.com/seanpm2001/PackageDistro -> https://github.com/seanpm2001/GAP-System_PackageDistro
+https://github.com/seanpm2001/homebrew-gap -> https://github.com/seanpm2001/GAP-System_HomeBrew-GAP
+https://github.com/seanpm2001/GapWWW -> https://github.com/seanpm2001/GAP-System_GAPWWW
+https://github.com/seanpm2001/ReleaseTools -> https://github.com/seanpm2001/GAP-System_ReleaseTools
+https://github.com/seanpm2001/gap-system.github.io
+https://github.com/seanpm2001/gap-docker-master-hpc -> https://github.com/seanpm2001/GAP-System_GAP-Docker-Master-HPC
+https://github.com/seanpm2001/gap-docker-stable-4.11 -> https://github.com/seanpm2001/GAP-System_GAP-Docker-Stable-4.11
+https://github.com/seanpm2001/gap-docker-stable-4.10 -> https://github.com/seanpm2001/GAP-System_GAP-Docker-Stable-4.10
+https://github.com/seanpm2001/gap-docker-binder ->https://github.com/seanpm2001/GAP-System_GAP-Docker-Binder
+https://github.com/seanpm2001/gap-container -> https://github.com/seanpm2001/GAP-System_GAP-Container
+https://github.com/seanpm2001/gap-docker -> https://github.com/seanpm2001/GAP-System_GAP-Docker
+https://github.com/seanpm2001/gap-docker-deepnote -> https://github.com/seanpm2001/GAP-System_GAP-Docker-DeepNote
+https://github.com/seanpm2001/try-gap-in-jupyter -> https://github.com/seanpm2001/GAP-System_Try-GAP-In-Jupyter
+https://github.com/seanpm2001/gap-docker-stable-4.9 -> https://github.com/seanpm2001/GAP-System_GAP-Docker-Stable-4.9
+https://github.com/seanpm2001/ward -> https://github.com/seanpm2001/GAP-System_Ward
+https://github.com/seanpm2001/gap-container-travis -> https://github.com/seanpm2001/GAP-System_GAP-Container-Travis
+https://github.com/seanpm2001/alienfoxx -> https://github.com/seanpm2001/AlienFoxx_AlienFoxx
+https://github.com/seanpm2001/kentaurse -> https://github.com/seanpm2001/Kentaurse_Kentaurse
+https://github.com/seanpm2001/mrrust77 -> https://github.com/seanpm2001/MrRust77_MrRust77
+https://github.com/seanpm2001/RabbitTigers -> https://github.com/seanpm2001/RabbitTigers_RabbitTigers
+https://github.com/seanpm2001/gap-git-cheat-sheet -> https://github.com/seanpm2001/GAP-System_GAP-Git-Cheat-Sheet
+https://github.com/seanpm2001/gap-distribution -> https://github.com/seanpm2001/GAP-System_GAP-Distribution
+https://github.com/seanpm2001/GitHubPagesForGAP -> https://github.com/seanpm2001/GAP-System_GitHubPagesForGAP
+https://github.com/seanpm2001/PackageMaker -> https://github.com/seanpm2001/GAP-System_PackageMaker
+https://github.com/seanpm2001/containers -> https://github.com/seanpm2001/GAP-System_Containers
+//// The line before this line should be 29 and should be a fork entry.
+//// 10 lines at start, so that current number of forks can be reduced by 10 to get the current fork count (so I don't go over my limit)
+//// Repository renames
+//// ----
+//// 4 entries worked with (2024.04.01)
+//// Waiting for new entries to work with (2024.04.02 to 2024.04.03)
+//// 22 entries worked with (2024.04.04)
+//// Waiting for new entries to work with (2024.04.05 to 2024.04.06)
+//// 5 entries worked with (2024.04.07)
+//// 3 entries worked with (2024.04.08)
+//// Waiting for new entries to work with (2024.04.09 to 2024.04.10)
+//// 1 entry worked with (2024.04.11)
+//// Waiting for new entries to work with (2024.04.12 to 2024.04.13)
+//// 1 entry worked with (2024.04.14)
+//// Waiting for new entries to work with (2024.04.15 to 2024.04.18)
+//// 1 entry worked with (2024.04.19)
+//// Waiting for new entries to work with (2024.04.20 to 2024.04.23)
+//// 4 entries worked with (2024.04.24)
+//// Waiting for new entries to work with (2024.04.25)
+//// 2 entries worked with (2024.04.26)
+//// Waiting for new entries to work with (2024.04.27 to 2024.04.29)
+//// 1 entry worked with (2024.04.30)
+//// Waiting for new entries to work with (2024.05.01)
+//// 1 entry worked with (2024.05.02)
+//// Waiting for new entries to work with (2024.05.03 to 2024.05.05)
+//// 1 entry worked with (2024.05.06)
+//// Waiting for new entries to work with (2024.05.07)
+//// 5 entries worked with (2024.05.08)
+//// Waiting for new entries to work with (2024.05.09 to 2025.05.10)
+//// 10 entries worked with (2024.05.11)
+//// Waiting for new entries to work with (2024.05.12 to 2024.05.14)
+//// 3 entries worked with (2024.05.15)
+//// Waiting for new entries to work with (2024.05.16 to 2024.05.17)
+//// 5 entries worked with (2024.05.18)
+//// Waiting for new entries to work with (2024.05.19)
+//// 9 entries worked with (2024.05.20)
+//// 2 entries worked with (2024.05.21)
+//// 5 entries worked with (2024.05.22)
+//// 1 entry worked with (2024.05.23)
+//// Waiting for new entries to work with (2024.05.24 to 2024.06.01)
+//// 1 entry worked with (2024.06.02)
+//// 3 entries worked with (2024.06.03)
+//// Waiting for new entries to work with (2024.06.04 to 2024.06.05)
+//// 1 entry worked with (2024.06.06)
+//// 1 entry worked with (2024.06.07)
+//// Waiting for new entries to work with (2024.06.08)
+//// This log will be cleared on 2024, July 1st
+//// ----
+//// @seanwallawalla
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-Tengwar
