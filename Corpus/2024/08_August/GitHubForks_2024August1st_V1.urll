@@ -1,0 +1,77 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification/
+//// GitHub forks
+//// DATE: 2024, Thursday, August 1st
+//// Starting 2023 September 9th, I am now increasing the daily star, watch, and fork count, due to a lack of progress on my timeline. I will now fork 92-100 repositories per day, instead of 17-25 repositories per day
+//// Starting 2024, Monday, January 8th, I have gone back to 17-25 repositories per day, instead of 92-100, due to issues with time and this system not working out for that reason. I will have to remind myself that there will need to be daily data to fork, and that I shouldn't rush through it all anymore like I was. Some days may be set aside to do extra if the queue grows too much again.
+//// Start
+//// 2 users {
+//// @seanpm2001
+//// @seanwallawalla }
+//// @seanpm2001():
+https://github.com/seanpm2001/GSL.jl -> https://github.com/seanpm2001/JuliaMath_GSL.jl
+https://github.com/seanpm2001/Primes.jl -> https://github.com/seanpm2001/JuliaMath_Primes.jl
+https://github.com/seanpm2001/Tau.jl -> https://github.com/seanpm2001/JuliaMath_Tau.jl
+https://github.com/seanpm2001/RealDot.jl -> https://github.com/seanpm2001/JuliaMath_RealDot.jl
+https://github.com/seanpm2001/IrrationalConstants.jl -> https://github.com/seanpm2001/JuliaMath_IrrationalConstants.jl
+https://github.com/seanpm2001/IntelVectorMath.jl -> https://github.com/seanpm2001/JuliaMath_IntelVectorMath.jl
+https://github.com/seanpm2001/CheckedArithmetic.jl -> https://github.com/seanpm2001/JuliaMath_CheckedArithmetic.jl
+https://github.com/seanpm2001/DoubleFloats.jl -> https://github.com/seanpm2001/JuliaMath_DoubleFloats.jl
+https://github.com/seanpm2001/RealFFTs.jl -> https://github.com/seanpm2001/JuliaMath_RealFFTs.jl
+https://github.com/seanpm2001/Infinities.jl -> https://github.com/seanpm2001/JuliaMath_Infinities.jl
+https://github.com/seanpm2001/BFloat16s.jl -> https://github.com/seanpm2001/JuliaMath_BFloat16s.jl
+https://github.com/seanpm2001/MeasureBase.jl -> https://github.com/seanpm2001/JuliaMath_MeasureBase.jl
+https://github.com/seanpm2001/HCubature.jl -> https://github.com/seanpm2001/JuliaMath_HCubature.jl
+https://github.com/seanpm2001/Cubature.jl -> https://github.com/seanpm2001/JuliaMath_Cubature.jl
+https://github.com/seanpm2001/Hadamard.jl -> https://github.com/seanpm2001/JuliaMath_Hadamard.jl
+https://github.com/seanpm2001/IntervalSets.jl -> https://github.com/seanpm2001/JuliaMath_IntervalSets.jl
+https://github.com/seanpm2001/IntegerMathUtils.jl -> https://github.com/seanpm2001/JuliaMath_IntegerMathUtils.jl
+https://github.com/seanpm2001/Calculus.jl -> https://github.com/seanpm2001/JuliaMath_Calculus.jl
+https://github.com/seanpm2001/KahanSummation.jl -> https://github.com/seanpm2001/JuliaMath_KahanSummation.jl
+https://github.com/seanpm2001/Quadmath.jl -> https://github.com/seanpm2001/JuliaMath_Quadmath.jl
+https://github.com/seanpm2001/openlibm -> https://github.com/seanpm2001/JuliaMath_OpenLIBM
+https://github.com/seanpm2001/FastPow.jl -> https://github.com/seanpm2001/JuliaMath_FastPow.jl
+https://github.com/seanpm2001/NaNMath.jl -> https://github.com/seanpm2001/JuliaMath_NaNMath.jl
+https://github.com/seanpm2001/Richardson.jl -> https://github.com/seanpm2001/JuliaMath_Richardson.jl
+https://github.com/seanpm2001/Xsum.jl -> https://github.com/seanpm2001/JuliaMath_Xsum.jl
+https://github.com/seanpm2001/DecFP.jl -> https://github.com/seanpm2001/JuliaMath_DecFP.jl
+https://github.com/seanpm2001/Decimals.jl -> https://github.com/seanpm2001/JuliaMath_Decimals.jl
+https://github.com/seanpm2001/FunctionZeros.jl -> https://github.com/seanpm2001/JuliaMath_FunctionZeros.jl
+https://github.com/seanpm2001/FastChebInterp.jl -> https://github.com/seanpm2001/JuliaMath_FastChebInterp.jl
+https://github.com/seanpm2001/ChangePrecision.jl -> https://github.com/seanpm2001/JuliaMath_ChangePrecision.jl
+https://github.com/seanpm2001/FixedPointDecimals.jl -> https://github.com/seanpm2001/JuliaMath_FixedPointDecimals.jl
+https://github.com/seanpm2001/RandomMatrices.jl -> https://github.com/seanpm2001/JuliaMath_RandomMatrices.jl
+https://github.com/seanpm2001/RoundingIntegers.jl -> https://github.com/seanpm2001/JuliaMath_RoundingIntegers.jl
+https://github.com/seanpm2001/Sobol.jl -> https://github.com/seanpm2001/JuliaMath_Sobol.jl
+https://github.com/seanpm2001/Float8s.jl -> https://github.com/seanpm2001/JuliaMath_Float8s.jl
+https://github.com/seanpm2001/DoubleDouble.jl -> https://github.com/seanpm2001/JuliaMath_DoubleDouble.jl
+https://github.com/seanpm2001/FunctionAccuracyTests.jl -> https://github.com/seanpm2001/JuliaMath_FunctionAccuracyTests.jl
+https://github.com/seanpm2001/InverseLaplace.jl -> https://github.com/seanpm2001/JuliaMath_InverseLaplace.jl
+https://github.com/seanpm2001/NFFT.jl -> https://github.com/seanpm2001/JuliaMath_NFFT.jl
+https://github.com/seanpm2001/ILog2.jl -> https://github.com/seanpm2001/JuliaMath_ILog2.jl
+https://github.com/seanpm2001/MittagLeffler.jl -> https://github.com/seanpm2001/JuliaMath_MittagLeffler.jl
+https://github.com/seanpm2001/LambertW.jl -> https://github.com/seanpm2001/JuliaMath_LambertW.jl
+https://github.com/seanpm2001/anti-dominator -> https://github.com/seanpm2001/Anti-Dominator_Anti-Dominator
+//// The line before this line should be 55 and should be a fork entry.
+//// Waiting for new repositories to work with (2024, Monday, July 1st to 2024, Tuesday, July 2nd)
+//// 1 new entry worked with (2024, Wednesday, July 3rd)
+//// Waiting for new entries to work with (2024, Thursday, July 4th)
+//// 1 new entry worked with (2024, Friday, July 5th)
+//// Waiting for new entries to work with (2024, Saturday, July 6th to 2024, Wednesday, July 10th)
+//// 1 new entry worked with (2024, Thursday, July 11th)
+//// Waiting for new entries to work with (2024, Friday, July 12th to 2024, Saturday, July 13th)
+//// 2 new entries worked with (2024, Sunday, July 14th)
+//// 3 new entries worked with (2024, Monday, July 15th)
+//// Waiting for new entries to work with (2024, Tuesday, July 16th to 2024, Wednesday, July 17th)
+//// 1 new entry worked with (2024, Thursday, July 18th)
+//// 1 new entry worked with (2024, Friday, July 19th)
+//// Waiting for new entries to work with (2024, Saturday, July 20th to 2024, Sunday, July 21st)
+//// 1 new entry worked with (2024, Monday, July 22nd)
+//// Waiting for new entries to work with (2024, Tuesday, July 23rd to 2024, Wednesday, July 24th)
+//// 1 new entry worked with (2024, Thursday, July 25th)
+//// 2 new entries worked with (2024, Friday, July 26th)
+//// Waiting for new entries to work with (2024, Saturday, July 27th to 2024, Thursday, August 1st)
+//// This log will be cleared on 2024, October 1st
+//// ----
+//// @seanwallawalla
+https://github.com/seanwallawalla/Seanpm2001-GSoD
