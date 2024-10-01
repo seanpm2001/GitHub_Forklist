@@ -1,0 +1,90 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification/
+//// GitHub forks
+//// DATE: 2024, Wednesday, September 18th
+//// Starting 2023 September 9th, I am now increasing the daily star, watch, and fork count, due to a lack of progress on my timeline. I will now fork 92-100 repositories per day, instead of 17-25 repositories per day
+//// Starting 2024, Monday, January 8th, I have gone back to 17-25 repositories per day, instead of 92-100, due to issues with time and this system not working out for that reason. I will have to remind myself that there will need to be daily data to fork, and that I shouldn't rush through it all anymore like I was. Some days may be set aside to do extra if the queue grows too much again.
+//// Start
+//// 2 users {
+//// @seanpm2001
+//// @seanwallawalla }
+//// @seanpm2001():
+https://github.com/seanpm2001/TransferEntropy.jl -> https://github.com/seanpm2001/JuliaDynamics_TransferEntropy.jl
+https://github.com/seanpm2001/LagrangianDescriptors.jl -> https://github.com/seanpm2001/JuliaDynamics_LagrangianDescriptors.jl
+https://github.com/seanpm2001/ScienceProjectTemplate -> https://github.com/seanpm2001/JuliaDynamics_ScienceProjectTemplate
+https://github.com/seanpm2001/ChaosThroughBilliards -> https://github.com/seanpm2001/JuliaDynamics_ChaosThroughBilliards
+https://github.com/seanpm2001/TimeseriesPrediction.jl -> https://github.com/seanpm2001/JuliaDynamics_TimeseriesPrediction.jl
+https://github.com/seanpm2001/CrossMappings.jl -> https://github.com/seanpm2001/JuliaDynamics_CrossMappings.jl
+https://github.com/seanpm2001/Simplices.jl -> https://github.com/seanpm2001/JuliaDynamics_Simplices.jl
+https://github.com/seanpm2001/StateSpaceReconstruction.jl -> https://github.com/seanpm2001/JuliaDynamics_StateSpaceReconstruction.jl
+https://github.com/seanpm2001/PerronFrobenius.jl -> https://github.com/seanpm2001/JuliaDynamics_PerronFrobenius.jl
+https://github.com/seanpm2001/SpatioTemporalSystems.jl -> https://github.com/seanpm2001/JuliaDynamics_SpatioTemporalSystems.jl
+https://github.com/seanpm2001/CausalityToolsBase.jl -> https://github.com/seanpm2001/JuliaDynamics_CausalityToolsBase.jl
+https://github.com/seanpm2001/CaosDB.jl -> https://github.com/seanpm2001/JuliaDynamics_CaosDB.jl
+https://github.com/seanpm2001/InteractiveDynamics.jl -> https://github.com/seanpm2001/JuliaDynamics_InteractiveDynamics.jl
+https://github.com/seanpm2001/ExercisesRepo -> https://github.com/seanpm2001/JuliaDynamics_ExercisesRepo
+https://github.com/seanpm2001/AgentsPlots.jl -> https://github.com/seanpm2001/JuliaDynamics_AgentsPlots.jl
+https://github.com/seanpm2001/snapshot -> https://github.com/seanpm2001/Snapshot-Labs_Snapshot
+https://github.com/seanpm2001/sx-monorepo -> https://github.com/seanpm2001/Snapshot-Labs_SX-MonoRepo
+https://github.com/seanpm2001/snapshot-spaces -> https://github.com/seanpm2001/Snapshot-Labs_Snapshot-Spaces
+https://github.com/seanpm2001/snapshot-strategies -> https://github.com/seanpm2001/Snapshot-Labs_Snapshot-Strategies
+https://github.com/seanpm2001/snapshot.js -> https://github.com/seanpm2001/Snapshot-Labs_Snapshot.JS
+https://github.com/seanpm2001/lock -> https://github.com/seanpm2001/Snapshot-Labs_Lock
+https://github.com/seanpm2001/snapshot-docs -> https://github.com/seanpm2001/Snapshot-Labs_Snapshot-Docs
+https://github.com/seanpm2001/score-api -> https://github.com/seanpm2001/Snapshot-Labs_Score-API
+https://github.com/seanpm2001/snapshot-sequencer -> https://github.com/seanpm2001/Snapshot-Labs_Snapshot-Sequencer
+https://github.com/seanpm2001/delegates-subgraph -> https://github.com/seanpm2001/Snapshot-Labs_Delegates-Subgraph
+https://github.com/seanpm2001/snapshot-webhook -> https://github.com/seanpm2001/Snapshot-Labs_Snapshot-WebHook
+https://github.com/seanpm2001/snapshot-relayer -> https://github.com/seanpm2001/Snapshot-Labs_Snapshot-Relayer
+https://github.com/seanpm2001/snapshot-hub -> https://github.com/seanpm2001/Snapshot-Labs_Snapshot-Hub
+https://github.com/seanpm2001/keycard -> https://github.com/seanpm2001/Snapshot-Labs_KeyCard
+https://github.com/seanpm2001/subgrapher -> https://github.com/seanpm2001/Snapshot-Labs_SubGrapher
+https://github.com/seanpm2001/config -> https://github.com/seanpm2001/Snapshot-Labs_Config
+https://github.com/seanpm2001/boost-guard -> https://github.com/seanpm2001/Snapshot-Labs_Boost-Guard
+https://github.com/seanpm2001/pineapple -> https://github.com/seanpm2001/Snapshot-Labs_Pineapple
+https://github.com/seanpm2001/sx-starknet -> https://github.com/seanpm2001/Snapshot-Labs_SX-StarkNet
+https://github.com/seanpm2001/delegates-api -> https://github.com/seanpm2001/Snapshot-Labs_Delegates-API
+https://github.com/seanpm2001/boost-subgraph -> https://github.com/seanpm2001/Snapshot-Labs_Boost-SubGraph
+https://github.com/seanpm2001/highlight -> https://github.com/seanpm2001/Snapshot-Labs_Highlight
+https://github.com/seanpm2001/boost -> https://github.com/seanpm2001/Snapshot-Labs_Boost
+https://github.com/seanpm2001/envelop -> https://github.com/seanpm2001/Snapshot-Labs_Envelop
+https://github.com/seanpm2001/snapshot-sidekick -> https://github.com/seanpm2001/Snapshot-Labs_Snapshot-Sidekick
+https://github.com/seanpm2001/starknet-poster -> https://github.com/seanpm2001/Snapshot-Labs_StarkNet-Poster
+https://github.com/seanpm2001/snapshot-subgraph -> https://github.com/seanpm2001/Snapshot-Labs_Snapshot-SubGraph
+https://github.com/seanpm2001/ProductivityBot -> https://github.com/seanpm2001/ProductivityBot_ProductivityBot
+//// The line before this line should be 55 and should be a fork entry.
+//// Waiting for new repositories to work with (2024, Monday, July 1st to 2024, Tuesday, July 2nd)
+//// 1 new entry worked with (2024, Wednesday, July 3rd)
+//// Waiting for new entries to work with (2024, Thursday, July 4th)
+//// 1 new entry worked with (2024, Friday, July 5th)
+//// Waiting for new entries to work with (2024, Saturday, July 6th to 2024, Wednesday, July 10th)
+//// 1 new entry worked with (2024, Thursday, July 11th)
+//// Waiting for new entries to work with (2024, Friday, July 12th to 2024, Saturday, July 13th)
+//// 2 new entries worked with (2024, Sunday, July 14th)
+//// 3 new entries worked with (2024, Monday, July 15th)
+//// Waiting for new entries to work with (2024, Tuesday, July 16th to 2024, Wednesday, July 17th)
+//// 1 new entry worked with (2024, Thursday, July 18th)
+//// 1 new entry worked with (2024, Friday, July 19th)
+//// Waiting for new entries to work with (2024, Saturday, July 20th to 2024, Sunday, July 21st)
+//// 1 new entry worked with (2024, Monday, July 22nd)
+//// Waiting for new entries to work with (2024, Tuesday, July 23rd to 2024, Wednesday, July 24th)
+//// 1 new entry worked with (2024, Thursday, July 25th)
+//// 2 new entries worked with (2024, Friday, July 26th)
+//// Waiting for new entries to work with (2024, Saturday, July 27th to 2024, Thursday, August 8th)
+//// 1 new entry worked with (2024, Friday, August 9th)
+//// Waiting for new entries to work with (2024, Saturday, August 10th)
+//// 8 new entries worked with (2024, Sunday, August 11th)
+//// 1 new entry worked with (2024, Monday, August 12th)
+//// Waiting for new entries to work with (2024, Tuesday, August 13th to 2024, Thursday, August 15th)
+//// 1 new entry worked with (2024, Friday, August 16th)
+//// Waiting for new entries to work with (2024, Sunday August 18th to 2024, Tuesday, August 27th)
+//// 1 new entry worked with (2024, Wednesday, August 28th)
+//// Waiting for new entries to work with (2024, Thursday, August 29th to 2024, Tuesday, September 3rd)
+//// 1 new entry worked with (2024, Wednesday, September 4th)
+//// Waiting for new entries to work with (2024, Thursday, September 5th to 2024, Wednesday, September 11th)
+//// 3 new entries worked with (2024, Thursday, September 12th)
+//// Waiting for new entries to work with (2024, Friday, September 13th to 2024, Wednesday, September 18th)
+//// This log will be cleared on 2024, October 1st
+//// ----
+//// @seanwallawalla
+https://github.com/seanwallawalla/-Omniverse_Docs

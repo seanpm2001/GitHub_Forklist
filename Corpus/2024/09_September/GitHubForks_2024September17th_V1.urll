@@ -1,0 +1,90 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification/
+//// GitHub forks
+//// DATE: 2024, Tuesday, September 17th
+//// Starting 2023 September 9th, I am now increasing the daily star, watch, and fork count, due to a lack of progress on my timeline. I will now fork 92-100 repositories per day, instead of 17-25 repositories per day
+//// Starting 2024, Monday, January 8th, I have gone back to 17-25 repositories per day, instead of 92-100, due to issues with time and this system not working out for that reason. I will have to remind myself that there will need to be daily data to fork, and that I shouldn't rush through it all anymore like I was. Some days may be set aside to do extra if the queue grows too much again.
+//// Start
+//// 2 users {
+//// @seanpm2001
+//// @seanwallawalla }
+//// @seanpm2001():
+https://github.com/seanpm2001/Associations.jl -> https://github.com/seanpm2001/JuliaDynamics_Associations.jl
+https://github.com/seanpm2001/PeriodicOrbits.jl -> https://github.com/seanpm2001/JuliaDynamics_PeriodicOrbits.jl
+https://github.com/seanpm2001/Agents.jl -> https://github.com/seanpm2001/JuliaDynamics_Agents.jl
+https://github.com/seanpm2001/CriticalTransitions.jl -> https://github.com/seanpm2001/JuliaDynamics_CriticalTransitions.jl
+https://github.com/seanpm2001/Attractors.jl -> https://github.com/seanpm2001/JuliaDynamics_Attractors.jl
+https://github.com/seanpm2001/LightSumTypes.jl -> https://github.com/seanpm2001/JuliaDynamics_LightSumTypes.jl
+https://github.com/seanpm2001/StreamSampling.jl -> https://github.com/seanpm2001/JuliaDynamics_StreamSampling.jl
+https://github.com/seanpm2001/DynamicalSystemsBase.jl -> https://github.com/seanpm2001/JuliaDynamics_DynamicalSystemsBase.jl
+https://github.com/seanpm2001/ProcessBasedModelling.jl -> https://github.com/seanpm2001/JuliaDynamics_ProcessBasedModelling.jl
+https://github.com/seanpm2001/ComplexityMeasures.jl -> https://github.com/seanpm2001/JuliaDynamics_ComplexityMeasures.jl
+https://github.com/seanpm2001/NetworkDynamics.jl -> https://github.com/seanpm2001/JuliaDynamics_NetworkDynamics.jl
+https://github.com/seanpm2001/AgentsExampleZoo.jl -> https://github.com/seanpm2001/JuliaDynamics_AgentsExampleZoo.jl
+https://github.com/seanpm2001/StateSpaceSets.jl -> https://github.com/seanpm2001/JuliaDynamics_StateSpaceSets.jl
+https://github.com/seanpm2001/TransitionsInTimeseries.jl -> https://github.com/seanpm2001/JuliaDynamics_TransitionsInTimeseries.jl
+https://github.com/seanpm2001/.github -> https://github.com/seanpm2001/JuliaDynamics.github
+https://github.com/seanpm2001/GoodScientificCodeWorkshop -> https://github.com/seanpm2001/JuliaDynamics_GoodScientificCodeWorkshop
+https://github.com/seanpm2001/DynamicalSystems.jl -> https://github.com/seanpm2001/JuliaDynamics_DynamicalSystems.jl
+https://github.com/seanpm2001/NonlinearDynamicsTextbook -> https://github.com/seanpm2001/JuliaDynamics_NonlinearDynamicsTextbook
+https://github.com/seanpm2001/doctheme -> https://github.com/seanpm2001/JuliaDynamics_DocTheme
+https://github.com/seanpm2001/DynamicalBilliards.jl -> https://github.com/seanpm2001/JuliaDynamics_DynamicalBilliards.jl
+https://github.com/seanpm2001/TimeseriesSurrogates.jl -> https://github.com/seanpm2001/JuliaDynamics_TimeseriesSurrogates.jl
+https://github.com/seanpm2001/ConcurrentSim.jl -> https://github.com/seanpm2001/JuliaDynamics_ConcurrentSim.jl
+https://github.com/seanpm2001/ResumableFunctions.jl -> https://github.com/seanpm2001/JuliaDynamics_ResumableFunctions.jl
+https://github.com/seanpm2001/ChaosTools.jl -> https://github.com/seanpm2001/JuliaDynamics_ChaosTools.jl
+https://github.com/seanpm2001/RecurrenceAnalysis.jl -> https://github.com/seanpm2001/JuliaDynamics_RecurrenceAnalysis.jl
+https://github.com/seanpm2001/DrWatson.jl -> https://github.com/seanpm2001/JuliaDynamics_DrWatson.jl
+https://github.com/seanpm2001/ConceptualClimateModels.jl -> https://github.com/seanpm2001/JuliaDynamics_ConceptualClimateModels.jl
+https://github.com/seanpm2001/RigorousInvariantMeasures.jl -> https://github.com/seanpm2001/JuliaDynamics_RigorousInvariantMeasures.jl
+https://github.com/seanpm2001/ABMFrameworksComparison -> https://github.com/seanpm2001/JuliaDynamics_ABMFrameworksComparison
+https://github.com/seanpm2001/DynamicalSystemsDocs.jl -> https://github.com/seanpm2001/JuliaDynamics_DynamicalSystemsDocs.jl
+https://github.com/seanpm2001/FractalDimensions.jl -> https://github.com/seanpm2001/JuliaDynamics_FractalDimensions.jl
+https://github.com/seanpm2001/DelayEmbeddings.jl -> https://github.com/seanpm2001/JuliaDynamics_DelayEmbeddings.jl
+https://github.com/seanpm2001/PredefinedDynamicalSystems.jl -> https://github.com/seanpm2001/JuliaDynamics_PredefinedDynamicalSystems.jl
+https://github.com/seanpm2001/SignalDecomposition.jl -> https://github.com/seanpm2001/JuliaDynamics_SignalDecomposition.jl
+https://github.com/seanpm2001/JuliaDynamics -> https://github.com/seanpm2001/JuliaDynamics_JuliaDynamics
+https://github.com/seanpm2001/DiscreteEvents.jl -> https://github.com/seanpm2001/JuliaDynamics_DiscreteEvents.jl
+https://github.com/seanpm2001/NonlinearDynamicsComplexSystemsCourse -> https://github.com/seanpm2001/JuliaDynamics_NonlinearDynamicsComplexSystemsCourse
+https://github.com/seanpm2001/ARFIMA.jl -> https://github.com/seanpm2001/JuliaDynamics_ARFIMA.jl
+https://github.com/seanpm2001/HardSphereDynamics.jl -> https://github.com/seanpm2001/JuliaDynamics_HardSphereDynamics.jl
+https://github.com/seanpm2001/TreeEmbedding.jl -> https://github.com/seanpm2001/JuliaDynamics_TreeEmbedding.jl
+https://github.com/seanpm2001/NinjaCrypto0831 -> https://github.com/seanpm2001/NinjaCrypto0831_NinjaCrypto0831
+https://github.com/seanpm2001/PatrykIA -> https://github.com/seanpm2001/PatrykIA_PatrykIA
+https://github.com/seanpm2001/Mathenge-Alex -> https://github.com/seanpm2001/Mathenge-Alex_Mathenge-Alex
+//// The line before this line should be 55 and should be a fork entry.
+//// Waiting for new repositories to work with (2024, Monday, July 1st to 2024, Tuesday, July 2nd)
+//// 1 new entry worked with (2024, Wednesday, July 3rd)
+//// Waiting for new entries to work with (2024, Thursday, July 4th)
+//// 1 new entry worked with (2024, Friday, July 5th)
+//// Waiting for new entries to work with (2024, Saturday, July 6th to 2024, Wednesday, July 10th)
+//// 1 new entry worked with (2024, Thursday, July 11th)
+//// Waiting for new entries to work with (2024, Friday, July 12th to 2024, Saturday, July 13th)
+//// 2 new entries worked with (2024, Sunday, July 14th)
+//// 3 new entries worked with (2024, Monday, July 15th)
+//// Waiting for new entries to work with (2024, Tuesday, July 16th to 2024, Wednesday, July 17th)
+//// 1 new entry worked with (2024, Thursday, July 18th)
+//// 1 new entry worked with (2024, Friday, July 19th)
+//// Waiting for new entries to work with (2024, Saturday, July 20th to 2024, Sunday, July 21st)
+//// 1 new entry worked with (2024, Monday, July 22nd)
+//// Waiting for new entries to work with (2024, Tuesday, July 23rd to 2024, Wednesday, July 24th)
+//// 1 new entry worked with (2024, Thursday, July 25th)
+//// 2 new entries worked with (2024, Friday, July 26th)
+//// Waiting for new entries to work with (2024, Saturday, July 27th to 2024, Thursday, August 8th)
+//// 1 new entry worked with (2024, Friday, August 9th)
+//// Waiting for new entries to work with (2024, Saturday, August 10th)
+//// 8 new entries worked with (2024, Sunday, August 11th)
+//// 1 new entry worked with (2024, Monday, August 12th)
+//// Waiting for new entries to work with (2024, Tuesday, August 13th to 2024, Thursday, August 15th)
+//// 1 new entry worked with (2024, Friday, August 16th)
+//// Waiting for new entries to work with (2024, Sunday August 18th to 2024, Tuesday, August 27th)
+//// 1 new entry worked with (2024, Wednesday, August 28th)
+//// Waiting for new entries to work with (2024, Thursday, August 29th to 2024, Tuesday, September 3rd)
+//// 1 new entry worked with (2024, Wednesday, September 4th)
+//// Waiting for new entries to work with (2024, Thursday, September 5th to 2024, Wednesday, September 11th)
+//// 3 new entries worked with (2024, Thursday, September 12th)
+//// Waiting for new entries to work with (2024, Friday, September 13th to 2024, Tuesday, September 17th)
+//// This log will be cleared on 2024, October 1st
+//// ----
+//// @seanwallawalla
+https://github.com/seanwallawalla/-Omniverse
