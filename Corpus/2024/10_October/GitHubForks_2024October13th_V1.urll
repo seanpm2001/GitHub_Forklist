@@ -1,0 +1,64 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification/
+//// GitHub forks
+//// DATE: 2024, Sunday, October 13th
+//// Starting 2023 September 9th, I am now increasing the daily star, watch, and fork count, due to a lack of progress on my timeline. I will now fork 92-100 repositories per day, instead of 17-25 repositories per day
+//// Starting 2024, Monday, January 8th, I have gone back to 17-25 repositories per day, instead of 92-100, due to issues with time and this system not working out for that reason. I will have to remind myself that there will need to be daily data to fork, and that I shouldn't rush through it all anymore like I was. Some days may be set aside to do extra if the queue grows too much again.
+//// Start
+//// 2 users {
+//// @seanpm2001
+//// @seanwallawalla }
+//// @seanpm2001():
+https://github.com/seanpm2001/Phase1.2QualityControlRpackage -> https://github.com/seanpm2001/COVIDClinical_Phase1.2QualityControlRPackage
+https://github.com/seanpm2001/Phase2.1SurvivalRPackage -> https://github.com/seanpm2001/COVIDClinical_Phase2.1SurvivalRPackage
+https://github.com/seanpm2001/Phase2.2.peds_temporalTrends -> https://github.com/seanpm2001/COVIDClinical_Phase2.2.PEDS_TemporalTrends
+https://github.com/seanpm2001/Phase2.1MissingRPackage -> https://github.com/seanpm2001/COVIDClinical_Phase2.1MissingRPackage
+https://github.com/seanpm2001/Phase2.1DockerAnalysis -> https://github.com/seanpm2001/COVIDClinical_Phase2.1DockerAnalysis
+https://github.com/seanpm2001/Phase2.2CovidEmbeddingRPackage -> https://github.com/seanpm2001/COVIDClinical_Phase2.2COVIDEmbeddingRPackage
+https://github.com/seanpm2001/Phase2.1SqlDataExtraction -> https://github.com/seanpm2001/COVIDClinical_Phase2.1SQLDataExtraction
+https://github.com/seanpm2001/Phase2.1DataRPackage -> https://github.com/seanpm2001/COVIDClinical_Phase2.1DataRPackage
+https://github.com/seanpm2001/Phase2.1ardsRPackage -> https://github.com/seanpm2001/COVIDClinical_Phase2.1ARDsRPackage
+https://github.com/seanpm2001/Phase1.1SqlDataExtraction -> https://github.com/seanpm2001/COVIDClinical_Phase1.1SQLDataExtraction
+https://github.com/seanpm2001/Phase2.1SeverityAugRPackage -> https://github.com/seanpm2001/COVIDClinical_Phase2.1SeverityAugRPackage
+https://github.com/seanpm2001/Phase2.1AdmittedForCovidRPackage -> https://github.com/seanpm2001/COVIDClinical_Phase2.1AdmittedForCovidRPackage
+https://github.com/seanpm2001/Phase1.1Pediatric -> https://github.com/seanpm2001/COVIDClinical_Phase1.1Pediatric
+https://github.com/seanpm2001/Phase2.1UtilitiesRPackage -> https://github.com/seanpm2001/COVIDClinical_Phase2.1UtilitiesRPackage
+https://github.com/seanpm2001/Phase1.1NeuroRCode -> https://github.com/seanpm2001/COVIDClinical_Phase1.1NeuroRCode
+https://github.com/seanpm2001/Phase2.1MissingnessRPackage -> https://github.com/seanpm2001/COVIDClinical_Phase2.1MissingnessRPackage
+https://github.com/seanpm2001/Phase1.1QualityControlRpackage -> https://github.com/seanpm2001/COVIDClinical_Phase1.1QualityControlRpackage
+https://github.com/seanpm2001/Phase2.1DistCoxRPackage -> https://github.com/seanpm2001/COVIDClinical_Phase2.1DistCoxRPackage
+https://github.com/seanpm2001/Phase2.1MyAnalysisRPackage -> https://github.com/seanpm2001/COVIDClinical_Phase2.1MyAnalysisRPackage
+https://github.com/seanpm2001/Phase2.1SexPhewasRPackage -> https://github.com/seanpm2001/COVIDClinical_Phase2.1SexPhewasRPackage
+https://github.com/seanpm2001/Phase2.1TDAPseudotimeRPackage -> https://github.com/seanpm2001/COVIDClinical_Phase2.1TDAPseudotimeRPackage
+https://github.com/seanpm2001/Phase2.1RDeveloperGuide -> https://github.com/seanpm2001/COVIDClinical_Phase2.1RDeveloperGuide
+https://github.com/seanpm2001/Phase1.1NeuroAggregateResultsPerCountry -> https://github.com/seanpm2001/COVIDClinical_Phase1.1NeuroAggregateResultsPerCountry
+https://github.com/seanpm2001/edgedb-js-mem-test -> https://github.com/seanpm2001/RTLayzell_EdgeDB-JS-Mem-Test
+https://github.com/seanpm2001/site -> https://github.com/seanpm2001/Rush-Lang_Site
+https://github.com/seanpm2001/rush -> https://github.com/seanpm2001/Rush-Lang_Rush
+https://github.com/seanpm2001/setup-llvm-action -> https://github.com/seanpm2001/Rush-Lang_Setup-LLVM-Action
+https://github.com/seanpm2001/vscode-rush -> https://github.com/seanpm2001/Rush-Lang_VSCode-Rush
+https://github.com/seanpm2001/docker -> https://github.com/seanpm2001/Rush-Lang_Docker
+https://github.com/seanpm2001/reduced-3dgs -> https://github.com/seanpm2001/GraphDeco-INRIA_Reduced-3DGS
+https://github.com/seanpm2001/hierarchical-3d-gaussians -> https://github.com/seanpm2001/GraphDeco-INRIA_Hierarchical-3D-Gaussians
+https://github.com/seanpm2001/hierarchy-rasterizer -> https://github.com/seanpm2001/GraphDeco-INRIA_Hierarchy-Rasterizer
+https://github.com/seanpm2001/hierarchy-viewer -> https://github.com/seanpm2001/GraphDeco-INRIA_Hierarchy-Viewer
+https://github.com/seanpm2001/gaussian-hierarchy -> https://github.com/seanpm2001/GraphDeco-INRIA_Gaussian-Hierarchy
+https://github.com/seanpm2001/diff-gaussian-rasterization -> https://github.com/seanpm2001/GraphDeco-INRIA_Diff-Gaussian-Rasterization
+https://github.com/seanpm2001/gaussian-splatting -> https://github.com/seanpm2001/GraphDeco-INRIA_Gaussian-Splatting
+https://github.com/seanpm2001/3dlayers -> https://github.com/seanpm2001/GraphDeco-INRIA_3DLayers
+https://github.com/seanpm2001/lighting-3d-generative-cars -> https://github.com/seanpm2001/GraphDeco-INRIA_Lighting-3D-Generative-Cars
+https://github.com/seanpm2001/nerfshop -> https://github.com/seanpm2001/GraphDeco-INRIA_NeRFShop
+https://github.com/seanpm2001/duongminh318 -> https://github.com/seanpm2001/Duongminh318_Duongminh318
+https://github.com/seanpm2001/DevanshTiwari3 -> https://github.com/seanpm2001/DevanshTiwari3_DevanshTiwari3
+https://github.com/seanpm2001/CelaDaniel -> https://github.com/seanpm2001/CelaDaniel_CelaDaniel
+https://github.com/seanpm2001/stark -> https://github.com/seanpm2001/InteractiveComputerGraphics_Stark
+//// The line before this line should be 55 and should be a fork entry.
+//// 1 new entry worked with (2024, Tuesday, October 1st)
+//// Waiting for new entries to work with (2024, Wednesday, October 2nd to 2024, Friday, October 11th)
+//// 3 new entries worked with (2024, Saturday, October 12th)
+//// Waiting for new entries to work with (2024, Sunday, October 13th)
+//// This log will be cleared on 2025, January 1st
+//// On 2025, January 1st, I will go back to 3 forks/day on my alt account
+//// ----
+//// @seanwallawalla
+https://github.com/seanwallawalla/Its_Docs

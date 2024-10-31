@@ -1,0 +1,70 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification/
+//// GitHub forks
+//// DATE: 2024, Thursday, October 31st
+//// Starting 2023 September 9th, I am now increasing the daily star, watch, and fork count, due to a lack of progress on my timeline. I will now fork 92-100 repositories per day, instead of 17-25 repositories per day
+//// Starting 2024, Monday, January 8th, I have gone back to 17-25 repositories per day, instead of 92-100, due to issues with time and this system not working out for that reason. I will have to remind myself that there will need to be daily data to fork, and that I shouldn't rush through it all anymore like I was. Some days may be set aside to do extra if the queue grows too much again.
+//// Start
+//// 2 users {
+//// @seanpm2001
+//// @seanwallawalla }
+//// @seanpm2001():
+https://github.com/seanpm2001/CallingJuliaFromCWithMPI -> https://github.com/seanpm2001/JuliaLabs_CallingJuliaFromCWithMPI
+https://github.com/seanpm2001/EnzymaticOcean -> https://github.com/seanpm2001/JuliaLabs_EnzymaticOcean
+https://github.com/seanpm2001/Poly.jl -> https://github.com/seanpm2001/JuliaLabs_Poly.jl
+https://github.com/seanpm2001/ISL.jl -> https://github.com/seanpm2001/JuliaLabs_ISL.jl
+https://github.com/seanpm2001/tapirbenchmarks -> https://github.com/seanpm2001/JuliaLabs_TapirBenchmarks
+https://github.com/seanpm2001/julia-on-summit -> https://github.com/seanpm2001/JuliaLabs_Julia-On-Summit
+https://github.com/seanpm2001/Workshop-OIST -> https://github.com/seanpm2001/JuliaLabs_Workshop-OIST
+https://github.com/seanpm2001/WrappedArrays -> https://github.com/seanpm2001/JuliaLabs_WrappedArrays
+https://github.com/seanpm2001/amis -> https://github.com/seanpm2001/JuliaLabs_AMIs
+https://github.com/seanpm2001/EnsembleKalmanProcesses.jl -> https://github.com/seanpm2001/CliMA_EnsembleKalmanProcesses.jl
+https://github.com/seanpm2001/ClimaUtilities.jl -> https://github.com/seanpm2001/CliMA_ClimaUtilities.jl
+https://github.com/seanpm2001/ClimaLand.jl -> https://github.com/seanpm2001/CliMA_ClimaLand.jl
+https://github.com/seanpm2001/ClimaCoupler.jl -> https://github.com/seanpm2001/CliMA_ClimaCoupler.jl
+https://github.com/seanpm2001/ClimaDiagnostics.jl -> https://github.com/seanpm2001/CliMA_ClimaDiagnostics.jl
+https://github.com/seanpm2001/ClimaAnalysis.jl -> https://github.com/seanpm2001/CliMA_ClimaAnalysis.jl
+https://github.com/seanpm2001/ClimaCore.jl -> https://github.com/seanpm2001/CliMA_ClimaCore.jl
+https://github.com/seanpm2001/CGDycore.jl -> https://github.com/seanpm2001/CliMA_CGDycore.jl
+https://github.com/seanpm2001/CubedSphere.jl -> https://github.com/seanpm2001/CliMA_CubedSphere.jl
+https://github.com/seanpm2001/ClimaAtmos.jl -> https://github.com/seanpm2001/CliMA_ClimaAtmos.jl
+https://github.com/seanpm2001/Oceananigans.jl -> https://github.com/seanpm2001/CliMA_Oceananigans.jl
+https://github.com/seanpm2001/RRTMGP.jl -> https://github.com/seanpm2001/CliMA_RRTMGP.jl
+https://github.com/seanpm2001/UnrolledUtilities.jl -> https://github.com/seanpm2001/CliMA_UnrolledUtilities.jl
+https://github.com/seanpm2001/ClimaOcean.jl -> https://github.com/seanpm2001/CliMA_ClimaOcean.jl
+https://github.com/seanpm2001/ClimaSeaIce.jl -> https://github.com/seanpm2001/CliMA_ClimaSeaIce.jl
+https://github.com/seanpm2001/CliMAgen.jl -> https://github.com/seanpm2001/CliMA_CliMAgen.jl
+https://github.com/seanpm2001/ClimaComms.jl -> https://github.com/seanpm2001/CliMA_ClimaComms.jl
+https://github.com/seanpm2001/ClimaArtifacts -> https://github.com/seanpm2001/CliMA_ClimaArtifacts
+https://github.com/seanpm2001/ClimaOceanDocumentation -> https://github.com/seanpm2001/CliMA_ClimaOceanDocumentation
+https://github.com/seanpm2001/OceananigansDocumentation -> https://github.com/seanpm2001/CliMA_OceananigansDocumentation
+https://github.com/seanpm2001/KinematicDriver.jl -> https://github.com/seanpm2001/CliMA_KinematicDriver.jl
+https://github.com/seanpm2001/CloudMicrophysics.jl -> https://github.com/seanpm2001/CliMA_CloudMicrophysics.jl
+https://github.com/seanpm2001/OrthogonalSphericalShellGrids.jl -> https://github.com/seanpm2001/CliMA_OrthogonalSphericalShellGrids.jl
+https://github.com/seanpm2001/ClimaOceanBiogeochemistry.jl -> https://github.com/seanpm2001/CliMA_ClimaOceanBiogeochemistry.jl
+https://github.com/seanpm2001/SeawaterPolynomials.jl -> https://github.com/seanpm2001/CliMA_SeawaterPolynomials.jl
+https://github.com/seanpm2001/CalibrateEmulateSample.jl -> https://github.com/seanpm2001/CliMA_CalibrateEmulateSample.jl
+https://github.com/seanpm2001/ClimaCalibrate.jl -> https://github.com/seanpm2001/CliMA_ClimaCalibrate.jl
+https://github.com/seanpm2001/ClimaTimeSteppers.jl -> https://github.com/seanpm2001/CliMA_ClimaTimeSteppers.jl
+https://github.com/seanpm2001/maryamdnn -> https://github.com/seanpm2001/Maryamdnn_Maryamdnn
+https://github.com/seanpm2001/FJahanmiri -> https://github.com/seanpm2001/FJahanmiri_FJahanmiri
+https://github.com/seanpm2001/LazyBroadcast.jl -> https://github.com/seanpm2001/CliMA_LazyBroadcast.jl
+//// The line before this line should be 55 and should be a fork entry.
+//// 1 new entry worked with (2024, Tuesday, October 1st)
+//// Waiting for new entries to work with (2024, Wednesday, October 2nd to 2024, Friday, October 11th)
+//// 3 new entries worked with (2024, Saturday, October 12th)
+//// Waiting for new entries to work with (2024, Sunday, October 13th to 2024, Tuesday, October 15th)
+//// 2 new entries worked with (2024, Wednesday, October 16th)
+//// Waiting for new entries to work with (2024, Thursday, October 17th to 2024, Friday, October 18th)
+//// 1 new entry worked with (2024, Saturday, October 19th)
+//// Waiting for new entries to work with (2024, Sunday, October 20th to 2024, Friday, October 25th)
+//// 5 new entries worked with (2024, Saturday, October 26th)
+//// 1 new entry worked with (2024, Sunday, October 27th)
+//// Waiting for new entries to work with (2024, Monday, October 28th)
+//// 1 new entry worked with (2024, Tuesday, October 29th)
+//// Waiting for new entries to work with (2024, Wednesday, October 30th to 2024, Thursday, October 31st)
+//// This log will be cleared on 2025, January 1st
+//// On 2025, January 1st, I will go back to 3 forks/day on my alt account
+//// ----
+//// @seanwallawalla
+https://github.com/seanwallawalla/uOffice_LIBrary_XLS
