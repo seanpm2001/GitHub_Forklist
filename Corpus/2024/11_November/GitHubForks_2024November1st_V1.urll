@@ -1,0 +1,70 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification/
+//// GitHub forks
+//// DATE: 2024, Friday, November 1st
+//// Starting 2023 September 9th, I am now increasing the daily star, watch, and fork count, due to a lack of progress on my timeline. I will now fork 92-100 repositories per day, instead of 17-25 repositories per day
+//// Starting 2024, Monday, January 8th, I have gone back to 17-25 repositories per day, instead of 92-100, due to issues with time and this system not working out for that reason. I will have to remind myself that there will need to be daily data to fork, and that I shouldn't rush through it all anymore like I was. Some days may be set aside to do extra if the queue grows too much again.
+//// Start
+//// 2 users {
+//// @seanpm2001
+//// @seanwallawalla }
+//// @seanpm2001():
+https://github.com/seanpm2001/Thermodynamics.jl -> https://github.com/seanpm2001/CliMA_Thermodynamics.jl
+https://github.com/seanpm2001/MultiBroadcastFusion.jl -> https://github.com/seanpm2001/CliMA_MultiBroadcastFusion.jl
+https://github.com/seanpm2001/SurfaceFluxes.jl -> https://github.com/seanpm2001/CliMA_SurfaceFluxes.jl
+https://github.com/seanpm2001/AtmosphericProfilesLibrary.jl -> https://github.com/seanpm2001/CliMA_AtmosphericProfilesLibrary.jl
+https://github.com/seanpm2001/Cloudy.jl -> https://github.com/seanpm2001/CliMA_Cloudy.jl
+https://github.com/seanpm2001/Insolation.jl -> https://github.com/seanpm2001/CliMA_Insolation.jl
+https://github.com/seanpm2001/VizCalibrateEDMF -> https://github.com/seanpm2001/CliMA_VizCalibrateEDMF
+https://github.com/seanpm2001/LESbrary.jl -> https://github.com/seanpm2001/CliMA_LESbrary.jl
+https://github.com/seanpm2001/ClimaPackageTemplates.jl -> https://github.com/seanpm2001/CliMA_ClimaPackageTemplates.jl
+https://github.com/seanpm2001/CalibrateEDMF.jl -> https://github.com/seanpm2001/CliMA_CalibrateEDMF.jl
+https://github.com/seanpm2001/PkgDevTools.jl -> https://github.com/seanpm2001/CliMA_PkgDevTools.jl
+https://github.com/seanpm2001/pycles -> https://github.com/seanpm2001/CliMA_Pycles
+https://github.com/seanpm2001/.github -> https://github.com/seanpm2001/CliMA.github
+https://github.com/seanpm2001/RandomFeatures.jl -> https://github.com/seanpm2001/CliMA_RandomFeatures.jl
+https://github.com/seanpm2001/ClimaDocs -> https://github.com/seanpm2001/CliMA_ClimaDocs
+https://github.com/seanpm2001/TurbulenceConvection.jl -> https://github.com/seanpm2001/CliMA_TurbulenceConvection.jl
+https://github.com/seanpm2001/slurm-buildkite -> https://github.com/seanpm2001/CliMA_Slurm-BuildKite
+https://github.com/seanpm2001/FusibleBroadcasts.jl -> https://github.com/seanpm2001/CliMA_FusibleBroadcasts.jl
+https://github.com/seanpm2001/TuplesOfNTuples.jl -> https://github.com/seanpm2001/CliMA_TuplesOfNTuples.jl
+https://github.com/seanpm2001/actiontest -> https://github.com/seanpm2001/CliMA_ActionTest
+https://github.com/seanpm2001/ParameterEstimocean.jl -> https://github.com/seanpm2001/CliMA_ParameterEstimocean.jl
+https://github.com/seanpm2001/ParamViz.jl -> https://github.com/seanpm2001/CliMA_ParamViz.jl
+https://github.com/seanpm2001/Land -> https://github.com/seanpm2001/CliMA_Land
+https://github.com/seanpm2001/RootSolvers.jl -> https://github.com/seanpm2001/CliMA_RootSolvers.jl
+https://github.com/seanpm2001/test-branch -> https://github.com/seanpm2001/CliMA_Test-Branch
+https://github.com/seanpm2001/CIWorkflowDemo.jl -> https://github.com/seanpm2001/CliMA_CIWorkflowDemo.jl
+https://github.com/seanpm2001/NCRegressionTests.jl -> https://github.com/seanpm2001/CliMA_NCRegressionTests.jl
+https://github.com/seanpm2001/CliMADatasets.jl -> https://github.com/seanpm2001/CliMA_CliMADatasets.jl
+https://github.com/seanpm2001/diffusion-bridge-downscaling -> https://github.com/seanpm2001/CliMA_Diffusion-Bridge-Downscaling
+https://github.com/seanpm2001/SimpleMoisture.jl -> https://github.com/seanpm2001/CliMA_SimpleMoisture.jl
+https://github.com/seanpm2001/ClimaSeaIceDocumentation -> https://github.com/seanpm2001/CliMA_ClimaSeaIceDocumentation
+https://github.com/seanpm2001/SimpleInterpolations.jl -> https://github.com/seanpm2001/CliMA_SimpleInterpolations.jl
+https://github.com/seanpm2001/OperatorFlux.jl -> https://github.com/seanpm2001/CliMA_OperatorFlux.jl
+https://github.com/seanpm2001/ClimaRecursiveApply.jl -> https://github.com/seanpm2001/CliMA_ClimaRecursiveApply.jl
+https://github.com/seanpm2001/ClimaGeometry.jl -> https://github.com/seanpm2001/CliMA_ClimaGeometry.jl
+https://github.com/seanpm2001/ODEConvergenceTester.jl -> https://github.com/seanpm2001/CliMA_ODEConvergenceTester.jl
+https://github.com/seanpm2001/GriddingMachine.jl -> https://github.com/seanpm2001/CliMA_GriddingMachine.jl
+https://github.com/seanpm2001/ClimaShallowWater.jl -> https://github.com/seanpm2001/CliMA_ClimaShallowWater.jl
+https://github.com/seanpm2001/acasamit -> https://github.com/seanpm2001/Acasamit_Acasamit
+https://github.com/seanpm2001/mhmdghaedi -> https://github.com/seanpm2001/Mhmdghaedi_Mhmdghaedi
+//// The line before this line should be 55 and should be a fork entry.
+//// 1 new entry worked with (2024, Tuesday, October 1st)
+//// Waiting for new entries to work with (2024, Wednesday, October 2nd to 2024, Friday, October 11th)
+//// 3 new entries worked with (2024, Saturday, October 12th)
+//// Waiting for new entries to work with (2024, Sunday, October 13th to 2024, Tuesday, October 15th)
+//// 2 new entries worked with (2024, Wednesday, October 16th)
+//// Waiting for new entries to work with (2024, Thursday, October 17th to 2024, Friday, October 18th)
+//// 1 new entry worked with (2024, Saturday, October 19th)
+//// Waiting for new entries to work with (2024, Sunday, October 20th to 2024, Friday, October 25th)
+//// 5 new entries worked with (2024, Saturday, October 26th)
+//// 1 new entry worked with (2024, Sunday, October 27th)
+//// Waiting for new entries to work with (2024, Monday, October 28th)
+//// 1 new entry worked with (2024, Tuesday, October 29th)
+//// Waiting for new entries to work with (2024, Wednesday, October 30th to 2024, Friday, November 1st)
+//// This log will be cleared on 2025, January 1st
+//// On 2025, January 1st, I will go back to 3 forks/day on my alt account
+//// ----
+//// @seanwallawalla
+https://github.com/seanwallawalla/uOffice_LIBrary_XLSX
