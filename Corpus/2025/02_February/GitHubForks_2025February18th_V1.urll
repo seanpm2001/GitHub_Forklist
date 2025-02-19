@@ -1,0 +1,82 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification/
+//// GitHub forks
+//// DATE: 2025, Tuesday, February 18th
+//// Starting 2023 September 9th, I am now increasing the daily star, watch, and fork count, due to a lack of progress on my timeline. I will now fork 92-100 repositories per day, instead of 17-25 repositories per day
+//// Starting 2024, Monday, January 8th, I have gone back to 17-25 repositories per day, instead of 92-100, due to issues with time and this system not working out for that reason. I will have to remind myself that there will need to be daily data to fork, and that I shouldn't rush through it all anymore like I was. Some days may be set aside to do extra if the queue grows too much again.
+//// Start
+//// 2 users {
+//// @seanpm2001
+//// @seanwallawalla }
+//// @seanpm2001():
+https://github.com/seanpm2001/portable -> https://github.com/seanpm2001/LibreSSL_Portable
+https://github.com/seanpm2001/openbsd -> https://github.com/seanpm2001/LibreSSL_OpenBSD
+https://github.com/seanpm2001/fuzz -> https://github.com/seanpm2001/LibreSSL_Fuzz
+https://github.com/seanpm2001/pytket-offline-renderer -> https://github.com/seanpm2001/CQCL_Pytket-Offline-Renderer
+https://github.com/seanpm2001/PerOpQ -> https://github.com/seanpm2001/CQCL_PerOpQ
+https://github.com/seanpm2001/H-Series-September-IEEE-Tutorial -> https://github.com/seanpm2001/CQCL_H-Series-September-IEEE-Tutorial
+https://github.com/seanpm2001/quantinuum-hardware-quantum-volume -> https://github.com/seanpm2001/CQCL_Quantinuum-Hardware-Quantum-Volume
+https://github.com/seanpm2001/pyscf-ac0 -> https://github.com/seanpm2001/CQCL_PySCF-AC0
+https://github.com/seanpm2001/tmp-postgrust -> https://github.com/seanpm2001/CQCL_TMP-PostGRust
+https://github.com/seanpm2001/parens -> https://github.com/seanpm2001/CQCL_Parens
+https://github.com/seanpm2001/h-series-august-2024-workshop -> https://github.com/seanpm2001/CQCL_H-Series-August-2024-Workshop
+https://github.com/seanpm2001/text_to_discocirc -> https://github.com/seanpm2001/CQCL_Text_To_DiscoCIRC -> https://github.com/seanpm2001/CQCL_Text_To_DisCoCirc
+https://github.com/seanpm2001/SSIP -> https://github.com/seanpm2001/CQCL_SSIP
+https://github.com/seanpm2001/quantinuum-frontend-take-home -> https://github.com/seanpm2001/CQCL_Quantinuum-Frontend-Take-Home
+https://github.com/seanpm2001/Quixer -> https://github.com/seanpm2001/CQCL_Quixer
+https://github.com/seanpm2001/h-series-spring-2024-workshop -> https://github.com/seanpm2001/CQCL_H-Series-Spring-2024-Workshop
+https://github.com/seanpm2001/qnexus-demo -> https://github.com/seanpm2001/CQCL_QNexus-Demo
+https://github.com/seanpm2001/hugr-passes -> https://github.com/seanpm2001/CQCL_HUGR-Passes
+https://github.com/seanpm2001/qbm_benchmark_dataset -> https://github.com/seanpm2001/CQCL_QBM_Benchmark_Dataset
+https://github.com/seanpm2001/Quantinuum-hackathons -> https://github.com/seanpm2001/CQCL_Quantinuum-Hackathons
+https://github.com/seanpm2001/pytket-qsharp -> https://github.com/seanpm2001/CQCL_Pytket-QSharp
+https://github.com/seanpm2001/benchmarking_cuTN -> https://github.com/seanpm2001/CQCL_Benchmarking_CuTN
+https://github.com/seanpm2001/ethz-hack-24 -> https://github.com/seanpm2001/CQCL_ETHZ-Hack-24
+https://github.com/seanpm2001/hugr_validator -> https://github.com/seanpm2001/CQCL_HUGR_Validator
+https://github.com/seanpm2001/random_test -> https://github.com/seanpm2001/CQCL_Random_Test
+https://github.com/seanpm2001/One_Bit_Addition_Raw_Data -> https://github.com/seanpm2001/CQCL_One_Bit_Addition_Raw_Data
+https://github.com/seanpm2001/pytket-extensions -> https://github.com/seanpm2001/CQCL_Pytket-Extensions
+https://github.com/seanpm2001/classification-with-qttn -> https://github.com/seanpm2001/CQCL_Classification-With-QTTN
+https://github.com/seanpm2001/hidden_inverse_exp -> https://github.com/seanpm2001/CQCL_Hidden_Inverse_EXP
+https://github.com/seanpm2001/qujax -> https://github.com/seanpm2001/CQCL_QuJAX
+https://github.com/seanpm2001/simple_tket2_mbqcification -> https://github.com/seanpm2001/CQCL_Simple_TKET2_MBQCification
+https://github.com/seanpm2001/quantinuum-hardware-aq-data -> https://github.com/seanpm2001/CQCL_Quantinuum-Hardware-AQ-Data
+https://github.com/seanpm2001/guppy-runner -> https://github.com/seanpm2001/CQCL_Guppy-Runner
+https://github.com/seanpm2001/LatticeSurgeryCCZStateExample.jl -> https://github.com/seanpm2001/CQCL_LatticeSurgeryCCZStateExample.jl
+https://github.com/seanpm2001/Constant-Scaling-Quantum-Gradient-Estimation -> https://github.com/seanpm2001/CQCL_Constant-Scaling-Quantum-Gradient-Estimation
+https://github.com/seanpm2001/hugr-mlir -> https://github.com/seanpm2001/CQCL_HUGR-MLIR
+https://github.com/seanpm2001/simplex -> https://github.com/seanpm2001/CQCL_SimpleX
+https://github.com/seanpm2001/One_Bit_Addition_Density_Matrix_Simulation -> https://github.com/seanpm2001/CQCL_One_Bit_Addition_Density_Matrix_Simulation
+https://github.com/seanpm2001/rowena25s -> https://github.com/seanpm2001/Rowena25S_Rowena25S
+https://github.com/seanpm2001/pytket-dqc -> https://github.com/seanpm2001/CQCL_Pytket-DQC
+//// The line before this line should be 55 and should be a fork entry.
+//// 1 new entry worked with (2025, Wednesday, January 1st)
+//// 2 new entries worked with (2025, Thursday, January 2nd)
+//// Waiting for new entries to work with (2025, Friday, January 3rd)
+//// 3 new entries worked with (2025, Saturday, January 4th)
+//// 2 new entries worked with (2025, Sunday, January 5th)
+//// Waiting for new entries to work with (2025, Monday, January 6th to 2025, Wednesday, January 8th)
+//// 1 new entry worked with (2025, Thursday, January 9th)
+//// Waiting for new entries to work with (2025, Friday, January 10th to 2025, Friday, January 17th)
+//// 1 new entry worked with (2025, Saturday, January 18th)
+//// 2 new entries worked with (2025, Sunday, January 19th)
+//// 1 new entry worked with (2025, Monday, January 20th)
+//// Waiting for new entries to work with (2025, Tuesday, January 21st to 2025, Wednesday, January 22nd)
+//// 2 new entries worked with (2025, Thursday, January 23rd)
+//// 1 new entry worked with (2025, Friday, January 24th)
+//// Waiting for new entries to work with (2025, Saturday, January 25th)
+//// 1 new entry worked with (2025, Sunday, January 26th)
+//// Waiting for new entries to work with (2025, Monday, January 27th to 2025, Sunday, February 2nd)
+//// 1 new entry worked with (2025, Monday, February 3rd, a rare example of a user profile repository name that wasn't formatted correctly)
+//// Waiting for new entries to work with (2025, Tuesday, February 4th to 2025, Thursday, February 13th)
+//// 1 new entry worked with (2025, Friday, February 14th)
+//// 1 new entry worked with (2025, Saturday, February 15th)
+//// 1 new entry worked with (2025, Sunday, February 16th)
+//// Waiting for new entries to work with (2025, Monday, February 17th to 2025, Tuesday, February 18th)
+//// This log will be cleared on 2025, April 1st
+//// On 2025, January 1st, I will go back to 3 forks/day on my alt account
+//// ----
+//// @seanwallawalla
+https://github.com/seanwallawalla/EMAIL2_ClassicEMail
+https://github.com/seanwallawalla/Learn-Alpine-ABuild
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Alpine-ABuild
