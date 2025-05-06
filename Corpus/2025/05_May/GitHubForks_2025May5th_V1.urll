@@ -1,0 +1,75 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification/
+//// GitHub forks
+//// DATE: 2025, Monday, May 5th
+//// Starting 2023 September 9th, I am now increasing the daily star, watch, and fork count, due to a lack of progress on my timeline. I will now fork 92-100 repositories per day, instead of 17-25 repositories per day
+//// Starting 2024, Monday, January 8th, I have gone back to 17-25 repositories per day, instead of 92-100, due to issues with time and this system not working out for that reason. I will have to remind myself that there will need to be daily data to fork, and that I shouldn't rush through it all anymore like I was. Some days may be set aside to do extra if the queue grows too much again.
+//// Start
+//// 2 users {
+//// @seanpm2001
+//// @seanwallawalla }
+//// @seanpm2001():
+https://github.com/seanpm2001/dooray.vote -> https://github.com/seanpm2001/NHN_Dooray.Vote
+https://github.com/seanpm2001/tui.dom -> https://github.com/seanpm2001/NHN_TUI.DOM
+https://github.com/seanpm2001/tui.component.calendar -> https://github.com/seanpm2001/NHN_TUI.Component.Calendar
+https://github.com/seanpm2001/FreeRTOS-Plus-TCP -> https://github.com/seanpm2001/FreeRTOS_FreeRTOS-Plus-TCP
+https://github.com/seanpm2001/FreeRTOS-Community-Supported-Demos -> https://github.com/seanpm2001/FreeRTOS_FreeRTOS-Community-Supported-Demos
+https://github.com/seanpm2001/CI-CD-Github-Actions -> https://github.com/seanpm2001/FreeRTOS_CI-CD-Github-Actions
+https://github.com/seanpm2001/iot-reference-arm-corstone3xx -> https://github.com/seanpm2001/FreeRTOS_IoT-Reference-ARM-CORSTone3XX
+https://github.com/seanpm2001/coreMQTT -> https://github.com/seanpm2001/FreeRTOS_CoreMQTT
+https://github.com/seanpm2001/coreHTTP -> https://github.com/seanpm2001/FreeRTOS_CoreHTTP
+https://github.com/seanpm2001/Lab-Project-FreeRTOS-POSIX -> https://github.com/seanpm2001/FreeRTOS_Lab-Project-FreeRTOS-POSIX
+https://github.com/seanpm2001/Lab-Project-FreeRTOS-FAT -> https://github.com/seanpm2001/FreeRTOS_Lab-Project-FreeRTOS-FAT
+https://github.com/seanpm2001/FreeRTOS-Kernel-Book -> https://github.com/seanpm2001/FreeRTOS_FreeRTOS-Kernel-Book
+https://github.com/seanpm2001/iot-reference-esp32 -> https://github.com/seanpm2001/FreeRTOS_IoT-Reference-ESP32
+https://github.com/seanpm2001/coreSNTP -> https://github.com/seanpm2001/FreeRTOS_CoreSNTP
+https://github.com/seanpm2001/coreMQTT-Agent -> https://github.com/seanpm2001/FreeRTOS_CoreMQTT-Agent
+https://github.com/seanpm2001/Lab-Project-FreeRTOS-Tutorials -> https://github.com/seanpm2001/FreeRTOS_Lab-Project-FreeRTOS-Tutorials
+https://github.com/seanpm2001/FreeRTOS-Partner-Supported-Demos -> https://github.com/seanpm2001/FreeRTOS_FreeRTOS-Partner-Supported-Demos
+https://github.com/seanpm2001/FreeRTOS-Cellular-Interface -> https://github.com/seanpm2001/FreeRTOS_FreeRTOS-Cellular-Interface
+https://github.com/seanpm2001/corePKCS11 -> https://github.com/seanpm2001/FreeRTOS_CorePKCS11
+https://github.com/seanpm2001/iot-reference-nxp-rt1060 -> https://github.com/seanpm2001/FreeRTOS_IoT-Reference-NXP-RT1060
+https://github.com/seanpm2001/FreeRTOS-LTS -> https://github.com/seanpm2001/FreeRTOS_FreeRTOS-LTS
+https://github.com/seanpm2001/FreeRTOS-Kernel-Partner-Supported-Ports -> https://github.com/seanpm2001/FreeRTOS_FreeRTOS-Kernel-Partner-Supported-Ports
+https://github.com/seanpm2001/backoffAlgorithm -> https://github.com/seanpm2001/FreeRTOS_BackoffAlgorithm
+https://github.com/seanpm2001/FreeRTOS-Libraries-Integration-Tests -> https://github.com/seanpm2001/FreeRTOS_FreeRTOS-Libraries-Integration-Tests
+https://github.com/seanpm2001/FreeRTOS-Kernel-Community-Supported-Ports -> https://github.com/seanpm2001/FreeRTOS_FreeRTOS-Kernel-Community-Supported-Ports
+https://github.com/seanpm2001/Lab-Project-ota-example-for-AWS-IoT-Core -> https://github.com/seanpm2001/FreeRTOS_Lab-Project-OTA-Example-For-AWS-IoT-Core
+https://github.com/seanpm2001/FreeRTOS-Cellular-Interface-Reference-ublox-SARA-R4 -> https://github.com/seanpm2001/FreeRTOS_FreeRTOS-Cellular-Interface-Reference-UBlox-SARA-R4
+https://github.com/seanpm2001/Lab-Project-CMSIS-Packs-Demos -> https://github.com/seanpm2001/FreeRTOS_Lab-Project-CMSIS-Packs-Demos
+https://github.com/seanpm2001/FreeRTOS-Cellular-Interface-Reference-Sierra-Wireless-HL7802 -> https://github.com/seanpm2001/FreeRTOS_FreeRTOS-Cellular-Interface-Reference-Sierra-Wireless-HL7802
+https://github.com/seanpm2001/FreeRTOS-Cellular-Interface-Reference-Quectel-BG96 -> https://github.com/seanpm2001/FreeRTOS_FreeRTOS-Cellular-Interface-Reference-Quectel-BG96
+https://github.com/seanpm2001/iot-reference-stm32u5 -> https://github.com/seanpm2001/FreeRTOS_IoT-Reference-STM32U5
+https://github.com/seanpm2001/FreeRTOS-Labs -> https://github.com/seanpm2001/FreeRTOS_FreeRTOS-Labs
+https://github.com/seanpm2001/Lab-Project-FreeRTOS-LoRaWAN -> https://github.com/seanpm2001/FreeRTOS_Lab-Project-FreeRTOS-LoRaWAN
+https://github.com/seanpm2001/FreeRTOS-Cellular-Interface-Community-Supported-Ports -> https://github.com/seanpm2001/FreeRTOS_FreeRTOS-Cellular-Interface-Community-Supported-Ports
+https://github.com/seanpm2001/FreeRTOS-SMP-Demos -> https://github.com/seanpm2001/FreeRTOS_FreeRTOS-SMP-Demos
+https://github.com/seanpm2001/CMSIS-Packs -> https://github.com/seanpm2001/FreeRTOS_CMSIS-Packs
+https://github.com/seanpm2001/timscharfenort8 -> https://github.com/seanpm2001/TimSharfenort8_TimSharfenort8
+https://github.com/seanpm2001/coreMQTT-Agent-Demos -> https://github.com/seanpm2001/FreeRTOS_CoreMQTT-Agent-Demos
+https://github.com/seanpm2001/FreeRTOS-SESIP -> https://github.com/seanpm2001/FreeRTOS_FreeRTOS-SESIP
+https://github.com/seanpm2001/freertos-gdb -> https://github.com/seanpm2001/FreeRTOS_FreeRTOS-GDB
+//// The line before this line should be 55 and should be a fork entry.
+//// Waiting for new entries to work with (2025, Tuesday, April 1st to 2025, Thursday, April 3rd)
+//// 1 new entry worked with (2025, Friday, April 4th)
+//// Waiting for new entries to work with (2025, Saturday, April 5th to 2025, Sunday, April 6th)
+//// 5 new entries worked with (2025, Monday, April 7th)
+//// Waiting for new entries to work with (2025, Tuesday, April 8th to 2025, Saturday, April 19th)
+//// 2 new entries worked with (2025, Sunday, April 20th)
+//// Waiting for new entries to work with (2025, Monday, April 21st to 2025, Thursday, May 2nd)
+//// 5 new entries worked with (2025, Friday, May 2nd)
+//// Waiting for new entries to work with (2025, Saturday, May 3rd to 2025, Monday, May 5th)
+//// This log will be cleared on 2025, July 1st
+//// On 2025, January 1st, I will go back to 3 forks/day on my alt account
+//// ----
+//// @seanwallawalla
+https://github.com/seanwallawalla/Santa-Software-Suite_ProgrammerTidbits_Docs
+https://github.com/seanwallawalla/SSS_Elf_Docs
+https://github.com/seanwallawalla/Learn-PL-I
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_PL-I
+https://github.com/seanwallawalla/SSS_ChristmasArcade_Docs
+https://github.com/seanwallawalla/Santa-Software-Suite_ChristmasArcade_Docs
+https://github.com/seanwallawalla/SSS_Client_Docs
+https://github.com/seanwallawalla/Santa-Software-Suite_Client_Docs
+https://github.com/seanwallawalla/Learn-Simple-File-Verification
+https://github.com/seanwallawalla/SNU_2D_ProgrammingTools_IDE_Simple-File-Verification
