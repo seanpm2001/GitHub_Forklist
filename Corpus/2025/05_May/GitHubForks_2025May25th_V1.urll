@@ -1,0 +1,82 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification/
+//// GitHub forks
+//// DATE: 2025, Sunday, May 25th
+//// Starting 2023 September 9th, I am now increasing the daily star, watch, and fork count, due to a lack of progress on my timeline. I will now fork 92-100 repositories per day, instead of 17-25 repositories per day
+//// Starting 2024, Monday, January 8th, I have gone back to 17-25 repositories per day, instead of 92-100, due to issues with time and this system not working out for that reason. I will have to remind myself that there will need to be daily data to fork, and that I shouldn't rush through it all anymore like I was. Some days may be set aside to do extra if the queue grows too much again.
+//// Start
+//// 2 users {
+//// @seanpm2001
+//// @seanwallawalla }
+//// @seanpm2001():
+https://github.com/seanpm2001/AdGuardDNSClient -> https://github.com/seanpm2001/AdGuard_AdGuardDNSClient
+https://github.com/seanpm2001/AdGuardVPNForiOS -> https://github.com/seanpm2001/AdGuard_AdGuardVPNForiOS
+https://github.com/seanpm2001/dnsproxy -> https://github.com/seanpm2001/AdGuard_DNSProxy
+https://github.com/seanpm2001/TestCases -> https://github.com/seanpm2001/AdGuardTeam_TestCases
+https://github.com/seanpm2001/AdguardForWindows -> https://github.com/seanpm2001/AdGuardTeam_AdGuardForWindows
+https://github.com/seanpm2001/HttpsExclusions -> https://github.com/seanpm2001/AdGuardTeam_HTTPSExclusions
+https://github.com/seanpm2001/DiffBuilder -> https://github.com/seanpm2001/AdGuardTeam_DiffBuilder
+https://github.com/seanpm2001/FiltersDownloader -> https://github.com/seanpm2001/AdGuardTeam_FiltersDownloader
+https://github.com/seanpm2001/BrowserAssistant -> https://github.com/seanpm2001/AdGuardTeam_BrowserAssistant
+https://github.com/seanpm2001/FiltersCompiler -> https://github.com/seanpm2001/AdGuardTeam_FiltersCompiler
+https://github.com/seanpm2001/AdGuardVPNForAndroid -> https://github.com/seanpm2001/AdGuardTeam_AdGuardVPNForAndroid
+https://github.com/seanpm2001/VscodeAdblockSyntax -> https://github.com/seanpm2001/AdGuardTeam_VSCodeAdblockSyntax
+https://github.com/seanpm2001/AdGuardForSafari -> https://github.com/seanpm2001/AdGuardTeam_AdGuardForSafari
+https://github.com/seanpm2001/KnowledgeBaseMail -> https://github.com/seanpm2001/AdGuardTeam_KnowledgeBaseMail
+https://github.com/seanpm2001/SafariConverterLib -> https://github.com/seanpm2001/AdGuardTeam_SafariConverterLIB
+https://github.com/seanpm2001/AdGuardCLI -> https://github.com/seanpm2001/AdGuardTeam_AdGuardCLI
+https://github.com/seanpm2001/golibs -> https://github.com/seanpm2001/AdGuardTeam_GoLIBs
+https://github.com/seanpm2001/AdguardForMac -> https://github.com/seanpm2001/AdGuardTeam_AdGuardForMac
+https://github.com/seanpm2001/AdguardAssistant -> https://github.com/seanpm2001/AdGuardTeam_AdGuardAssistant
+https://github.com/seanpm2001/ecsstree -> https://github.com/seanpm2001/AdGuardTeam_ECSSTree
+https://github.com/seanpm2001/LegalDocs -> https://github.com/seanpm2001/AdGuardTeam_LegalDocs
+https://github.com/seanpm2001/AdGuardVPNForWindows -> https://github.com/seanpm2001/AdGuardTeam_AdGuardVPNForWindows
+https://github.com/seanpm2001/AdguardForAndroid -> https://github.com/seanpm2001/AdGuardTeam_AdGuardForAndroid
+https://github.com/seanpm2001/adguard-dart-logger -> https://github.com/seanpm2001/AdGuardTeam_AdGuard-Dart-Logger
+https://github.com/seanpm2001/AdGuardDNS -> https://github.com/seanpm2001/AdGuardTeam_AdGuardDNS
+https://github.com/seanpm2001/AdGuardVPNCLI -> https://github.com/seanpm2001/AdGuardTeam_AdGuardVPNCLI
+https://github.com/seanpm2001/ResearchAdblockingWebPerformance -> https://github.com/seanpm2001/AdGuardTeam_ResearchAdBlockingWebPerformance
+https://github.com/seanpm2001/AdguardForiOS -> https://github.com/seanpm2001/AdGuardTeam_AdguardForIOS
+https://github.com/seanpm2001/HostlistCompiler -> https://github.com/seanpm2001/AdGuardTeam_HostlistCompiler
+https://github.com/seanpm2001/AdGuardExtra -> https://github.com/seanpm2001/AdGuardTeam_AdGuardExtra
+https://github.com/seanpm2001/AdGuardVPNForMac -> https://github.com/seanpm2001/AdGuardTeam_AdGuardVPNForMac
+https://github.com/seanpm2001/go-webext -> https://github.com/seanpm2001/AdGuardTeam_go-WebExt
+https://github.com/seanpm2001/ReportsWebApp -> https://github.com/seanpm2001/AdGuardTeam_ReportsWebApp
+https://github.com/seanpm2001/CodeGuidelines -> https://github.com/seanpm2001/AdguardTeam_CodeGuidelines
+https://github.com/seanpm2001/dns-sde-extension -> https://github.com/seanpm2001/AdGuardTeam_DNS-SDE-Extension
+https://github.com/seanpm2001/DeadDomainsLinter -> https://github.com/seanpm2001/AdGuardTeam_DeadDomainsLinter
+https://github.com/seanpm2001/ExtendedCss -> https://github.com/seanpm2001/AdGuardTeam_ExtendedCSS
+https://github.com/seanpm2001/urlfilter -> https://github.com/seanpm2001/AdGuardTeam_URLFilter
+https://github.com/seanpm2001/ContentBlocker -> https://github.com/seanpm2001/AdGuardTeam_ContentBlocker
+https://github.com/seanpm2001/AdblockCompatibilityTables -> https://github.com/seanpm2001/AdGuardTeam_AdBlockCompatibilityTables
+//// The line before this line should be 55 and should be a fork entry.
+//// Waiting for new entries to work with (2025, Tuesday, April 1st to 2025, Thursday, April 3rd)
+//// 1 new entry worked with (2025, Friday, April 4th)
+//// Waiting for new entries to work with (2025, Saturday, April 5th to 2025, Sunday, April 6th)
+//// 5 new entries worked with (2025, Monday, April 7th)
+//// Waiting for new entries to work with (2025, Tuesday, April 8th to 2025, Saturday, April 19th)
+//// 2 new entries worked with (2025, Sunday, April 20th)
+//// Waiting for new entries to work with (2025, Monday, April 21st to 2025, Thursday, May 2nd)
+//// 5 new entries worked with (2025, Friday, May 2nd)
+//// Waiting for new entries to work with (2025, Saturday, May 3rd to 2025, Monday, May 5th)
+//// 20 entries worked with (2025, Tuesday, May 6th)
+//// 32 entries worked with (2025, Wednesday, May 7th)
+//// Waiting for new entries to work with (2025, Thursday, May 8th to 2025, Sunday, May 11th)
+//// 1 new entry worked with (2025, Monday, May 12th)
+//// Waiting for new entries to work with (2025, Tuesday, May 13th to 2025, Friday, May 23rd)
+//// 1 new entry worked with (2025, Saturday, May 24th):
+//// Waiting for new entries to work with (2025, Sunday, May 25th)
+//// This log will be cleared on 2025, July 1st
+//// On 2025, January 1st, I will go back to 3 forks/day on my alt account
+//// ----
+//// @seanwallawalla
+https://github.com/seanwallawalla/Bliss_Browser_Extensions
+https://github.com/seanwallawalla/Disney
+https://github.com/seanwallawalla/Seanpm2001-Disney
+https://github.com/seanwallawalla/Club-Penguin
+https://github.com/seanwallawalla/SeanWallaWalla-Club-Penguin
+https://github.com/seanwallawalla/Poptropica
+https://github.com/seanwallawalla/SeanWallaWalla-Poptropica
+https://github.com/seanwallawalla/NitroType
+https://github.com/seanwallawalla/SeanWallaWalla-NitroType
+https://github.com/seanwallawalla/Happy-Wheels
