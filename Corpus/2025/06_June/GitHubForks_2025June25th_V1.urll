@@ -1,0 +1,90 @@
+////URLL-version=3;
+//// https://github.com/seanpm2001/URLL-Specification/
+//// GitHub forks
+//// DATE: 2025, Wednesday, June 25th
+//// Starting 2023 September 9th, I am now increasing the daily star, watch, and fork count, due to a lack of progress on my timeline. I will now fork 92-100 repositories per day, instead of 17-25 repositories per day
+//// Starting 2024, Monday, January 8th, I have gone back to 17-25 repositories per day, instead of 92-100, due to issues with time and this system not working out for that reason. I will have to remind myself that there will need to be daily data to fork, and that I shouldn't rush through it all anymore like I was. Some days may be set aside to do extra if the queue grows too much again.
+//// Start
+//// 2 users {
+//// @seanpm2001
+//// @seanwallawalla }
+//// @seanpm2001()
+https://github.com/seanpm2001/sky130_ef_ip__rc_osc_500k_DI -> https://github.com/seanpm2001/EFabless_Sky130_EF_IO__RC_OSC_500K_DI
+https://github.com/seanpm2001/gt -> https://github.com/seanpm2001/GeneralTranslation_GT
+https://github.com/seanpm2001/gha -> https://github.com/seanpm2001/GeneralTranslation_GHA
+https://github.com/seanpm2001/locadex -> https://github.com/seanpm2001/GeneralTranslation_LocaDex
+https://github.com/seanpm2001/fal-multilingual -> https://github.com/seanpm2001/GeneralTranslation_FAL-MultiLingual
+https://github.com/seanpm2001/blog -> https://github.com/seanpm2001/GeneralTranslation_Blog
+https://github.com/seanpm2001/gt-docs -> https://github.com/seanpm2001/GeneralTranslation_GT-Docs
+https://github.com/seanpm2001/supported-locales -> https://github.com/seanpm2001/GeneralTranslation_Supported-Locales
+https://github.com/seanpm2001/generaltranslation -> https://github.com/seanpm2001/GeneralTranslation_GeneralTranslation
+https://github.com/seanpm2001/gt-react -> https://github.com/seanpm2001/GeneralTranslation_GT-React
+https://github.com/seanpm2001/gt-react-cli -> https://github.com/seanpm2001/GeneralTranslation_GT-React-CLI
+https://github.com/seanpm2001/gt-benchmarks -> https://github.com/seanpm2001/GeneralTranslation_GT-Benchmarks
+https://github.com/seanpm2001/sky130_ef_ip__xtal_osc_32k_DI -> https://github.com/seanpm2001/EFabless_Sky130_EF_IP__XTal_OSC_32K_DI
+https://github.com/seanpm2001/EF_ACMP_DI -> https://github.com/seanpm2001/EFabless_EF_ACMP_DI
+https://github.com/seanpm2001/EF_TCC32 -> https://github.com/seanpm2001/EFabless_EF_TCC32
+https://github.com/seanpm2001/EF_PSRAM_CTRL_OLD-DONT-USE- -> https://github.com/seanpm2001/EFabless_EF_PSRAM_CTRL_OLD-DONT-USE-
+https://github.com/seanpm2001/EF_DAC1001_DI -> https://github.com/seanpm2001/EFabless_EF_DAC1001_DI
+https://github.com/seanpm2001/klayout_package -> https://github.com/seanpm2001/EFabless_KLayout_Package
+https://github.com/seanpm2001/caravel_aes_example -> https://github.com/seanpm2001/EFabless_Caravel_AES_Example
+https://github.com/seanpm2001/how-to-videos -> https://github.com/seanpm2001/EFabless_How-To-Videos
+https://github.com/seanpm2001/openlane2-step-tests -> https://github.com/seanpm2001/EFabless_OpenLane2-Step-Tests
+https://github.com/seanpm2001/EF_LDOR1V8 -> https://github.com/seanpm2001/EFabless_EF_LDOR1V8
+https://github.com/seanpm2001/tinytapeout-rca -> https://github.com/seanpm2001/EFabless_TinyTapeout-RCA
+https://github.com/seanpm2001/caravel_test-9a -> https://github.com/seanpm2001/EFabless_Caravel_Test-9A
+https://github.com/seanpm2001/chipignite-resources -> https://github.com/seanpm2001/EFabless_ChipIgnite-Resources
+https://github.com/seanpm2001/openrcx-calibration -> https://github.com/seanpm2001/EFabless_OpenRCX-Calibration
+https://github.com/seanpm2001/sky130_sram_macros_old -> https://github.com/seanpm2001/EFabless_Sky130_SRAM_Macros_Old
+https://github.com/seanpm2001/caravel_pico -> https://github.com/seanpm2001/EFabless_Caravel_Pico
+https://github.com/seanpm2001/dockerized-verification-setup -> https://github.com/seanpm2001/EFabless_Dockerized-Verification-Setup
+https://github.com/seanpm2001/clear_old -> https://github.com/seanpm2001/EFabless_Clear_Old
+https://github.com/seanpm2001/website_issues -> https://github.com/seanpm2001/EFabless_Website_Issues
+https://github.com/seanpm2001/caravel_mpw-one -> https://github.com/seanpm2001/EFabless_Caravel_MPW-One
+https://github.com/seanpm2001/caravel_openlane -> https://github.com/seanpm2001/EFabless_Caravel_OpenLane
+https://github.com/seanpm2001/caravel_openframe-lite -> https://github.com/seanpm2001/EFabless_Caravel_OpenFrame-Lite
+https://github.com/seanpm2001/clock-mesh-analysis -> https://github.com/seanpm2001/EFabless_Clock-Mesh-Analysis
+https://github.com/seanpm2001/ravenna -> https://github.com/seanpm2001/EFabless_Ravenna
+https://github.com/seanpm2001/caravel_ibex -> https://github.com/seanpm2001/EFabless_Caravel_Ibex
+https://github.com/seanpm2001/bert093 -> https://github.com/seanpm2001/Bert093_Bert093
+https://github.com/seanpm2001/openfpga-2 -> https://github.com/seanpm2001/EFabless_OpenFPGA-2
+https://github.com/seanpm2001/open_pdk_techfiles -> https://github.com/seanpm2001/EFabless_Open_PDK_TechFiles
+//// The line before this line should be 55 and should be a fork entry.
+//// Waiting for new entries to work with (2025, Tuesday, April 1st to 2025, Thursday, April 3rd)
+//// 1 new entry worked with (2025, Friday, April 4th)
+//// Waiting for new entries to work with (2025, Saturday, April 5th to 2025, Sunday, April 6th)
+//// 5 new entries worked with (2025, Monday, April 7th)
+//// Waiting for new entries to work with (2025, Tuesday, April 8th to 2025, Saturday, April 19th)
+//// 2 new entries worked with (2025, Sunday, April 20th)
+//// Waiting for new entries to work with (2025, Monday, April 21st to 2025, Thursday, May 2nd)
+//// 5 new entries worked with (2025, Friday, May 2nd)
+//// Waiting for new entries to work with (2025, Saturday, May 3rd to 2025, Monday, May 5th)
+//// 20 entries worked with (2025, Tuesday, May 6th)
+//// 32 entries worked with (2025, Wednesday, May 7th)
+//// Waiting for new entries to work with (2025, Thursday, May 8th to 2025, Sunday, May 11th)
+//// 1 new entry worked with (2025, Monday, May 12th)
+//// Waiting for new entries to work with (2025, Tuesday, May 13th to 2025, Friday, May 23rd)
+//// 1 new entry worked with (2025, Saturday, May 24th)
+//// Waiting for new entries to work with (2025, Sunday, May 25th to 2025, Monday, May 26th)
+//// 1 new entry worked with (2025, Tuesday, May 27th)
+//// Waiting for new entries to work with (2025, Wednesday, May 28th to 2025, Tuesday, June 17th)
+//// 8 new entries worked with (2025, Wednesday, June 18th)
+//// Waiting for new entries to work with (2025, Thursday, June 19th to 2025, Tuesday, June 24th)
+//// 3 new entries worked with (2025, Wednesday, June 25th):
+https://github.com/seanpm2001/earthly-demos -> https://github.com/seanpm2001/Mario21IC_Earthly-Demos
+https://github.com/seanpm2001/earthly-starter -> https://github.com/seanpm2001/AlexTanHongPin_Earthly-Starter
+https://github.com/seanpm2001/earthly-playground -> https://github.com/seanpm2001/RicardF_Earthly-Playground
+//// This log will be cleared on 2025, July 1st
+//// On 2025, January 1st, I will go back to 3 forks/day on my alt account
+//// ----
+//// @seanwallawalla
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-Siberian-Ingrian-Finnish
+https://github.com/seanwallawalla/AI2001_Category-Linguistics-SC-Meankieli
+https://github.com/seanwallawalla/Seanpm2001_WorldDB_DB_Earth_Federated-States-of-Micronesia
+https://github.com/seanwallawalla/Seanpm2001_WorldDB_DB_Earth_Fiji
+https://github.com/seanwallawalla/Seanpm2001_WorldDB_DB_Earth_Finland
+https://github.com/seanwallawalla/Seanpm2001_WorldDB_DB_Earth_FolderArt
+https://github.com/seanwallawalla/Seanpm2001_WorldDB_DB_Earth_France
+https://github.com/seanwallawalla/Seanpm2001_WorldDB_DB_Earth_Gabon
+https://github.com/seanwallawalla/Seanpm2001_WorldDB_DB_Earth_Georgia
+https://github.com/seanwallawalla/Seanpm2001_WorldDB_DB_Earth_Germany
