@@ -1,396 +1,253 @@
 
 ***
 
-# <projectName>
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this entire article</u></b></p></summary>
 
-![{Project icon} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image.svg)
+---
 
-# By:
+# [GitHub Forklist](#GitHub-Forklist)
 
-<!-- ![{Developer name} This image failed to load. It may be due to the file not being reached, or a general error. Reload the page to fix a possible general error.](Image2.svg) !-->
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
-## [<developerName>](https://github.com/<developerName>)
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this image</u></b></p></summary>
 
-### Top
+<img src="/Forking-Git.gif" alt="Forking animation (placeholder logo) image failed to load" title="The original animation from GitHub when forking repositories. Removed prior to 2023. Used to repreesent GitHubs fork feature" width="310" height="250">
 
-# `README.md`
+<!-- Cannot embed animated/non-animated GIFs in a Markdown table (GitHub bug) 
 
-***
+| <img src="/Forking-Git.gif" alt="Forking animation (placeholder logo) image failed to load" title="The original animation from GitHub when forking repositories. Removed prior to 2023. Used to repreesent GitHubs fork feature" width="310" height="250"> |
+|---|
+| Placeholder logo |
 
-## Read this article in a different language
-
-**Sorted by:** `A-Z`
-
-[Sorting options unavailable](https://github.com/<developerName>/<repoName>)
-
-( [af Afrikaans](/.github/README_AF.md) Afrikaans | [sq Shqiptare](/.github/README_SQ.md) Albanian | [am አማርኛ](/.github/README_AM.md) Amharic | [ar عربى](/.github/README_AR.md) Arabic | [hy հայերեն](/.github/README_HY.md) Armenian | [az Azərbaycan dili](/.github/README_AZ.md) Azerbaijani | [eu Euskara](/.github/README_EU.md) Basque | [be Беларуская](/.github/README_BE.md) Belarusian | [bn বাংলা](/.github/README_BN.md) Bengali | [bs Bosanski](/.github/README_BS.md) Bosnian | [bg български](/.github/README_BG.md) Bulgarian | [ca Català](/.github/README_CA.md) Catalan | [ceb Sugbuanon](/.github/README_CEB.md) Cebuano | [ny Chichewa](/.github/README_NY.md) Chichewa | [zh-CN 简体中文](/.github/README_ZH-CN.md) Chinese (Simplified) | [zh-t 中國傳統的）](/.github/README_ZH-T.md) Chinese (Traditional) | [co Corsu](/.github/README_CO.md) Corsican | [hr Hrvatski](/.github/README_HR.md) Croatian | [cs čeština](/.github/README_CS.md) Czech | [da dansk](README_DA.md) Danish | [nl Nederlands](/.github/README_NL.md) Dutch | [**en-us English**](/.github/README.md) English |  [EO Esperanto](/.github/README_EO.md) Esperanto | [et Eestlane](/.github/README_ET.md) Estonian | [tl Pilipino](/.github/README_TL.md) Filipino | [fi Suomalainen](/.github/README_FI.md) Finnish |  [fr français](/.github/README_FR.md) French | [fy Frysk](/.github/README_FY.md) Frisian | [gl Galego](/.github/README_GL.md) Galician | [ka ქართველი](/.github/README_KA) Georgian | [de Deutsch](/.github/README_DE.md) German | [el Ελληνικά](/.github/README_EL.md) Greek | [gu ગુજરાતી](/.github/README_GU.md) Gujarati | [ht Kreyòl ayisyen](/.github/README_HT.md) Haitian Creole | [ha Hausa](/.github/README_HA.md) Hausa | [haw Ōlelo Hawaiʻi](/.github/README_HAW.md) Hawaiian | [he עִברִית](/.github/README_HE.md) Hebrew | [hi हिन्दी](/.github/README_HI.md) Hindi | [hmn Hmong](/.github/README_HMN.md) Hmong | [hu Magyar](/.github/README_HU.md) Hungarian | [is Íslenska](/.github/README_IS.md) Icelandic | [ig Igbo](/.github/README_IG.md) Igbo | [id bahasa Indonesia](/.github/README_ID.md) Icelandic | [ga Gaeilge](/.github/README_GA.md) Irish | [it Italiana/Italiano](/.github/README_IT.md) | [ja 日本語](/.github/README_JA.md) Japanese | [jw Wong jawa](/.github/README_JW.md) Javanese | [kn ಕನ್ನಡ](/.github/README_KN.md) Kannada | [kk Қазақ](/.github/README_KK.md) Kazakh | [km ខ្មែរ](/.github/README_KM.md) Khmer | [rw Kinyarwanda](/.github/README_RW.md) Kinyarwanda | [ko-south 韓國語](/.github/README_KO_SOUTH.md) Korean (South) | [ko-north 문화어](README_KO_NORTH.md) Korean (North) (NOT YET TRANSLATED) | [ku Kurdî](/.github/README_KU.md) Kurdish (Kurmanji) | [ky Кыргызча](/.github/README_KY.md) Kyrgyz | [lo ລາວ](/.github/README_LO.md) Lao | [la Latine](/.github/README_LA.md) Latin | [lt Lietuvis](/.github/README_LT.md) Lithuanian | [lb Lëtzebuergesch](/.github/README_LB.md) Luxembourgish | [mk Македонски](/.github/README_MK.md) Macedonian | [mg Malagasy](/.github/README_MG.md) Malagasy | [ms Bahasa Melayu](/.github/README_MS.md) Malay | [ml മലയാളം](/.github/README_ML.md) Malayalam | [mt Malti](/.github/README_MT.md) Maltese | [mi Maori](/.github/README_MI.md) Maori | [mr मराठी](/.github/README_MR.md) Marathi | [mn Монгол](/.github/README_MN.md) Mongolian | [my မြန်မာ](/.github/README_MY.md) Myanmar (Burmese) | [ne नेपाली](/.github/README_NE.md) Nepali | [no norsk](/.github/README_NO.md) Norwegian | [or ଓଡିଆ (ଓଡିଆ)](/.github/README_OR.md) Odia (Oriya) | [ps پښتو](/.github/README_PS.md) Pashto | [fa فارسی](/.github/README_FA.md) |Persian  [pl polski](/.github/README_PL.md) Polish | [pt português](/.github/README_PT.md) Portuguese | [pa ਪੰਜਾਬੀ](/.github/README_PA.md) Punjabi | No languages available that start with the letter Q | [ro Română](/.github/README_RO.md) Romanian | [ru русский](/.github/README_RU.md) Russian | [sm Faasamoa](/.github/README_SM.md) Samoan | [gd Gàidhlig na h-Alba](/.github/README_GD.md) Scots Gaelic | [sr Српски](/.github/README_SR.md) Serbian | [st Sesotho](/.github/README_ST.md) Sesotho | [sn Shona](/.github/README_SN.md) Shona | [sd سنڌي](/.github/README_SD.md) Sindhi | [si සිංහල](/.github/README_SI.md) Sinhala | [sk Slovák](/.github/README_SK.md) Slovak | [sl Slovenščina](/.github/README_SL.md) Slovenian | [so Soomaali](/.github/README_SO.md) Somali | [[es en español](/.github/README_ES.md) Spanish | [su Sundanis](/.github/README_SU.md) Sundanese | [sw Kiswahili](/.github/README_SW.md) Swahili | [sv Svenska](/.github/README_SV.md) Swedish | [tg Тоҷикӣ](/.github/README_TG.md) Tajik | [ta தமிழ்](/.github/README_TA.md) Tamil | [tt Татар](/.github/README_TT.md) Tatar | [te తెలుగు](/.github/README_TE.md) Telugu | [th ไทย](/.github/README_TH.md) Thai | [tr Türk](/.github/README_TR.md) Turkish | [tk Türkmenler](/.github/README_TK.md) Turkmen | [uk Український](/.github/README_UK.md) Ukrainian | [ur اردو](/.github/README_UR.md) Urdu | [ug ئۇيغۇر](/.github/README_UG.md) Uyghur | [uz O'zbek](/.github/README_UZ.md) Uzbek | [vi Tiếng Việt](/.github/README_VI.md) Vietnamese | [cy Cymraeg](/.github/README_CY.md) Welsh | [xh isiXhosa](/.github/README_XH.md) Xhosa | [yi יידיש](/.github/README_YI.md) Yiddish | [yo Yoruba](/.github/README_YO.md) Yoruba | [zu Zulu](/.github/README_ZU.md) Zulu ) Available in 110 languages (108 when not counting English and North Korean, as North Korean has not been translated yet [Read about it here](/OldVersions/Korean(North)/README.md))
-
-Translations in languages other than English are machine translated and are not yet accurate. No errors have been fixed yet as of March 21st 2021. Please report translation errors [here](https://github.com/seanpm2001/<repoName>/issues/). Make sure to backup your correction with sources and guide me, as I don't know languages other than English well (I plan on getting a translator eventually) please cite [wiktionary](https://en.wiktionary.org) and other sources in your report. Failing to do so will result in a rejection of the correction being published.
-
-Note: due to limitations with GitHub's interpretation of markdown (and pretty much every other web-based interpretation of markdown) clicking these links will redirect you to a separate file on a separate page that isn't the intended page. You will be redirected to the [.github folder](/.github/) of this project, where the README translations are hosted.
-
-Translations are currently done with Bing translate and DeepL. Support for Google Translate translations is coming to a close due to privacy concerns.
-
-***
-
-# Index
-
-[00.0 - Top](#Top)
-
-> [00.1 - Title](#<projectName>)
-
-> [00.2 - Read this article in a different language](#Read-this-article-in-a-different-language)
-
-> [00.3 - Index](#Index)
-
-[01.0 - Description](#RepositoryName)
-
-[02.0 - About](#About)
-
-[03.0 - History](#History)
-  
-> [03.1 - Pre-history](#Pre-history)
-
-> [03.2 - Alpha History](#Alpha-history)
-
-> [03.3 - Beta History](#Beta-history)
-
-> [03.4 - Modern History](#Modern-history)
-
-[04.0 - Wiki](#Wiki)
-
-[05.0 - Copying](#Copying)
-
-[06.0 - Credits](#Credits)
-
-[07.0 - Installation](#Installation)
-
-[08.0 - Version history](#Version-history)
-
-[09.0 - Software status](#Software-status)
-
-[10.0 - Sponsor info](#Sponsor-info)
-
-[11.0 - Contributers](#Contributers)
-
-[12.0 - Issues](#Issues)
-
-> [12.1 - Current issues](#Current-issues)
-
-> [12.2 - Past issues](#Past-issues)
-
-> [12.3 - Past pull requests](#Past-pull-requests)
-
-> [12.4 - Active pull requests](#Active-pull-requests)
-
-[13.0 - Resources](#Resources)
-
-[14.0 - Contributing](#Contributing)
-
-[15.0 - About README](#About-README)
-
-[16.0 - README Version history](#README-version-history)
-
-[17.0 - Footer](#You-have-reached-the-end-of-the-README-file)
-
-> [17.9 - End of file](#EOF)
-
-***
-
-<!-- Project type:
-Image
-Video
-Extra
-Documentation
-GitHub
-Other
 !-->
 
-# <repoName>
-<repo_description>
+</details> <!-- End of Placeholder logo image section !-->
+
+This is a repository that stores information on my forked repositories. Data can be found in the [`/Corpus/`](/Corpus/) folder.
+
+</details> <!-- End of Title section !-->
+
+---
+
+## [Original Plans](#Original-plans)
+
+This project will be automated with [:octocat: `@AUTOMATE-2001`](https://github.com/seanpm2001/AUTOMATE-2001/) and will showcase all my GitHub forks. Each branch will have a different account of forks, with about 2-4 accounts total. It will serve as a primary database of all my GitHub forks.
+
+Currently, a limited corpus of forks is available for use until the automation is done.
+
+The automation will create a single file with every fork, categorized by repository and account. It will also contain separate index files for each individual forked repository, which won't be sorted by accounts.
+
+The main repository language is Metal, which is a pun on what thist the material of the object that this repository is dedicated to is made of (modern forks are typically metallic)
+
+</details> <!-- End of Original Plans section !-->
+
+---
+
+## [Navigation](#Navigation)
+
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
+
+Navigating this repository.
+
+- [`/Corpus/`](/Corpus/)
+- - [`Data prior to 2022, January is currently unavailable`](#Navigation)
+- - [`/2022/`](/Corpus/2022/)
+- - - [`/01_January/`](/Corpus/2022/01_January/)
+- - - [`/02_February/`](/Corpus/2022/02_February/)
+- - - [`/03_March/`](/Corpus/2022/03_March/)
+- - - [`/04_April/`](/Corpus/2022/04_April/)
+- - - [`/05_May/`](/Corpus/2022/05_May/)
+- - - [`/06_June/`](/Corpus/2022/06_June/)
+- - - [`/07_July/`](/Corpus/2022/07_July/)
+- - - [`/08_August/`](/Corpus/2022/08_August/)
+- - - [`/09_September/`](/Corpus/2022/09_September/)
+- - - [`/10_October/`](/Corpus/2022/10_October/)
+- - - [`/11_November/`](/Corpus/2022/11_November/)
+- - - [`/12_December/`](/Corpus/2022/12_December/)
+- - - [`/February/` **{DUPLICATE}**](/Corpus/2022/February/)
+- - - [`/January/` **{DUPLICATE}**](/Corpus/2022/January/)
+- - [`/2023/`](/Corpus/2023/)
+- - - [`/01_January/`](/Corpus/2023/01_January/)
+- - - [`/02_February/`](/Corpus/2023/02_February/)
+- - - [`/03_March/`](/Corpus/2023/03_March/)
+- - - [`/04_April/`](/Corpus/2023/04_April/)
+- - - [`/05_May/`](/Corpus/2023/05_May/)
+- - - [`/06_June/`](/Corpus/2023/06_June/)
+- - - [`/07_July/`](/Corpus/2023/07_July/)
+- - - [`/08_August/`](/Corpus/2023/08_August/)
+- - - [`/09_September/`](/Corpus/2023/09_September/)
+- - - [`/10_October/`](/Corpus/2023/10_October/)
+- - - [`/11_November/`](/Corpus/2023/11_November/)
+- - - [`/12_December/`](/Corpus/2023/12_December/)
+- - [`/2024/`](/Corpus/2024/)
+- - - [`/01_January/`](/Corpus/2024/01_January/)
+- - - [`/02_February/`](/Corpus/2024/02_February/)
+- - - [`/03_March/`](/Corpus/2024/03_March/)
+- - - [`/04_April/`](/Corpus/2024/04_April/)
+- - - [`/05_May/`](/Corpus/2024/05_May/)
+- - - [`/06_June/`](/Corpus/2024/06_June/)
+- - - [`/07_July/`](/Corpus/2024/07_July/)
+- - - [`/08_August/`](/Corpus/2024/08_August/)
+- - - [`/09_September/`](/Corpus/2024/09_September/)
+- - - [`/10_October/`](/Corpus/2024/10_October/)
+- - - [`/11_November/`](/Corpus/2024/11_November/)
+- - - [`/12_December/`](/Corpus/2024/12_December/)
+- - [`/2025/`](/Corpus/2025/)
+- - - [`/01_January/`](/Corpus/2025/01_January/)
+- - - [`/02_February/`](/Corpus/2025/02_February/)
+- - - [`/03_March/`](/Corpus/2025/03_March/)
+- - - [`/04_April/`](/Corpus/2025/04_April/)
+- - - [`/05_May/`](/Corpus/2025/05_May/)
+- - - [`/06_June/`](/Corpus/2025/06_June/)
+- - - [`/07_July/`](/Corpus/2025/07_July/)
+- - - [`/08_August/`](/Corpus/2025/08_August/)
+- - - [`/09_September/`](/Corpus/2025/09_September/)
+- - - [`/10_October/`](/Corpus/2025/10_October/)
+- - - [`/11_November/`](/Corpus/2025/11_November/)
+- - - [`/12_December/`](/Corpus/2025/12_December/)
+- [`/ROOTFILES.base`](ROOTFILES.base)
+
+</details> <!-- End of Navigation section !-->
+
+---
+
+## [Project series](#Project-series)
+
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
+
+This project is part of a series of GitHub projects.
+
+- **[:octocat: `GitHub Fork list`](https://github.com/seanpm2001/GitHub_Forklist/)**
+- [:octocat: `GitHub Follow list`](https://github.com/seanpm2001/GitHub_FollowList/)
+- [:octocat: `GitHub Star list`](https://github.com/seanpm2001/GitHub_Starlist/)
+- [:octocat: `GitHub Watch list`](https://github.com/seanpm2001/GitHub_Watchlist/)
+
+</details> <!-- End of Project Series section !-->
 
 ***
 
-## About
+<!-- /%/2001_FILE_INFO_SECTION.BEGIN\%\ !-->
 
-See above. <extendedRepoDescription>
+# [File Info](#File-Info)
 
-***
+<details open><summary><p lang="en"><b><u>Click/tap here to expand/collapse this section</u></b></p></summary>
 
-## History
+<table>
+  <tr>
+    <td>
+    
+- **File type:** `Markdown (*.md *.mkd *.mdown *.markdown)`
+- **File version:** `2 (2025, Tuesday, October 28th at 04:00 pm PST)` <!-- TODO: This line should be updated daily !-->
+- **Line count (including blank lines and compiler line):** `254`
+- **Word count:** `1,280`
+- **Character count (including spaces):** `09,160`
+- **Character count (not including spaces):** `07,980`
+- **File size (bytes):** `09,160`
+- **Current article language:** `English (EN_USA)` / `Markdown (CommonMark)` / `HTML5 (HyperText Markup Language 5.3)`
+- **Encoding:** `UTF-8 (Emoji 12.0 or higher recommended)`
+- **All times are UTC-7 (PDT/Pacific Time)** `(Please also account for DST (Daylight Savings Time) for older/newer entries up until it is abolished/no longer followed)`
+    
+    </td>
+  </tr>
+</table>
 
-Write about this projects history here.
+> **Note** _On 2022, Sunday, March 13th at 2:00 am PST, the time jumped ahead 1 hour to 3:00 am._
 
-### Pre-history
+> **Note** **You may need special rendering support for the `<details>` HTML tag being used in this document**
 
-No pre-history to show for this project.
+</details> <!-- End of file info section !-->
 
-### Alpha history
-
-No Alpha history to show for this project.
-
-### Beta history
-
-No Beta history to show for this project.
-
-### Modern history
-
-No Modern history to show for this project.
-
-***
-
-## Wiki
-
-[Click/tap here to view this projects Wiki](https://github.com/seanpm2001/<repoName>/wiki/)
-
-If the project has been forked, the Wiki was likely removed. Luckily, I include an embedded version. You can view it [here](/External/ProjectWiki/).
-
-***
-
-## Copying
-
-View the copying license for this project [here](/COPYING) (if you haven't built the project yet with the makefile, here is the original link: [COPYINGL](/COPYINGL)
-
-Please note that you also have to follow the rules of the GNU General Public License v3 (GPL3) which you can view [here](/LICENSE.txt)
+<!-- /%/2001_FILE_INFO_SECTION.END\%\ !-->
 
 ***
 
-## Credits
+<!-- /%/2001_FILE_HISTORY_SECTION.BEGIN\%\ !-->
 
-View the credits file for this project and see the people who got together to make this project by [clicking/tapping here](/CREDITS)
+# File history
 
-***
+<details><summary><p><b>Click/tap here to expand/collapse the file history section</b></p></summary>
 
-## Installation
+---
 
-View the installation instructions file for this project [here](/INSTALL)
+## Version 1 (2022, Monday, February 7th at 05:40 pm PST)
 
-Requirements: Jekyll, GitHub emulator (may not exist yet)
+<details><summary><p><b>Click/tap here to expand/collapse the file history entry for version 1</b></p></summary>
 
-***
+> **Note** _The first version of this README file._
 
-## Sponsor info
+**Changes:**
 
-![SponsorButton.png](SponsorButton.png)
+- [x] Started the file
+- [x] Added the `Plans` section
+- [x] Added a version timestamp
+- [ ] No other changes in version 1
 
-You can sponsor this project if you like, but please specify what you want to donate to. [See the funds you can donate to here](https://github.com/seanpm2001/Sponsor-info/tree/main/For-sponsors)
+</details> <!-- End of File history:V1 !-->
 
-You can view other sponsor info [here](https://github.com/seanpm2001/Sponsor-info/)
+---
 
-Try it out! The sponsor button is right up next to the watch/unwatch button.
+## Version 2 (2025, Tuesday, October 28th at 04:00 pm PST)
 
-***
+<details open><summary><p><b>Click/tap here to expand/collapse the file history entry for version 2</b></p></summary>
 
-## Version history
+> **Note** _Version 2 of this file, which begins to modernize the documentation._
 
-**Version history currently unavailable**
+**Changes:**
 
-**No other versions listed**
+- [x] Added a new title section
+- - [x] Added a `Summary` description
+- - [x] Added a placeholder logo
+- [x] Updated the `Plans` section, and renamed it to `Original plans`
+- [X] Added the `Project series` section
+- [x] Added the `Navigation `section
+- [x] Added the `File info` section
+- [x] Added the `File history` section
+- - [x] Created file history entries for versions 1 and 2
+- [x] Added the `Footer` section
+- [x] Made all sections collapse-able
+- [ ] No other changes in version 2
 
-***
+</details> <!-- End of File history:V2 !-->
 
-## Software status
+---
 
-All of my works are free some restrictions. DRM (**D**igital **R**estrictions **M**anagement) is not present in any of my works.
+_End of file history section._
 
-![DRM-free_label.en.svg](DRM-free_label.en.svg)
+</details> <!-- End of File history !-->
 
-This sticker is supported by the Free Software Foundation. I never intend to include DRM in my works.
-
-I am ussing the abbreviation "Digital Restrictions Management" instead of the more known "Digital Rights Management" as the common way of addressing it is false, there are no rights with DRM. The spelling "Digital Restrictions Management" is more accurate, and is supported by [Richard M. Stallman (RMS)](https://en.wikipedia.org/wiki/Richard_Stallman) and the [Free Software Foundation (FSF)](https://en.wikipedia.org/wiki/Free_Software_Foundation)
-
-This section is used to raise awareness for the problems with DRM, and also to protest it. DRM is defective by design and is a major threat to all computer users and software freedom.
-
-Image credit: [defectivebydesign.org/drm-free/...](https://www.defectivebydesign.org/drm-free/how-to-use-label)
-
-***
-
-## Contributers
-
-Currently, I am the only contributer. Contributing is not allowed for others, as this is a personal project.
-
-> * 1. [seanpm2001](https://github.com/seanpm2001/) - x commits (As of DoW, Month, DoM, Yr at ##:## a/pm)
-
-> * 2. No other contributers.
+<!-- /%/2001_FILE_HISTORY_SECTION.END\%\ !-->
 
 ***
 
-## Issues
+<!-- /%/2001_FOOTER_SECTION.BEGIN\%\ !-->
 
-### Current issues
+## [Footer](#Footer)
 
-* None at the moment
+<details open><summary><p lang="en"><b>Click/tap here to expand/collapse the footer for this document</b></p></summary>
 
-* No other current issues
+**You have reached the end of this file.**
 
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
+<table>
+  <tr>
+    <td>
 
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
+- [`Back to top`](#Top)
+- [:octocat: `Exit to GitHub`](https://github.com/)
+- [:octocat: `Exit to Bing`](https://bing.com/)
+- [:octocat: `Exit to DuckDuckGo`](https://duckduckgo.com/)
+- [:octocat: `Exit to Ecosia`](https://ecosia.org/)
+- [:octocat: `Exit to Swisscows`](https://swisscows.com/)
 
-**TL;DR**
+    </td>
+  </tr>
+</table>
 
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
+###### [EOF](#EOF)
 
-### Past issues
+</details> <!-- End of footer section !-->
 
-* None at the moment
+<!-- /%/2001_FOOTER_SECTION.END\%\ !-->
 
-* No other past issues
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Past pull requests
-
-* None at the moment
-
-* No other past pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-### Active pull requests
-
-* None at the moment
-
-* No other active pull requests
-
-If the repository has been forked, issues likely have been removed. Luckily I keep an archive of certain images [here](/.github/Issues/)
-
-[Read the privacy policy on issue archival here](/.github/Issues/README.md)
-
-**TL;DR**
-
-I archive my own issues. Your issue won't be archived unless you request it to be archived.
-
-***
-
-## Resources
-
-Here are some other resources for this project:
-
-[Project language file A](PROJECT_LANG.<fileExtensionForProgrammingLanguage>)
-
-[Join the discussion on GitHub](https://github.com/seanpm2001/<repoName>/discussions)
-
-No other resources at the moment.
-
-***
-
-## Contributing
-
-Contributing is not allowed for this project, as this is a personal project.
-
-[Click/tap here to view the contributing rules for this project](/CONTRIBUTING.md)
-
-***
-
-## About README
-
-File type: `Markdown (*.md)`
-
-File version: `0.1.6 (Sunday, August 22nd 2021 at 9:58 pm)`
-
-Line count: `0,397`
-
-***
-
-## README version history
-
-Version 0.1 (Sunday, March 21st 2021 at 8:01 pm)
-
-> Changes:
-
-> * Started the file
-
-> * Added the title section
-
-> * Added the index
-
-> * Added the about section
-
-> * Added the Wiki section
-
-> * Added the version history section
-
-> * Added the issues section.
-
-> * Added the past issues section
-
-> * Added the past pull requests section
-
-> * Added the active pull requests section
-
-> * Added the contributors section
-
-> * Added the contributing section
-
-> * Added the about README section
-
-> * Added the README version history section
-
-> * Added the resources section
-
-> * Added a software status section, with a DRM free sticker and message
-
-> * Added the sponsor info section
-
-**ITERATION_X5**
-
-> * Updated the language list section
-
-> * Updated the title section
-
-> * Updated the footer
-  
-**ITERATION_X6**
-
-> * Updated the index
-
-> * Added the installation section
-
-> * Added the copying section
-
-> * Added the credits section
-
-> * Added the history section
-
-> * Updated the footer
-
-> * No other changes in version 0.1
-
-Version 1 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 1
-
-Version 2 (Coming soon)
-
-> Changes:
-
-> * Coming soon
-
-> * No other changes in version 2
-
-***
-
-### You have reached the end of the README file
-
-( [Back to top](#Top) | [Exit to GitHub](https://github.com/) | [Exit to Bing](https://www.bing.com/) | [Exit to DuckDuckGo](https://duckduckgo.com/) | [Exit to Ecosia](https://www.ecosia.org/) )
-
-### EOF
+</details> <!-- End of article !-->
 
 ***
